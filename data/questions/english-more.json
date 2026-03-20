@@ -1,0 +1,392 @@
+[
+  {
+    "id": "eng041",
+    "category": "english",
+    "question": "Choose the correct preposition: He is responsible ____ the task.",
+    "options": [
+      "for",
+      "in",
+      "of",
+      "with"
+    ],
+    "answerIndex": 0,
+    "explanation": "Use 'responsible for'."
+  },
+  {
+    "id": "eng042",
+    "category": "english",
+    "question": "Choose the correct verb: Neither the managers nor the director ____ been reviewed.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answerIndex": 0,
+    "explanation": "Agreement follows standard usage; 'Neither the managers nor the director' takes 'has'."
+  },
+  {
+    "id": "eng043",
+    "category": "english",
+    "question": "Select the synonym of 'concise':",
+    "options": [
+      "worsen",
+      "delay",
+      "terse",
+      "ignore"
+    ],
+    "answerIndex": 2,
+    "explanation": "'concise' ≈ 'terse'."
+  },
+  {
+    "id": "eng044",
+    "category": "english",
+    "question": "Choose the correct preposition: He is accused ____ the task.",
+    "options": [
+      "for",
+      "in",
+      "of",
+      "with"
+    ],
+    "answerIndex": 2,
+    "explanation": "Use 'accused of'."
+  },
+  {
+    "id": "eng045",
+    "category": "english",
+    "question": "Choose the correct verb: Each of the items ____ been reviewed.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answerIndex": 0,
+    "explanation": "Agreement follows standard usage; 'Each of the items' takes 'has'."
+  },
+  {
+    "id": "eng046",
+    "category": "english",
+    "question": "Select the synonym of 'candid':",
+    "options": [
+      "frank",
+      "worsen",
+      "delay",
+      "ignore"
+    ],
+    "answerIndex": 0,
+    "explanation": "'candid' ≈ 'frank'."
+  },
+  {
+    "id": "eng047",
+    "category": "english",
+    "question": "Choose the correct preposition: He is interested ____ the task.",
+    "options": [
+      "for",
+      "in",
+      "of",
+      "with"
+    ],
+    "answerIndex": 1,
+    "explanation": "Use 'interested in'."
+  },
+  {
+    "id": "eng048",
+    "category": "english",
+    "question": "Choose the correct verb: Data ____ been reviewed.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answerIndex": 1,
+    "explanation": "Agreement follows standard usage; 'Data' takes 'have'."
+  },
+  {
+    "id": "eng049",
+    "category": "english",
+    "question": "Select the synonym of 'succinct':",
+    "options": [
+      "brief",
+      "ignore",
+      "delay",
+      "worsen"
+    ],
+    "answerIndex": 0,
+    "explanation": "'succinct' ≈ 'brief'."
+  },
+  {
+    "id": "eng050",
+    "category": "english",
+    "question": "Choose the correct preposition: He is familiar ____ the task.",
+    "options": [
+      "for",
+      "in",
+      "of",
+      "with"
+    ],
+    "answerIndex": 3,
+    "explanation": "Use 'familiar with'."
+  },
+  {
+    "id": "eng051",
+    "category": "english",
+    "question": "Choose the correct verb: The team ____ been reviewed.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answerIndex": 0,
+    "explanation": "Agreement follows standard usage; 'The team' takes 'has'."
+  },
+  {
+    "id": "eng052",
+    "category": "english",
+    "question": "Select the synonym of 'ambiguous':",
+    "options": [
+      "unclear",
+      "delay",
+      "worsen",
+      "ignore"
+    ],
+    "answerIndex": 0,
+    "explanation": "'ambiguous' ≈ 'unclear'."
+  },
+  {
+    "id": "eng053",
+    "category": "english",
+    "question": "Choose the correct preposition: He is capable ____ the task.",
+    "options": [
+      "for",
+      "in",
+      "of",
+      "with"
+    ],
+    "answerIndex": 2,
+    "explanation": "Use 'capable of'."
+  },
+  {
+    "id": "eng054",
+    "category": "english",
+    "question": "Choose the correct verb: Neither the managers nor the director ____ been reviewed.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answerIndex": 0,
+    "explanation": "Agreement follows standard usage; 'Neither the managers nor the director' takes 'has'."
+  },
+  {
+    "id": "eng055",
+    "category": "english",
+    "question": "Select the synonym of 'innate':",
+    "options": [
+      "worsen",
+      "inborn",
+      "ignore",
+      "delay"
+    ],
+    "answerIndex": 1,
+    "explanation": "'innate' ≈ 'inborn'."
+  },
+  {
+    "id": "eng056",
+    "category": "english",
+    "question": "Choose the correct preposition: He is responsible ____ the task.",
+    "options": [
+      "for",
+      "in",
+      "of",
+      "with"
+    ],
+    "answerIndex": 0,
+    "explanation": "Use 'responsible for'."
+  },
+  {
+    "id": "eng057",
+    "category": "english",
+    "question": "Choose the correct verb: Each of the items ____ been reviewed.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answerIndex": 0,
+    "explanation": "Agreement follows standard usage; 'Each of the items' takes 'has'."
+  },
+  {
+    "id": "eng058",
+    "category": "english",
+    "question": "Select the synonym of 'concise':",
+    "options": [
+      "worsen",
+      "terse",
+      "delay",
+      "ignore"
+    ],
+    "answerIndex": 1,
+    "explanation": "'concise' ≈ 'terse'."
+  },
+  {
+    "id": "eng059",
+    "category": "english",
+    "question": "Choose the correct preposition: He is accused ____ the task.",
+    "options": [
+      "for",
+      "in",
+      "of",
+      "with"
+    ],
+    "answerIndex": 2,
+    "explanation": "Use 'accused of'."
+  },
+  {
+    "id": "eng060",
+    "category": "english",
+    "question": "Choose the correct verb: Data ____ been reviewed.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answerIndex": 1,
+    "explanation": "Agreement follows standard usage; 'Data' takes 'have'."
+  },
+  {
+    "id": "eng061",
+    "category": "english",
+    "question": "Select the synonym of 'candid':",
+    "options": [
+      "ignore",
+      "worsen",
+      "frank",
+      "delay"
+    ],
+    "answerIndex": 2,
+    "explanation": "'candid' ≈ 'frank'."
+  },
+  {
+    "id": "eng062",
+    "category": "english",
+    "question": "Choose the correct preposition: He is interested ____ the task.",
+    "options": [
+      "for",
+      "in",
+      "of",
+      "with"
+    ],
+    "answerIndex": 1,
+    "explanation": "Use 'interested in'."
+  },
+  {
+    "id": "eng063",
+    "category": "english",
+    "question": "Choose the correct verb: The team ____ been reviewed.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answerIndex": 0,
+    "explanation": "Agreement follows standard usage; 'The team' takes 'has'."
+  },
+  {
+    "id": "eng064",
+    "category": "english",
+    "question": "Select the synonym of 'succinct':",
+    "options": [
+      "worsen",
+      "brief",
+      "delay",
+      "ignore"
+    ],
+    "answerIndex": 1,
+    "explanation": "'succinct' ≈ 'brief'."
+  },
+  {
+    "id": "eng065",
+    "category": "english",
+    "question": "Choose the correct preposition: He is familiar ____ the task.",
+    "options": [
+      "for",
+      "in",
+      "of",
+      "with"
+    ],
+    "answerIndex": 3,
+    "explanation": "Use 'familiar with'."
+  },
+  {
+    "id": "eng066",
+    "category": "english",
+    "question": "Choose the correct verb: Neither the managers nor the director ____ been reviewed.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answerIndex": 0,
+    "explanation": "Agreement follows standard usage; 'Neither the managers nor the director' takes 'has'."
+  },
+  {
+    "id": "eng067",
+    "category": "english",
+    "question": "Select the synonym of 'ambiguous':",
+    "options": [
+      "ignore",
+      "delay",
+      "unclear",
+      "worsen"
+    ],
+    "answerIndex": 2,
+    "explanation": "'ambiguous' ≈ 'unclear'."
+  },
+  {
+    "id": "eng068",
+    "category": "english",
+    "question": "Choose the correct preposition: He is capable ____ the task.",
+    "options": [
+      "for",
+      "in",
+      "of",
+      "with"
+    ],
+    "answerIndex": 2,
+    "explanation": "Use 'capable of'."
+  },
+  {
+    "id": "eng069",
+    "category": "english",
+    "question": "Choose the correct verb: Each of the items ____ been reviewed.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answerIndex": 0,
+    "explanation": "Agreement follows standard usage; 'Each of the items' takes 'has'."
+  },
+  {
+    "id": "eng070",
+    "category": "english",
+    "question": "Select the synonym of 'innate':",
+    "options": [
+      "ignore",
+      "worsen",
+      "delay",
+      "inborn"
+    ],
+    "answerIndex": 3,
+    "explanation": "'innate' ≈ 'inborn'."
+  }
+]

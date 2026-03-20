@@ -1,0 +1,4252 @@
+[
+  {
+    "id": "adv_electrical-engineering_0001",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Power factor correction refers to?",
+    "options": [
+      "force leading always",
+      "increase harmonics",
+      "eliminate real power",
+      "reduce reactive power to approach unity PF"
+    ],
+    "answerIndex": 3,
+    "explanation": "reduce reactive power to approach unity PF"
+  },
+  {
+    "id": "adv_electrical-engineering_0005",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Per-unit system refers to?",
+    "options": [
+      "dB scale only",
+      "binary scaling",
+      "normalize quantities to base values for analysis",
+      "absolute units only"
+    ],
+    "answerIndex": 2,
+    "explanation": "normalize quantities to base values for analysis"
+  },
+  {
+    "id": "adv_electrical-engineering_0009",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Three-phase power refers to?",
+    "options": [
+      "harmonic-only",
+      "DC only",
+      "single-phase only",
+      "balanced system line vs phase relations"
+    ],
+    "answerIndex": 3,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0013",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Transformer equivalent circuit refers to?",
+    "options": [
+      "no magnetization",
+      "ideal short only",
+      "pure resistor only",
+      "represents core loss and leakage reactance"
+    ],
+    "answerIndex": 3,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0017",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Maximum power transfer (AC) refers to?",
+    "options": [
+      "short circuit",
+      "open circuit",
+      "conjugate matching of load to Thevenin",
+      "equal resistances only"
+    ],
+    "answerIndex": 2,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0021",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Synchronous generator refers to?",
+    "options": [
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "slip nonzero at synchronous",
+      "no excitation needed",
+      "induction machine identical"
+    ],
+    "answerIndex": 0,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0025",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, PWM inverter refers to?",
+    "options": [
+      "LDO only",
+      "modulates switching to synthesize AC from DC",
+      "diode rectifier only",
+      "buck only"
+    ],
+    "answerIndex": 1,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0029",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Bode plot refers to?",
+    "options": [
+      "magnitude and phase vs frequency",
+      "speed vs torque only",
+      "time vs voltage",
+      "space vs temperature"
+    ],
+    "answerIndex": 0,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0033",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Transmission line Z0 refers to?",
+    "options": [
+      "characteristic impedance independent of length",
+      "infinite at DC",
+      "always 50\u03a9 by law",
+      "depends only on load"
+    ],
+    "answerIndex": 0,
+    "explanation": "characteristic impedance independent of length"
+  },
+  {
+    "id": "adv_electrical-engineering_0037",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Load flow Newton\u2013Raphson refers to?",
+    "options": [
+      "closed-form always",
+      "iterative solve of bus voltages and angles",
+      "harmonic analysis only",
+      "DC power flow only"
+    ],
+    "answerIndex": 1,
+    "explanation": "iterative solve of bus voltages and angles"
+  },
+  {
+    "id": "adv_electrical-engineering_0001_v6evk",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, IGBT switching characteristics refer to?",
+    "options": [
+      "linear operation only",
+      "pulse width modulation control",
+      "trade-off between switching speed and conduction losses",
+      "DC voltage blocking capability"
+    ],
+    "answerIndex": 2,
+    "explanation": "trade-off between switching speed and conduction losses"
+  },
+  {
+    "id": "adv_electrical-engineering_0001_v7s1q",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Space vector modulation refers to?",
+    "options": [
+      "scalar voltage control",
+      "three-phase PWM technique using vector representation",
+      "single-phase inverter operation",
+      "harmonic elimination method"
+    ],
+    "answerIndex": 1,
+    "explanation": "three-phase PWM technique using vector representation"
+  },
+  {
+    "id": "adv_electrical-engineering_0001_v8u1j",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Active rectifier control involves?",
+    "options": [
+      "passive diode bridge operation",
+      "synchronous switching for bidirectional power flow",
+      "uncontrolled rectification only",
+      "DC link voltage reduction"
+    ],
+    "answerIndex": 1,
+    "explanation": "synchronous switching for bidirectional power flow"
+  },
+  {
+    "id": "adv_electrical-engineering_0001_v5agd",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Fault current calculation requires?",
+    "options": [
+      "steady-state analysis only",
+      "transient impedance modeling during fault conditions",
+      "load flow optimization",
+      "power factor correction"
+    ],
+    "answerIndex": 1,
+    "explanation": "transient impedance modeling during fault conditions"
+  },
+  {
+    "id": "adv_electrical-engineering_0001_vgdek",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Sequence components refer to?",
+    "options": [
+      "three-phase voltage magnitudes",
+      "positive, negative, and zero sequence symmetrical components",
+      "harmonic frequency analysis",
+      "power system stability parameters"
+    ],
+    "answerIndex": 1,
+    "explanation": "positive, negative, and zero sequence symmetrical components"
+  },
+  {
+    "id": "adv_electrical-engineering_0001_v7t9f",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Transient stability analysis involves?",
+    "options": [
+      "steady-state power flow only",
+      "dynamic response to large disturbances using swing equations",
+      "voltage regulation techniques",
+      "frequency domain analysis"
+    ],
+    "answerIndex": 1,
+    "explanation": "dynamic response to large disturbances using swing equations"
+  },
+  {
+    "id": "adv_electrical-engineering_0001_vy9qx",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, State-space representation provides?",
+    "options": [
+      "frequency response analysis only",
+      "time-domain modeling using state variables",
+      "transfer function simplification",
+      "pole-zero mapping technique"
+    ],
+    "answerIndex": 1,
+    "explanation": "time-domain modeling using state variables"
+  },
+  {
+    "id": "adv_electrical-engineering_0002_vtpaf",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Observer design requires?",
+    "options": [
+      "full state measurement",
+      "state estimation using output feedback and observer gains",
+      "open-loop control strategy",
+      "frequency domain compensation"
+    ],
+    "answerIndex": 1,
+    "explanation": "state estimation using output feedback and observer gains"
+  },
+  {
+    "id": "adv_electrical-engineering_0002_vyruh",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Optimal control theory involves?",
+    "options": [
+      "classical PID tuning only",
+      "minimization of performance indices using variational calculus",
+      "steady-state error elimination",
+      "phase margin optimization"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimization of performance indices using variational calculus"
+  },
+  {
+    "id": "adv_electrical-engineering_0002_vlsro",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Doubly-fed induction generator operation involves?",
+    "options": [
+      "single stator winding excitation",
+      "rotor-side converter control for variable speed operation",
+      "fixed speed synchronous operation",
+      "DC motor equivalent circuit"
+    ],
+    "answerIndex": 1,
+    "explanation": "rotor-side converter control for variable speed operation"
+  },
+  {
+    "id": "adv_electrical-engineering_0002_vwg59",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Brushless DC motor control implements?",
+    "options": [
+      "mechanical commutation system",
+      "electronic commutation using position feedback",
+      "squirrel cage rotor design",
+      "wound rotor synchronous operation"
+    ],
+    "answerIndex": 1,
+    "explanation": "electronic commutation using position feedback"
+  },
+  {
+    "id": "adv_electrical-engineering_0002_vo4ka",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Permanent magnet synchronous motor field weakening involves?",
+    "options": [
+      "constant torque operation only",
+      "d-axis current control for extended speed range",
+      "rotor resistance variation",
+      "stator voltage reduction only"
+    ],
+    "answerIndex": 1,
+    "explanation": "d-axis current control for extended speed range"
+  },
+  {
+    "id": "adv_electrical-engineering_0002_v8qoz",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Active power filter operation requires?",
+    "options": [
+      "passive LC components only",
+      "real-time harmonic detection and current injection",
+      "fixed frequency filtering",
+      "voltage source inverter only"
+    ],
+    "answerIndex": 1,
+    "explanation": "real-time harmonic detection and current injection"
+  },
+  {
+    "id": "adv_electrical-engineering_0002_vhkys",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, THD analysis involves?",
+    "options": [
+      "fundamental frequency measurement only",
+      "harmonic distortion calculation using FFT analysis",
+      "power factor computation",
+      "voltage regulation assessment"
+    ],
+    "answerIndex": 1,
+    "explanation": "harmonic distortion calculation using FFT analysis"
+  },
+  {
+    "id": "adv_electrical-engineering_0002_vgwxy",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Power quality monitoring includes?",
+    "options": [
+      "voltage magnitude measurement only",
+      "comprehensive analysis of voltage sags, swells, and harmonics",
+      "frequency deviation tracking only",
+      "current waveform sampling"
+    ],
+    "answerIndex": 1,
+    "explanation": "comprehensive analysis of voltage sags, swells, and harmonics"
+  },
+  {
+    "id": "adv_electrical-engineering_0002_vetrq",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, MPPT algorithm implementation requires?",
+    "options": [
+      "fixed voltage operation",
+      "dynamic tracking of maximum power point using perturb & observe",
+      "constant current control only",
+      "grid synchronization technique"
+    ],
+    "answerIndex": 1,
+    "explanation": "dynamic tracking of maximum power point using perturb & observe"
+  },
+  {
+    "id": "adv_electrical-engineering_0003_vkjng",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Grid-tie inverter synchronization involves?",
+    "options": [
+      "frequency modulation only",
+      "phase-locked loop tracking of grid voltage and frequency",
+      "amplitude control only",
+      "DC voltage regulation"
+    ],
+    "answerIndex": 1,
+    "explanation": "phase-locked loop tracking of grid voltage and frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0003_vn9js",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Energy storage system integration requires?",
+    "options": [
+      "passive battery connection only",
+      "bidirectional converter control for charge/discharge management",
+      "unidirectional power flow",
+      "constant voltage operation"
+    ],
+    "answerIndex": 1,
+    "explanation": "bidirectional converter control for charge/discharge management"
+  },
+  {
+    "id": "adv_electrical-engineering_0003_v0vmt",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Soft-switching techniques aim to?",
+    "options": [
+      "increase switching frequency only",
+      "eliminate switching losses during transitions",
+      "reduce conduction losses",
+      "improve thermal performance"
+    ],
+    "answerIndex": 1,
+    "explanation": "eliminate switching losses during transitions"
+  },
+  {
+    "id": "adv_electrical-engineering_0003_vgfgs",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Current-mode control provides?",
+    "options": [
+      "voltage feedback only",
+      "cycle-by-cycle current limiting and faster transient response",
+      "open-loop operation",
+      "frequency modulation control"
+    ],
+    "answerIndex": 1,
+    "explanation": "cycle-by-cycle current limiting and faster transient response"
+  },
+  {
+    "id": "adv_electrical-engineering_0003_vibym",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Multilevel inverter topology offers?",
+    "options": [
+      "simplified gate drive requirements",
+      "improved voltage quality and reduced harmonic distortion",
+      "lower switching frequency operation",
+      "single-phase output only"
+    ],
+    "answerIndex": 1,
+    "explanation": "improved voltage quality and reduced harmonic distortion"
+  },
+  {
+    "id": "adv_electrical-engineering_0003_vtn4j",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Economic dispatch optimization involves?",
+    "options": [
+      "minimizing transmission losses only",
+      "optimal allocation of generation to minimize total cost",
+      "maximizing individual generator efficiency",
+      "load balancing without cost consideration"
+    ],
+    "answerIndex": 1,
+    "explanation": "optimal allocation of generation to minimize total cost"
+  },
+  {
+    "id": "adv_electrical-engineering_0003_v3luk",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Contingency analysis evaluates?",
+    "options": [
+      "normal operating conditions only",
+      "system response to component failures and disturbances",
+      "load forecasting accuracy",
+      "economic performance metrics"
+    ],
+    "answerIndex": 1,
+    "explanation": "system response to component failures and disturbances"
+  },
+  {
+    "id": "adv_electrical-engineering_0003_vpm27",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, State estimation in power systems uses?",
+    "options": [
+      "direct measurement only",
+      "weighted least squares to estimate system states from measurements",
+      "load flow equations exclusively",
+      "frequency domain analysis"
+    ],
+    "answerIndex": 1,
+    "explanation": "weighted least squares to estimate system states from measurements"
+  },
+  {
+    "id": "adv_electrical-engineering_0003_voi3b",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Adaptive control systems adjust?",
+    "options": [
+      "only the reference input",
+      "controller parameters based on system parameter variations",
+      "the sampling rate exclusively",
+      "output feedback gain only"
+    ],
+    "answerIndex": 1,
+    "explanation": "controller parameters based on system parameter variations"
+  },
+  {
+    "id": "adv_electrical-engineering_0004_vi50c",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Robust control design ensures?",
+    "options": [
+      "optimal performance at nominal conditions only",
+      "stability and performance despite model uncertainties",
+      "minimum phase system behavior",
+      "zero steady-state error always"
+    ],
+    "answerIndex": 1,
+    "explanation": "stability and performance despite model uncertainties"
+  },
+  {
+    "id": "adv_electrical-engineering_0004_vn6dn",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Model predictive control utilizes?",
+    "options": [
+      "historical data analysis only",
+      "system model to predict and optimize future behavior",
+      "fixed gain feedback structure",
+      "frequency response shaping"
+    ],
+    "answerIndex": 1,
+    "explanation": "system model to predict and optimize future behavior"
+  },
+  {
+    "id": "adv_electrical-engineering_0004_v79qa",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Synchronous motor starting methods include?",
+    "options": [
+      "direct online starting only",
+      "reduced voltage starting and synchronization techniques",
+      "variable frequency starting exclusively",
+      "autotransformer starting only"
+    ],
+    "answerIndex": 1,
+    "explanation": "reduced voltage starting and synchronization techniques"
+  },
+  {
+    "id": "adv_electrical-engineering_0004_vug3t",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Vector control of induction motors achieves?",
+    "options": [
+      "constant V/f ratio operation",
+      "decoupled torque and flux control similar to DC motors",
+      "open-loop speed control only",
+      "reduced starting current only"
+    ],
+    "answerIndex": 1,
+    "explanation": "decoupled torque and flux control similar to DC motors"
+  },
+  {
+    "id": "adv_electrical-engineering_0004_v8x5v",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Switched reluctance motor design optimizes?",
+    "options": [
+      "sinusoidal back-EMF generation",
+      "torque production through reluctance variation and precise switching",
+      "constant air gap flux distribution",
+      "rotor copper loss minimization"
+    ],
+    "answerIndex": 1,
+    "explanation": "torque production through reluctance variation and precise switching"
+  },
+  {
+    "id": "adv_electrical-engineering_0004_v5v9x",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, STATCOM operation provides?",
+    "options": [
+      "fixed reactive power compensation",
+      "dynamic reactive power support using voltage source converter",
+      "harmonic filtering only",
+      "active power generation"
+    ],
+    "answerIndex": 1,
+    "explanation": "dynamic reactive power support using voltage source converter"
+  },
+  {
+    "id": "adv_electrical-engineering_0004_vnpcl",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Voltage sag analysis involves?",
+    "options": [
+      "average voltage calculation only",
+      "RMS voltage variation characterization during disturbances",
+      "frequency deviation measurement",
+      "power factor evaluation"
+    ],
+    "answerIndex": 1,
+    "explanation": "RMS voltage variation characterization during disturbances"
+  },
+  {
+    "id": "adv_electrical-engineering_0005_v487u",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Custom power devices integrate?",
+    "options": [
+      "passive components only",
+      "power electronics for enhanced power quality and reliability",
+      "mechanical switching systems",
+      "transformer tap changers exclusively"
+    ],
+    "answerIndex": 1,
+    "explanation": "power electronics for enhanced power quality and reliability"
+  },
+  {
+    "id": "adv_electrical-engineering_0005_vcjuh",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Wind turbine aerodynamic control implements?",
+    "options": [
+      "fixed blade pitch operation",
+      "variable pitch control for optimal energy capture",
+      "constant rotational speed maintenance",
+      "passive stall regulation only"
+    ],
+    "answerIndex": 1,
+    "explanation": "variable pitch control for optimal energy capture"
+  },
+  {
+    "id": "adv_electrical-engineering_0005_v1m8e",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Microgrid islanding detection uses?",
+    "options": [
+      "voltage magnitude monitoring only",
+      "active and passive methods to detect grid disconnection",
+      "frequency measurement exclusively",
+      "power flow direction analysis only"
+    ],
+    "answerIndex": 1,
+    "explanation": "active and passive methods to detect grid disconnection"
+  },
+  {
+    "id": "adv_electrical-engineering_0005_vfrs7",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Virtual power plant aggregation involves?",
+    "options": [
+      "individual generator control only",
+      "coordinated control of distributed energy resources",
+      "centralized dispatch exclusively",
+      "load shedding implementation only"
+    ],
+    "answerIndex": 1,
+    "explanation": "coordinated control of distributed energy resources"
+  },
+  {
+    "id": "adv_electrical-engineering_0005_vqer7",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Electromagnetic compatibility testing evaluates?",
+    "options": [
+      "power consumption only",
+      "emission and susceptibility to electromagnetic interference",
+      "thermal performance metrics",
+      "mechanical stress tolerance"
+    ],
+    "answerIndex": 1,
+    "explanation": "emission and susceptibility to electromagnetic interference"
+  },
+  {
+    "id": "adv_electrical-engineering_0005_vc2ez",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Smart grid communication protocols enable?",
+    "options": [
+      "one-way power flow only",
+      "bidirectional information exchange for grid optimization",
+      "manual meter reading only",
+      "fixed tariff structure implementation"
+    ],
+    "answerIndex": 1,
+    "explanation": "bidirectional information exchange for grid optimization"
+  },
+  {
+    "id": "adv_electrical-engineering_0005_vb7c4",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Wide-area monitoring systems utilize?",
+    "options": [
+      "local measurements only",
+      "synchronized phasor measurements across large geographic areas",
+      "manual data collection methods",
+      "single-point monitoring techniques"
+    ],
+    "answerIndex": 1,
+    "explanation": "synchronized phasor measurements across large geographic areas"
+  },
+  {
+    "id": "adv_electrical-engineering_0006_viptd",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Corona discharge phenomenon results in?",
+    "options": [
+      "improved insulation strength",
+      "power loss and electromagnetic interference",
+      "enhanced current carrying capacity",
+      "voltage regulation improvement"
+    ],
+    "answerIndex": 1,
+    "explanation": "power loss and electromagnetic interference"
+  },
+  {
+    "id": "adv_electrical-engineering_0006_vnqgf",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Lightning protection design incorporates?",
+    "options": [
+      "single grounding electrode only",
+      "multi-level protection with surge arresters and shielding",
+      "voltage magnification techniques",
+      "current limiting reactors only"
+    ],
+    "answerIndex": 1,
+    "explanation": "multi-level protection with surge arresters and shielding"
+  },
+  {
+    "id": "adv_electrical-engineering_0006_vghml",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Gas-insulated switchgear utilizes?",
+    "options": [
+      "atmospheric air insulation",
+      "SF6 gas for compact high-voltage insulation",
+      "oil-immersed components",
+      "vacuum interrupters exclusively"
+    ],
+    "answerIndex": 1,
+    "explanation": "SF6 gas for compact high-voltage insulation"
+  },
+  {
+    "id": "adv_electrical-engineering_0006_v2orq",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Digital relay protection algorithms process?",
+    "options": [
+      "analog signals directly",
+      "sampled waveforms using digital filtering and mathematical morphology",
+      "frequency domain data only",
+      "RMS values exclusively"
+    ],
+    "answerIndex": 1,
+    "explanation": "sampled waveforms using digital filtering and mathematical morphology"
+  },
+  {
+    "id": "adv_electrical-engineering_0006_vwqt2",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Wavelet transform applications include?",
+    "options": [
+      "steady-state analysis only",
+      "time-frequency analysis of transient power quality events",
+      "DC component extraction",
+      "harmonic magnitude calculation only"
+    ],
+    "answerIndex": 1,
+    "explanation": "time-frequency analysis of transient power quality events"
+  },
+  {
+    "id": "adv_electrical-engineering_0006_v9rz3",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Adaptive filtering in power systems enables?",
+    "options": [
+      "fixed frequency response",
+      "dynamic noise cancellation and harmonic estimation",
+      "static signal amplification",
+      "phase shift compensation only"
+    ],
+    "answerIndex": 1,
+    "explanation": "dynamic noise cancellation and harmonic estimation"
+  },
+  {
+    "id": "adv_electrical-engineering_0006_vkvt2",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Locational marginal pricing reflects?",
+    "options": [
+      "uniform electricity pricing across all locations",
+      "cost of supplying next MW at specific network locations",
+      "historical average energy costs",
+      "transmission congestion charges only"
+    ],
+    "answerIndex": 1,
+    "explanation": "cost of supplying next MW at specific network locations"
+  },
+  {
+    "id": "adv_electrical-engineering_0006_v7q7x",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Demand response programs utilize?",
+    "options": [
+      "fixed load profiles only",
+      "price signals and incentives to modify consumer electricity usage",
+      "mandatory power curtailment only",
+      "voltage reduction techniques exclusively"
+    ],
+    "answerIndex": 1,
+    "explanation": "price signals and incentives to modify consumer electricity usage"
+  },
+  {
+    "id": "adv_electrical-engineering_0006_vcaas",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Capacity market mechanisms ensure?",
+    "options": [
+      "energy price stability only",
+      "resource adequacy for long-term system reliability",
+      "transmission capacity expansion",
+      "distribution system automation"
+    ],
+    "answerIndex": 1,
+    "explanation": "resource adequacy for long-term system reliability"
+  },
+  {
+    "id": "adv_electrical-engineering_0007_vyu39",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, SCADA system security protocols implement?",
+    "options": [
+      "open communication standards only",
+      "authentication, encryption, and intrusion detection mechanisms",
+      "analog signal transmission exclusively",
+      "unidirectional data flow only"
+    ],
+    "answerIndex": 1,
+    "explanation": "authentication, encryption, and intrusion detection mechanisms"
+  },
+  {
+    "id": "adv_electrical-engineering_0007_vay7d",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Phasor measurement unit security requires?",
+    "options": [
+      "unencrypted data transmission",
+      "secure time synchronization and data authentication",
+      "manual data verification only",
+      "single-point security implementation"
+    ],
+    "answerIndex": 1,
+    "explanation": "secure time synchronization and data authentication"
+  },
+  {
+    "id": "adv_electrical-engineering_0007_vz0g5",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Battery management system functions include?",
+    "options": [
+      "charging control only",
+      "cell balancing, thermal management, and state-of-charge estimation",
+      "discharge protection exclusively",
+      "voltage regulation only"
+    ],
+    "answerIndex": 1,
+    "explanation": "cell balancing, thermal management, and state-of-charge estimation"
+  },
+  {
+    "id": "adv_electrical-engineering_0007_v6rjj",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Superconducting magnetic energy storage utilizes?",
+    "options": [
+      "chemical energy conversion",
+      "superconducting coils for lossless energy storage",
+      "mechanical flywheel systems",
+      "compressed air storage"
+    ],
+    "answerIndex": 1,
+    "explanation": "superconducting coils for lossless energy storage"
+  },
+  {
+    "id": "adv_electrical-engineering_0007_veadd",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Flywheel energy storage systems require?",
+    "options": [
+      "simple bearing support only",
+      "vacuum environment and magnetic bearings for minimal losses",
+      "constant speed operation exclusively",
+      "mechanical gearbox coupling"
+    ],
+    "answerIndex": 1,
+    "explanation": "vacuum environment and magnetic bearings for minimal losses"
+  },
+  {
+    "id": "adv_electrical-engineering_0007_vi5zg",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Flexible AC transmission systems provide?",
+    "options": [
+      "fixed power transfer capability",
+      "dynamic power flow control and stability enhancement",
+      "DC transmission only",
+      "passive reactive compensation"
+    ],
+    "answerIndex": 1,
+    "explanation": "dynamic power flow control and stability enhancement"
+  },
+  {
+    "id": "adv_electrical-engineering_0007_vw88g",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, HVDC transmission advantages include?",
+    "options": [
+      "reactive power generation only",
+      "asynchronous grid interconnection and long-distance bulk power transfer",
+      "simple transformer requirements only",
+      "local power distribution exclusively"
+    ],
+    "answerIndex": 1,
+    "explanation": "asynchronous grid interconnection and long-distance bulk power transfer"
+  },
+  {
+    "id": "adv_electrical-engineering_0007_vs10a",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Distributed generation integration challenges include?",
+    "options": [
+      "increased system efficiency only",
+      "bidirectional power flow and protection coordination complexity",
+      "reduced power quality standards",
+      "simplified voltage regulation"
+    ],
+    "answerIndex": 1,
+    "explanation": "bidirectional power flow and protection coordination complexity"
+  },
+  {
+    "id": "adv_electrical-engineering_0008_vcikp",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Sparse matrix techniques optimize?",
+    "options": [
+      "full matrix storage requirements",
+      "computational efficiency for large power system networks",
+      "iterative solution methods only",
+      "matrix inversion accuracy"
+    ],
+    "answerIndex": 1,
+    "explanation": "computational efficiency for large power system networks"
+  },
+  {
+    "id": "adv_electrical-engineering_0008_vwite",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Parallel processing applications accelerate?",
+    "options": [
+      "serial computation tasks only",
+      "large-scale power system simulations and optimizations",
+      "single-processor performance",
+      "manual calculation methods"
+    ],
+    "answerIndex": 1,
+    "explanation": "large-scale power system simulations and optimizations"
+  },
+  {
+    "id": "adv_electrical-engineering_0008_v92ek",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Wide bandgap semiconductors enable?",
+    "options": [
+      "lower switching frequencies only",
+      "higher temperature operation and improved efficiency",
+      "reduced voltage handling capability",
+      "simpler thermal management"
+    ],
+    "answerIndex": 1,
+    "explanation": "higher temperature operation and improved efficiency"
+  },
+  {
+    "id": "adv_electrical-engineering_0008_v19g3",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Amorphous metal cores reduce?",
+    "options": [
+      "magnetic flux density only",
+      "core losses through reduced hysteresis and eddy currents",
+      "winding resistance exclusively",
+      "saturation magnetization"
+    ],
+    "answerIndex": 1,
+    "explanation": "core losses through reduced hysteresis and eddy currents"
+  },
+  {
+    "id": "adv_electrical-engineering_0008_vshit",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Quantum dot solar cells enhance?",
+    "options": [
+      "single wavelength absorption only",
+      "multiple exciton generation and tunable absorption spectra",
+      "thermal emission efficiency",
+      "electrical conductivity only"
+    ],
+    "answerIndex": 1,
+    "explanation": "multiple exciton generation and tunable absorption spectra"
+  },
+  {
+    "id": "adv_electrical-engineering_0008_vrsbe",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Superconducting fault current limiters provide?",
+    "options": [
+      "continuous current limiting",
+      "automatic current limitation during fault conditions",
+      "voltage boosting capability",
+      "frequency conversion functionality"
+    ],
+    "answerIndex": 1,
+    "explanation": "automatic current limitation during fault conditions"
+  },
+  {
+    "id": "adv_electrical-engineering_0008_v7cf2",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Biomedical implant power systems require?",
+    "options": [
+      "high voltage operation",
+      "ultra-low power consumption and biocompatible materials",
+      "high frequency switching",
+      "large power handling capability"
+    ],
+    "answerIndex": 1,
+    "explanation": "ultra-low power consumption and biocompatible materials"
+  },
+  {
+    "id": "adv_electrical-engineering_0009_vcjbe",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Three-phase power refers to?",
+    "options": [
+      "single-phase only (policy)",
+      "balanced system line vs phase relations",
+      "DC only \u2014 in practice",
+      "harmonic-only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0009_vtekl",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Within electrical engineering, Three-phase power refers to?",
+    "options": [
+      "single-phase only \u2014 in practice",
+      "balanced system line vs phase relations",
+      "harmonic-only (policy)",
+      "DC only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0009_vdnim",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Three-phase power refers to?",
+    "options": [
+      "balanced system line vs phase relations",
+      "harmonic-only (theory)",
+      "DC only (typically)",
+      "single-phase only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0009_vqo13",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Three-phase power refers to? Select the best option.",
+    "options": [
+      "balanced system line vs phase relations",
+      "DC only (policy)",
+      "single-phase only (framework)",
+      "harmonic-only \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0009_vnhd3",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Three-phase power refers to? Choose the most accurate answer.",
+    "options": [
+      "single-phase only (typically)",
+      "DC only (theory)",
+      "balanced system line vs phase relations",
+      "harmonic-only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0009_vc82n",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: In electrical engineering, Three-phase power refers to?",
+    "options": [
+      "single-phase only (typically)",
+      "DC only (policy)",
+      "harmonic-only \u2014 concept",
+      "balanced system line vs phase relations"
+    ],
+    "answerIndex": 3,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0009_voixj",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: In electrical engineering, Three-phase power refers to?",
+    "options": [
+      "DC only (framework)",
+      "single-phase only (advanced)",
+      "balanced system line vs phase relations",
+      "harmonic-only \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0010_viu2m",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Three-phase power?",
+    "options": [
+      "harmonic-only \u2014 concept",
+      "balanced system line vs phase relations",
+      "single-phase only \u2014 in practice",
+      "DC only \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0010_v099j",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Three-phase power?",
+    "options": [
+      "harmonic-only \u2014 in practice",
+      "DC only (theory)",
+      "single-phase only (framework)",
+      "balanced system line vs phase relations"
+    ],
+    "answerIndex": 3,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0010_vxubg",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Three-phase power?",
+    "options": [
+      "harmonic-only (framework)",
+      "single-phase only (policy)",
+      "balanced system line vs phase relations",
+      "DC only \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0010_v7c0s",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Three-phase power?",
+    "options": [
+      "harmonic-only (theory)",
+      "balanced system line vs phase relations",
+      "DC only \u2014 concept",
+      "single-phase only \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0010_vu1ck",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Three-phase power? Select the best option.",
+    "options": [
+      "single-phase only \u2014 in practice",
+      "balanced system line vs phase relations",
+      "DC only (theory)",
+      "harmonic-only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0010_v3n3y",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Three-phase power? Choose the most accurate answer.",
+    "options": [
+      "balanced system line vs phase relations",
+      "harmonic-only \u2014 in practice",
+      "DC only (framework)",
+      "single-phase only \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0010_vpz72",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Three-phase power?",
+    "options": [
+      "single-phase only (framework)",
+      "harmonic-only (theory)",
+      "DC only \u2014 in practice",
+      "balanced system line vs phase relations"
+    ],
+    "answerIndex": 3,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0010_v6rom",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Three-phase power?",
+    "options": [
+      "single-phase only \u2014 concept",
+      "DC only \u2014 in practice",
+      "harmonic-only (typically)",
+      "balanced system line vs phase relations"
+    ],
+    "answerIndex": 3,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0010_vmm7u",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Three-phase power?",
+    "options": [
+      "harmonic-only \u2014 concept",
+      "single-phase only (framework)",
+      "DC only \u2014 in practice",
+      "balanced system line vs phase relations"
+    ],
+    "answerIndex": 3,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0011_vw1nz",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Three-phase power.",
+    "options": [
+      "balanced system line vs phase relations",
+      "DC only (framework)",
+      "single-phase only (typically)",
+      "harmonic-only \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0011_vjlod",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate definition of Three-phase power.",
+    "options": [
+      "DC only \u2014 concept",
+      "single-phase only (theory)",
+      "harmonic-only (typically)",
+      "balanced system line vs phase relations"
+    ],
+    "answerIndex": 3,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0011_veqgk",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Identify the accurate definition of Three-phase power.",
+    "options": [
+      "single-phase only (framework)",
+      "balanced system line vs phase relations",
+      "DC only (theory)",
+      "harmonic-only \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0011_v95ki",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate definition of Three-phase power.",
+    "options": [
+      "DC only (theory)",
+      "harmonic-only (policy)",
+      "single-phase only (advanced)",
+      "balanced system line vs phase relations"
+    ],
+    "answerIndex": 3,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0011_vhulu",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Three-phase power. Select the best option.",
+    "options": [
+      "balanced system line vs phase relations",
+      "single-phase only (policy)",
+      "harmonic-only \u2014 in practice",
+      "DC only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0011_vxqct",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Three-phase power. Choose the most accurate answer.",
+    "options": [
+      "harmonic-only (advanced)",
+      "DC only (framework)",
+      "balanced system line vs phase relations",
+      "single-phase only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0011_vqii5",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Choose the accurate definition of Three-phase power.",
+    "options": [
+      "balanced system line vs phase relations",
+      "harmonic-only (theory)",
+      "DC only \u2014 concept",
+      "single-phase only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0011_vfoiy",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate definition of Three-phase power.",
+    "options": [
+      "DC only \u2014 in practice",
+      "balanced system line vs phase relations",
+      "harmonic-only (advanced)",
+      "single-phase only \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0011_vkce2",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate definition of Three-phase power.",
+    "options": [
+      "balanced system line vs phase relations",
+      "DC only \u2014 in practice",
+      "single-phase only \u2014 concept",
+      "harmonic-only \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0012_v58pi",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced power/electronics: Three-phase power primarily involves?",
+    "options": [
+      "balanced system line vs phase relations",
+      "single-phase only (framework)",
+      "harmonic-only (policy)",
+      "DC only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0012_vntli",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced power/electronics: Three-phase power primarily involves?",
+    "options": [
+      "harmonic-only (theory)",
+      "DC only (theory)",
+      "balanced system line vs phase relations",
+      "single-phase only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0012_vo54k",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced power/electronics: Three-phase power primarily involves?",
+    "options": [
+      "DC only (theory)",
+      "harmonic-only \u2014 concept",
+      "single-phase only (theory)",
+      "balanced system line vs phase relations"
+    ],
+    "answerIndex": 3,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0012_vb15w",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced power/electronics: Three-phase power primarily involves? Select the best option.",
+    "options": [
+      "harmonic-only (policy)",
+      "DC only (policy)",
+      "balanced system line vs phase relations",
+      "single-phase only \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0012_vauag",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced power/electronics: Three-phase power primarily involves? Choose the most accurate answer.",
+    "options": [
+      "balanced system line vs phase relations",
+      "single-phase only (theory)",
+      "DC only (advanced)",
+      "harmonic-only \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0012_v8iz8",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced power/electronics: Three-phase power primarily involves?",
+    "options": [
+      "harmonic-only (typically)",
+      "balanced system line vs phase relations",
+      "single-phase only (framework)",
+      "DC only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0012_v4m15",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced power/electronics: Three-phase power primarily involves?",
+    "options": [
+      "DC only (advanced)",
+      "balanced system line vs phase relations",
+      "harmonic-only (framework)",
+      "single-phase only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "balanced system line vs phase relations"
+  },
+  {
+    "id": "adv_electrical-engineering_0013_v8ibn",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Transformer equivalent circuit refers to?",
+    "options": [
+      "no magnetization (typically)",
+      "represents core loss and leakage reactance",
+      "pure resistor only (framework)",
+      "ideal short only \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0013_v44qg",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Within electrical engineering, Transformer equivalent circuit refers to?",
+    "options": [
+      "pure resistor only (framework)",
+      "no magnetization (framework)",
+      "represents core loss and leakage reactance",
+      "ideal short only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0013_vmlxn",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Transformer equivalent circuit refers to?",
+    "options": [
+      "no magnetization \u2014 in practice",
+      "ideal short only \u2014 in practice",
+      "pure resistor only \u2014 in practice",
+      "represents core loss and leakage reactance"
+    ],
+    "answerIndex": 3,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0013_vwhio",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Transformer equivalent circuit refers to? Select the best option.",
+    "options": [
+      "no magnetization (advanced)",
+      "ideal short only (advanced)",
+      "pure resistor only \u2014 in practice",
+      "represents core loss and leakage reactance"
+    ],
+    "answerIndex": 3,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0013_vn747",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Transformer equivalent circuit refers to? Choose the most accurate answer.",
+    "options": [
+      "no magnetization \u2014 in practice",
+      "represents core loss and leakage reactance",
+      "pure resistor only (advanced)",
+      "ideal short only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0013_vkx4c",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: In electrical engineering, Transformer equivalent circuit refers to?",
+    "options": [
+      "ideal short only (theory)",
+      "no magnetization (advanced)",
+      "pure resistor only (policy)",
+      "represents core loss and leakage reactance"
+    ],
+    "answerIndex": 3,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0013_vwhp5",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: In electrical engineering, Transformer equivalent circuit refers to?",
+    "options": [
+      "no magnetization (advanced)",
+      "ideal short only (policy)",
+      "pure resistor only (policy)",
+      "represents core loss and leakage reactance"
+    ],
+    "answerIndex": 3,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0014_vm0k5",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Transformer equivalent circuit?",
+    "options": [
+      "pure resistor only (framework)",
+      "represents core loss and leakage reactance",
+      "no magnetization (advanced)",
+      "ideal short only \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0014_v60iu",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Transformer equivalent circuit?",
+    "options": [
+      "represents core loss and leakage reactance",
+      "no magnetization (advanced)",
+      "ideal short only \u2014 in practice",
+      "pure resistor only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0014_vcvyy",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Transformer equivalent circuit?",
+    "options": [
+      "pure resistor only (typically)",
+      "no magnetization \u2014 concept",
+      "ideal short only (policy)",
+      "represents core loss and leakage reactance"
+    ],
+    "answerIndex": 3,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0014_v6mvs",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Transformer equivalent circuit?",
+    "options": [
+      "ideal short only (policy)",
+      "pure resistor only (theory)",
+      "represents core loss and leakage reactance",
+      "no magnetization (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0014_vmhwl",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Transformer equivalent circuit? Select the best option.",
+    "options": [
+      "represents core loss and leakage reactance",
+      "ideal short only (policy)",
+      "pure resistor only \u2014 concept",
+      "no magnetization (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0014_vcixx",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Transformer equivalent circuit? Choose the most accurate answer.",
+    "options": [
+      "ideal short only (theory)",
+      "pure resistor only (advanced)",
+      "represents core loss and leakage reactance",
+      "no magnetization (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0014_vb2fn",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Transformer equivalent circuit?",
+    "options": [
+      "ideal short only (policy)",
+      "pure resistor only (framework)",
+      "no magnetization (typically)",
+      "represents core loss and leakage reactance"
+    ],
+    "answerIndex": 3,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0014_vqi7a",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Transformer equivalent circuit?",
+    "options": [
+      "ideal short only \u2014 in practice",
+      "pure resistor only (policy)",
+      "no magnetization \u2014 concept",
+      "represents core loss and leakage reactance"
+    ],
+    "answerIndex": 3,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0014_vz3l0",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Transformer equivalent circuit?",
+    "options": [
+      "no magnetization (advanced)",
+      "pure resistor only (policy)",
+      "represents core loss and leakage reactance",
+      "ideal short only \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0015_v3o7v",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Transformer equivalent circuit.",
+    "options": [
+      "pure resistor only \u2014 in practice",
+      "no magnetization \u2014 concept",
+      "represents core loss and leakage reactance",
+      "ideal short only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0015_v024b",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate definition of Transformer equivalent circuit.",
+    "options": [
+      "pure resistor only \u2014 concept",
+      "no magnetization (framework)",
+      "ideal short only (advanced)",
+      "represents core loss and leakage reactance"
+    ],
+    "answerIndex": 3,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0015_v9txb",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Identify the accurate definition of Transformer equivalent circuit.",
+    "options": [
+      "pure resistor only \u2014 concept",
+      "ideal short only (policy)",
+      "represents core loss and leakage reactance",
+      "no magnetization (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0015_vzf76",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate definition of Transformer equivalent circuit.",
+    "options": [
+      "represents core loss and leakage reactance",
+      "ideal short only (framework)",
+      "pure resistor only (advanced)",
+      "no magnetization \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0015_v8yzf",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Transformer equivalent circuit. Select the best option.",
+    "options": [
+      "no magnetization (policy)",
+      "represents core loss and leakage reactance",
+      "ideal short only (advanced)",
+      "pure resistor only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0015_vz1gt",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Transformer equivalent circuit. Choose the most accurate answer.",
+    "options": [
+      "pure resistor only (policy)",
+      "no magnetization (typically)",
+      "ideal short only (framework)",
+      "represents core loss and leakage reactance"
+    ],
+    "answerIndex": 3,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0015_vofu3",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Choose the accurate definition of Transformer equivalent circuit.",
+    "options": [
+      "represents core loss and leakage reactance",
+      "pure resistor only (theory)",
+      "no magnetization \u2014 concept",
+      "ideal short only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0015_vs34c",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate definition of Transformer equivalent circuit.",
+    "options": [
+      "no magnetization (advanced)",
+      "represents core loss and leakage reactance",
+      "pure resistor only \u2014 concept",
+      "ideal short only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0015_v1abn",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate definition of Transformer equivalent circuit.",
+    "options": [
+      "no magnetization (theory)",
+      "ideal short only (policy)",
+      "pure resistor only \u2014 in practice",
+      "represents core loss and leakage reactance"
+    ],
+    "answerIndex": 3,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0016_v09di",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced power/electronics: Transformer equivalent circuit primarily involves?",
+    "options": [
+      "no magnetization (framework)",
+      "pure resistor only \u2014 concept",
+      "represents core loss and leakage reactance",
+      "ideal short only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0016_vwpa6",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced power/electronics: Transformer equivalent circuit primarily involves?",
+    "options": [
+      "ideal short only (framework)",
+      "pure resistor only (policy)",
+      "no magnetization (policy)",
+      "represents core loss and leakage reactance"
+    ],
+    "answerIndex": 3,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0016_vou03",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced power/electronics: Transformer equivalent circuit primarily involves? Select the best option.",
+    "options": [
+      "no magnetization \u2014 concept",
+      "pure resistor only \u2014 concept",
+      "ideal short only \u2014 concept",
+      "represents core loss and leakage reactance"
+    ],
+    "answerIndex": 3,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0016_v6iia",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced power/electronics: Transformer equivalent circuit primarily involves? Choose the most accurate answer.",
+    "options": [
+      "ideal short only (typically)",
+      "pure resistor only (framework)",
+      "no magnetization (advanced)",
+      "represents core loss and leakage reactance"
+    ],
+    "answerIndex": 3,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0016_v7yh9",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced power/electronics: Transformer equivalent circuit primarily involves?",
+    "options": [
+      "pure resistor only (advanced)",
+      "no magnetization (advanced)",
+      "ideal short only (typically)",
+      "represents core loss and leakage reactance"
+    ],
+    "answerIndex": 3,
+    "explanation": "represents core loss and leakage reactance"
+  },
+  {
+    "id": "adv_electrical-engineering_0017_vm25p",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Maximum power transfer (AC) refers to?",
+    "options": [
+      "open circuit (framework)",
+      "equal resistances only \u2014 concept",
+      "short circuit \u2014 concept",
+      "conjugate matching of load to Thevenin"
+    ],
+    "answerIndex": 3,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0017_vn88i",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Within electrical engineering, Maximum power transfer (AC) refers to?",
+    "options": [
+      "conjugate matching of load to Thevenin",
+      "short circuit \u2014 concept",
+      "open circuit (theory)",
+      "equal resistances only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0017_v4lne",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Maximum power transfer (AC) refers to?",
+    "options": [
+      "equal resistances only (advanced)",
+      "short circuit (typically)",
+      "conjugate matching of load to Thevenin",
+      "open circuit \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0017_vdlsg",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Maximum power transfer (AC) refers to? Select the best option.",
+    "options": [
+      "open circuit \u2014 in practice",
+      "conjugate matching of load to Thevenin",
+      "short circuit (policy)",
+      "equal resistances only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0017_vhwbk",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Maximum power transfer (AC) refers to? Choose the most accurate answer.",
+    "options": [
+      "conjugate matching of load to Thevenin",
+      "open circuit \u2014 concept",
+      "short circuit \u2014 in practice",
+      "equal resistances only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0017_vec54",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: In electrical engineering, Maximum power transfer (AC) refers to?",
+    "options": [
+      "equal resistances only (framework)",
+      "open circuit (theory)",
+      "short circuit (framework)",
+      "conjugate matching of load to Thevenin"
+    ],
+    "answerIndex": 3,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0017_vhe52",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: In electrical engineering, Maximum power transfer (AC) refers to?",
+    "options": [
+      "short circuit (policy)",
+      "open circuit (framework)",
+      "conjugate matching of load to Thevenin",
+      "equal resistances only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0018_vudic",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Maximum power transfer (AC)?",
+    "options": [
+      "conjugate matching of load to Thevenin",
+      "equal resistances only (advanced)",
+      "open circuit \u2014 in practice",
+      "short circuit (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0018_vcwcw",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Maximum power transfer (AC)?",
+    "options": [
+      "open circuit \u2014 in practice",
+      "conjugate matching of load to Thevenin",
+      "equal resistances only (policy)",
+      "short circuit (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0018_vj63f",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Maximum power transfer (AC)?",
+    "options": [
+      "open circuit (typically)",
+      "short circuit (framework)",
+      "conjugate matching of load to Thevenin",
+      "equal resistances only \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0018_vur3h",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Maximum power transfer (AC)?",
+    "options": [
+      "conjugate matching of load to Thevenin",
+      "short circuit (typically)",
+      "open circuit (policy)",
+      "equal resistances only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0018_vnmab",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Maximum power transfer (AC)? Select the best option.",
+    "options": [
+      "equal resistances only (framework)",
+      "open circuit \u2014 concept",
+      "conjugate matching of load to Thevenin",
+      "short circuit (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0018_v4g5j",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Maximum power transfer (AC)? Choose the most accurate answer.",
+    "options": [
+      "conjugate matching of load to Thevenin",
+      "open circuit \u2014 in practice",
+      "short circuit (typically)",
+      "equal resistances only \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0018_vzdnp",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Maximum power transfer (AC)?",
+    "options": [
+      "open circuit (policy)",
+      "equal resistances only (theory)",
+      "short circuit (theory)",
+      "conjugate matching of load to Thevenin"
+    ],
+    "answerIndex": 3,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0018_vmvbg",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Maximum power transfer (AC)?",
+    "options": [
+      "conjugate matching of load to Thevenin",
+      "equal resistances only (typically)",
+      "short circuit (advanced)",
+      "open circuit (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0018_v4rh0",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Maximum power transfer (AC)?",
+    "options": [
+      "open circuit (theory)",
+      "conjugate matching of load to Thevenin",
+      "equal resistances only \u2014 in practice",
+      "short circuit (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0019_vt2zm",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Maximum power transfer (AC).",
+    "options": [
+      "short circuit \u2014 concept",
+      "equal resistances only (policy)",
+      "conjugate matching of load to Thevenin",
+      "open circuit (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0019_v9878",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate definition of Maximum power transfer (AC).",
+    "options": [
+      "equal resistances only (theory)",
+      "short circuit (policy)",
+      "open circuit \u2014 concept",
+      "conjugate matching of load to Thevenin"
+    ],
+    "answerIndex": 3,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0019_v0xwt",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Identify the accurate definition of Maximum power transfer (AC).",
+    "options": [
+      "equal resistances only (policy)",
+      "open circuit (policy)",
+      "conjugate matching of load to Thevenin",
+      "short circuit \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0019_v0vg6",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate definition of Maximum power transfer (AC).",
+    "options": [
+      "conjugate matching of load to Thevenin",
+      "open circuit \u2014 in practice",
+      "short circuit \u2014 concept",
+      "equal resistances only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0019_vjsmv",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Maximum power transfer (AC). Select the best option.",
+    "options": [
+      "short circuit (typically)",
+      "conjugate matching of load to Thevenin",
+      "equal resistances only (policy)",
+      "open circuit (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0019_vgz7z",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Maximum power transfer (AC). Choose the most accurate answer.",
+    "options": [
+      "open circuit \u2014 in practice",
+      "conjugate matching of load to Thevenin",
+      "short circuit \u2014 concept",
+      "equal resistances only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0019_vay6c",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Choose the accurate definition of Maximum power transfer (AC).",
+    "options": [
+      "equal resistances only (typically)",
+      "conjugate matching of load to Thevenin",
+      "open circuit (theory)",
+      "short circuit (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0019_vf24j",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate definition of Maximum power transfer (AC).",
+    "options": [
+      "short circuit (typically)",
+      "equal resistances only (policy)",
+      "conjugate matching of load to Thevenin",
+      "open circuit (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0019_vteqd",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate definition of Maximum power transfer (AC).",
+    "options": [
+      "short circuit (framework)",
+      "conjugate matching of load to Thevenin",
+      "equal resistances only (theory)",
+      "open circuit (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0020_v6aaw",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced power/electronics: Maximum power transfer (AC) primarily involves?",
+    "options": [
+      "conjugate matching of load to Thevenin",
+      "open circuit (policy)",
+      "equal resistances only (policy)",
+      "short circuit (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0020_vemx7",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced power/electronics: Maximum power transfer (AC) primarily involves?",
+    "options": [
+      "conjugate matching of load to Thevenin",
+      "open circuit (typically)",
+      "equal resistances only (framework)",
+      "short circuit (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0020_vrjqu",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced power/electronics: Maximum power transfer (AC) primarily involves? Select the best option.",
+    "options": [
+      "conjugate matching of load to Thevenin",
+      "short circuit \u2014 in practice",
+      "equal resistances only (typically)",
+      "open circuit (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0020_vl2o0",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced power/electronics: Maximum power transfer (AC) primarily involves? Choose the most accurate answer.",
+    "options": [
+      "conjugate matching of load to Thevenin",
+      "equal resistances only \u2014 in practice",
+      "open circuit \u2014 in practice",
+      "short circuit (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0020_vg2jp",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced power/electronics: Maximum power transfer (AC) primarily involves?",
+    "options": [
+      "conjugate matching of load to Thevenin",
+      "equal resistances only (framework)",
+      "open circuit (advanced)",
+      "short circuit (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "conjugate matching of load to Thevenin"
+  },
+  {
+    "id": "adv_electrical-engineering_0021_vtjdh",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Synchronous generator refers to?",
+    "options": [
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "no excitation needed (policy)",
+      "induction machine identical (advanced)",
+      "slip nonzero at synchronous (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0021_vk1mq",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Within electrical engineering, Synchronous generator refers to?",
+    "options": [
+      "no excitation needed (advanced)",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "induction machine identical (framework)",
+      "slip nonzero at synchronous \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0021_v2s1d",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Synchronous generator refers to?",
+    "options": [
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "slip nonzero at synchronous (theory)",
+      "no excitation needed (typically)",
+      "induction machine identical (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0021_vcaxr",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Synchronous generator refers to? Select the best option.",
+    "options": [
+      "slip nonzero at synchronous (theory)",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "no excitation needed (advanced)",
+      "induction machine identical (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0021_vsgj5",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Synchronous generator refers to? Choose the most accurate answer.",
+    "options": [
+      "no excitation needed (framework)",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "induction machine identical \u2014 in practice",
+      "slip nonzero at synchronous \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0021_v3sva",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: In electrical engineering, Synchronous generator refers to?",
+    "options": [
+      "slip nonzero at synchronous \u2014 concept",
+      "induction machine identical (theory)",
+      "no excitation needed \u2014 concept",
+      "EMF leads terminal by internal angle; excitation controls VARs"
+    ],
+    "answerIndex": 3,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0021_v8yl9",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: In electrical engineering, Synchronous generator refers to?",
+    "options": [
+      "slip nonzero at synchronous (policy)",
+      "induction machine identical \u2014 in practice",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "no excitation needed \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0022_v3k82",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Synchronous generator?",
+    "options": [
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "no excitation needed (framework)",
+      "slip nonzero at synchronous \u2014 concept",
+      "induction machine identical \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0022_vgqb3",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Synchronous generator?",
+    "options": [
+      "no excitation needed (policy)",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "slip nonzero at synchronous (policy)",
+      "induction machine identical (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0022_v048a",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Synchronous generator?",
+    "options": [
+      "induction machine identical (policy)",
+      "slip nonzero at synchronous (framework)",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "no excitation needed (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0022_vs2ag",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Synchronous generator?",
+    "options": [
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "induction machine identical \u2014 concept",
+      "no excitation needed \u2014 concept",
+      "slip nonzero at synchronous (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0022_vl2tl",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Synchronous generator? Select the best option.",
+    "options": [
+      "no excitation needed (policy)",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "induction machine identical (policy)",
+      "slip nonzero at synchronous \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0022_vhykh",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Synchronous generator? Choose the most accurate answer.",
+    "options": [
+      "slip nonzero at synchronous \u2014 in practice",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "no excitation needed (theory)",
+      "induction machine identical (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0022_vn0g2",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Synchronous generator?",
+    "options": [
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "slip nonzero at synchronous \u2014 concept",
+      "induction machine identical (typically)",
+      "no excitation needed \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0022_v15uv",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Synchronous generator?",
+    "options": [
+      "induction machine identical (typically)",
+      "slip nonzero at synchronous \u2014 in practice",
+      "no excitation needed (policy)",
+      "EMF leads terminal by internal angle; excitation controls VARs"
+    ],
+    "answerIndex": 3,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0022_v4m1x",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Synchronous generator?",
+    "options": [
+      "induction machine identical (theory)",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "no excitation needed (advanced)",
+      "slip nonzero at synchronous (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0023_vdike",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Synchronous generator.",
+    "options": [
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "slip nonzero at synchronous (typically)",
+      "induction machine identical (typically)",
+      "no excitation needed (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0023_va5t2",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate definition of Synchronous generator.",
+    "options": [
+      "slip nonzero at synchronous \u2014 concept",
+      "induction machine identical \u2014 concept",
+      "no excitation needed (policy)",
+      "EMF leads terminal by internal angle; excitation controls VARs"
+    ],
+    "answerIndex": 3,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0023_votgl",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Identify the accurate definition of Synchronous generator.",
+    "options": [
+      "no excitation needed (advanced)",
+      "slip nonzero at synchronous \u2014 concept",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "induction machine identical (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0023_vgnbs",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate definition of Synchronous generator.",
+    "options": [
+      "no excitation needed (framework)",
+      "slip nonzero at synchronous (framework)",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "induction machine identical (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0023_vx3p2",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Synchronous generator. Select the best option.",
+    "options": [
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "induction machine identical (framework)",
+      "slip nonzero at synchronous (policy)",
+      "no excitation needed (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0023_v2gkr",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Choose the accurate definition of Synchronous generator.",
+    "options": [
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "no excitation needed (typically)",
+      "slip nonzero at synchronous (advanced)",
+      "induction machine identical (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0023_vz4x0",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate definition of Synchronous generator.",
+    "options": [
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "induction machine identical \u2014 in practice",
+      "slip nonzero at synchronous \u2014 in practice",
+      "no excitation needed \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0024_vna8i",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced power/electronics: Synchronous generator primarily involves?",
+    "options": [
+      "slip nonzero at synchronous (typically)",
+      "no excitation needed (advanced)",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "induction machine identical (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0024_vi6tm",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced power/electronics: Synchronous generator primarily involves?",
+    "options": [
+      "slip nonzero at synchronous (advanced)",
+      "induction machine identical \u2014 concept",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "no excitation needed (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0024_vufro",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced power/electronics: Synchronous generator primarily involves?",
+    "options": [
+      "slip nonzero at synchronous (theory)",
+      "induction machine identical (framework)",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "no excitation needed (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0024_vdh98",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced power/electronics: Synchronous generator primarily involves? Select the best option.",
+    "options": [
+      "no excitation needed (framework)",
+      "slip nonzero at synchronous (typically)",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "induction machine identical \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0024_vf0ac",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced power/electronics: Synchronous generator primarily involves?",
+    "options": [
+      "slip nonzero at synchronous \u2014 concept",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "no excitation needed \u2014 in practice",
+      "induction machine identical (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0024_v68pn",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced power/electronics: Synchronous generator primarily involves?",
+    "options": [
+      "slip nonzero at synchronous (theory)",
+      "no excitation needed (policy)",
+      "EMF leads terminal by internal angle; excitation controls VARs",
+      "induction machine identical (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "EMF leads terminal by internal angle; excitation controls VARs"
+  },
+  {
+    "id": "adv_electrical-engineering_0025_vnjpg",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, PWM inverter refers to?",
+    "options": [
+      "buck only \u2014 in practice",
+      "LDO only (theory)",
+      "modulates switching to synthesize AC from DC",
+      "diode rectifier only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0025_vt94m",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Within electrical engineering, PWM inverter refers to?",
+    "options": [
+      "buck only \u2014 in practice",
+      "LDO only (framework)",
+      "modulates switching to synthesize AC from DC",
+      "diode rectifier only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0025_vt02b",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, PWM inverter refers to?",
+    "options": [
+      "diode rectifier only \u2014 concept",
+      "modulates switching to synthesize AC from DC",
+      "buck only \u2014 concept",
+      "LDO only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0025_vcxgx",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, PWM inverter refers to? Select the best option.",
+    "options": [
+      "modulates switching to synthesize AC from DC",
+      "buck only (policy)",
+      "diode rectifier only (theory)",
+      "LDO only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0025_vrdgs",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, PWM inverter refers to? Choose the most accurate answer.",
+    "options": [
+      "buck only (typically)",
+      "modulates switching to synthesize AC from DC",
+      "diode rectifier only (theory)",
+      "LDO only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0025_v2npk",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: In electrical engineering, PWM inverter refers to?",
+    "options": [
+      "modulates switching to synthesize AC from DC",
+      "diode rectifier only \u2014 concept",
+      "buck only \u2014 concept",
+      "LDO only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0026_vkid0",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes PWM inverter?",
+    "options": [
+      "buck only (typically)",
+      "modulates switching to synthesize AC from DC",
+      "LDO only (typically)",
+      "diode rectifier only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0026_vv1h5",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes PWM inverter?",
+    "options": [
+      "buck only \u2014 concept",
+      "diode rectifier only (policy)",
+      "modulates switching to synthesize AC from DC",
+      "LDO only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0026_vxlce",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes PWM inverter?",
+    "options": [
+      "modulates switching to synthesize AC from DC",
+      "diode rectifier only (policy)",
+      "buck only (advanced)",
+      "LDO only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0026_v2hjf",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes PWM inverter? Select the best option.",
+    "options": [
+      "LDO only (typically)",
+      "modulates switching to synthesize AC from DC",
+      "diode rectifier only (theory)",
+      "buck only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0026_vesd0",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes PWM inverter? Choose the most accurate answer.",
+    "options": [
+      "modulates switching to synthesize AC from DC",
+      "LDO only (policy)",
+      "buck only \u2014 in practice",
+      "diode rectifier only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0026_vf51m",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes PWM inverter?",
+    "options": [
+      "diode rectifier only (theory)",
+      "LDO only (typically)",
+      "buck only \u2014 in practice",
+      "modulates switching to synthesize AC from DC"
+    ],
+    "answerIndex": 3,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0026_viapn",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes PWM inverter?",
+    "options": [
+      "modulates switching to synthesize AC from DC",
+      "buck only (theory)",
+      "diode rectifier only \u2014 in practice",
+      "LDO only \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0026_viz3t",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes PWM inverter?",
+    "options": [
+      "diode rectifier only \u2014 in practice",
+      "LDO only (typically)",
+      "buck only \u2014 in practice",
+      "modulates switching to synthesize AC from DC"
+    ],
+    "answerIndex": 3,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0027_va2l1",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of PWM inverter.",
+    "options": [
+      "buck only \u2014 concept",
+      "diode rectifier only \u2014 concept",
+      "modulates switching to synthesize AC from DC",
+      "LDO only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0027_vj9b1",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate definition of PWM inverter.",
+    "options": [
+      "buck only (typically)",
+      "modulates switching to synthesize AC from DC",
+      "diode rectifier only \u2014 concept",
+      "LDO only \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0027_v1iyi",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Identify the accurate definition of PWM inverter.",
+    "options": [
+      "modulates switching to synthesize AC from DC",
+      "diode rectifier only (advanced)",
+      "LDO only (framework)",
+      "buck only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0027_vvoyf",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate definition of PWM inverter.",
+    "options": [
+      "LDO only (framework)",
+      "modulates switching to synthesize AC from DC",
+      "diode rectifier only (policy)",
+      "buck only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0027_vw1bj",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of PWM inverter. Select the best option.",
+    "options": [
+      "buck only (theory)",
+      "modulates switching to synthesize AC from DC",
+      "LDO only (theory)",
+      "diode rectifier only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0027_vpw80",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of PWM inverter. Choose the most accurate answer.",
+    "options": [
+      "buck only (theory)",
+      "diode rectifier only (typically)",
+      "LDO only \u2014 concept",
+      "modulates switching to synthesize AC from DC"
+    ],
+    "answerIndex": 3,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0027_vxesk",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Choose the accurate definition of PWM inverter.",
+    "options": [
+      "diode rectifier only (advanced)",
+      "LDO only (advanced)",
+      "modulates switching to synthesize AC from DC",
+      "buck only \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0027_vyhaf",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate definition of PWM inverter.",
+    "options": [
+      "diode rectifier only (advanced)",
+      "buck only \u2014 in practice",
+      "modulates switching to synthesize AC from DC",
+      "LDO only \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0028_vmokm",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced power/electronics: PWM inverter primarily involves?",
+    "options": [
+      "diode rectifier only (framework)",
+      "LDO only \u2014 in practice",
+      "modulates switching to synthesize AC from DC",
+      "buck only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0028_v94gg",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced power/electronics: PWM inverter primarily involves?",
+    "options": [
+      "LDO only (framework)",
+      "buck only (typically)",
+      "modulates switching to synthesize AC from DC",
+      "diode rectifier only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0028_v6y0s",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced power/electronics: PWM inverter primarily involves?",
+    "options": [
+      "modulates switching to synthesize AC from DC",
+      "LDO only (advanced)",
+      "buck only (theory)",
+      "diode rectifier only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0028_vd9fn",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced power/electronics: PWM inverter primarily involves? Select the best option.",
+    "options": [
+      "LDO only (theory)",
+      "diode rectifier only \u2014 in practice",
+      "buck only (typically)",
+      "modulates switching to synthesize AC from DC"
+    ],
+    "answerIndex": 3,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0028_vjhmt",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced power/electronics: PWM inverter primarily involves? Choose the most accurate answer.",
+    "options": [
+      "buck only (theory)",
+      "diode rectifier only (theory)",
+      "LDO only (framework)",
+      "modulates switching to synthesize AC from DC"
+    ],
+    "answerIndex": 3,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0028_vbcsk",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced power/electronics: PWM inverter primarily involves?",
+    "options": [
+      "LDO only (theory)",
+      "buck only \u2014 concept",
+      "modulates switching to synthesize AC from DC",
+      "diode rectifier only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "modulates switching to synthesize AC from DC"
+  },
+  {
+    "id": "adv_electrical-engineering_0029_v49mg",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: In electrical engineering, Bode plot refers to?",
+    "options": [
+      "speed vs torque only (policy)",
+      "magnitude and phase vs frequency",
+      "time vs voltage (framework)",
+      "space vs temperature (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0029_vxr7g",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Within electrical engineering, Bode plot refers to?",
+    "options": [
+      "speed vs torque only (theory)",
+      "space vs temperature \u2014 concept",
+      "time vs voltage (framework)",
+      "magnitude and phase vs frequency"
+    ],
+    "answerIndex": 3,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0029_v5o7e",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: In electrical engineering, Bode plot refers to?",
+    "options": [
+      "time vs voltage (theory)",
+      "magnitude and phase vs frequency",
+      "space vs temperature (policy)",
+      "speed vs torque only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0029_vqh1m",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Bode plot refers to? Select the best option.",
+    "options": [
+      "magnitude and phase vs frequency",
+      "space vs temperature \u2014 in practice",
+      "time vs voltage \u2014 in practice",
+      "speed vs torque only \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0029_vf9ye",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "In electrical engineering, Bode plot refers to? Choose the most accurate answer.",
+    "options": [
+      "speed vs torque only (policy)",
+      "time vs voltage \u2014 concept",
+      "magnitude and phase vs frequency",
+      "space vs temperature (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0029_vntgc",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: In electrical engineering, Bode plot refers to?",
+    "options": [
+      "space vs temperature \u2014 concept",
+      "time vs voltage (theory)",
+      "speed vs torque only (advanced)",
+      "magnitude and phase vs frequency"
+    ],
+    "answerIndex": 3,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0029_vqcg6",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: In electrical engineering, Bode plot refers to?",
+    "options": [
+      "magnitude and phase vs frequency",
+      "time vs voltage (framework)",
+      "speed vs torque only (theory)",
+      "space vs temperature (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0030_vqv7e",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Bode plot?",
+    "options": [
+      "time vs voltage \u2014 concept",
+      "speed vs torque only \u2014 concept",
+      "space vs temperature \u2014 in practice",
+      "magnitude and phase vs frequency"
+    ],
+    "answerIndex": 3,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0030_v778b",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Bode plot?",
+    "options": [
+      "time vs voltage (typically)",
+      "space vs temperature (typically)",
+      "speed vs torque only (typically)",
+      "magnitude and phase vs frequency"
+    ],
+    "answerIndex": 3,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0030_vi56k",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Bode plot?",
+    "options": [
+      "magnitude and phase vs frequency",
+      "speed vs torque only \u2014 in practice",
+      "space vs temperature (policy)",
+      "time vs voltage (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0030_vgoeb",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Bode plot?",
+    "options": [
+      "magnitude and phase vs frequency",
+      "speed vs torque only (advanced)",
+      "space vs temperature (policy)",
+      "time vs voltage (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0030_v6fdk",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Bode plot? Select the best option.",
+    "options": [
+      "speed vs torque only (advanced)",
+      "space vs temperature (policy)",
+      "magnitude and phase vs frequency",
+      "time vs voltage (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0030_vuiro",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Bode plot? Choose the most accurate answer.",
+    "options": [
+      "space vs temperature \u2014 concept",
+      "speed vs torque only (framework)",
+      "magnitude and phase vs frequency",
+      "time vs voltage (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0030_v009z",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Bode plot?",
+    "options": [
+      "magnitude and phase vs frequency",
+      "speed vs torque only (theory)",
+      "space vs temperature (theory)",
+      "time vs voltage (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0030_vgw4d",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Bode plot?",
+    "options": [
+      "time vs voltage (framework)",
+      "space vs temperature (framework)",
+      "magnitude and phase vs frequency",
+      "speed vs torque only \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0030_vmxzl",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Bode plot?",
+    "options": [
+      "speed vs torque only (theory)",
+      "space vs temperature (typically)",
+      "magnitude and phase vs frequency",
+      "time vs voltage \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0031_v43pb",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Bode plot.",
+    "options": [
+      "time vs voltage (typically)",
+      "magnitude and phase vs frequency",
+      "speed vs torque only \u2014 concept",
+      "space vs temperature (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0031_vt290",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate definition of Bode plot.",
+    "options": [
+      "time vs voltage (policy)",
+      "space vs temperature \u2014 in practice",
+      "magnitude and phase vs frequency",
+      "speed vs torque only \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0031_v1u5y",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Identify the accurate definition of Bode plot.",
+    "options": [
+      "space vs temperature (typically)",
+      "magnitude and phase vs frequency",
+      "speed vs torque only (policy)",
+      "time vs voltage (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0031_vzde5",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate definition of Bode plot.",
+    "options": [
+      "space vs temperature (advanced)",
+      "magnitude and phase vs frequency",
+      "time vs voltage (framework)",
+      "speed vs torque only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0031_vg0ue",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Bode plot. Select the best option.",
+    "options": [
+      "magnitude and phase vs frequency",
+      "speed vs torque only (framework)",
+      "time vs voltage (policy)",
+      "space vs temperature (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0031_vvtn1",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Bode plot. Choose the most accurate answer.",
+    "options": [
+      "speed vs torque only (advanced)",
+      "magnitude and phase vs frequency",
+      "space vs temperature (typically)",
+      "time vs voltage (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0031_va8eh",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Choose the accurate definition of Bode plot.",
+    "options": [
+      "speed vs torque only (advanced)",
+      "magnitude and phase vs frequency",
+      "space vs temperature (theory)",
+      "time vs voltage \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0031_vgdm7",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate definition of Bode plot.",
+    "options": [
+      "space vs temperature (theory)",
+      "time vs voltage (policy)",
+      "magnitude and phase vs frequency",
+      "speed vs torque only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0032_ra77y",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced power/electronics: Bode plot primarily involves?",
+    "options": [
+      "time vs voltage (framework)",
+      "space vs temperature (policy)",
+      "speed vs torque only \u2014 concept",
+      "magnitude and phase vs frequency"
+    ],
+    "answerIndex": 3,
+    "explanation": "magnitude and phase vs frequency"
+  },
+  {
+    "id": "adv_electrical-engineering_0033_rueov",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Within electrical engineering, Transmission line Z0 refers to?",
+    "options": [
+      "characteristic impedance independent of length",
+      "always 50\u03a9 by law (theory)",
+      "infinite at DC (theory)",
+      "depends only on load \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "characteristic impedance independent of length"
+  },
+  {
+    "id": "adv_electrical-engineering_0034_rqc5h",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Transmission line Z0?",
+    "options": [
+      "depends only on load (theory)",
+      "characteristic impedance independent of length",
+      "infinite at DC \u2014 in practice",
+      "always 50\u03a9 by law (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "characteristic impedance independent of length"
+  },
+  {
+    "id": "adv_electrical-engineering_0034_rzcfx",
+    "category": "cadre",
+    "cadreSlug": "electrical-engineering",
+    "topic": "Electrical Engineering",
+    "subtopic": "Power & Control",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Transmission line Z0?",
+    "options": [
+      "characteristic impedance independent of length",
+      "depends only on load \u2014 in practice",
+      "always 50\u03a9 by law (policy)",
+      "infinite at DC \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "characteristic impedance independent of length"
+  }
+]

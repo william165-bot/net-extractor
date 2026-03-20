@@ -1,0 +1,4252 @@
+[
+  {
+    "id": "adv_legal_0001",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Separation of powers refers to?",
+    "options": [
+      "fusion of branches",
+      "executive supremacy only",
+      "division among legislative, executive, judiciary",
+      "judicial supremacy only"
+    ],
+    "answerIndex": 2,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0005",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Ultra vires refers to?",
+    "options": [
+      "act beyond legal powers is voidable/void",
+      "mens rea",
+      "res judicata",
+      "stare decisis"
+    ],
+    "answerIndex": 0,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0009",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Consideration in contract refers to?",
+    "options": [
+      "gratitude",
+      "capacity only",
+      "intention only",
+      "price for which promise is bought"
+    ],
+    "answerIndex": 3,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0013",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Duty of care (negligence) refers to?",
+    "options": [
+      "strict liability always",
+      "res ipsa loquitur only",
+      "legal duty to avoid foreseeable harm",
+      "vicarious liability always"
+    ],
+    "answerIndex": 2,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0017",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Hearsay rule refers to?",
+    "options": [
+      "never inadmissible",
+      "out-of-court statement not admissible unless exception",
+      "always admissible",
+      "only for civil"
+    ],
+    "answerIndex": 1,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0021",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Mens rea refers to?",
+    "options": [
+      "vicarious intent",
+      "actus reus",
+      "guilty mind required for many offences",
+      "strict liability element"
+    ],
+    "answerIndex": 2,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0025",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Judicial review grounds refers to?",
+    "options": [
+      "illegality, irrationality, procedural impropriety",
+      "equity maxims",
+      "merits review",
+      "policy substitution"
+    ],
+    "answerIndex": 0,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0029",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Arbitration vs mediation refers to?",
+    "options": [
+      "both binding awards",
+      "both require jury",
+      "both court-annexed only",
+      "arbitrator decides; mediator facilitates settlement"
+    ],
+    "answerIndex": 3,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0033",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Mischief rule refers to?",
+    "options": [
+      "golden rule only",
+      "ejusdem generis only",
+      "literal rule only",
+      "interpret statute to remedy mischief targeted"
+    ],
+    "answerIndex": 3,
+    "explanation": "interpret statute to remedy mischief targeted"
+  },
+  {
+    "id": "adv_legal_0037",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Legal professional privilege refers to?",
+    "options": [
+      "press interviews",
+      "all client chats",
+      "HR appraisals",
+      "confidential communications for legal advice/litigation"
+    ],
+    "answerIndex": 3,
+    "explanation": "confidential communications for legal advice/litigation"
+  },
+  {
+    "id": "adv_legal_0001_vbjm0",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: In law, Separation of powers refers to?",
+    "options": [
+      "division among legislative, executive, judiciary",
+      "fusion of branches (policy)",
+      "executive supremacy only (policy)",
+      "judicial supremacy only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0001_vst31",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Within law, Separation of powers refers to?",
+    "options": [
+      "division among legislative, executive, judiciary",
+      "fusion of branches (typically)",
+      "judicial supremacy only (typically)",
+      "executive supremacy only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0001_vbs6e",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: In law, Separation of powers refers to?",
+    "options": [
+      "executive supremacy only (theory)",
+      "division among legislative, executive, judiciary",
+      "judicial supremacy only (advanced)",
+      "fusion of branches (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0001_vwb46",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Separation of powers refers to? Select the best option.",
+    "options": [
+      "executive supremacy only (typically)",
+      "fusion of branches (framework)",
+      "judicial supremacy only (theory)",
+      "division among legislative, executive, judiciary"
+    ],
+    "answerIndex": 3,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0001_vkuo2",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Separation of powers refers to? Choose the most accurate answer.",
+    "options": [
+      "fusion of branches (advanced)",
+      "division among legislative, executive, judiciary",
+      "executive supremacy only — in practice",
+      "judicial supremacy only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0001_v76jj",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: In law, Separation of powers refers to?",
+    "options": [
+      "executive supremacy only — in practice",
+      "judicial supremacy only (advanced)",
+      "fusion of branches — concept",
+      "division among legislative, executive, judiciary"
+    ],
+    "answerIndex": 3,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0001_v6g39",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: In law, Separation of powers refers to?",
+    "options": [
+      "executive supremacy only — in practice",
+      "fusion of branches (policy)",
+      "judicial supremacy only (typically)",
+      "division among legislative, executive, judiciary"
+    ],
+    "answerIndex": 3,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0002_v8y2w",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Precisely which statement accurately describes Separation of powers?",
+    "options": [
+      "division among legislative, executive, judiciary",
+      "judicial supremacy only — in practice",
+      "fusion of branches — concept",
+      "executive supremacy only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0002_v5606",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement accurately describes Separation of powers?",
+    "options": [
+      "division among legislative, executive, judiciary",
+      "fusion of branches (theory)",
+      "executive supremacy only (typically)",
+      "judicial supremacy only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0002_vzoyq",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Separation of powers?",
+    "options": [
+      "judicial supremacy only (framework)",
+      "fusion of branches — in practice",
+      "executive supremacy only — in practice",
+      "division among legislative, executive, judiciary"
+    ],
+    "answerIndex": 3,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0002_vrn0w",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement accurately describes Separation of powers?",
+    "options": [
+      "executive supremacy only (advanced)",
+      "judicial supremacy only — concept",
+      "fusion of branches — concept",
+      "division among legislative, executive, judiciary"
+    ],
+    "answerIndex": 3,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0002_vbza4",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Separation of powers? Select the best option.",
+    "options": [
+      "division among legislative, executive, judiciary",
+      "fusion of branches (typically)",
+      "executive supremacy only (policy)",
+      "judicial supremacy only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0002_vrwm6",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Separation of powers? Choose the most accurate answer.",
+    "options": [
+      "executive supremacy only (typically)",
+      "judicial supremacy only — concept",
+      "division among legislative, executive, judiciary",
+      "fusion of branches (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0002_v1kh8",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement accurately describes Separation of powers?",
+    "options": [
+      "fusion of branches (typically)",
+      "judicial supremacy only (typically)",
+      "executive supremacy only (policy)",
+      "division among legislative, executive, judiciary"
+    ],
+    "answerIndex": 3,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0002_vmqx5",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement accurately describes Separation of powers?",
+    "options": [
+      "judicial supremacy only — concept",
+      "division among legislative, executive, judiciary",
+      "executive supremacy only — in practice",
+      "fusion of branches (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0002_vbqfv",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement accurately describes Separation of powers?",
+    "options": [
+      "executive supremacy only (advanced)",
+      "division among legislative, executive, judiciary",
+      "judicial supremacy only (framework)",
+      "fusion of branches (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0003_vq19d",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Separation of powers.",
+    "options": [
+      "executive supremacy only (theory)",
+      "judicial supremacy only (framework)",
+      "fusion of branches — in practice",
+      "division among legislative, executive, judiciary"
+    ],
+    "answerIndex": 3,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0003_vj6z0",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the correct description of Separation of powers.",
+    "options": [
+      "fusion of branches (policy)",
+      "division among legislative, executive, judiciary",
+      "judicial supremacy only (theory)",
+      "executive supremacy only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0003_vv56d",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Separation of powers.",
+    "options": [
+      "judicial supremacy only (policy)",
+      "division among legislative, executive, judiciary",
+      "executive supremacy only — in practice",
+      "fusion of branches — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0003_vriup",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the correct description of Separation of powers.",
+    "options": [
+      "fusion of branches — concept",
+      "division among legislative, executive, judiciary",
+      "executive supremacy only (framework)",
+      "judicial supremacy only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0003_vba39",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Separation of powers. Select the best option.",
+    "options": [
+      "executive supremacy only (advanced)",
+      "fusion of branches — in practice",
+      "division among legislative, executive, judiciary",
+      "judicial supremacy only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0003_v6xob",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Separation of powers. Choose the most accurate answer.",
+    "options": [
+      "executive supremacy only — in practice",
+      "judicial supremacy only (advanced)",
+      "fusion of branches (framework)",
+      "division among legislative, executive, judiciary"
+    ],
+    "answerIndex": 3,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0003_vdtfp",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Choose the correct description of Separation of powers.",
+    "options": [
+      "judicial supremacy only (theory)",
+      "executive supremacy only (theory)",
+      "division among legislative, executive, judiciary",
+      "fusion of branches (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0003_v44he",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the correct description of Separation of powers.",
+    "options": [
+      "fusion of branches (theory)",
+      "judicial supremacy only (advanced)",
+      "division among legislative, executive, judiciary",
+      "executive supremacy only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0003_vbroi",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the correct description of Separation of powers.",
+    "options": [
+      "judicial supremacy only (policy)",
+      "executive supremacy only — concept",
+      "fusion of branches — in practice",
+      "division among legislative, executive, judiciary"
+    ],
+    "answerIndex": 3,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0004_vj4it",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Separation of powers primarily involves?",
+    "options": [
+      "division among legislative, executive, judiciary",
+      "fusion of branches — in practice",
+      "judicial supremacy only — concept",
+      "executive supremacy only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0004_v1f4o",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced legal: Separation of powers primarily involves?",
+    "options": [
+      "judicial supremacy only (policy)",
+      "fusion of branches (typically)",
+      "executive supremacy only (typically)",
+      "division among legislative, executive, judiciary"
+    ],
+    "answerIndex": 3,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0004_vuajp",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced legal: Separation of powers primarily involves?",
+    "options": [
+      "fusion of branches (policy)",
+      "executive supremacy only (typically)",
+      "judicial supremacy only (policy)",
+      "division among legislative, executive, judiciary"
+    ],
+    "answerIndex": 3,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0004_vsuz1",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Separation of powers primarily involves? Select the best option.",
+    "options": [
+      "fusion of branches (policy)",
+      "executive supremacy only (policy)",
+      "division among legislative, executive, judiciary",
+      "judicial supremacy only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0004_vos8o",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced legal: Separation of powers primarily involves?",
+    "options": [
+      "division among legislative, executive, judiciary",
+      "fusion of branches (theory)",
+      "judicial supremacy only — in practice",
+      "executive supremacy only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0004_vp2pk",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced legal: Separation of powers primarily involves?",
+    "options": [
+      "fusion of branches — in practice",
+      "division among legislative, executive, judiciary",
+      "judicial supremacy only (typically)",
+      "executive supremacy only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "division among legislative, executive, judiciary"
+  },
+  {
+    "id": "adv_legal_0005_vyfsz",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: In law, Ultra vires refers to?",
+    "options": [
+      "stare decisis (advanced)",
+      "mens rea — in practice",
+      "res judicata (policy)",
+      "act beyond legal powers is voidable/void"
+    ],
+    "answerIndex": 3,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0005_vcgua",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Within law, Ultra vires refers to?",
+    "options": [
+      "stare decisis (framework)",
+      "mens rea (policy)",
+      "act beyond legal powers is voidable/void",
+      "res judicata (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0005_v0868",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: In law, Ultra vires refers to?",
+    "options": [
+      "res judicata (policy)",
+      "mens rea (theory)",
+      "stare decisis (typically)",
+      "act beyond legal powers is voidable/void"
+    ],
+    "answerIndex": 3,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0005_vudrp",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Ultra vires refers to? Select the best option.",
+    "options": [
+      "mens rea (advanced)",
+      "act beyond legal powers is voidable/void",
+      "res judicata (typically)",
+      "stare decisis (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0005_vg7ii",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Ultra vires refers to? Choose the most accurate answer.",
+    "options": [
+      "res judicata (policy)",
+      "stare decisis — in practice",
+      "act beyond legal powers is voidable/void",
+      "mens rea (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0005_viw98",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: In law, Ultra vires refers to?",
+    "options": [
+      "mens rea (theory)",
+      "act beyond legal powers is voidable/void",
+      "stare decisis (typically)",
+      "res judicata — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0006_vw6s1",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Precisely which statement accurately describes Ultra vires?",
+    "options": [
+      "res judicata — in practice",
+      "mens rea (framework)",
+      "act beyond legal powers is voidable/void",
+      "stare decisis (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0006_v1rjq",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement accurately describes Ultra vires?",
+    "options": [
+      "res judicata (policy)",
+      "stare decisis (advanced)",
+      "act beyond legal powers is voidable/void",
+      "mens rea (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0006_v83b8",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Ultra vires?",
+    "options": [
+      "res judicata (theory)",
+      "stare decisis — in practice",
+      "act beyond legal powers is voidable/void",
+      "mens rea (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0006_vvlct",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement accurately describes Ultra vires?",
+    "options": [
+      "mens rea (typically)",
+      "res judicata (advanced)",
+      "stare decisis (advanced)",
+      "act beyond legal powers is voidable/void"
+    ],
+    "answerIndex": 3,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0006_vk0yq",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Ultra vires? Select the best option.",
+    "options": [
+      "res judicata — concept",
+      "stare decisis (theory)",
+      "mens rea — in practice",
+      "act beyond legal powers is voidable/void"
+    ],
+    "answerIndex": 3,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0006_vmi23",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Ultra vires? Choose the most accurate answer.",
+    "options": [
+      "mens rea — in practice",
+      "act beyond legal powers is voidable/void",
+      "res judicata (theory)",
+      "stare decisis (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0006_vwb0x",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement accurately describes Ultra vires?",
+    "options": [
+      "stare decisis (policy)",
+      "mens rea (framework)",
+      "act beyond legal powers is voidable/void",
+      "res judicata (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0006_vmly3",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement accurately describes Ultra vires?",
+    "options": [
+      "stare decisis — concept",
+      "mens rea (framework)",
+      "res judicata (policy)",
+      "act beyond legal powers is voidable/void"
+    ],
+    "answerIndex": 3,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0007_v7m9g",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Ultra vires.",
+    "options": [
+      "act beyond legal powers is voidable/void",
+      "stare decisis (framework)",
+      "res judicata — concept",
+      "mens rea (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0007_v41h1",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the correct description of Ultra vires.",
+    "options": [
+      "mens rea (advanced)",
+      "act beyond legal powers is voidable/void",
+      "stare decisis (theory)",
+      "res judicata (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0007_v50t3",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Ultra vires.",
+    "options": [
+      "act beyond legal powers is voidable/void",
+      "res judicata — concept",
+      "stare decisis (advanced)",
+      "mens rea (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0007_v0b19",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the correct description of Ultra vires.",
+    "options": [
+      "act beyond legal powers is voidable/void",
+      "stare decisis (advanced)",
+      "res judicata — in practice",
+      "mens rea (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0007_v2ce1",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Ultra vires. Select the best option.",
+    "options": [
+      "res judicata (theory)",
+      "act beyond legal powers is voidable/void",
+      "mens rea (theory)",
+      "stare decisis — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0007_vrq1u",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Ultra vires. Choose the most accurate answer.",
+    "options": [
+      "stare decisis (typically)",
+      "mens rea (advanced)",
+      "res judicata (typically)",
+      "act beyond legal powers is voidable/void"
+    ],
+    "answerIndex": 3,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0007_vni8d",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Choose the correct description of Ultra vires.",
+    "options": [
+      "act beyond legal powers is voidable/void",
+      "mens rea — concept",
+      "res judicata (advanced)",
+      "stare decisis — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0007_vpq06",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the correct description of Ultra vires.",
+    "options": [
+      "act beyond legal powers is voidable/void",
+      "res judicata — in practice",
+      "stare decisis (typically)",
+      "mens rea (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0007_vfmr3",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the correct description of Ultra vires.",
+    "options": [
+      "stare decisis — in practice",
+      "res judicata (typically)",
+      "mens rea (policy)",
+      "act beyond legal powers is voidable/void"
+    ],
+    "answerIndex": 3,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0008_vsifa",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Ultra vires primarily involves?",
+    "options": [
+      "act beyond legal powers is voidable/void",
+      "res judicata (framework)",
+      "mens rea (framework)",
+      "stare decisis — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0008_vd60s",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced legal: Ultra vires primarily involves?",
+    "options": [
+      "res judicata (framework)",
+      "mens rea (policy)",
+      "stare decisis — in practice",
+      "act beyond legal powers is voidable/void"
+    ],
+    "answerIndex": 3,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0008_vef6e",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced legal: Ultra vires primarily involves?",
+    "options": [
+      "mens rea — concept",
+      "act beyond legal powers is voidable/void",
+      "res judicata — concept",
+      "stare decisis — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0008_v58u9",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Ultra vires primarily involves? Select the best option.",
+    "options": [
+      "res judicata (typically)",
+      "act beyond legal powers is voidable/void",
+      "mens rea (theory)",
+      "stare decisis (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0008_v9jbg",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Ultra vires primarily involves? Choose the most accurate answer.",
+    "options": [
+      "res judicata — in practice",
+      "act beyond legal powers is voidable/void",
+      "stare decisis (theory)",
+      "mens rea — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0008_vy0lv",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced legal: Ultra vires primarily involves?",
+    "options": [
+      "mens rea (policy)",
+      "res judicata (advanced)",
+      "stare decisis (theory)",
+      "act beyond legal powers is voidable/void"
+    ],
+    "answerIndex": 3,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0008_vwukh",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced legal: Ultra vires primarily involves?",
+    "options": [
+      "stare decisis (framework)",
+      "res judicata (policy)",
+      "act beyond legal powers is voidable/void",
+      "mens rea — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "act beyond legal powers is voidable/void"
+  },
+  {
+    "id": "adv_legal_0009_v20bl",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: In law, Consideration in contract refers to?",
+    "options": [
+      "intention only (theory)",
+      "capacity only — concept",
+      "price for which promise is bought",
+      "gratitude (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0009_v8gfn",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Within law, Consideration in contract refers to?",
+    "options": [
+      "price for which promise is bought",
+      "intention only — concept",
+      "gratitude (advanced)",
+      "capacity only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0009_vqp1c",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: In law, Consideration in contract refers to?",
+    "options": [
+      "intention only (policy)",
+      "capacity only (framework)",
+      "gratitude — concept",
+      "price for which promise is bought"
+    ],
+    "answerIndex": 3,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0009_vesxt",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Consideration in contract refers to? Select the best option.",
+    "options": [
+      "intention only (framework)",
+      "gratitude (policy)",
+      "capacity only — concept",
+      "price for which promise is bought"
+    ],
+    "answerIndex": 3,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0009_vl2m4",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Consideration in contract refers to? Choose the most accurate answer.",
+    "options": [
+      "gratitude (advanced)",
+      "capacity only (policy)",
+      "intention only (policy)",
+      "price for which promise is bought"
+    ],
+    "answerIndex": 3,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0009_v9n7p",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: In law, Consideration in contract refers to?",
+    "options": [
+      "gratitude (policy)",
+      "capacity only — concept",
+      "intention only (policy)",
+      "price for which promise is bought"
+    ],
+    "answerIndex": 3,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0009_vafee",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: In law, Consideration in contract refers to?",
+    "options": [
+      "intention only (advanced)",
+      "gratitude — in practice",
+      "price for which promise is bought",
+      "capacity only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0010_v8j25",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Precisely which statement accurately describes Consideration in contract?",
+    "options": [
+      "gratitude — in practice",
+      "price for which promise is bought",
+      "capacity only (typically)",
+      "intention only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0010_vzxez",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement accurately describes Consideration in contract?",
+    "options": [
+      "gratitude (typically)",
+      "price for which promise is bought",
+      "capacity only — concept",
+      "intention only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0010_vy1dd",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Consideration in contract?",
+    "options": [
+      "gratitude (theory)",
+      "capacity only (framework)",
+      "intention only — in practice",
+      "price for which promise is bought"
+    ],
+    "answerIndex": 3,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0010_vjxyf",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement accurately describes Consideration in contract?",
+    "options": [
+      "gratitude (theory)",
+      "capacity only (theory)",
+      "intention only (theory)",
+      "price for which promise is bought"
+    ],
+    "answerIndex": 3,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0010_vs3fg",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Consideration in contract? Select the best option.",
+    "options": [
+      "gratitude — concept",
+      "price for which promise is bought",
+      "capacity only (framework)",
+      "intention only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0010_vurfr",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Consideration in contract? Choose the most accurate answer.",
+    "options": [
+      "intention only — in practice",
+      "capacity only (advanced)",
+      "gratitude — concept",
+      "price for which promise is bought"
+    ],
+    "answerIndex": 3,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0010_vd0jm",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement accurately describes Consideration in contract?",
+    "options": [
+      "gratitude (framework)",
+      "intention only (advanced)",
+      "capacity only (framework)",
+      "price for which promise is bought"
+    ],
+    "answerIndex": 3,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0010_varxf",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement accurately describes Consideration in contract?",
+    "options": [
+      "gratitude (theory)",
+      "price for which promise is bought",
+      "intention only — in practice",
+      "capacity only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0010_veq2q",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement accurately describes Consideration in contract?",
+    "options": [
+      "price for which promise is bought",
+      "intention only (framework)",
+      "gratitude (framework)",
+      "capacity only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0011_vnfxm",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Consideration in contract.",
+    "options": [
+      "price for which promise is bought",
+      "capacity only — in practice",
+      "gratitude (theory)",
+      "intention only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0011_v6tjv",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Consideration in contract.",
+    "options": [
+      "price for which promise is bought",
+      "gratitude — concept",
+      "capacity only — in practice",
+      "intention only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0011_vtnhm",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the correct description of Consideration in contract.",
+    "options": [
+      "gratitude (framework)",
+      "capacity only (typically)",
+      "price for which promise is bought",
+      "intention only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0011_vbjmf",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Consideration in contract. Select the best option.",
+    "options": [
+      "intention only (policy)",
+      "capacity only (policy)",
+      "price for which promise is bought",
+      "gratitude (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0011_veekn",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Consideration in contract. Choose the most accurate answer.",
+    "options": [
+      "intention only — in practice",
+      "capacity only — in practice",
+      "gratitude (theory)",
+      "price for which promise is bought"
+    ],
+    "answerIndex": 3,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0011_v5043",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Choose the correct description of Consideration in contract.",
+    "options": [
+      "gratitude (framework)",
+      "price for which promise is bought",
+      "capacity only (theory)",
+      "intention only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0011_vaizi",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the correct description of Consideration in contract.",
+    "options": [
+      "intention only (advanced)",
+      "capacity only (framework)",
+      "price for which promise is bought",
+      "gratitude — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0011_v4svz",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the correct description of Consideration in contract.",
+    "options": [
+      "capacity only (framework)",
+      "price for which promise is bought",
+      "intention only (framework)",
+      "gratitude (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0012_vx4h5",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Consideration in contract primarily involves?",
+    "options": [
+      "capacity only (typically)",
+      "price for which promise is bought",
+      "intention only (theory)",
+      "gratitude (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0012_vcccm",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced legal: Consideration in contract primarily involves?",
+    "options": [
+      "gratitude (typically)",
+      "price for which promise is bought",
+      "capacity only (theory)",
+      "intention only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0012_vnv05",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced legal: Consideration in contract primarily involves?",
+    "options": [
+      "gratitude (policy)",
+      "capacity only (theory)",
+      "intention only (framework)",
+      "price for which promise is bought"
+    ],
+    "answerIndex": 3,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0012_vsr8a",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Consideration in contract primarily involves? Select the best option.",
+    "options": [
+      "capacity only (typically)",
+      "price for which promise is bought",
+      "intention only — concept",
+      "gratitude (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0012_vxk4f",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Consideration in contract primarily involves? Choose the most accurate answer.",
+    "options": [
+      "gratitude — in practice",
+      "capacity only (framework)",
+      "intention only (theory)",
+      "price for which promise is bought"
+    ],
+    "answerIndex": 3,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0012_vtgj1",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced legal: Consideration in contract primarily involves?",
+    "options": [
+      "capacity only — concept",
+      "price for which promise is bought",
+      "intention only (framework)",
+      "gratitude — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0012_vzupv",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced legal: Consideration in contract primarily involves?",
+    "options": [
+      "intention only (policy)",
+      "price for which promise is bought",
+      "capacity only (theory)",
+      "gratitude — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "price for which promise is bought"
+  },
+  {
+    "id": "adv_legal_0013_viej9",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: In law, Duty of care (negligence) refers to?",
+    "options": [
+      "res ipsa loquitur only (policy)",
+      "vicarious liability always — in practice",
+      "legal duty to avoid foreseeable harm",
+      "strict liability always (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0013_vwul5",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Within law, Duty of care (negligence) refers to?",
+    "options": [
+      "vicarious liability always (policy)",
+      "strict liability always (policy)",
+      "legal duty to avoid foreseeable harm",
+      "res ipsa loquitur only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0013_vzqx8",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: In law, Duty of care (negligence) refers to?",
+    "options": [
+      "vicarious liability always (advanced)",
+      "legal duty to avoid foreseeable harm",
+      "res ipsa loquitur only — in practice",
+      "strict liability always (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0013_vb5v4",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Duty of care (negligence) refers to? Select the best option.",
+    "options": [
+      "vicarious liability always — in practice",
+      "strict liability always — concept",
+      "legal duty to avoid foreseeable harm",
+      "res ipsa loquitur only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0013_vhhyk",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: In law, Duty of care (negligence) refers to?",
+    "options": [
+      "strict liability always (theory)",
+      "legal duty to avoid foreseeable harm",
+      "vicarious liability always (policy)",
+      "res ipsa loquitur only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0013_vwd24",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: In law, Duty of care (negligence) refers to?",
+    "options": [
+      "res ipsa loquitur only — in practice",
+      "strict liability always (policy)",
+      "vicarious liability always (advanced)",
+      "legal duty to avoid foreseeable harm"
+    ],
+    "answerIndex": 3,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0014_vwwvk",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Precisely which statement accurately describes Duty of care (negligence)?",
+    "options": [
+      "vicarious liability always (advanced)",
+      "res ipsa loquitur only (advanced)",
+      "strict liability always — in practice",
+      "legal duty to avoid foreseeable harm"
+    ],
+    "answerIndex": 3,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0014_v85wy",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement accurately describes Duty of care (negligence)?",
+    "options": [
+      "strict liability always — concept",
+      "res ipsa loquitur only — concept",
+      "vicarious liability always — in practice",
+      "legal duty to avoid foreseeable harm"
+    ],
+    "answerIndex": 3,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0014_v290h",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Duty of care (negligence)?",
+    "options": [
+      "legal duty to avoid foreseeable harm",
+      "res ipsa loquitur only (framework)",
+      "strict liability always (advanced)",
+      "vicarious liability always — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0014_v9sbf",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Duty of care (negligence)? Select the best option.",
+    "options": [
+      "res ipsa loquitur only — in practice",
+      "legal duty to avoid foreseeable harm",
+      "strict liability always (framework)",
+      "vicarious liability always (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0014_v8d1r",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Duty of care (negligence)? Choose the most accurate answer.",
+    "options": [
+      "vicarious liability always (typically)",
+      "legal duty to avoid foreseeable harm",
+      "res ipsa loquitur only (advanced)",
+      "strict liability always — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0014_v4wtt",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement accurately describes Duty of care (negligence)?",
+    "options": [
+      "strict liability always (policy)",
+      "legal duty to avoid foreseeable harm",
+      "vicarious liability always (typically)",
+      "res ipsa loquitur only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0014_vipi8",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement accurately describes Duty of care (negligence)?",
+    "options": [
+      "res ipsa loquitur only (typically)",
+      "vicarious liability always — in practice",
+      "strict liability always (advanced)",
+      "legal duty to avoid foreseeable harm"
+    ],
+    "answerIndex": 3,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0015_vzy2d",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Duty of care (negligence).",
+    "options": [
+      "vicarious liability always (advanced)",
+      "strict liability always (theory)",
+      "legal duty to avoid foreseeable harm",
+      "res ipsa loquitur only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0015_vlnk5",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the correct description of Duty of care (negligence).",
+    "options": [
+      "res ipsa loquitur only (typically)",
+      "legal duty to avoid foreseeable harm",
+      "vicarious liability always (theory)",
+      "strict liability always — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0015_vjg4d",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Duty of care (negligence).",
+    "options": [
+      "vicarious liability always (advanced)",
+      "strict liability always (policy)",
+      "legal duty to avoid foreseeable harm",
+      "res ipsa loquitur only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0015_vkrsg",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the correct description of Duty of care (negligence).",
+    "options": [
+      "res ipsa loquitur only (framework)",
+      "legal duty to avoid foreseeable harm",
+      "strict liability always (typically)",
+      "vicarious liability always (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0015_vt82a",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Duty of care (negligence). Select the best option.",
+    "options": [
+      "legal duty to avoid foreseeable harm",
+      "strict liability always (advanced)",
+      "res ipsa loquitur only (theory)",
+      "vicarious liability always — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0015_vjsxy",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Duty of care (negligence). Choose the most accurate answer.",
+    "options": [
+      "res ipsa loquitur only (typically)",
+      "strict liability always (typically)",
+      "vicarious liability always (policy)",
+      "legal duty to avoid foreseeable harm"
+    ],
+    "answerIndex": 3,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0015_v2sb6",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Choose the correct description of Duty of care (negligence).",
+    "options": [
+      "vicarious liability always — concept",
+      "strict liability always (theory)",
+      "legal duty to avoid foreseeable harm",
+      "res ipsa loquitur only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0015_vbum8",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the correct description of Duty of care (negligence).",
+    "options": [
+      "res ipsa loquitur only (policy)",
+      "vicarious liability always (typically)",
+      "strict liability always (advanced)",
+      "legal duty to avoid foreseeable harm"
+    ],
+    "answerIndex": 3,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0016_vhpqt",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Duty of care (negligence) primarily involves?",
+    "options": [
+      "vicarious liability always — concept",
+      "strict liability always (policy)",
+      "res ipsa loquitur only (policy)",
+      "legal duty to avoid foreseeable harm"
+    ],
+    "answerIndex": 3,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0016_vnc0b",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced legal: Duty of care (negligence) primarily involves?",
+    "options": [
+      "legal duty to avoid foreseeable harm",
+      "vicarious liability always (policy)",
+      "res ipsa loquitur only — in practice",
+      "strict liability always (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0016_vyl9p",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced legal: Duty of care (negligence) primarily involves?",
+    "options": [
+      "res ipsa loquitur only (typically)",
+      "strict liability always (policy)",
+      "vicarious liability always — concept",
+      "legal duty to avoid foreseeable harm"
+    ],
+    "answerIndex": 3,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0016_va0gf",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Duty of care (negligence) primarily involves? Select the best option.",
+    "options": [
+      "legal duty to avoid foreseeable harm",
+      "res ipsa loquitur only (framework)",
+      "strict liability always (typically)",
+      "vicarious liability always — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0016_vv5cg",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Duty of care (negligence) primarily involves? Choose the most accurate answer.",
+    "options": [
+      "strict liability always — concept",
+      "legal duty to avoid foreseeable harm",
+      "res ipsa loquitur only (advanced)",
+      "vicarious liability always (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0016_v6oni",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced legal: Duty of care (negligence) primarily involves?",
+    "options": [
+      "vicarious liability always — concept",
+      "res ipsa loquitur only (advanced)",
+      "legal duty to avoid foreseeable harm",
+      "strict liability always — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0016_vuvm9",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced legal: Duty of care (negligence) primarily involves?",
+    "options": [
+      "strict liability always (policy)",
+      "vicarious liability always (framework)",
+      "legal duty to avoid foreseeable harm",
+      "res ipsa loquitur only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "legal duty to avoid foreseeable harm"
+  },
+  {
+    "id": "adv_legal_0017_vzlkc",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: In law, Hearsay rule refers to?",
+    "options": [
+      "only for civil — concept",
+      "always admissible (framework)",
+      "never inadmissible (framework)",
+      "out-of-court statement not admissible unless exception"
+    ],
+    "answerIndex": 3,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0017_v4pih",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Within law, Hearsay rule refers to?",
+    "options": [
+      "never inadmissible — concept",
+      "always admissible (policy)",
+      "out-of-court statement not admissible unless exception",
+      "only for civil (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0017_v70ep",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: In law, Hearsay rule refers to?",
+    "options": [
+      "always admissible (typically)",
+      "only for civil (typically)",
+      "out-of-court statement not admissible unless exception",
+      "never inadmissible (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0017_v0aua",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Hearsay rule refers to? Select the best option.",
+    "options": [
+      "never inadmissible (typically)",
+      "only for civil — in practice",
+      "out-of-court statement not admissible unless exception",
+      "always admissible (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0017_vsmy9",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Hearsay rule refers to? Choose the most accurate answer.",
+    "options": [
+      "always admissible (advanced)",
+      "out-of-court statement not admissible unless exception",
+      "only for civil — in practice",
+      "never inadmissible — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0017_vb29t",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: In law, Hearsay rule refers to?",
+    "options": [
+      "always admissible (theory)",
+      "out-of-court statement not admissible unless exception",
+      "never inadmissible (policy)",
+      "only for civil (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0017_v3b81",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: In law, Hearsay rule refers to?",
+    "options": [
+      "only for civil — in practice",
+      "always admissible (advanced)",
+      "out-of-court statement not admissible unless exception",
+      "never inadmissible — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0018_v4xoa",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Precisely which statement accurately describes Hearsay rule?",
+    "options": [
+      "out-of-court statement not admissible unless exception",
+      "always admissible (theory)",
+      "only for civil — in practice",
+      "never inadmissible — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0018_vfl12",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement accurately describes Hearsay rule?",
+    "options": [
+      "only for civil (advanced)",
+      "out-of-court statement not admissible unless exception",
+      "never inadmissible — concept",
+      "always admissible (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0018_vo8ix",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Hearsay rule?",
+    "options": [
+      "only for civil (theory)",
+      "out-of-court statement not admissible unless exception",
+      "never inadmissible (typically)",
+      "always admissible — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0018_vw589",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement accurately describes Hearsay rule?",
+    "options": [
+      "only for civil — in practice",
+      "never inadmissible (advanced)",
+      "always admissible (theory)",
+      "out-of-court statement not admissible unless exception"
+    ],
+    "answerIndex": 3,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0018_v43h4",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Hearsay rule? Select the best option.",
+    "options": [
+      "only for civil (advanced)",
+      "always admissible — concept",
+      "out-of-court statement not admissible unless exception",
+      "never inadmissible (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0018_v1prt",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Hearsay rule? Choose the most accurate answer.",
+    "options": [
+      "only for civil — in practice",
+      "always admissible (typically)",
+      "out-of-court statement not admissible unless exception",
+      "never inadmissible (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0018_vzw2a",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement accurately describes Hearsay rule?",
+    "options": [
+      "always admissible — in practice",
+      "never inadmissible (theory)",
+      "only for civil (typically)",
+      "out-of-court statement not admissible unless exception"
+    ],
+    "answerIndex": 3,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0018_vt2tb",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement accurately describes Hearsay rule?",
+    "options": [
+      "only for civil — in practice",
+      "never inadmissible — in practice",
+      "always admissible (framework)",
+      "out-of-court statement not admissible unless exception"
+    ],
+    "answerIndex": 3,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0019_vgmsd",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Hearsay rule.",
+    "options": [
+      "never inadmissible (typically)",
+      "out-of-court statement not admissible unless exception",
+      "only for civil (framework)",
+      "always admissible — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0019_vst4o",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the correct description of Hearsay rule.",
+    "options": [
+      "only for civil (typically)",
+      "always admissible (policy)",
+      "out-of-court statement not admissible unless exception",
+      "never inadmissible (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0019_v62q5",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Hearsay rule.",
+    "options": [
+      "only for civil (typically)",
+      "never inadmissible (typically)",
+      "always admissible (theory)",
+      "out-of-court statement not admissible unless exception"
+    ],
+    "answerIndex": 3,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0019_vjikb",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the correct description of Hearsay rule.",
+    "options": [
+      "always admissible (policy)",
+      "only for civil (typically)",
+      "out-of-court statement not admissible unless exception",
+      "never inadmissible (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0019_vvlao",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Hearsay rule. Select the best option.",
+    "options": [
+      "never inadmissible (advanced)",
+      "only for civil (advanced)",
+      "always admissible (advanced)",
+      "out-of-court statement not admissible unless exception"
+    ],
+    "answerIndex": 3,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0019_v5h18",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Hearsay rule. Choose the most accurate answer.",
+    "options": [
+      "never inadmissible (advanced)",
+      "always admissible (advanced)",
+      "out-of-court statement not admissible unless exception",
+      "only for civil (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0019_vfw8v",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Choose the correct description of Hearsay rule.",
+    "options": [
+      "always admissible — concept",
+      "out-of-court statement not admissible unless exception",
+      "only for civil (typically)",
+      "never inadmissible (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0019_vbvd5",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the correct description of Hearsay rule.",
+    "options": [
+      "out-of-court statement not admissible unless exception",
+      "never inadmissible (framework)",
+      "always admissible (framework)",
+      "only for civil (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0020_vqd9n",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Hearsay rule primarily involves?",
+    "options": [
+      "out-of-court statement not admissible unless exception",
+      "only for civil (framework)",
+      "never inadmissible (framework)",
+      "always admissible (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0020_vrrdt",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced legal: Hearsay rule primarily involves?",
+    "options": [
+      "out-of-court statement not admissible unless exception",
+      "only for civil (policy)",
+      "always admissible (theory)",
+      "never inadmissible — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0020_vxgny",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Hearsay rule primarily involves? Select the best option.",
+    "options": [
+      "always admissible (typically)",
+      "never inadmissible (framework)",
+      "out-of-court statement not admissible unless exception",
+      "only for civil (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0020_vuzzg",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Hearsay rule primarily involves? Choose the most accurate answer.",
+    "options": [
+      "only for civil (theory)",
+      "never inadmissible (framework)",
+      "out-of-court statement not admissible unless exception",
+      "always admissible — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0020_v2ptq",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced legal: Hearsay rule primarily involves?",
+    "options": [
+      "only for civil (advanced)",
+      "out-of-court statement not admissible unless exception",
+      "always admissible (theory)",
+      "never inadmissible — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0020_v34ak",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced legal: Hearsay rule primarily involves?",
+    "options": [
+      "only for civil — in practice",
+      "always admissible — concept",
+      "out-of-court statement not admissible unless exception",
+      "never inadmissible — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "out-of-court statement not admissible unless exception"
+  },
+  {
+    "id": "adv_legal_0021_vk4af",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: In law, Mens rea refers to?",
+    "options": [
+      "guilty mind required for many offences",
+      "actus reus — concept",
+      "vicarious intent (theory)",
+      "strict liability element (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0021_v8j5j",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Within law, Mens rea refers to?",
+    "options": [
+      "strict liability element (typically)",
+      "actus reus (typically)",
+      "guilty mind required for many offences",
+      "vicarious intent (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0021_var9j",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: In law, Mens rea refers to?",
+    "options": [
+      "actus reus — concept",
+      "vicarious intent (framework)",
+      "guilty mind required for many offences",
+      "strict liability element — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0021_vrqap",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Mens rea refers to? Select the best option.",
+    "options": [
+      "vicarious intent (advanced)",
+      "strict liability element — in practice",
+      "guilty mind required for many offences",
+      "actus reus (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0021_v4p1c",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Mens rea refers to? Choose the most accurate answer.",
+    "options": [
+      "guilty mind required for many offences",
+      "strict liability element — concept",
+      "vicarious intent (theory)",
+      "actus reus (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0021_vzkm3",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: In law, Mens rea refers to?",
+    "options": [
+      "strict liability element — in practice",
+      "guilty mind required for many offences",
+      "vicarious intent — in practice",
+      "actus reus — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0021_vxbsm",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: In law, Mens rea refers to?",
+    "options": [
+      "guilty mind required for many offences",
+      "strict liability element (advanced)",
+      "vicarious intent (policy)",
+      "actus reus (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0022_vjy2x",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Precisely which statement accurately describes Mens rea?",
+    "options": [
+      "strict liability element (policy)",
+      "actus reus — in practice",
+      "vicarious intent — concept",
+      "guilty mind required for many offences"
+    ],
+    "answerIndex": 3,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0022_vyvth",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement accurately describes Mens rea?",
+    "options": [
+      "vicarious intent (framework)",
+      "strict liability element (typically)",
+      "actus reus (typically)",
+      "guilty mind required for many offences"
+    ],
+    "answerIndex": 3,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0022_v4y8e",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Mens rea?",
+    "options": [
+      "strict liability element (framework)",
+      "actus reus (policy)",
+      "guilty mind required for many offences",
+      "vicarious intent (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0022_v6a73",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement accurately describes Mens rea?",
+    "options": [
+      "vicarious intent — concept",
+      "guilty mind required for many offences",
+      "strict liability element (policy)",
+      "actus reus (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0022_vndka",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Mens rea? Select the best option.",
+    "options": [
+      "guilty mind required for many offences",
+      "strict liability element (policy)",
+      "vicarious intent (theory)",
+      "actus reus (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0022_v616u",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Mens rea? Choose the most accurate answer.",
+    "options": [
+      "actus reus (advanced)",
+      "vicarious intent (framework)",
+      "strict liability element (advanced)",
+      "guilty mind required for many offences"
+    ],
+    "answerIndex": 3,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0022_vkmyl",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement accurately describes Mens rea?",
+    "options": [
+      "actus reus (policy)",
+      "guilty mind required for many offences",
+      "strict liability element (advanced)",
+      "vicarious intent (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0022_v5v4a",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement accurately describes Mens rea?",
+    "options": [
+      "vicarious intent (policy)",
+      "actus reus — in practice",
+      "guilty mind required for many offences",
+      "strict liability element (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0022_vhfe9",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement accurately describes Mens rea?",
+    "options": [
+      "strict liability element (typically)",
+      "guilty mind required for many offences",
+      "vicarious intent (theory)",
+      "actus reus (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0023_vdyhk",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Mens rea.",
+    "options": [
+      "guilty mind required for many offences",
+      "strict liability element (typically)",
+      "actus reus (policy)",
+      "vicarious intent (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0023_vx8ri",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the correct description of Mens rea.",
+    "options": [
+      "vicarious intent (framework)",
+      "strict liability element — in practice",
+      "guilty mind required for many offences",
+      "actus reus (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0023_v29ty",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Mens rea.",
+    "options": [
+      "vicarious intent (advanced)",
+      "guilty mind required for many offences",
+      "actus reus (framework)",
+      "strict liability element (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0023_vd3ly",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the correct description of Mens rea.",
+    "options": [
+      "guilty mind required for many offences",
+      "strict liability element (advanced)",
+      "actus reus — in practice",
+      "vicarious intent (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0023_vx32u",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Mens rea. Select the best option.",
+    "options": [
+      "strict liability element (typically)",
+      "actus reus (theory)",
+      "guilty mind required for many offences",
+      "vicarious intent — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0023_vagih",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Mens rea. Choose the most accurate answer.",
+    "options": [
+      "actus reus (advanced)",
+      "vicarious intent — in practice",
+      "guilty mind required for many offences",
+      "strict liability element (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0023_vcicy",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Choose the correct description of Mens rea.",
+    "options": [
+      "guilty mind required for many offences",
+      "strict liability element — concept",
+      "actus reus — concept",
+      "vicarious intent — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0023_vg9ds",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the correct description of Mens rea.",
+    "options": [
+      "actus reus (framework)",
+      "guilty mind required for many offences",
+      "vicarious intent (advanced)",
+      "strict liability element (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0023_v266s",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the correct description of Mens rea.",
+    "options": [
+      "guilty mind required for many offences",
+      "actus reus (framework)",
+      "strict liability element (advanced)",
+      "vicarious intent (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0024_vdj4a",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Mens rea primarily involves?",
+    "options": [
+      "guilty mind required for many offences",
+      "strict liability element (theory)",
+      "actus reus (framework)",
+      "vicarious intent (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0024_vim2y",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced legal: Mens rea primarily involves?",
+    "options": [
+      "vicarious intent (policy)",
+      "guilty mind required for many offences",
+      "actus reus (framework)",
+      "strict liability element (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0024_vxkwl",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced legal: Mens rea primarily involves?",
+    "options": [
+      "strict liability element (advanced)",
+      "guilty mind required for many offences",
+      "vicarious intent (typically)",
+      "actus reus (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0024_vgyyf",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Mens rea primarily involves? Select the best option.",
+    "options": [
+      "vicarious intent — in practice",
+      "actus reus (theory)",
+      "guilty mind required for many offences",
+      "strict liability element (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0024_vzwft",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Mens rea primarily involves? Choose the most accurate answer.",
+    "options": [
+      "vicarious intent (typically)",
+      "strict liability element (theory)",
+      "guilty mind required for many offences",
+      "actus reus — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0024_v9qhs",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced legal: Mens rea primarily involves?",
+    "options": [
+      "strict liability element (policy)",
+      "actus reus (typically)",
+      "guilty mind required for many offences",
+      "vicarious intent (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0024_vkwla",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced legal: Mens rea primarily involves?",
+    "options": [
+      "actus reus — concept",
+      "strict liability element (theory)",
+      "guilty mind required for many offences",
+      "vicarious intent — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "guilty mind required for many offences"
+  },
+  {
+    "id": "adv_legal_0025_vhtgc",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: In law, Judicial review grounds refers to?",
+    "options": [
+      "equity maxims (advanced)",
+      "illegality, irrationality, procedural impropriety",
+      "merits review (policy)",
+      "policy substitution (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0025_v41ks",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: In law, Judicial review grounds refers to?",
+    "options": [
+      "merits review — concept",
+      "equity maxims — concept",
+      "illegality, irrationality, procedural impropriety",
+      "policy substitution — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0025_v9b8d",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Judicial review grounds refers to? Select the best option.",
+    "options": [
+      "illegality, irrationality, procedural impropriety",
+      "merits review (typically)",
+      "policy substitution (advanced)",
+      "equity maxims — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0025_v6a7t",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Judicial review grounds refers to? Choose the most accurate answer.",
+    "options": [
+      "equity maxims (policy)",
+      "merits review (policy)",
+      "illegality, irrationality, procedural impropriety",
+      "policy substitution (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0025_vr6wm",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: In law, Judicial review grounds refers to?",
+    "options": [
+      "policy substitution (theory)",
+      "equity maxims (framework)",
+      "merits review — in practice",
+      "illegality, irrationality, procedural impropriety"
+    ],
+    "answerIndex": 3,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0025_v2e2a",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: In law, Judicial review grounds refers to?",
+    "options": [
+      "policy substitution (policy)",
+      "merits review (theory)",
+      "equity maxims (policy)",
+      "illegality, irrationality, procedural impropriety"
+    ],
+    "answerIndex": 3,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0026_v1dzb",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Precisely which statement accurately describes Judicial review grounds?",
+    "options": [
+      "illegality, irrationality, procedural impropriety",
+      "policy substitution — in practice",
+      "merits review (advanced)",
+      "equity maxims (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0026_v0mro",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement accurately describes Judicial review grounds?",
+    "options": [
+      "equity maxims (policy)",
+      "merits review (policy)",
+      "policy substitution — concept",
+      "illegality, irrationality, procedural impropriety"
+    ],
+    "answerIndex": 3,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0026_v2kgo",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Judicial review grounds?",
+    "options": [
+      "equity maxims (policy)",
+      "illegality, irrationality, procedural impropriety",
+      "merits review (typically)",
+      "policy substitution (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0026_vgog3",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement accurately describes Judicial review grounds?",
+    "options": [
+      "merits review — in practice",
+      "illegality, irrationality, procedural impropriety",
+      "equity maxims (typically)",
+      "policy substitution (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0026_vfmla",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Judicial review grounds? Select the best option.",
+    "options": [
+      "illegality, irrationality, procedural impropriety",
+      "merits review (advanced)",
+      "policy substitution (typically)",
+      "equity maxims (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0026_vkefz",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Judicial review grounds? Choose the most accurate answer.",
+    "options": [
+      "illegality, irrationality, procedural impropriety",
+      "merits review — in practice",
+      "equity maxims (theory)",
+      "policy substitution (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0026_vmoej",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement accurately describes Judicial review grounds?",
+    "options": [
+      "equity maxims (policy)",
+      "merits review — in practice",
+      "policy substitution (framework)",
+      "illegality, irrationality, procedural impropriety"
+    ],
+    "answerIndex": 3,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0026_vk6tu",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement accurately describes Judicial review grounds?",
+    "options": [
+      "merits review (advanced)",
+      "equity maxims (theory)",
+      "policy substitution (theory)",
+      "illegality, irrationality, procedural impropriety"
+    ],
+    "answerIndex": 3,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0026_vupyn",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement accurately describes Judicial review grounds?",
+    "options": [
+      "equity maxims (theory)",
+      "merits review — concept",
+      "policy substitution — concept",
+      "illegality, irrationality, procedural impropriety"
+    ],
+    "answerIndex": 3,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0027_v134l",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Judicial review grounds.",
+    "options": [
+      "merits review (typically)",
+      "illegality, irrationality, procedural impropriety",
+      "policy substitution (advanced)",
+      "equity maxims (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0027_vf0pz",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the correct description of Judicial review grounds.",
+    "options": [
+      "policy substitution (framework)",
+      "equity maxims — in practice",
+      "illegality, irrationality, procedural impropriety",
+      "merits review — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0027_vwtvp",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Judicial review grounds.",
+    "options": [
+      "equity maxims (policy)",
+      "policy substitution — in practice",
+      "illegality, irrationality, procedural impropriety",
+      "merits review — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0027_ve6lp",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the correct description of Judicial review grounds.",
+    "options": [
+      "merits review (framework)",
+      "equity maxims (policy)",
+      "illegality, irrationality, procedural impropriety",
+      "policy substitution (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0027_v8xj9",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Judicial review grounds. Choose the most accurate answer.",
+    "options": [
+      "policy substitution (policy)",
+      "illegality, irrationality, procedural impropriety",
+      "merits review — concept",
+      "equity maxims (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0027_vwlf0",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the correct description of Judicial review grounds.",
+    "options": [
+      "policy substitution — concept",
+      "equity maxims (framework)",
+      "merits review — in practice",
+      "illegality, irrationality, procedural impropriety"
+    ],
+    "answerIndex": 3,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0027_vy3pw",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the correct description of Judicial review grounds.",
+    "options": [
+      "merits review (advanced)",
+      "equity maxims (theory)",
+      "illegality, irrationality, procedural impropriety",
+      "policy substitution — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0028_vjnll",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Judicial review grounds primarily involves?",
+    "options": [
+      "equity maxims (theory)",
+      "policy substitution (advanced)",
+      "illegality, irrationality, procedural impropriety",
+      "merits review (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0028_v4nqn",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced legal: Judicial review grounds primarily involves?",
+    "options": [
+      "illegality, irrationality, procedural impropriety",
+      "policy substitution (advanced)",
+      "merits review (framework)",
+      "equity maxims (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0028_vzssv",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced legal: Judicial review grounds primarily involves?",
+    "options": [
+      "policy substitution (advanced)",
+      "merits review (policy)",
+      "illegality, irrationality, procedural impropriety",
+      "equity maxims (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0028_v9sej",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Judicial review grounds primarily involves? Select the best option.",
+    "options": [
+      "equity maxims (advanced)",
+      "illegality, irrationality, procedural impropriety",
+      "policy substitution (framework)",
+      "merits review — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0028_v5jwa",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Judicial review grounds primarily involves? Choose the most accurate answer.",
+    "options": [
+      "illegality, irrationality, procedural impropriety",
+      "policy substitution (theory)",
+      "equity maxims (policy)",
+      "merits review (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0028_vf7p2",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced legal: Judicial review grounds primarily involves?",
+    "options": [
+      "policy substitution (typically)",
+      "equity maxims (advanced)",
+      "merits review (advanced)",
+      "illegality, irrationality, procedural impropriety"
+    ],
+    "answerIndex": 3,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0028_vxy31",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced legal: Judicial review grounds primarily involves?",
+    "options": [
+      "merits review — in practice",
+      "illegality, irrationality, procedural impropriety",
+      "equity maxims — in practice",
+      "policy substitution (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "illegality, irrationality, procedural impropriety"
+  },
+  {
+    "id": "adv_legal_0029_vbx00",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: In law, Arbitration vs mediation refers to?",
+    "options": [
+      "arbitrator decides; mediator facilitates settlement",
+      "both require jury (policy)",
+      "both binding awards (framework)",
+      "both court-annexed only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0029_v8wqz",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Within law, Arbitration vs mediation refers to?",
+    "options": [
+      "both require jury (advanced)",
+      "arbitrator decides; mediator facilitates settlement",
+      "both binding awards (theory)",
+      "both court-annexed only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0029_vmf17",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: In law, Arbitration vs mediation refers to?",
+    "options": [
+      "both court-annexed only — concept",
+      "arbitrator decides; mediator facilitates settlement",
+      "both binding awards (typically)",
+      "both require jury (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0029_v45z3",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Arbitration vs mediation refers to? Select the best option.",
+    "options": [
+      "arbitrator decides; mediator facilitates settlement",
+      "both binding awards — in practice",
+      "both require jury (advanced)",
+      "both court-annexed only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0029_v7mrc",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "In law, Arbitration vs mediation refers to? Choose the most accurate answer.",
+    "options": [
+      "both require jury (policy)",
+      "both court-annexed only (advanced)",
+      "arbitrator decides; mediator facilitates settlement",
+      "both binding awards (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0029_vl017",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: In law, Arbitration vs mediation refers to?",
+    "options": [
+      "both binding awards — concept",
+      "both require jury (framework)",
+      "both court-annexed only (advanced)",
+      "arbitrator decides; mediator facilitates settlement"
+    ],
+    "answerIndex": 3,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0029_vuiwx",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: In law, Arbitration vs mediation refers to?",
+    "options": [
+      "arbitrator decides; mediator facilitates settlement",
+      "both require jury (theory)",
+      "both binding awards (advanced)",
+      "both court-annexed only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0030_v137f",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Precisely which statement accurately describes Arbitration vs mediation?",
+    "options": [
+      "both binding awards (framework)",
+      "both require jury (typically)",
+      "arbitrator decides; mediator facilitates settlement",
+      "both court-annexed only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0030_v61x2",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement accurately describes Arbitration vs mediation?",
+    "options": [
+      "arbitrator decides; mediator facilitates settlement",
+      "both require jury — in practice",
+      "both court-annexed only (advanced)",
+      "both binding awards (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0030_vr79q",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Arbitration vs mediation?",
+    "options": [
+      "arbitrator decides; mediator facilitates settlement",
+      "both court-annexed only — concept",
+      "both binding awards (typically)",
+      "both require jury (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0030_vr2fy",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement accurately describes Arbitration vs mediation?",
+    "options": [
+      "both binding awards (framework)",
+      "both court-annexed only — concept",
+      "arbitrator decides; mediator facilitates settlement",
+      "both require jury (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0030_vc6t8",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which statement accurately describes Arbitration vs mediation? Choose the most accurate answer.",
+    "options": [
+      "both binding awards (policy)",
+      "both require jury (framework)",
+      "arbitrator decides; mediator facilitates settlement",
+      "both court-annexed only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0030_vydhx",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement accurately describes Arbitration vs mediation?",
+    "options": [
+      "both binding awards (policy)",
+      "arbitrator decides; mediator facilitates settlement",
+      "both court-annexed only — concept",
+      "both require jury — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0030_vhka5",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement accurately describes Arbitration vs mediation?",
+    "options": [
+      "both binding awards (advanced)",
+      "both require jury (policy)",
+      "arbitrator decides; mediator facilitates settlement",
+      "both court-annexed only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0030_vsp70",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement accurately describes Arbitration vs mediation?",
+    "options": [
+      "both require jury (framework)",
+      "arbitrator decides; mediator facilitates settlement",
+      "both binding awards (theory)",
+      "both court-annexed only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0031_v2bie",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Arbitration vs mediation.",
+    "options": [
+      "both binding awards (advanced)",
+      "arbitrator decides; mediator facilitates settlement",
+      "both require jury — in practice",
+      "both court-annexed only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0031_vt17h",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the correct description of Arbitration vs mediation.",
+    "options": [
+      "both court-annexed only (policy)",
+      "both binding awards (policy)",
+      "both require jury (theory)",
+      "arbitrator decides; mediator facilitates settlement"
+    ],
+    "answerIndex": 3,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0031_vi5hk",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Arbitration vs mediation.",
+    "options": [
+      "both require jury (policy)",
+      "both binding awards (framework)",
+      "both court-annexed only — concept",
+      "arbitrator decides; mediator facilitates settlement"
+    ],
+    "answerIndex": 3,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0031_vf9zc",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the correct description of Arbitration vs mediation.",
+    "options": [
+      "both binding awards (theory)",
+      "both court-annexed only (policy)",
+      "arbitrator decides; mediator facilitates settlement",
+      "both require jury — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0031_vhu48",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Arbitration vs mediation. Select the best option.",
+    "options": [
+      "arbitrator decides; mediator facilitates settlement",
+      "both binding awards (theory)",
+      "both court-annexed only (framework)",
+      "both require jury (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0031_vrmcp",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Arbitration vs mediation. Choose the most accurate answer.",
+    "options": [
+      "both court-annexed only (theory)",
+      "arbitrator decides; mediator facilitates settlement",
+      "both require jury (advanced)",
+      "both binding awards (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0031_vhvr9",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Choose the correct description of Arbitration vs mediation.",
+    "options": [
+      "arbitrator decides; mediator facilitates settlement",
+      "both require jury (typically)",
+      "both binding awards (theory)",
+      "both court-annexed only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0031_veuzz",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the correct description of Arbitration vs mediation.",
+    "options": [
+      "arbitrator decides; mediator facilitates settlement",
+      "both binding awards (typically)",
+      "both court-annexed only — in practice",
+      "both require jury (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0031_vt540",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the correct description of Arbitration vs mediation.",
+    "options": [
+      "both binding awards (advanced)",
+      "arbitrator decides; mediator facilitates settlement",
+      "both require jury (typically)",
+      "both court-annexed only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0032_v2sg8",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Arbitration vs mediation primarily involves?",
+    "options": [
+      "both require jury — concept",
+      "both binding awards — concept",
+      "both court-annexed only (policy)",
+      "arbitrator decides; mediator facilitates settlement"
+    ],
+    "answerIndex": 3,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0032_vm0qm",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced legal: Arbitration vs mediation primarily involves?",
+    "options": [
+      "both court-annexed only (policy)",
+      "both require jury — concept",
+      "both binding awards (advanced)",
+      "arbitrator decides; mediator facilitates settlement"
+    ],
+    "answerIndex": 3,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0032_vzqpx",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced legal: Arbitration vs mediation primarily involves?",
+    "options": [
+      "both require jury — in practice",
+      "both court-annexed only — concept",
+      "both binding awards (typically)",
+      "arbitrator decides; mediator facilitates settlement"
+    ],
+    "answerIndex": 3,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0032_v8g38",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Arbitration vs mediation primarily involves? Select the best option.",
+    "options": [
+      "both court-annexed only (framework)",
+      "both binding awards — in practice",
+      "arbitrator decides; mediator facilitates settlement",
+      "both require jury (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0032_vuwxf",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Advanced legal: Arbitration vs mediation primarily involves? Choose the most accurate answer.",
+    "options": [
+      "both binding awards (theory)",
+      "both court-annexed only — in practice",
+      "arbitrator decides; mediator facilitates settlement",
+      "both require jury — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  },
+  {
+    "id": "adv_legal_0032_ve3fu",
+    "category": "cadre",
+    "cadreSlug": "legal",
+    "topic": "Law",
+    "subtopic": "Principles & Procedure",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced legal: Arbitration vs mediation primarily involves?",
+    "options": [
+      "both court-annexed only (framework)",
+      "both binding awards (policy)",
+      "both require jury — concept",
+      "arbitrator decides; mediator facilitates settlement"
+    ],
+    "answerIndex": 3,
+    "explanation": "arbitrator decides; mediator facilitates settlement"
+  }
+]

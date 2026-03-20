@@ -1,0 +1,4252 @@
+[
+  {
+    "id": "adv_culture-and-tourism_0001",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, UNESCO World Heritage Convention refers to?",
+    "options": [
+      "sets aviation rules",
+      "protects cultural and natural heritage of outstanding value",
+      "manages stock exchanges",
+      "controls maritime tonnage"
+    ],
+    "answerIndex": 1,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0005",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Carrying capacity in tourism refers to?",
+    "options": [
+      "max rooms sold",
+      "min ticket price",
+      "max visitors without unacceptable impacts",
+      "max revenue regardless"
+    ],
+    "answerIndex": 2,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0009",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Destination branding refers to?",
+    "options": [
+      "visa regime only",
+      "unique value proposition and identity for place",
+      "room pricing only",
+      "hotel star rating only"
+    ],
+    "answerIndex": 1,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0013",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Sustainable tourism pillars refers to?",
+    "options": [
+      "economic only",
+      "infrastructure only",
+      "environmental, socio-cultural, economic",
+      "tech only"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0017",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Interpretation centres refers to?",
+    "options": [
+      "ticketing only",
+      "food courts",
+      "security posts",
+      "educate visitors on heritage significance"
+    ],
+    "answerIndex": 3,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0021",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Creative economy refers to?",
+    "options": [
+      "heavy industry only",
+      "value creation from cultural/creative assets",
+      "banking only",
+      "agriculture only"
+    ],
+    "answerIndex": 1,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0025",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Community-based tourism refers to?",
+    "options": [
+      "local ownership and benefit sharing",
+      "government-only",
+      "foreign-owned only",
+      "private-only"
+    ],
+    "answerIndex": 0,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0029",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Tourism leakage refers to?",
+    "options": [
+      "outflow of revenue from destination",
+      "inflow of grants",
+      "capital investment",
+      "CSR funds"
+    ],
+    "answerIndex": 0,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0033",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Heritage impact assessment refers to?",
+    "options": [
+      "assess development effects on heritage",
+      "EIA replacement",
+      "financial audit",
+      "market survey only"
+    ],
+    "answerIndex": 0,
+    "explanation": "assess development effects on heritage"
+  },
+  {
+    "id": "adv_culture-and-tourism_0037",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Blue/green flag certification refers to?",
+    "options": [
+      "recognition of beaches/marinas meeting standards",
+      "trade fair",
+      "airline alliance",
+      "hotel franchise"
+    ],
+    "answerIndex": 0,
+    "explanation": "recognition of beaches/marinas meeting standards"
+  },
+  {
+    "id": "adv_culture-and-tourism_0001_vdl4s",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: In culture/tourism, UNESCO World Heritage Convention refers to?",
+    "options": [
+      "manages stock exchanges (policy)",
+      "protects cultural and natural heritage of outstanding value",
+      "controls maritime tonnage (policy)",
+      "sets aviation rules (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0001_vy4n5",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Within culture/tourism, UNESCO World Heritage Convention refers to?",
+    "options": [
+      "sets aviation rules (policy)",
+      "manages stock exchanges (typically)",
+      "protects cultural and natural heritage of outstanding value",
+      "controls maritime tonnage (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0001_vq30p",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: In culture/tourism, UNESCO World Heritage Convention refers to?",
+    "options": [
+      "controls maritime tonnage — in practice",
+      "protects cultural and natural heritage of outstanding value",
+      "sets aviation rules — in practice",
+      "manages stock exchanges (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0001_vn1m9",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, UNESCO World Heritage Convention refers to? Select the best option.",
+    "options": [
+      "sets aviation rules — concept",
+      "controls maritime tonnage (advanced)",
+      "manages stock exchanges (framework)",
+      "protects cultural and natural heritage of outstanding value"
+    ],
+    "answerIndex": 3,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0001_v8imu",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, UNESCO World Heritage Convention refers to? Choose the most accurate answer.",
+    "options": [
+      "protects cultural and natural heritage of outstanding value",
+      "sets aviation rules (theory)",
+      "controls maritime tonnage (policy)",
+      "manages stock exchanges (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0001_v7p0m",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: In culture/tourism, UNESCO World Heritage Convention refers to?",
+    "options": [
+      "protects cultural and natural heritage of outstanding value",
+      "controls maritime tonnage (theory)",
+      "sets aviation rules — concept",
+      "manages stock exchanges — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0001_vbe79",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: In culture/tourism, UNESCO World Heritage Convention refers to?",
+    "options": [
+      "controls maritime tonnage (framework)",
+      "protects cultural and natural heritage of outstanding value",
+      "sets aviation rules — concept",
+      "manages stock exchanges (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0002_vk8cp",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines UNESCO World Heritage Convention?",
+    "options": [
+      "protects cultural and natural heritage of outstanding value",
+      "sets aviation rules (typically)",
+      "manages stock exchanges (advanced)",
+      "controls maritime tonnage (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0002_vcl3b",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines UNESCO World Heritage Convention?",
+    "options": [
+      "manages stock exchanges (policy)",
+      "protects cultural and natural heritage of outstanding value",
+      "sets aviation rules — concept",
+      "controls maritime tonnage — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0002_v2dum",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines UNESCO World Heritage Convention?",
+    "options": [
+      "manages stock exchanges (theory)",
+      "controls maritime tonnage (advanced)",
+      "sets aviation rules (advanced)",
+      "protects cultural and natural heritage of outstanding value"
+    ],
+    "answerIndex": 3,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0002_v4rll",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines UNESCO World Heritage Convention?",
+    "options": [
+      "manages stock exchanges — in practice",
+      "controls maritime tonnage — concept",
+      "sets aviation rules (typically)",
+      "protects cultural and natural heritage of outstanding value"
+    ],
+    "answerIndex": 3,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0002_vubsm",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines UNESCO World Heritage Convention? Choose the most accurate answer.",
+    "options": [
+      "manages stock exchanges — concept",
+      "controls maritime tonnage — concept",
+      "protects cultural and natural heritage of outstanding value",
+      "sets aviation rules (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0002_vwdv7",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines UNESCO World Heritage Convention?",
+    "options": [
+      "manages stock exchanges — in practice",
+      "controls maritime tonnage (advanced)",
+      "sets aviation rules (advanced)",
+      "protects cultural and natural heritage of outstanding value"
+    ],
+    "answerIndex": 3,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0002_vboyr",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines UNESCO World Heritage Convention?",
+    "options": [
+      "controls maritime tonnage (advanced)",
+      "protects cultural and natural heritage of outstanding value",
+      "manages stock exchanges (advanced)",
+      "sets aviation rules (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0002_vzsmy",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines UNESCO World Heritage Convention?",
+    "options": [
+      "sets aviation rules (theory)",
+      "manages stock exchanges (advanced)",
+      "controls maritime tonnage (advanced)",
+      "protects cultural and natural heritage of outstanding value"
+    ],
+    "answerIndex": 3,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0003_vfd3r",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of UNESCO World Heritage Convention.",
+    "options": [
+      "manages stock exchanges (framework)",
+      "protects cultural and natural heritage of outstanding value",
+      "controls maritime tonnage (theory)",
+      "sets aviation rules (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0003_vw1m8",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of UNESCO World Heritage Convention.",
+    "options": [
+      "controls maritime tonnage (advanced)",
+      "sets aviation rules (framework)",
+      "manages stock exchanges — in practice",
+      "protects cultural and natural heritage of outstanding value"
+    ],
+    "answerIndex": 3,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0003_vx03u",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of UNESCO World Heritage Convention.",
+    "options": [
+      "manages stock exchanges (framework)",
+      "controls maritime tonnage — in practice",
+      "protects cultural and natural heritage of outstanding value",
+      "sets aviation rules — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0003_vhpyz",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of UNESCO World Heritage Convention.",
+    "options": [
+      "protects cultural and natural heritage of outstanding value",
+      "manages stock exchanges (advanced)",
+      "controls maritime tonnage (typically)",
+      "sets aviation rules — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0003_vvo5b",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of UNESCO World Heritage Convention. Select the best option.",
+    "options": [
+      "manages stock exchanges (theory)",
+      "sets aviation rules (theory)",
+      "controls maritime tonnage — in practice",
+      "protects cultural and natural heritage of outstanding value"
+    ],
+    "answerIndex": 3,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0003_vv6bg",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of UNESCO World Heritage Convention. Choose the most accurate answer.",
+    "options": [
+      "controls maritime tonnage (framework)",
+      "protects cultural and natural heritage of outstanding value",
+      "manages stock exchanges (theory)",
+      "sets aviation rules (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0003_vjlok",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of UNESCO World Heritage Convention.",
+    "options": [
+      "sets aviation rules (theory)",
+      "manages stock exchanges (theory)",
+      "protects cultural and natural heritage of outstanding value",
+      "controls maritime tonnage — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0003_vs3iq",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of UNESCO World Heritage Convention.",
+    "options": [
+      "controls maritime tonnage (theory)",
+      "protects cultural and natural heritage of outstanding value",
+      "sets aviation rules — concept",
+      "manages stock exchanges — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0004_vkri9",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: UNESCO World Heritage Convention primarily addresses what?",
+    "options": [
+      "controls maritime tonnage — in practice",
+      "sets aviation rules (policy)",
+      "protects cultural and natural heritage of outstanding value",
+      "manages stock exchanges (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0004_v0n5l",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced tourism: UNESCO World Heritage Convention primarily addresses what?",
+    "options": [
+      "controls maritime tonnage — in practice",
+      "sets aviation rules (theory)",
+      "protects cultural and natural heritage of outstanding value",
+      "manages stock exchanges — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0004_vobrk",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: UNESCO World Heritage Convention primarily addresses what? Select the best option.",
+    "options": [
+      "protects cultural and natural heritage of outstanding value",
+      "controls maritime tonnage (advanced)",
+      "sets aviation rules (typically)",
+      "manages stock exchanges (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0004_vp7bz",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: UNESCO World Heritage Convention primarily addresses what? Choose the most accurate answer.",
+    "options": [
+      "manages stock exchanges (framework)",
+      "protects cultural and natural heritage of outstanding value",
+      "controls maritime tonnage (framework)",
+      "sets aviation rules — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0004_vplzp",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced tourism: UNESCO World Heritage Convention primarily addresses what?",
+    "options": [
+      "sets aviation rules (advanced)",
+      "controls maritime tonnage — in practice",
+      "protects cultural and natural heritage of outstanding value",
+      "manages stock exchanges — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "protects cultural and natural heritage of outstanding value"
+  },
+  {
+    "id": "adv_culture-and-tourism_0005_vinyz",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: In culture/tourism, Carrying capacity in tourism refers to?",
+    "options": [
+      "max rooms sold (theory)",
+      "max visitors without unacceptable impacts",
+      "min ticket price — in practice",
+      "max revenue regardless (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0005_vlm2h",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Within culture/tourism, Carrying capacity in tourism refers to?",
+    "options": [
+      "max revenue regardless — in practice",
+      "max rooms sold — in practice",
+      "max visitors without unacceptable impacts",
+      "min ticket price — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0005_vnoyq",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: In culture/tourism, Carrying capacity in tourism refers to?",
+    "options": [
+      "max revenue regardless — concept",
+      "max rooms sold (framework)",
+      "min ticket price — concept",
+      "max visitors without unacceptable impacts"
+    ],
+    "answerIndex": 3,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0005_vi0db",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Carrying capacity in tourism refers to? Choose the most accurate answer.",
+    "options": [
+      "max revenue regardless (typically)",
+      "max rooms sold (policy)",
+      "max visitors without unacceptable impacts",
+      "min ticket price (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0005_vc782",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: In culture/tourism, Carrying capacity in tourism refers to?",
+    "options": [
+      "max visitors without unacceptable impacts",
+      "min ticket price (policy)",
+      "max rooms sold (advanced)",
+      "max revenue regardless — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0005_vige2",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: In culture/tourism, Carrying capacity in tourism refers to?",
+    "options": [
+      "max visitors without unacceptable impacts",
+      "min ticket price — concept",
+      "max rooms sold (theory)",
+      "max revenue regardless (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0006_vja09",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Carrying capacity in tourism?",
+    "options": [
+      "max visitors without unacceptable impacts",
+      "min ticket price (framework)",
+      "max rooms sold — in practice",
+      "max revenue regardless (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0006_v00rz",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Carrying capacity in tourism?",
+    "options": [
+      "max revenue regardless (theory)",
+      "min ticket price (policy)",
+      "max rooms sold (policy)",
+      "max visitors without unacceptable impacts"
+    ],
+    "answerIndex": 3,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0006_votp3",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Carrying capacity in tourism?",
+    "options": [
+      "min ticket price (framework)",
+      "max visitors without unacceptable impacts",
+      "max revenue regardless (advanced)",
+      "max rooms sold (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0006_v9ad3",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Carrying capacity in tourism?",
+    "options": [
+      "max rooms sold (framework)",
+      "max visitors without unacceptable impacts",
+      "min ticket price (theory)",
+      "max revenue regardless (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0006_v277m",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Carrying capacity in tourism? Select the best option.",
+    "options": [
+      "max rooms sold — concept",
+      "max visitors without unacceptable impacts",
+      "min ticket price (advanced)",
+      "max revenue regardless (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0006_vb26g",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Carrying capacity in tourism? Choose the most accurate answer.",
+    "options": [
+      "max revenue regardless (policy)",
+      "max visitors without unacceptable impacts",
+      "max rooms sold (typically)",
+      "min ticket price (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0006_vz09d",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Carrying capacity in tourism?",
+    "options": [
+      "max rooms sold — in practice",
+      "max visitors without unacceptable impacts",
+      "min ticket price (theory)",
+      "max revenue regardless (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0006_vgrgl",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Carrying capacity in tourism?",
+    "options": [
+      "max rooms sold (typically)",
+      "max visitors without unacceptable impacts",
+      "min ticket price (advanced)",
+      "max revenue regardless (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0006_vmlbt",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Carrying capacity in tourism?",
+    "options": [
+      "max rooms sold — in practice",
+      "min ticket price (policy)",
+      "max revenue regardless — in practice",
+      "max visitors without unacceptable impacts"
+    ],
+    "answerIndex": 3,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0007_vum06",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Carrying capacity in tourism.",
+    "options": [
+      "max rooms sold (advanced)",
+      "min ticket price — in practice",
+      "max visitors without unacceptable impacts",
+      "max revenue regardless (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0007_vhvh1",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Carrying capacity in tourism.",
+    "options": [
+      "min ticket price (typically)",
+      "max rooms sold — concept",
+      "max revenue regardless (policy)",
+      "max visitors without unacceptable impacts"
+    ],
+    "answerIndex": 3,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0007_v97vz",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Carrying capacity in tourism.",
+    "options": [
+      "max rooms sold — concept",
+      "max revenue regardless (advanced)",
+      "min ticket price — in practice",
+      "max visitors without unacceptable impacts"
+    ],
+    "answerIndex": 3,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0007_vq4tb",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Carrying capacity in tourism.",
+    "options": [
+      "min ticket price (policy)",
+      "max visitors without unacceptable impacts",
+      "max rooms sold (theory)",
+      "max revenue regardless (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0007_v9afu",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Carrying capacity in tourism. Select the best option.",
+    "options": [
+      "max rooms sold (advanced)",
+      "min ticket price — in practice",
+      "max visitors without unacceptable impacts",
+      "max revenue regardless (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0007_ve9qr",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Carrying capacity in tourism. Choose the most accurate answer.",
+    "options": [
+      "max visitors without unacceptable impacts",
+      "max revenue regardless (policy)",
+      "max rooms sold — in practice",
+      "min ticket price — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0007_v2af9",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Carrying capacity in tourism.",
+    "options": [
+      "max visitors without unacceptable impacts",
+      "max revenue regardless (policy)",
+      "min ticket price (typically)",
+      "max rooms sold (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0007_vhinb",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Carrying capacity in tourism.",
+    "options": [
+      "max visitors without unacceptable impacts",
+      "max rooms sold (framework)",
+      "min ticket price (typically)",
+      "max revenue regardless (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0007_vun3m",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Carrying capacity in tourism.",
+    "options": [
+      "max revenue regardless (policy)",
+      "min ticket price — in practice",
+      "max rooms sold (typically)",
+      "max visitors without unacceptable impacts"
+    ],
+    "answerIndex": 3,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0008_vs5ls",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced tourism: Carrying capacity in tourism primarily addresses what?",
+    "options": [
+      "max revenue regardless — concept",
+      "min ticket price (advanced)",
+      "max visitors without unacceptable impacts",
+      "max rooms sold (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0008_vlyij",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Carrying capacity in tourism primarily addresses what?",
+    "options": [
+      "max visitors without unacceptable impacts",
+      "min ticket price — concept",
+      "max revenue regardless — concept",
+      "max rooms sold (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0008_vy7tj",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced tourism: Carrying capacity in tourism primarily addresses what?",
+    "options": [
+      "max rooms sold — concept",
+      "max visitors without unacceptable impacts",
+      "max revenue regardless — in practice",
+      "min ticket price (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0008_v387h",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Carrying capacity in tourism primarily addresses what? Select the best option.",
+    "options": [
+      "min ticket price (framework)",
+      "max revenue regardless (typically)",
+      "max visitors without unacceptable impacts",
+      "max rooms sold (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0008_vho9g",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Carrying capacity in tourism primarily addresses what? Choose the most accurate answer.",
+    "options": [
+      "max visitors without unacceptable impacts",
+      "min ticket price (typically)",
+      "max rooms sold (theory)",
+      "max revenue regardless (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0008_v303c",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced tourism: Carrying capacity in tourism primarily addresses what?",
+    "options": [
+      "max rooms sold (policy)",
+      "max visitors without unacceptable impacts",
+      "min ticket price (typically)",
+      "max revenue regardless (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "max visitors without unacceptable impacts"
+  },
+  {
+    "id": "adv_culture-and-tourism_0009_v6wsx",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: In culture/tourism, Destination branding refers to?",
+    "options": [
+      "visa regime only (advanced)",
+      "unique value proposition and identity for place",
+      "room pricing only (advanced)",
+      "hotel star rating only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0009_v6xwa",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Within culture/tourism, Destination branding refers to?",
+    "options": [
+      "hotel star rating only (theory)",
+      "visa regime only (theory)",
+      "room pricing only (advanced)",
+      "unique value proposition and identity for place"
+    ],
+    "answerIndex": 3,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0009_vt8po",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: In culture/tourism, Destination branding refers to?",
+    "options": [
+      "visa regime only (theory)",
+      "room pricing only — in practice",
+      "unique value proposition and identity for place",
+      "hotel star rating only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0009_vmlzu",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Destination branding refers to? Select the best option.",
+    "options": [
+      "hotel star rating only (theory)",
+      "unique value proposition and identity for place",
+      "visa regime only (framework)",
+      "room pricing only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0009_vplkm",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Destination branding refers to? Choose the most accurate answer.",
+    "options": [
+      "visa regime only (framework)",
+      "unique value proposition and identity for place",
+      "room pricing only (policy)",
+      "hotel star rating only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0009_vopnm",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: In culture/tourism, Destination branding refers to?",
+    "options": [
+      "room pricing only — in practice",
+      "visa regime only — in practice",
+      "hotel star rating only — in practice",
+      "unique value proposition and identity for place"
+    ],
+    "answerIndex": 3,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0009_vqp90",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: In culture/tourism, Destination branding refers to?",
+    "options": [
+      "unique value proposition and identity for place",
+      "hotel star rating only (theory)",
+      "room pricing only (framework)",
+      "visa regime only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0010_vq2f3",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Destination branding?",
+    "options": [
+      "hotel star rating only — in practice",
+      "room pricing only (policy)",
+      "visa regime only — concept",
+      "unique value proposition and identity for place"
+    ],
+    "answerIndex": 3,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0010_v1vad",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Destination branding?",
+    "options": [
+      "hotel star rating only (framework)",
+      "visa regime only (framework)",
+      "room pricing only (framework)",
+      "unique value proposition and identity for place"
+    ],
+    "answerIndex": 3,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0010_v2lol",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Destination branding?",
+    "options": [
+      "visa regime only — concept",
+      "hotel star rating only (typically)",
+      "room pricing only (theory)",
+      "unique value proposition and identity for place"
+    ],
+    "answerIndex": 3,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0010_v8y2d",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Destination branding?",
+    "options": [
+      "room pricing only (policy)",
+      "visa regime only (advanced)",
+      "hotel star rating only (advanced)",
+      "unique value proposition and identity for place"
+    ],
+    "answerIndex": 3,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0010_v0ntq",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Destination branding? Select the best option.",
+    "options": [
+      "room pricing only (typically)",
+      "hotel star rating only — in practice",
+      "visa regime only (typically)",
+      "unique value proposition and identity for place"
+    ],
+    "answerIndex": 3,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0010_vkjmf",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Destination branding? Choose the most accurate answer.",
+    "options": [
+      "hotel star rating only (typically)",
+      "room pricing only (policy)",
+      "unique value proposition and identity for place",
+      "visa regime only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0010_vmkic",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Destination branding?",
+    "options": [
+      "room pricing only (theory)",
+      "visa regime only — concept",
+      "hotel star rating only — in practice",
+      "unique value proposition and identity for place"
+    ],
+    "answerIndex": 3,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0010_vq70f",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Destination branding?",
+    "options": [
+      "unique value proposition and identity for place",
+      "room pricing only — concept",
+      "visa regime only (advanced)",
+      "hotel star rating only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0010_v84uf",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Destination branding?",
+    "options": [
+      "visa regime only (framework)",
+      "hotel star rating only — concept",
+      "unique value proposition and identity for place",
+      "room pricing only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0011_vk6lq",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Destination branding.",
+    "options": [
+      "unique value proposition and identity for place",
+      "room pricing only (advanced)",
+      "hotel star rating only — in practice",
+      "visa regime only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0011_vix8f",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Destination branding.",
+    "options": [
+      "hotel star rating only — in practice",
+      "room pricing only (advanced)",
+      "unique value proposition and identity for place",
+      "visa regime only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0011_vyi0i",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Destination branding.",
+    "options": [
+      "visa regime only (policy)",
+      "room pricing only (policy)",
+      "hotel star rating only (framework)",
+      "unique value proposition and identity for place"
+    ],
+    "answerIndex": 3,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0011_vykt9",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Destination branding.",
+    "options": [
+      "hotel star rating only (policy)",
+      "unique value proposition and identity for place",
+      "room pricing only (theory)",
+      "visa regime only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0011_vv660",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Destination branding. Select the best option.",
+    "options": [
+      "visa regime only (framework)",
+      "hotel star rating only (policy)",
+      "unique value proposition and identity for place",
+      "room pricing only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0011_vnk6b",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Destination branding. Choose the most accurate answer.",
+    "options": [
+      "unique value proposition and identity for place",
+      "hotel star rating only (advanced)",
+      "visa regime only — in practice",
+      "room pricing only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0011_vusws",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Destination branding.",
+    "options": [
+      "hotel star rating only (advanced)",
+      "unique value proposition and identity for place",
+      "room pricing only (advanced)",
+      "visa regime only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0011_v6a5n",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Destination branding.",
+    "options": [
+      "visa regime only (theory)",
+      "unique value proposition and identity for place",
+      "room pricing only (advanced)",
+      "hotel star rating only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0011_vdjco",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Destination branding.",
+    "options": [
+      "unique value proposition and identity for place",
+      "room pricing only — concept",
+      "hotel star rating only (framework)",
+      "visa regime only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0012_vsle6",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Destination branding primarily addresses what?",
+    "options": [
+      "hotel star rating only (advanced)",
+      "unique value proposition and identity for place",
+      "visa regime only — in practice",
+      "room pricing only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0012_vc7ib",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced tourism: Destination branding primarily addresses what?",
+    "options": [
+      "visa regime only — in practice",
+      "unique value proposition and identity for place",
+      "hotel star rating only (policy)",
+      "room pricing only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0012_v67jh",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced tourism: Destination branding primarily addresses what?",
+    "options": [
+      "unique value proposition and identity for place",
+      "room pricing only (typically)",
+      "visa regime only (advanced)",
+      "hotel star rating only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0012_vaa30",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Destination branding primarily addresses what? Select the best option.",
+    "options": [
+      "room pricing only (framework)",
+      "hotel star rating only — concept",
+      "unique value proposition and identity for place",
+      "visa regime only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0012_v0s96",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Destination branding primarily addresses what? Choose the most accurate answer.",
+    "options": [
+      "visa regime only (typically)",
+      "room pricing only (policy)",
+      "hotel star rating only (typically)",
+      "unique value proposition and identity for place"
+    ],
+    "answerIndex": 3,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0012_vbc2p",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced tourism: Destination branding primarily addresses what?",
+    "options": [
+      "room pricing only — concept",
+      "visa regime only (typically)",
+      "hotel star rating only — concept",
+      "unique value proposition and identity for place"
+    ],
+    "answerIndex": 3,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0012_v380e",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced tourism: Destination branding primarily addresses what?",
+    "options": [
+      "visa regime only — in practice",
+      "room pricing only (theory)",
+      "hotel star rating only — in practice",
+      "unique value proposition and identity for place"
+    ],
+    "answerIndex": 3,
+    "explanation": "unique value proposition and identity for place"
+  },
+  {
+    "id": "adv_culture-and-tourism_0013_v70jk",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: In culture/tourism, Sustainable tourism pillars refers to?",
+    "options": [
+      "tech only (theory)",
+      "environmental, socio-cultural, economic",
+      "economic only (framework)",
+      "infrastructure only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0013_v3e0o",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Within culture/tourism, Sustainable tourism pillars refers to?",
+    "options": [
+      "environmental, socio-cultural, economic",
+      "tech only — in practice",
+      "economic only (policy)",
+      "infrastructure only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0013_vo5ha",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: In culture/tourism, Sustainable tourism pillars refers to?",
+    "options": [
+      "economic only — concept",
+      "environmental, socio-cultural, economic",
+      "infrastructure only (framework)",
+      "tech only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0013_vonag",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Sustainable tourism pillars refers to? Select the best option.",
+    "options": [
+      "environmental, socio-cultural, economic",
+      "economic only (advanced)",
+      "infrastructure only — in practice",
+      "tech only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0013_vd3vd",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Sustainable tourism pillars refers to? Choose the most accurate answer.",
+    "options": [
+      "environmental, socio-cultural, economic",
+      "infrastructure only (policy)",
+      "tech only (policy)",
+      "economic only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0013_vftx4",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: In culture/tourism, Sustainable tourism pillars refers to?",
+    "options": [
+      "infrastructure only (policy)",
+      "tech only (advanced)",
+      "economic only (typically)",
+      "environmental, socio-cultural, economic"
+    ],
+    "answerIndex": 3,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0013_vl4jl",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: In culture/tourism, Sustainable tourism pillars refers to?",
+    "options": [
+      "environmental, socio-cultural, economic",
+      "infrastructure only — concept",
+      "tech only (framework)",
+      "economic only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0014_v0azn",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Sustainable tourism pillars?",
+    "options": [
+      "tech only (framework)",
+      "infrastructure only (advanced)",
+      "environmental, socio-cultural, economic",
+      "economic only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0014_vb97u",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Sustainable tourism pillars?",
+    "options": [
+      "environmental, socio-cultural, economic",
+      "economic only — in practice",
+      "infrastructure only — concept",
+      "tech only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0014_vjbfc",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Sustainable tourism pillars?",
+    "options": [
+      "economic only (advanced)",
+      "tech only — concept",
+      "infrastructure only (framework)",
+      "environmental, socio-cultural, economic"
+    ],
+    "answerIndex": 3,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0014_v6ap7",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Sustainable tourism pillars?",
+    "options": [
+      "infrastructure only (framework)",
+      "economic only — concept",
+      "environmental, socio-cultural, economic",
+      "tech only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0014_vsq3a",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Sustainable tourism pillars? Select the best option.",
+    "options": [
+      "environmental, socio-cultural, economic",
+      "infrastructure only — in practice",
+      "tech only (typically)",
+      "economic only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0014_vmtym",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Sustainable tourism pillars? Choose the most accurate answer.",
+    "options": [
+      "infrastructure only (theory)",
+      "tech only (theory)",
+      "environmental, socio-cultural, economic",
+      "economic only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0014_v5ik7",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Sustainable tourism pillars?",
+    "options": [
+      "environmental, socio-cultural, economic",
+      "tech only (theory)",
+      "infrastructure only — in practice",
+      "economic only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0014_vc1ny",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Sustainable tourism pillars?",
+    "options": [
+      "infrastructure only (theory)",
+      "economic only (policy)",
+      "tech only (policy)",
+      "environmental, socio-cultural, economic"
+    ],
+    "answerIndex": 3,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0014_vbfml",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Sustainable tourism pillars?",
+    "options": [
+      "infrastructure only (framework)",
+      "tech only (theory)",
+      "environmental, socio-cultural, economic",
+      "economic only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0015_vk5nt",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Sustainable tourism pillars.",
+    "options": [
+      "infrastructure only (advanced)",
+      "tech only (framework)",
+      "environmental, socio-cultural, economic",
+      "economic only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0015_v02i6",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Sustainable tourism pillars.",
+    "options": [
+      "environmental, socio-cultural, economic",
+      "infrastructure only — in practice",
+      "tech only (policy)",
+      "economic only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0015_vqy9h",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Sustainable tourism pillars.",
+    "options": [
+      "tech only (typically)",
+      "environmental, socio-cultural, economic",
+      "infrastructure only (framework)",
+      "economic only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0015_vrbvb",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Sustainable tourism pillars.",
+    "options": [
+      "tech only — in practice",
+      "environmental, socio-cultural, economic",
+      "infrastructure only (framework)",
+      "economic only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0015_vdt2r",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Sustainable tourism pillars. Select the best option.",
+    "options": [
+      "economic only (framework)",
+      "tech only (policy)",
+      "infrastructure only — in practice",
+      "environmental, socio-cultural, economic"
+    ],
+    "answerIndex": 3,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0015_vp77a",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Sustainable tourism pillars. Choose the most accurate answer.",
+    "options": [
+      "tech only (framework)",
+      "economic only (framework)",
+      "infrastructure only — concept",
+      "environmental, socio-cultural, economic"
+    ],
+    "answerIndex": 3,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0015_v5sro",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Sustainable tourism pillars.",
+    "options": [
+      "infrastructure only (policy)",
+      "environmental, socio-cultural, economic",
+      "tech only (typically)",
+      "economic only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0015_vd5pf",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Sustainable tourism pillars.",
+    "options": [
+      "infrastructure only (advanced)",
+      "economic only (theory)",
+      "environmental, socio-cultural, economic",
+      "tech only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0015_v5ndv",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Sustainable tourism pillars.",
+    "options": [
+      "economic only (framework)",
+      "tech only — in practice",
+      "infrastructure only (framework)",
+      "environmental, socio-cultural, economic"
+    ],
+    "answerIndex": 3,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0016_vocf3",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Sustainable tourism pillars primarily addresses what?",
+    "options": [
+      "infrastructure only (theory)",
+      "economic only — concept",
+      "environmental, socio-cultural, economic",
+      "tech only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0016_v65xr",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced tourism: Sustainable tourism pillars primarily addresses what?",
+    "options": [
+      "economic only — in practice",
+      "tech only (theory)",
+      "infrastructure only (policy)",
+      "environmental, socio-cultural, economic"
+    ],
+    "answerIndex": 3,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0016_vdcup",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced tourism: Sustainable tourism pillars primarily addresses what?",
+    "options": [
+      "economic only (typically)",
+      "infrastructure only (framework)",
+      "environmental, socio-cultural, economic",
+      "tech only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0016_v6drk",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Sustainable tourism pillars primarily addresses what? Choose the most accurate answer.",
+    "options": [
+      "environmental, socio-cultural, economic",
+      "infrastructure only (theory)",
+      "tech only (advanced)",
+      "economic only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0016_vbscs",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced tourism: Sustainable tourism pillars primarily addresses what?",
+    "options": [
+      "environmental, socio-cultural, economic",
+      "tech only (advanced)",
+      "economic only (policy)",
+      "infrastructure only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0016_vcwya",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced tourism: Sustainable tourism pillars primarily addresses what?",
+    "options": [
+      "infrastructure only — concept",
+      "economic only (framework)",
+      "tech only — concept",
+      "environmental, socio-cultural, economic"
+    ],
+    "answerIndex": 3,
+    "explanation": "environmental, socio-cultural, economic"
+  },
+  {
+    "id": "adv_culture-and-tourism_0017_v3ih2",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: In culture/tourism, Interpretation centres refers to?",
+    "options": [
+      "security posts (policy)",
+      "ticketing only (typically)",
+      "educate visitors on heritage significance",
+      "food courts (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0017_v5yzs",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Within culture/tourism, Interpretation centres refers to?",
+    "options": [
+      "ticketing only (policy)",
+      "food courts — in practice",
+      "educate visitors on heritage significance",
+      "security posts — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0017_v6j25",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: In culture/tourism, Interpretation centres refers to?",
+    "options": [
+      "food courts (policy)",
+      "security posts — in practice",
+      "ticketing only (theory)",
+      "educate visitors on heritage significance"
+    ],
+    "answerIndex": 3,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0017_vyk2j",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Interpretation centres refers to? Select the best option.",
+    "options": [
+      "ticketing only (theory)",
+      "food courts (framework)",
+      "educate visitors on heritage significance",
+      "security posts (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0017_v1lm2",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Interpretation centres refers to? Choose the most accurate answer.",
+    "options": [
+      "ticketing only (typically)",
+      "educate visitors on heritage significance",
+      "food courts (theory)",
+      "security posts (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0017_vfq7i",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: In culture/tourism, Interpretation centres refers to?",
+    "options": [
+      "educate visitors on heritage significance",
+      "ticketing only (typically)",
+      "food courts (policy)",
+      "security posts — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0017_vprtg",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: In culture/tourism, Interpretation centres refers to?",
+    "options": [
+      "ticketing only — in practice",
+      "security posts (typically)",
+      "food courts (policy)",
+      "educate visitors on heritage significance"
+    ],
+    "answerIndex": 3,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0018_v0zlt",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Interpretation centres?",
+    "options": [
+      "ticketing only (typically)",
+      "food courts — concept",
+      "security posts (framework)",
+      "educate visitors on heritage significance"
+    ],
+    "answerIndex": 3,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0018_v1i5i",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Interpretation centres?",
+    "options": [
+      "ticketing only (policy)",
+      "security posts — concept",
+      "educate visitors on heritage significance",
+      "food courts (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0018_vvvcz",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Interpretation centres?",
+    "options": [
+      "food courts (theory)",
+      "security posts — in practice",
+      "educate visitors on heritage significance",
+      "ticketing only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0018_vofz7",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Interpretation centres?",
+    "options": [
+      "ticketing only (theory)",
+      "security posts (framework)",
+      "food courts (typically)",
+      "educate visitors on heritage significance"
+    ],
+    "answerIndex": 3,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0018_vvi51",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Interpretation centres? Select the best option.",
+    "options": [
+      "educate visitors on heritage significance",
+      "food courts — in practice",
+      "security posts (policy)",
+      "ticketing only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0018_vywah",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Interpretation centres? Choose the most accurate answer.",
+    "options": [
+      "security posts — concept",
+      "educate visitors on heritage significance",
+      "ticketing only (policy)",
+      "food courts — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0018_v1u20",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Interpretation centres?",
+    "options": [
+      "ticketing only (advanced)",
+      "security posts (policy)",
+      "educate visitors on heritage significance",
+      "food courts — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0018_vzl7r",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Interpretation centres?",
+    "options": [
+      "ticketing only (typically)",
+      "educate visitors on heritage significance",
+      "food courts (framework)",
+      "security posts (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0018_vi0o6",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Interpretation centres?",
+    "options": [
+      "ticketing only — concept",
+      "educate visitors on heritage significance",
+      "food courts (advanced)",
+      "security posts (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0019_vputs",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Interpretation centres.",
+    "options": [
+      "ticketing only (advanced)",
+      "food courts (typically)",
+      "security posts (policy)",
+      "educate visitors on heritage significance"
+    ],
+    "answerIndex": 3,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0019_vtp32",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Interpretation centres.",
+    "options": [
+      "ticketing only (theory)",
+      "educate visitors on heritage significance",
+      "security posts (typically)",
+      "food courts — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0019_vb9gh",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Interpretation centres.",
+    "options": [
+      "food courts (policy)",
+      "educate visitors on heritage significance",
+      "security posts (framework)",
+      "ticketing only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0019_vl757",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Interpretation centres.",
+    "options": [
+      "educate visitors on heritage significance",
+      "food courts — in practice",
+      "ticketing only — concept",
+      "security posts (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0019_vbl7l",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Interpretation centres. Select the best option.",
+    "options": [
+      "security posts (typically)",
+      "food courts (policy)",
+      "ticketing only (framework)",
+      "educate visitors on heritage significance"
+    ],
+    "answerIndex": 3,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0019_vlkwl",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Interpretation centres.",
+    "options": [
+      "educate visitors on heritage significance",
+      "ticketing only (theory)",
+      "security posts — concept",
+      "food courts — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0019_v8thr",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Interpretation centres.",
+    "options": [
+      "educate visitors on heritage significance",
+      "food courts (policy)",
+      "ticketing only — in practice",
+      "security posts — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0019_vmtx6",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Interpretation centres.",
+    "options": [
+      "security posts (typically)",
+      "educate visitors on heritage significance",
+      "food courts (policy)",
+      "ticketing only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0020_v0601",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Interpretation centres primarily addresses what?",
+    "options": [
+      "educate visitors on heritage significance",
+      "food courts (typically)",
+      "security posts (framework)",
+      "ticketing only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0020_vhdyo",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced tourism: Interpretation centres primarily addresses what?",
+    "options": [
+      "ticketing only — concept",
+      "food courts — in practice",
+      "security posts (theory)",
+      "educate visitors on heritage significance"
+    ],
+    "answerIndex": 3,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0020_vvv6h",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced tourism: Interpretation centres primarily addresses what?",
+    "options": [
+      "educate visitors on heritage significance",
+      "food courts — in practice",
+      "ticketing only (typically)",
+      "security posts (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0020_vyaen",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Interpretation centres primarily addresses what? Select the best option.",
+    "options": [
+      "ticketing only (typically)",
+      "security posts — concept",
+      "food courts (framework)",
+      "educate visitors on heritage significance"
+    ],
+    "answerIndex": 3,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0020_vpzlc",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Interpretation centres primarily addresses what? Choose the most accurate answer.",
+    "options": [
+      "educate visitors on heritage significance",
+      "ticketing only (policy)",
+      "food courts (typically)",
+      "security posts (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0020_vl0hn",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced tourism: Interpretation centres primarily addresses what?",
+    "options": [
+      "ticketing only — concept",
+      "security posts (policy)",
+      "food courts (policy)",
+      "educate visitors on heritage significance"
+    ],
+    "answerIndex": 3,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0020_vs32o",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced tourism: Interpretation centres primarily addresses what?",
+    "options": [
+      "food courts (framework)",
+      "educate visitors on heritage significance",
+      "security posts — concept",
+      "ticketing only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "educate visitors on heritage significance"
+  },
+  {
+    "id": "adv_culture-and-tourism_0021_vt5q5",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: In culture/tourism, Creative economy refers to?",
+    "options": [
+      "agriculture only (framework)",
+      "banking only — concept",
+      "value creation from cultural/creative assets",
+      "heavy industry only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0021_vz5dw",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Within culture/tourism, Creative economy refers to?",
+    "options": [
+      "agriculture only (policy)",
+      "heavy industry only (typically)",
+      "banking only — in practice",
+      "value creation from cultural/creative assets"
+    ],
+    "answerIndex": 3,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0021_vwpxm",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: In culture/tourism, Creative economy refers to?",
+    "options": [
+      "value creation from cultural/creative assets",
+      "banking only (policy)",
+      "heavy industry only (policy)",
+      "agriculture only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0021_vl7jm",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Creative economy refers to? Select the best option.",
+    "options": [
+      "heavy industry only — concept",
+      "agriculture only (typically)",
+      "banking only (policy)",
+      "value creation from cultural/creative assets"
+    ],
+    "answerIndex": 3,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0021_v3ao6",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Creative economy refers to? Choose the most accurate answer.",
+    "options": [
+      "banking only (typically)",
+      "agriculture only (framework)",
+      "value creation from cultural/creative assets",
+      "heavy industry only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0021_vu65h",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: In culture/tourism, Creative economy refers to?",
+    "options": [
+      "banking only (advanced)",
+      "heavy industry only — concept",
+      "agriculture only (advanced)",
+      "value creation from cultural/creative assets"
+    ],
+    "answerIndex": 3,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0021_vw7oc",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: In culture/tourism, Creative economy refers to?",
+    "options": [
+      "agriculture only (theory)",
+      "value creation from cultural/creative assets",
+      "banking only — concept",
+      "heavy industry only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0022_vy1qa",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Creative economy?",
+    "options": [
+      "heavy industry only (framework)",
+      "value creation from cultural/creative assets",
+      "banking only (theory)",
+      "agriculture only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0022_veqbb",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Creative economy?",
+    "options": [
+      "banking only (policy)",
+      "agriculture only — concept",
+      "heavy industry only — in practice",
+      "value creation from cultural/creative assets"
+    ],
+    "answerIndex": 3,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0022_vfgzf",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Creative economy?",
+    "options": [
+      "agriculture only — concept",
+      "banking only (framework)",
+      "heavy industry only — concept",
+      "value creation from cultural/creative assets"
+    ],
+    "answerIndex": 3,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0022_v0hyb",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Creative economy?",
+    "options": [
+      "heavy industry only — in practice",
+      "banking only (policy)",
+      "value creation from cultural/creative assets",
+      "agriculture only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0022_vtq4i",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Creative economy? Select the best option.",
+    "options": [
+      "value creation from cultural/creative assets",
+      "heavy industry only (advanced)",
+      "agriculture only (framework)",
+      "banking only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0022_vdzho",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Creative economy? Choose the most accurate answer.",
+    "options": [
+      "heavy industry only (advanced)",
+      "agriculture only (policy)",
+      "value creation from cultural/creative assets",
+      "banking only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0022_v0tve",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Creative economy?",
+    "options": [
+      "value creation from cultural/creative assets",
+      "banking only — in practice",
+      "heavy industry only (framework)",
+      "agriculture only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0022_vzbas",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Creative economy?",
+    "options": [
+      "heavy industry only (framework)",
+      "banking only — in practice",
+      "agriculture only — in practice",
+      "value creation from cultural/creative assets"
+    ],
+    "answerIndex": 3,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0022_v9xu8",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Creative economy?",
+    "options": [
+      "banking only — in practice",
+      "heavy industry only (framework)",
+      "agriculture only (advanced)",
+      "value creation from cultural/creative assets"
+    ],
+    "answerIndex": 3,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0023_vvnbo",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Creative economy.",
+    "options": [
+      "heavy industry only (advanced)",
+      "value creation from cultural/creative assets",
+      "agriculture only (framework)",
+      "banking only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0023_vj9ck",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Creative economy.",
+    "options": [
+      "agriculture only — in practice",
+      "heavy industry only (typically)",
+      "value creation from cultural/creative assets",
+      "banking only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0023_viqei",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Creative economy.",
+    "options": [
+      "agriculture only — concept",
+      "heavy industry only (typically)",
+      "banking only (typically)",
+      "value creation from cultural/creative assets"
+    ],
+    "answerIndex": 3,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0023_v0tzf",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Creative economy.",
+    "options": [
+      "banking only — concept",
+      "heavy industry only (typically)",
+      "value creation from cultural/creative assets",
+      "agriculture only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0023_vphem",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Creative economy. Select the best option.",
+    "options": [
+      "agriculture only (policy)",
+      "value creation from cultural/creative assets",
+      "banking only (advanced)",
+      "heavy industry only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0023_vk12y",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Creative economy. Choose the most accurate answer.",
+    "options": [
+      "agriculture only (policy)",
+      "value creation from cultural/creative assets",
+      "banking only — concept",
+      "heavy industry only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0023_vlbem",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Creative economy.",
+    "options": [
+      "heavy industry only (framework)",
+      "agriculture only (policy)",
+      "banking only (framework)",
+      "value creation from cultural/creative assets"
+    ],
+    "answerIndex": 3,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0023_vtghd",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Creative economy.",
+    "options": [
+      "agriculture only (typically)",
+      "value creation from cultural/creative assets",
+      "banking only — in practice",
+      "heavy industry only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0023_v1kh9",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Creative economy.",
+    "options": [
+      "banking only (framework)",
+      "value creation from cultural/creative assets",
+      "heavy industry only (framework)",
+      "agriculture only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0024_vj7ua",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Creative economy primarily addresses what?",
+    "options": [
+      "value creation from cultural/creative assets",
+      "agriculture only (advanced)",
+      "heavy industry only — concept",
+      "banking only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0024_v9oph",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced tourism: Creative economy primarily addresses what?",
+    "options": [
+      "heavy industry only (policy)",
+      "banking only — in practice",
+      "value creation from cultural/creative assets",
+      "agriculture only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0024_vc7b4",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced tourism: Creative economy primarily addresses what?",
+    "options": [
+      "value creation from cultural/creative assets",
+      "heavy industry only (typically)",
+      "agriculture only (advanced)",
+      "banking only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0024_vilaf",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Creative economy primarily addresses what? Select the best option.",
+    "options": [
+      "heavy industry only — concept",
+      "value creation from cultural/creative assets",
+      "agriculture only (theory)",
+      "banking only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0024_v0sic",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Creative economy primarily addresses what? Choose the most accurate answer.",
+    "options": [
+      "heavy industry only (theory)",
+      "banking only — concept",
+      "value creation from cultural/creative assets",
+      "agriculture only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0024_vu8ah",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced tourism: Creative economy primarily addresses what?",
+    "options": [
+      "agriculture only (typically)",
+      "value creation from cultural/creative assets",
+      "heavy industry only (policy)",
+      "banking only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0024_va6am",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced tourism: Creative economy primarily addresses what?",
+    "options": [
+      "agriculture only (advanced)",
+      "heavy industry only (advanced)",
+      "banking only — concept",
+      "value creation from cultural/creative assets"
+    ],
+    "answerIndex": 3,
+    "explanation": "value creation from cultural/creative assets"
+  },
+  {
+    "id": "adv_culture-and-tourism_0025_vfe0w",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: In culture/tourism, Community-based tourism refers to?",
+    "options": [
+      "local ownership and benefit sharing",
+      "government-only (typically)",
+      "foreign-owned only — concept",
+      "private-only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0025_v8eaw",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Within culture/tourism, Community-based tourism refers to?",
+    "options": [
+      "private-only (policy)",
+      "foreign-owned only — in practice",
+      "government-only (typically)",
+      "local ownership and benefit sharing"
+    ],
+    "answerIndex": 3,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0025_v17sl",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: In culture/tourism, Community-based tourism refers to?",
+    "options": [
+      "foreign-owned only — concept",
+      "government-only — in practice",
+      "private-only (theory)",
+      "local ownership and benefit sharing"
+    ],
+    "answerIndex": 3,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0025_vl2bp",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Community-based tourism refers to? Select the best option.",
+    "options": [
+      "government-only (policy)",
+      "foreign-owned only — in practice",
+      "private-only — in practice",
+      "local ownership and benefit sharing"
+    ],
+    "answerIndex": 3,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0025_vu29h",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Community-based tourism refers to? Choose the most accurate answer.",
+    "options": [
+      "foreign-owned only (typically)",
+      "government-only (policy)",
+      "private-only (framework)",
+      "local ownership and benefit sharing"
+    ],
+    "answerIndex": 3,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0025_vjqql",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: In culture/tourism, Community-based tourism refers to?",
+    "options": [
+      "government-only (advanced)",
+      "foreign-owned only (typically)",
+      "private-only — in practice",
+      "local ownership and benefit sharing"
+    ],
+    "answerIndex": 3,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0025_vufip",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: In culture/tourism, Community-based tourism refers to?",
+    "options": [
+      "private-only (policy)",
+      "government-only — in practice",
+      "local ownership and benefit sharing",
+      "foreign-owned only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0026_vz3x0",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Community-based tourism?",
+    "options": [
+      "private-only — in practice",
+      "government-only (framework)",
+      "foreign-owned only — in practice",
+      "local ownership and benefit sharing"
+    ],
+    "answerIndex": 3,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0026_vepvc",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Community-based tourism?",
+    "options": [
+      "foreign-owned only (framework)",
+      "local ownership and benefit sharing",
+      "government-only — in practice",
+      "private-only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0026_vs6yr",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Community-based tourism?",
+    "options": [
+      "private-only (advanced)",
+      "government-only (framework)",
+      "local ownership and benefit sharing",
+      "foreign-owned only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0026_ve99j",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Community-based tourism?",
+    "options": [
+      "private-only (theory)",
+      "government-only — in practice",
+      "local ownership and benefit sharing",
+      "foreign-owned only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0026_v7vv7",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Community-based tourism? Select the best option.",
+    "options": [
+      "local ownership and benefit sharing",
+      "private-only — concept",
+      "government-only (advanced)",
+      "foreign-owned only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0026_v7hti",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Community-based tourism? Choose the most accurate answer.",
+    "options": [
+      "foreign-owned only — in practice",
+      "private-only — concept",
+      "local ownership and benefit sharing",
+      "government-only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0026_vmbqb",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Community-based tourism?",
+    "options": [
+      "private-only (theory)",
+      "foreign-owned only — concept",
+      "government-only (theory)",
+      "local ownership and benefit sharing"
+    ],
+    "answerIndex": 3,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0026_vte8x",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Community-based tourism?",
+    "options": [
+      "private-only (framework)",
+      "local ownership and benefit sharing",
+      "foreign-owned only — concept",
+      "government-only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0026_v66y9",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Community-based tourism?",
+    "options": [
+      "foreign-owned only (advanced)",
+      "government-only (theory)",
+      "local ownership and benefit sharing",
+      "private-only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0027_vgfb8",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Community-based tourism.",
+    "options": [
+      "local ownership and benefit sharing",
+      "private-only (typically)",
+      "foreign-owned only (framework)",
+      "government-only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0027_v4n45",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Community-based tourism.",
+    "options": [
+      "private-only (advanced)",
+      "local ownership and benefit sharing",
+      "government-only (framework)",
+      "foreign-owned only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0027_vqls9",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Community-based tourism.",
+    "options": [
+      "private-only (theory)",
+      "government-only — concept",
+      "foreign-owned only (framework)",
+      "local ownership and benefit sharing"
+    ],
+    "answerIndex": 3,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0027_v2vaw",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Community-based tourism.",
+    "options": [
+      "foreign-owned only (framework)",
+      "private-only (framework)",
+      "local ownership and benefit sharing",
+      "government-only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0027_vuvym",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Community-based tourism. Select the best option.",
+    "options": [
+      "foreign-owned only (policy)",
+      "government-only (advanced)",
+      "private-only — in practice",
+      "local ownership and benefit sharing"
+    ],
+    "answerIndex": 3,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0027_vpg8k",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Community-based tourism. Choose the most accurate answer.",
+    "options": [
+      "government-only — in practice",
+      "local ownership and benefit sharing",
+      "foreign-owned only (framework)",
+      "private-only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0027_vvs9u",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Community-based tourism.",
+    "options": [
+      "local ownership and benefit sharing",
+      "foreign-owned only (theory)",
+      "private-only — concept",
+      "government-only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0027_vna9y",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Community-based tourism.",
+    "options": [
+      "private-only — in practice",
+      "government-only (policy)",
+      "foreign-owned only (typically)",
+      "local ownership and benefit sharing"
+    ],
+    "answerIndex": 3,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0028_vht8m",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Community-based tourism primarily addresses what?",
+    "options": [
+      "local ownership and benefit sharing",
+      "foreign-owned only — in practice",
+      "private-only (framework)",
+      "government-only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0028_viefx",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced tourism: Community-based tourism primarily addresses what?",
+    "options": [
+      "private-only (framework)",
+      "local ownership and benefit sharing",
+      "foreign-owned only (framework)",
+      "government-only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0028_vwjn6",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced tourism: Community-based tourism primarily addresses what?",
+    "options": [
+      "private-only (typically)",
+      "local ownership and benefit sharing",
+      "foreign-owned only (theory)",
+      "government-only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0028_vhfxw",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Community-based tourism primarily addresses what? Select the best option.",
+    "options": [
+      "local ownership and benefit sharing",
+      "private-only (framework)",
+      "foreign-owned only (typically)",
+      "government-only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0028_vm0zk",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Community-based tourism primarily addresses what? Choose the most accurate answer.",
+    "options": [
+      "government-only (theory)",
+      "foreign-owned only (advanced)",
+      "local ownership and benefit sharing",
+      "private-only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0028_v00sv",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced tourism: Community-based tourism primarily addresses what?",
+    "options": [
+      "private-only (framework)",
+      "local ownership and benefit sharing",
+      "foreign-owned only (advanced)",
+      "government-only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0028_v5pyg",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced tourism: Community-based tourism primarily addresses what?",
+    "options": [
+      "government-only — in practice",
+      "private-only (typically)",
+      "foreign-owned only (advanced)",
+      "local ownership and benefit sharing"
+    ],
+    "answerIndex": 3,
+    "explanation": "local ownership and benefit sharing"
+  },
+  {
+    "id": "adv_culture-and-tourism_0029_vspmj",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: In culture/tourism, Tourism leakage refers to?",
+    "options": [
+      "outflow of revenue from destination",
+      "CSR funds — in practice",
+      "inflow of grants (advanced)",
+      "capital investment (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0029_vax9d",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Within culture/tourism, Tourism leakage refers to?",
+    "options": [
+      "outflow of revenue from destination",
+      "capital investment — concept",
+      "CSR funds (advanced)",
+      "inflow of grants (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0029_vzmmo",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: In culture/tourism, Tourism leakage refers to?",
+    "options": [
+      "capital investment (policy)",
+      "CSR funds (advanced)",
+      "inflow of grants — concept",
+      "outflow of revenue from destination"
+    ],
+    "answerIndex": 3,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0029_va03m",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Tourism leakage refers to? Select the best option.",
+    "options": [
+      "capital investment (policy)",
+      "CSR funds (typically)",
+      "inflow of grants (theory)",
+      "outflow of revenue from destination"
+    ],
+    "answerIndex": 3,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0029_vux35",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "In culture/tourism, Tourism leakage refers to? Choose the most accurate answer.",
+    "options": [
+      "CSR funds (theory)",
+      "outflow of revenue from destination",
+      "capital investment (typically)",
+      "inflow of grants — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0029_vieit",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: In culture/tourism, Tourism leakage refers to?",
+    "options": [
+      "inflow of grants (typically)",
+      "outflow of revenue from destination",
+      "capital investment (theory)",
+      "CSR funds — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0029_v9236",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: In culture/tourism, Tourism leakage refers to?",
+    "options": [
+      "capital investment (policy)",
+      "CSR funds (advanced)",
+      "outflow of revenue from destination",
+      "inflow of grants — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0030_v7tfs",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Tourism leakage?",
+    "options": [
+      "capital investment (framework)",
+      "CSR funds (framework)",
+      "outflow of revenue from destination",
+      "inflow of grants (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0030_vglrt",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Tourism leakage?",
+    "options": [
+      "CSR funds (typically)",
+      "capital investment — in practice",
+      "outflow of revenue from destination",
+      "inflow of grants (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0030_vjnwg",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Tourism leakage?",
+    "options": [
+      "CSR funds (typically)",
+      "outflow of revenue from destination",
+      "capital investment (theory)",
+      "inflow of grants (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0030_vn69m",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Tourism leakage?",
+    "options": [
+      "CSR funds (theory)",
+      "outflow of revenue from destination",
+      "inflow of grants (policy)",
+      "capital investment (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0030_vkxcm",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Tourism leakage? Select the best option.",
+    "options": [
+      "inflow of grants (advanced)",
+      "CSR funds (policy)",
+      "capital investment (policy)",
+      "outflow of revenue from destination"
+    ],
+    "answerIndex": 3,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0030_vjdm2",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Tourism leakage? Choose the most accurate answer.",
+    "options": [
+      "outflow of revenue from destination",
+      "capital investment (framework)",
+      "CSR funds (framework)",
+      "inflow of grants — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0030_v5lv3",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Tourism leakage?",
+    "options": [
+      "capital investment — concept",
+      "outflow of revenue from destination",
+      "inflow of grants — concept",
+      "CSR funds — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0030_v5yvj",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Tourism leakage?",
+    "options": [
+      "inflow of grants (framework)",
+      "CSR funds (theory)",
+      "capital investment (framework)",
+      "outflow of revenue from destination"
+    ],
+    "answerIndex": 3,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0030_v3w1l",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Tourism leakage?",
+    "options": [
+      "inflow of grants (advanced)",
+      "outflow of revenue from destination",
+      "capital investment — concept",
+      "CSR funds (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0031_va7bt",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Tourism leakage.",
+    "options": [
+      "CSR funds — in practice",
+      "capital investment (advanced)",
+      "outflow of revenue from destination",
+      "inflow of grants (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0031_visvr",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Tourism leakage.",
+    "options": [
+      "inflow of grants — concept",
+      "CSR funds — in practice",
+      "outflow of revenue from destination",
+      "capital investment (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0031_v31vy",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Tourism leakage.",
+    "options": [
+      "inflow of grants (theory)",
+      "CSR funds (typically)",
+      "outflow of revenue from destination",
+      "capital investment (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0031_vhr5h",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Tourism leakage.",
+    "options": [
+      "capital investment (advanced)",
+      "inflow of grants (theory)",
+      "outflow of revenue from destination",
+      "CSR funds — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0031_vbhz6",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Tourism leakage. Select the best option.",
+    "options": [
+      "outflow of revenue from destination",
+      "CSR funds (policy)",
+      "capital investment (advanced)",
+      "inflow of grants — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0031_vn33y",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Tourism leakage. Choose the most accurate answer.",
+    "options": [
+      "capital investment (policy)",
+      "outflow of revenue from destination",
+      "CSR funds (typically)",
+      "inflow of grants — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0031_vhuy7",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Tourism leakage.",
+    "options": [
+      "inflow of grants (policy)",
+      "outflow of revenue from destination",
+      "capital investment (advanced)",
+      "CSR funds — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0032_rrivs",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Advanced tourism: Tourism leakage primarily addresses what?",
+    "options": [
+      "inflow of grants (policy)",
+      "CSR funds (typically)",
+      "capital investment (theory)",
+      "outflow of revenue from destination"
+    ],
+    "answerIndex": 3,
+    "explanation": "outflow of revenue from destination"
+  },
+  {
+    "id": "adv_culture-and-tourism_0033_rq43w",
+    "category": "cadre",
+    "cadreSlug": "culture-and-tourism",
+    "topic": "Culture & Tourism",
+    "subtopic": "Policy & Management",
+    "difficulty": "advanced",
+    "question": "Within culture/tourism, Heritage impact assessment refers to?",
+    "options": [
+      "financial audit (framework)",
+      "EIA replacement (advanced)",
+      "market survey only (theory)",
+      "assess development effects on heritage"
+    ],
+    "answerIndex": 3,
+    "explanation": "assess development effects on heritage"
+  }
+]

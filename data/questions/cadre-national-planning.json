@@ -1,0 +1,4252 @@
+[
+  {
+    "id": "adv_national-planning_0001",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, MTEF (Medium-Term Expenditure Framework) refers to?",
+    "options": [
+      "annual cash plan only",
+      "supplementary only",
+      "links policy, planning and budgeting over 3 years",
+      "capital budget only"
+    ],
+    "answerIndex": 2,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0005",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, MTSS (Medium-Term Sector Strategy) refers to?",
+    "options": [
+      "line-item list only",
+      "sector-level costing of outcomes and outputs",
+      "ad-hoc wish list",
+      "HR headcount sheet"
+    ],
+    "answerIndex": 1,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0009",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, Logical framework refers to?",
+    "options": [
+      "chart of accounts",
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "cash book",
+      "org chart"
+    ],
+    "answerIndex": 1,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0013",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, SMART indicators refers to?",
+    "options": [
+      "subjective, memorable, aligned, reliable, timeful",
+      "simple, meaningful, agreed, resourceful, targeted",
+      "specific, measurable, achievable, relevant, time-bound",
+      "soft, moral, accurate, robust, timely"
+    ],
+    "answerIndex": 2,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0017",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, Public Investment Management refers to?",
+    "options": [
+      "sole-source award",
+      "contingent liability ignoring",
+      "appraisal, selection, implementation, evaluation",
+      "cash sweep only"
+    ],
+    "answerIndex": 2,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0021",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, CBA (cost–benefit analysis) refers to?",
+    "options": [
+      "EBITDA multiple",
+      "payback only",
+      "gross cost only",
+      "discounted net present value of benefits and costs"
+    ],
+    "answerIndex": 3,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0025",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, Fiscal space refers to?",
+    "options": [
+      "petty cash",
+      "contingency line only",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "donor aid only"
+    ],
+    "answerIndex": 2,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0029",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, Output–outcome distinction refers to?",
+    "options": [
+      "deliverables vs effects on beneficiaries",
+      "same concept",
+      "impacts only",
+      "inputs only"
+    ],
+    "answerIndex": 0,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0033",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, PPPs refers to?",
+    "options": [
+      "transfer all to private always",
+      "government bears all",
+      "no risk analysis",
+      "allocate risks to parties best able to manage"
+    ],
+    "answerIndex": 3,
+    "explanation": "allocate risks to parties best able to manage"
+  },
+  {
+    "id": "adv_national-planning_0037",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, SDG mainstreaming refers to?",
+    "options": [
+      "align sector targets and indicators with SDGs",
+      "replace national plans",
+      "rename ministries",
+      "adopt UN budget"
+    ],
+    "answerIndex": 0,
+    "explanation": "align sector targets and indicators with SDGs"
+  },
+  {
+    "id": "adv_national-planning_0041",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "M&E",
+    "subtopic": "Indicators",
+    "difficulty": "advanced",
+    "question": "What is a “baseline” in M&E?",
+    "options": [
+      "starting value of an indicator for comparison",
+      "budget line",
+      "target value",
+      "variance limit"
+    ],
+    "answerIndex": 0,
+    "explanation": "Baselines vs targets"
+  },
+  {
+    "id": "adv_national-planning_0001_vfmw4",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: In national planning, MTEF (Medium-Term Expenditure Framework) refers to?",
+    "options": [
+      "supplementary only — in practice",
+      "capital budget only (framework)",
+      "annual cash plan only — concept",
+      "links policy, planning and budgeting over 3 years"
+    ],
+    "answerIndex": 3,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0001_vtl8j",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Within national planning, MTEF (Medium-Term Expenditure Framework) refers to?",
+    "options": [
+      "annual cash plan only (theory)",
+      "capital budget only (advanced)",
+      "supplementary only (typically)",
+      "links policy, planning and budgeting over 3 years"
+    ],
+    "answerIndex": 3,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0001_vj5ao",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: In national planning, MTEF (Medium-Term Expenditure Framework) refers to?",
+    "options": [
+      "links policy, planning and budgeting over 3 years",
+      "supplementary only — concept",
+      "capital budget only (policy)",
+      "annual cash plan only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0001_v9f29",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, MTEF (Medium-Term Expenditure Framework) refers to? Select the best option.",
+    "options": [
+      "capital budget only — concept",
+      "supplementary only — concept",
+      "links policy, planning and budgeting over 3 years",
+      "annual cash plan only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0001_vfsqb",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, MTEF (Medium-Term Expenditure Framework) refers to? Choose the most accurate answer.",
+    "options": [
+      "links policy, planning and budgeting over 3 years",
+      "capital budget only (framework)",
+      "supplementary only (advanced)",
+      "annual cash plan only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0001_vm40p",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: In national planning, MTEF (Medium-Term Expenditure Framework) refers to?",
+    "options": [
+      "links policy, planning and budgeting over 3 years",
+      "supplementary only — concept",
+      "annual cash plan only — in practice",
+      "capital budget only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0002_vvqam",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of MTEF (Medium-Term Expenditure Framework).",
+    "options": [
+      "supplementary only (typically)",
+      "capital budget only (typically)",
+      "links policy, planning and budgeting over 3 years",
+      "annual cash plan only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0002_v1pff",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of MTEF (Medium-Term Expenditure Framework).",
+    "options": [
+      "capital budget only (typically)",
+      "supplementary only (advanced)",
+      "links policy, planning and budgeting over 3 years",
+      "annual cash plan only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0002_vu0rs",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of MTEF (Medium-Term Expenditure Framework).",
+    "options": [
+      "links policy, planning and budgeting over 3 years",
+      "annual cash plan only — concept",
+      "capital budget only (framework)",
+      "supplementary only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0002_v6m74",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of MTEF (Medium-Term Expenditure Framework). Select the best option.",
+    "options": [
+      "links policy, planning and budgeting over 3 years",
+      "capital budget only (advanced)",
+      "annual cash plan only (policy)",
+      "supplementary only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0002_vmr1g",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of MTEF (Medium-Term Expenditure Framework). Choose the most accurate answer.",
+    "options": [
+      "capital budget only — in practice",
+      "links policy, planning and budgeting over 3 years",
+      "annual cash plan only (theory)",
+      "supplementary only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0002_v4h1r",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of MTEF (Medium-Term Expenditure Framework).",
+    "options": [
+      "annual cash plan only (policy)",
+      "supplementary only — in practice",
+      "capital budget only (advanced)",
+      "links policy, planning and budgeting over 3 years"
+    ],
+    "answerIndex": 3,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0002_v1rs0",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of MTEF (Medium-Term Expenditure Framework).",
+    "options": [
+      "links policy, planning and budgeting over 3 years",
+      "annual cash plan only — in practice",
+      "supplementary only (typically)",
+      "capital budget only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0003_vwrss",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes MTEF (Medium-Term Expenditure Framework)?",
+    "options": [
+      "supplementary only (framework)",
+      "links policy, planning and budgeting over 3 years",
+      "capital budget only — in practice",
+      "annual cash plan only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0003_vcq4e",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes MTEF (Medium-Term Expenditure Framework)?",
+    "options": [
+      "supplementary only — concept",
+      "capital budget only (framework)",
+      "annual cash plan only — in practice",
+      "links policy, planning and budgeting over 3 years"
+    ],
+    "answerIndex": 3,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0003_veth1",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes MTEF (Medium-Term Expenditure Framework)?",
+    "options": [
+      "annual cash plan only — in practice",
+      "links policy, planning and budgeting over 3 years",
+      "capital budget only (theory)",
+      "supplementary only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0003_vyer3",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes MTEF (Medium-Term Expenditure Framework)?",
+    "options": [
+      "capital budget only (typically)",
+      "supplementary only (typically)",
+      "annual cash plan only (framework)",
+      "links policy, planning and budgeting over 3 years"
+    ],
+    "answerIndex": 3,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0003_v7zmk",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes MTEF (Medium-Term Expenditure Framework)? Select the best option.",
+    "options": [
+      "capital budget only — in practice",
+      "links policy, planning and budgeting over 3 years",
+      "supplementary only — in practice",
+      "annual cash plan only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0003_vu9j9",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes MTEF (Medium-Term Expenditure Framework)? Choose the most accurate answer.",
+    "options": [
+      "supplementary only (theory)",
+      "links policy, planning and budgeting over 3 years",
+      "annual cash plan only (advanced)",
+      "capital budget only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0003_vjl91",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes MTEF (Medium-Term Expenditure Framework)?",
+    "options": [
+      "annual cash plan only (typically)",
+      "supplementary only (policy)",
+      "links policy, planning and budgeting over 3 years",
+      "capital budget only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0003_vl0w3",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes MTEF (Medium-Term Expenditure Framework)?",
+    "options": [
+      "capital budget only (theory)",
+      "supplementary only — concept",
+      "annual cash plan only (theory)",
+      "links policy, planning and budgeting over 3 years"
+    ],
+    "answerIndex": 3,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0003_vc6b5",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes MTEF (Medium-Term Expenditure Framework)?",
+    "options": [
+      "supplementary only (policy)",
+      "capital budget only (typically)",
+      "annual cash plan only (framework)",
+      "links policy, planning and budgeting over 3 years"
+    ],
+    "answerIndex": 3,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0004_vd5nz",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is MTEF (Medium-Term Expenditure Framework)?",
+    "options": [
+      "annual cash plan only — in practice",
+      "links policy, planning and budgeting over 3 years",
+      "supplementary only — in practice",
+      "capital budget only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0004_v1a6d",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced planning: what is MTEF (Medium-Term Expenditure Framework)?",
+    "options": [
+      "links policy, planning and budgeting over 3 years",
+      "capital budget only (advanced)",
+      "annual cash plan only — concept",
+      "supplementary only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0004_vjnd2",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced planning: what is MTEF (Medium-Term Expenditure Framework)?",
+    "options": [
+      "capital budget only (advanced)",
+      "supplementary only — in practice",
+      "annual cash plan only — concept",
+      "links policy, planning and budgeting over 3 years"
+    ],
+    "answerIndex": 3,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0004_vcidm",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is MTEF (Medium-Term Expenditure Framework)? Select the best option.",
+    "options": [
+      "supplementary only (typically)",
+      "annual cash plan only (typically)",
+      "links policy, planning and budgeting over 3 years",
+      "capital budget only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0004_vilbp",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is MTEF (Medium-Term Expenditure Framework)? Choose the most accurate answer.",
+    "options": [
+      "capital budget only (advanced)",
+      "annual cash plan only (framework)",
+      "links policy, planning and budgeting over 3 years",
+      "supplementary only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0004_vac0r",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced planning: what is MTEF (Medium-Term Expenditure Framework)?",
+    "options": [
+      "capital budget only — in practice",
+      "supplementary only (theory)",
+      "links policy, planning and budgeting over 3 years",
+      "annual cash plan only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0004_vd53z",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced planning: what is MTEF (Medium-Term Expenditure Framework)?",
+    "options": [
+      "capital budget only — in practice",
+      "links policy, planning and budgeting over 3 years",
+      "annual cash plan only (advanced)",
+      "supplementary only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "links policy, planning and budgeting over 3 years"
+  },
+  {
+    "id": "adv_national-planning_0005_v0ai1",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: In national planning, MTSS (Medium-Term Sector Strategy) refers to?",
+    "options": [
+      "ad-hoc wish list (advanced)",
+      "line-item list only (policy)",
+      "sector-level costing of outcomes and outputs",
+      "HR headcount sheet (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0005_vkxy6",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Within national planning, MTSS (Medium-Term Sector Strategy) refers to?",
+    "options": [
+      "ad-hoc wish list — concept",
+      "HR headcount sheet (typically)",
+      "line-item list only (theory)",
+      "sector-level costing of outcomes and outputs"
+    ],
+    "answerIndex": 3,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0005_vjoj7",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: In national planning, MTSS (Medium-Term Sector Strategy) refers to?",
+    "options": [
+      "HR headcount sheet (typically)",
+      "ad-hoc wish list (typically)",
+      "sector-level costing of outcomes and outputs",
+      "line-item list only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0005_vamu3",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, MTSS (Medium-Term Sector Strategy) refers to? Select the best option.",
+    "options": [
+      "ad-hoc wish list — concept",
+      "line-item list only (advanced)",
+      "HR headcount sheet (theory)",
+      "sector-level costing of outcomes and outputs"
+    ],
+    "answerIndex": 3,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0005_v4h85",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, MTSS (Medium-Term Sector Strategy) refers to? Choose the most accurate answer.",
+    "options": [
+      "sector-level costing of outcomes and outputs",
+      "line-item list only (typically)",
+      "HR headcount sheet (policy)",
+      "ad-hoc wish list (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0005_v2ttl",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: In national planning, MTSS (Medium-Term Sector Strategy) refers to?",
+    "options": [
+      "ad-hoc wish list (advanced)",
+      "HR headcount sheet (theory)",
+      "sector-level costing of outcomes and outputs",
+      "line-item list only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0005_vv4nd",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: In national planning, MTSS (Medium-Term Sector Strategy) refers to?",
+    "options": [
+      "line-item list only (typically)",
+      "sector-level costing of outcomes and outputs",
+      "ad-hoc wish list (policy)",
+      "HR headcount sheet (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0006_v6bhi",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of MTSS (Medium-Term Sector Strategy).",
+    "options": [
+      "ad-hoc wish list (theory)",
+      "line-item list only — concept",
+      "HR headcount sheet (typically)",
+      "sector-level costing of outcomes and outputs"
+    ],
+    "answerIndex": 3,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0006_vtz5w",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of MTSS (Medium-Term Sector Strategy).",
+    "options": [
+      "line-item list only (typically)",
+      "sector-level costing of outcomes and outputs",
+      "ad-hoc wish list (theory)",
+      "HR headcount sheet (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0006_v5bte",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of MTSS (Medium-Term Sector Strategy).",
+    "options": [
+      "sector-level costing of outcomes and outputs",
+      "line-item list only (policy)",
+      "HR headcount sheet — in practice",
+      "ad-hoc wish list (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0006_v3wp5",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of MTSS (Medium-Term Sector Strategy).",
+    "options": [
+      "HR headcount sheet (typically)",
+      "sector-level costing of outcomes and outputs",
+      "line-item list only (theory)",
+      "ad-hoc wish list (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0006_v26vc",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of MTSS (Medium-Term Sector Strategy). Select the best option.",
+    "options": [
+      "line-item list only (typically)",
+      "sector-level costing of outcomes and outputs",
+      "HR headcount sheet (policy)",
+      "ad-hoc wish list (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0006_vb60e",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of MTSS (Medium-Term Sector Strategy). Choose the most accurate answer.",
+    "options": [
+      "HR headcount sheet (typically)",
+      "ad-hoc wish list (advanced)",
+      "sector-level costing of outcomes and outputs",
+      "line-item list only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0006_vrgdd",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of MTSS (Medium-Term Sector Strategy).",
+    "options": [
+      "line-item list only (policy)",
+      "sector-level costing of outcomes and outputs",
+      "HR headcount sheet (advanced)",
+      "ad-hoc wish list — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0006_v6yds",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of MTSS (Medium-Term Sector Strategy).",
+    "options": [
+      "line-item list only — concept",
+      "ad-hoc wish list (policy)",
+      "sector-level costing of outcomes and outputs",
+      "HR headcount sheet — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0006_vq4w7",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of MTSS (Medium-Term Sector Strategy).",
+    "options": [
+      "HR headcount sheet — in practice",
+      "ad-hoc wish list (theory)",
+      "line-item list only (typically)",
+      "sector-level costing of outcomes and outputs"
+    ],
+    "answerIndex": 3,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0007_vu587",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes MTSS (Medium-Term Sector Strategy)?",
+    "options": [
+      "line-item list only — concept",
+      "sector-level costing of outcomes and outputs",
+      "ad-hoc wish list (typically)",
+      "HR headcount sheet (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0007_vccyb",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes MTSS (Medium-Term Sector Strategy)?",
+    "options": [
+      "sector-level costing of outcomes and outputs",
+      "line-item list only (typically)",
+      "ad-hoc wish list (advanced)",
+      "HR headcount sheet (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0007_v7a4q",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes MTSS (Medium-Term Sector Strategy)?",
+    "options": [
+      "ad-hoc wish list (typically)",
+      "sector-level costing of outcomes and outputs",
+      "line-item list only (advanced)",
+      "HR headcount sheet (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0007_v7m5x",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes MTSS (Medium-Term Sector Strategy)?",
+    "options": [
+      "HR headcount sheet (advanced)",
+      "ad-hoc wish list (advanced)",
+      "sector-level costing of outcomes and outputs",
+      "line-item list only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0007_vztgj",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes MTSS (Medium-Term Sector Strategy)? Select the best option.",
+    "options": [
+      "line-item list only (framework)",
+      "HR headcount sheet (theory)",
+      "sector-level costing of outcomes and outputs",
+      "ad-hoc wish list — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0007_v8iun",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes MTSS (Medium-Term Sector Strategy)? Choose the most accurate answer.",
+    "options": [
+      "sector-level costing of outcomes and outputs",
+      "HR headcount sheet (advanced)",
+      "line-item list only (framework)",
+      "ad-hoc wish list — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0007_vu5k1",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes MTSS (Medium-Term Sector Strategy)?",
+    "options": [
+      "sector-level costing of outcomes and outputs",
+      "HR headcount sheet (policy)",
+      "ad-hoc wish list (typically)",
+      "line-item list only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0007_vsoce",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes MTSS (Medium-Term Sector Strategy)?",
+    "options": [
+      "ad-hoc wish list — concept",
+      "HR headcount sheet (advanced)",
+      "line-item list only — in practice",
+      "sector-level costing of outcomes and outputs"
+    ],
+    "answerIndex": 3,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0007_vr58m",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes MTSS (Medium-Term Sector Strategy)?",
+    "options": [
+      "sector-level costing of outcomes and outputs",
+      "line-item list only (typically)",
+      "HR headcount sheet (policy)",
+      "ad-hoc wish list (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0008_vfp29",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is MTSS (Medium-Term Sector Strategy)?",
+    "options": [
+      "HR headcount sheet (advanced)",
+      "ad-hoc wish list (framework)",
+      "sector-level costing of outcomes and outputs",
+      "line-item list only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0008_vwwcl",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced planning: what is MTSS (Medium-Term Sector Strategy)?",
+    "options": [
+      "sector-level costing of outcomes and outputs",
+      "ad-hoc wish list — concept",
+      "line-item list only (theory)",
+      "HR headcount sheet (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0008_vemjs",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced planning: what is MTSS (Medium-Term Sector Strategy)?",
+    "options": [
+      "sector-level costing of outcomes and outputs",
+      "line-item list only (theory)",
+      "HR headcount sheet (framework)",
+      "ad-hoc wish list (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0008_v2egv",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is MTSS (Medium-Term Sector Strategy)? Select the best option.",
+    "options": [
+      "HR headcount sheet (theory)",
+      "line-item list only — concept",
+      "ad-hoc wish list (policy)",
+      "sector-level costing of outcomes and outputs"
+    ],
+    "answerIndex": 3,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0008_va9ey",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is MTSS (Medium-Term Sector Strategy)? Choose the most accurate answer.",
+    "options": [
+      "ad-hoc wish list (theory)",
+      "sector-level costing of outcomes and outputs",
+      "HR headcount sheet — in practice",
+      "line-item list only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0008_vig25",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced planning: what is MTSS (Medium-Term Sector Strategy)?",
+    "options": [
+      "HR headcount sheet — in practice",
+      "line-item list only (policy)",
+      "ad-hoc wish list — concept",
+      "sector-level costing of outcomes and outputs"
+    ],
+    "answerIndex": 3,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0008_v68he",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced planning: what is MTSS (Medium-Term Sector Strategy)?",
+    "options": [
+      "HR headcount sheet (policy)",
+      "line-item list only (theory)",
+      "ad-hoc wish list — in practice",
+      "sector-level costing of outcomes and outputs"
+    ],
+    "answerIndex": 3,
+    "explanation": "sector-level costing of outcomes and outputs"
+  },
+  {
+    "id": "adv_national-planning_0009_vsvj2",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: In national planning, Logical framework refers to?",
+    "options": [
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "chart of accounts (advanced)",
+      "org chart (advanced)",
+      "cash book — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0009_vxe3s",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Within national planning, Logical framework refers to?",
+    "options": [
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "org chart (advanced)",
+      "cash book (advanced)",
+      "chart of accounts (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0009_v1ns9",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: In national planning, Logical framework refers to?",
+    "options": [
+      "cash book (theory)",
+      "org chart (theory)",
+      "chart of accounts — in practice",
+      "inputs→activities→outputs→outcomes→impacts with indicators"
+    ],
+    "answerIndex": 3,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0009_v1p0s",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, Logical framework refers to? Select the best option.",
+    "options": [
+      "cash book (policy)",
+      "chart of accounts — concept",
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "org chart (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0009_vqu2k",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: In national planning, Logical framework refers to?",
+    "options": [
+      "chart of accounts (framework)",
+      "org chart (theory)",
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "cash book (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0009_vu2zj",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: In national planning, Logical framework refers to?",
+    "options": [
+      "org chart (framework)",
+      "cash book (advanced)",
+      "chart of accounts — concept",
+      "inputs→activities→outputs→outcomes→impacts with indicators"
+    ],
+    "answerIndex": 3,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0010_v9e5j",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Logical framework.",
+    "options": [
+      "chart of accounts (framework)",
+      "org chart (policy)",
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "cash book — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0010_vopom",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Logical framework.",
+    "options": [
+      "cash book (advanced)",
+      "chart of accounts — in practice",
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "org chart — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0010_vex4j",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Logical framework.",
+    "options": [
+      "chart of accounts — in practice",
+      "org chart (theory)",
+      "cash book (typically)",
+      "inputs→activities→outputs→outcomes→impacts with indicators"
+    ],
+    "answerIndex": 3,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0010_viz48",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Logical framework.",
+    "options": [
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "org chart (policy)",
+      "cash book (theory)",
+      "chart of accounts (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0010_v3mi3",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Logical framework. Select the best option.",
+    "options": [
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "cash book (policy)",
+      "chart of accounts (advanced)",
+      "org chart — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0010_vc0yk",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Logical framework. Choose the most accurate answer.",
+    "options": [
+      "chart of accounts — in practice",
+      "cash book (policy)",
+      "org chart (framework)",
+      "inputs→activities→outputs→outcomes→impacts with indicators"
+    ],
+    "answerIndex": 3,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0010_vp7j3",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Logical framework.",
+    "options": [
+      "chart of accounts (policy)",
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "org chart (theory)",
+      "cash book — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0010_vk6ts",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Logical framework.",
+    "options": [
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "chart of accounts (framework)",
+      "org chart (policy)",
+      "cash book (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0010_vr6lm",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Logical framework.",
+    "options": [
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "org chart (advanced)",
+      "cash book — concept",
+      "chart of accounts (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0011_vqcv7",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Logical framework?",
+    "options": [
+      "org chart — in practice",
+      "chart of accounts (typically)",
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "cash book (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0011_v9sks",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Logical framework?",
+    "options": [
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "cash book (theory)",
+      "chart of accounts (policy)",
+      "org chart — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0011_vyd1n",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Logical framework?",
+    "options": [
+      "org chart — in practice",
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "cash book (typically)",
+      "chart of accounts (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0011_vnpoo",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Logical framework? Select the best option.",
+    "options": [
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "cash book — in practice",
+      "chart of accounts — in practice",
+      "org chart (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0011_vnea6",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Logical framework? Choose the most accurate answer.",
+    "options": [
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "org chart — concept",
+      "cash book (advanced)",
+      "chart of accounts (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0011_v7hpy",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Logical framework?",
+    "options": [
+      "org chart (policy)",
+      "chart of accounts (typically)",
+      "cash book — concept",
+      "inputs→activities→outputs→outcomes→impacts with indicators"
+    ],
+    "answerIndex": 3,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0011_vpi53",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Logical framework?",
+    "options": [
+      "cash book — concept",
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "chart of accounts — concept",
+      "org chart — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0011_vkrr6",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Logical framework?",
+    "options": [
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "chart of accounts (policy)",
+      "org chart (framework)",
+      "cash book (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0012_vfo3v",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is Logical framework?",
+    "options": [
+      "cash book (typically)",
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "org chart (advanced)",
+      "chart of accounts (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0012_v7b3l",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced planning: what is Logical framework?",
+    "options": [
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "org chart (policy)",
+      "chart of accounts — concept",
+      "cash book — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0012_v3yit",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced planning: what is Logical framework?",
+    "options": [
+      "cash book — in practice",
+      "org chart (theory)",
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "chart of accounts (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0012_vfk2l",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is Logical framework? Select the best option.",
+    "options": [
+      "chart of accounts (framework)",
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "org chart — concept",
+      "cash book (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0012_v56ba",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is Logical framework? Choose the most accurate answer.",
+    "options": [
+      "chart of accounts (policy)",
+      "cash book (framework)",
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "org chart (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0012_vmubg",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced planning: what is Logical framework?",
+    "options": [
+      "chart of accounts (framework)",
+      "inputs→activities→outputs→outcomes→impacts with indicators",
+      "cash book — in practice",
+      "org chart (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0012_veb8y",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced planning: what is Logical framework?",
+    "options": [
+      "cash book — concept",
+      "chart of accounts (theory)",
+      "org chart (theory)",
+      "inputs→activities→outputs→outcomes→impacts with indicators"
+    ],
+    "answerIndex": 3,
+    "explanation": "inputs→activities→outputs→outcomes→impacts with indicators"
+  },
+  {
+    "id": "adv_national-planning_0013_vbqs4",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: In national planning, SMART indicators refers to?",
+    "options": [
+      "soft, moral, accurate, robust, timely (advanced)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "subjective, memorable, aligned, reliable, timeful (advanced)",
+      "simple, meaningful, agreed, resourceful, targeted (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0013_v1o69",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Within national planning, SMART indicators refers to?",
+    "options": [
+      "specific, measurable, achievable, relevant, time-bound",
+      "subjective, memorable, aligned, reliable, timeful (typically)",
+      "soft, moral, accurate, robust, timely — concept",
+      "simple, meaningful, agreed, resourceful, targeted — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0013_v5c8t",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: In national planning, SMART indicators refers to?",
+    "options": [
+      "simple, meaningful, agreed, resourceful, targeted (advanced)",
+      "soft, moral, accurate, robust, timely (theory)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "subjective, memorable, aligned, reliable, timeful — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0013_v5zrc",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, SMART indicators refers to? Select the best option.",
+    "options": [
+      "specific, measurable, achievable, relevant, time-bound",
+      "soft, moral, accurate, robust, timely (advanced)",
+      "simple, meaningful, agreed, resourceful, targeted (theory)",
+      "subjective, memorable, aligned, reliable, timeful (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0013_v12ya",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, SMART indicators refers to? Choose the most accurate answer.",
+    "options": [
+      "subjective, memorable, aligned, reliable, timeful — concept",
+      "simple, meaningful, agreed, resourceful, targeted — concept",
+      "specific, measurable, achievable, relevant, time-bound",
+      "soft, moral, accurate, robust, timely (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0013_vv0ev",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: In national planning, SMART indicators refers to?",
+    "options": [
+      "simple, meaningful, agreed, resourceful, targeted (policy)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "soft, moral, accurate, robust, timely (framework)",
+      "subjective, memorable, aligned, reliable, timeful (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0013_vos0k",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: In national planning, SMART indicators refers to?",
+    "options": [
+      "subjective, memorable, aligned, reliable, timeful (typically)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "soft, moral, accurate, robust, timely — concept",
+      "simple, meaningful, agreed, resourceful, targeted (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0014_vgf9i",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of SMART indicators.",
+    "options": [
+      "soft, moral, accurate, robust, timely — in practice",
+      "specific, measurable, achievable, relevant, time-bound",
+      "simple, meaningful, agreed, resourceful, targeted (policy)",
+      "subjective, memorable, aligned, reliable, timeful (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0014_v1ldw",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of SMART indicators.",
+    "options": [
+      "subjective, memorable, aligned, reliable, timeful (typically)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "soft, moral, accurate, robust, timely — concept",
+      "simple, meaningful, agreed, resourceful, targeted — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0014_vvdah",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of SMART indicators.",
+    "options": [
+      "simple, meaningful, agreed, resourceful, targeted (framework)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "subjective, memorable, aligned, reliable, timeful (policy)",
+      "soft, moral, accurate, robust, timely — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0014_vnnzo",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of SMART indicators.",
+    "options": [
+      "specific, measurable, achievable, relevant, time-bound",
+      "soft, moral, accurate, robust, timely — in practice",
+      "simple, meaningful, agreed, resourceful, targeted (advanced)",
+      "subjective, memorable, aligned, reliable, timeful (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0014_vfzj2",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of SMART indicators. Select the best option.",
+    "options": [
+      "simple, meaningful, agreed, resourceful, targeted (advanced)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "soft, moral, accurate, robust, timely — in practice",
+      "subjective, memorable, aligned, reliable, timeful (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0014_viydw",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of SMART indicators. Choose the most accurate answer.",
+    "options": [
+      "specific, measurable, achievable, relevant, time-bound",
+      "soft, moral, accurate, robust, timely (theory)",
+      "subjective, memorable, aligned, reliable, timeful (typically)",
+      "simple, meaningful, agreed, resourceful, targeted — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0014_vy9jm",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of SMART indicators.",
+    "options": [
+      "soft, moral, accurate, robust, timely — concept",
+      "simple, meaningful, agreed, resourceful, targeted (advanced)",
+      "subjective, memorable, aligned, reliable, timeful — in practice",
+      "specific, measurable, achievable, relevant, time-bound"
+    ],
+    "answerIndex": 3,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0014_vz5tv",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of SMART indicators.",
+    "options": [
+      "soft, moral, accurate, robust, timely (framework)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "subjective, memorable, aligned, reliable, timeful (framework)",
+      "simple, meaningful, agreed, resourceful, targeted — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0014_ven7o",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of SMART indicators.",
+    "options": [
+      "specific, measurable, achievable, relevant, time-bound",
+      "subjective, memorable, aligned, reliable, timeful (framework)",
+      "soft, moral, accurate, robust, timely (theory)",
+      "simple, meaningful, agreed, resourceful, targeted — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0015_vmuf1",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes SMART indicators?",
+    "options": [
+      "simple, meaningful, agreed, resourceful, targeted — concept",
+      "soft, moral, accurate, robust, timely — in practice",
+      "specific, measurable, achievable, relevant, time-bound",
+      "subjective, memorable, aligned, reliable, timeful (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0015_vgy5m",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes SMART indicators?",
+    "options": [
+      "soft, moral, accurate, robust, timely (framework)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "simple, meaningful, agreed, resourceful, targeted (policy)",
+      "subjective, memorable, aligned, reliable, timeful — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0015_vupzw",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes SMART indicators?",
+    "options": [
+      "subjective, memorable, aligned, reliable, timeful (typically)",
+      "soft, moral, accurate, robust, timely (advanced)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "simple, meaningful, agreed, resourceful, targeted (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0015_v9gdt",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes SMART indicators?",
+    "options": [
+      "subjective, memorable, aligned, reliable, timeful — concept",
+      "specific, measurable, achievable, relevant, time-bound",
+      "soft, moral, accurate, robust, timely — in practice",
+      "simple, meaningful, agreed, resourceful, targeted (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0015_v82nm",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes SMART indicators? Select the best option.",
+    "options": [
+      "subjective, memorable, aligned, reliable, timeful (framework)",
+      "simple, meaningful, agreed, resourceful, targeted (policy)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "soft, moral, accurate, robust, timely (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0015_vcqmp",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes SMART indicators? Choose the most accurate answer.",
+    "options": [
+      "subjective, memorable, aligned, reliable, timeful — concept",
+      "soft, moral, accurate, robust, timely — concept",
+      "specific, measurable, achievable, relevant, time-bound",
+      "simple, meaningful, agreed, resourceful, targeted (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0015_vf2mv",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes SMART indicators?",
+    "options": [
+      "soft, moral, accurate, robust, timely (framework)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "simple, meaningful, agreed, resourceful, targeted (policy)",
+      "subjective, memorable, aligned, reliable, timeful (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0015_v1rw2",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes SMART indicators?",
+    "options": [
+      "subjective, memorable, aligned, reliable, timeful — concept",
+      "soft, moral, accurate, robust, timely — in practice",
+      "specific, measurable, achievable, relevant, time-bound",
+      "simple, meaningful, agreed, resourceful, targeted (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0015_vd2z4",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes SMART indicators?",
+    "options": [
+      "simple, meaningful, agreed, resourceful, targeted (theory)",
+      "soft, moral, accurate, robust, timely (typically)",
+      "subjective, memorable, aligned, reliable, timeful (policy)",
+      "specific, measurable, achievable, relevant, time-bound"
+    ],
+    "answerIndex": 3,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0016_vq2wg",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is SMART indicators?",
+    "options": [
+      "soft, moral, accurate, robust, timely (framework)",
+      "subjective, memorable, aligned, reliable, timeful (theory)",
+      "simple, meaningful, agreed, resourceful, targeted (framework)",
+      "specific, measurable, achievable, relevant, time-bound"
+    ],
+    "answerIndex": 3,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0016_v23e3",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced planning: what is SMART indicators?",
+    "options": [
+      "subjective, memorable, aligned, reliable, timeful (framework)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "simple, meaningful, agreed, resourceful, targeted — in practice",
+      "soft, moral, accurate, robust, timely — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0016_vxl4h",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced planning: what is SMART indicators?",
+    "options": [
+      "soft, moral, accurate, robust, timely (advanced)",
+      "simple, meaningful, agreed, resourceful, targeted (advanced)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "subjective, memorable, aligned, reliable, timeful (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0016_vruag",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is SMART indicators? Select the best option.",
+    "options": [
+      "specific, measurable, achievable, relevant, time-bound",
+      "subjective, memorable, aligned, reliable, timeful (theory)",
+      "simple, meaningful, agreed, resourceful, targeted (theory)",
+      "soft, moral, accurate, robust, timely (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0016_vhdq3",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is SMART indicators? Choose the most accurate answer.",
+    "options": [
+      "soft, moral, accurate, robust, timely (theory)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "subjective, memorable, aligned, reliable, timeful (policy)",
+      "simple, meaningful, agreed, resourceful, targeted (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0016_vehkr",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced planning: what is SMART indicators?",
+    "options": [
+      "simple, meaningful, agreed, resourceful, targeted (typically)",
+      "soft, moral, accurate, robust, timely (theory)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "subjective, memorable, aligned, reliable, timeful (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0016_vo5z1",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced planning: what is SMART indicators?",
+    "options": [
+      "soft, moral, accurate, robust, timely (theory)",
+      "specific, measurable, achievable, relevant, time-bound",
+      "simple, meaningful, agreed, resourceful, targeted (theory)",
+      "subjective, memorable, aligned, reliable, timeful (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "specific, measurable, achievable, relevant, time-bound"
+  },
+  {
+    "id": "adv_national-planning_0017_vr27y",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: In national planning, Public Investment Management refers to?",
+    "options": [
+      "appraisal, selection, implementation, evaluation",
+      "cash sweep only — concept",
+      "contingent liability ignoring (framework)",
+      "sole-source award (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0017_vr6jr",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Within national planning, Public Investment Management refers to?",
+    "options": [
+      "appraisal, selection, implementation, evaluation",
+      "sole-source award (typically)",
+      "cash sweep only (typically)",
+      "contingent liability ignoring (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0017_vv0el",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: In national planning, Public Investment Management refers to?",
+    "options": [
+      "contingent liability ignoring (policy)",
+      "appraisal, selection, implementation, evaluation",
+      "cash sweep only (typically)",
+      "sole-source award (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0017_vhst1",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, Public Investment Management refers to? Select the best option.",
+    "options": [
+      "contingent liability ignoring (policy)",
+      "cash sweep only (policy)",
+      "appraisal, selection, implementation, evaluation",
+      "sole-source award — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0017_v1th0",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, Public Investment Management refers to? Choose the most accurate answer.",
+    "options": [
+      "sole-source award (policy)",
+      "contingent liability ignoring (typically)",
+      "appraisal, selection, implementation, evaluation",
+      "cash sweep only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0017_vkbh0",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: In national planning, Public Investment Management refers to?",
+    "options": [
+      "sole-source award — concept",
+      "appraisal, selection, implementation, evaluation",
+      "cash sweep only — concept",
+      "contingent liability ignoring (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0017_v2j66",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: In national planning, Public Investment Management refers to?",
+    "options": [
+      "contingent liability ignoring (typically)",
+      "appraisal, selection, implementation, evaluation",
+      "sole-source award (advanced)",
+      "cash sweep only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0018_vpo3k",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Public Investment Management.",
+    "options": [
+      "sole-source award (framework)",
+      "appraisal, selection, implementation, evaluation",
+      "contingent liability ignoring (framework)",
+      "cash sweep only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0018_vqf0j",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Public Investment Management.",
+    "options": [
+      "cash sweep only — in practice",
+      "contingent liability ignoring (framework)",
+      "sole-source award (advanced)",
+      "appraisal, selection, implementation, evaluation"
+    ],
+    "answerIndex": 3,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0018_vsstw",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Public Investment Management.",
+    "options": [
+      "sole-source award (advanced)",
+      "cash sweep only (framework)",
+      "appraisal, selection, implementation, evaluation",
+      "contingent liability ignoring (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0018_vxxbw",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Public Investment Management.",
+    "options": [
+      "sole-source award (advanced)",
+      "appraisal, selection, implementation, evaluation",
+      "contingent liability ignoring — in practice",
+      "cash sweep only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0018_v5lnq",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Public Investment Management. Select the best option.",
+    "options": [
+      "contingent liability ignoring (theory)",
+      "cash sweep only (advanced)",
+      "appraisal, selection, implementation, evaluation",
+      "sole-source award (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0018_v7v69",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Public Investment Management. Choose the most accurate answer.",
+    "options": [
+      "cash sweep only (theory)",
+      "sole-source award — concept",
+      "appraisal, selection, implementation, evaluation",
+      "contingent liability ignoring — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0018_vdueo",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Public Investment Management.",
+    "options": [
+      "cash sweep only — in practice",
+      "appraisal, selection, implementation, evaluation",
+      "sole-source award (advanced)",
+      "contingent liability ignoring (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0018_vzlpu",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Public Investment Management.",
+    "options": [
+      "cash sweep only — concept",
+      "sole-source award (typically)",
+      "contingent liability ignoring (policy)",
+      "appraisal, selection, implementation, evaluation"
+    ],
+    "answerIndex": 3,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0018_vs88y",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Public Investment Management.",
+    "options": [
+      "sole-source award (framework)",
+      "cash sweep only (advanced)",
+      "appraisal, selection, implementation, evaluation",
+      "contingent liability ignoring (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0019_v7foa",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Public Investment Management?",
+    "options": [
+      "sole-source award (theory)",
+      "contingent liability ignoring (advanced)",
+      "appraisal, selection, implementation, evaluation",
+      "cash sweep only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0019_vvd1x",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Public Investment Management?",
+    "options": [
+      "appraisal, selection, implementation, evaluation",
+      "cash sweep only (framework)",
+      "contingent liability ignoring (typically)",
+      "sole-source award (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0019_vgtc2",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Public Investment Management?",
+    "options": [
+      "appraisal, selection, implementation, evaluation",
+      "contingent liability ignoring (framework)",
+      "sole-source award — concept",
+      "cash sweep only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0019_v5e8r",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Public Investment Management?",
+    "options": [
+      "appraisal, selection, implementation, evaluation",
+      "contingent liability ignoring (theory)",
+      "cash sweep only (framework)",
+      "sole-source award (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0019_vwkbj",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Public Investment Management? Select the best option.",
+    "options": [
+      "cash sweep only — in practice",
+      "appraisal, selection, implementation, evaluation",
+      "contingent liability ignoring (policy)",
+      "sole-source award (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0019_v2qn8",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Public Investment Management? Choose the most accurate answer.",
+    "options": [
+      "sole-source award — in practice",
+      "cash sweep only (framework)",
+      "appraisal, selection, implementation, evaluation",
+      "contingent liability ignoring (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0019_vpu6m",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Public Investment Management?",
+    "options": [
+      "cash sweep only (typically)",
+      "contingent liability ignoring (theory)",
+      "appraisal, selection, implementation, evaluation",
+      "sole-source award (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0019_vvgn8",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Public Investment Management?",
+    "options": [
+      "contingent liability ignoring (typically)",
+      "sole-source award — concept",
+      "cash sweep only (theory)",
+      "appraisal, selection, implementation, evaluation"
+    ],
+    "answerIndex": 3,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0019_vf3n2",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Public Investment Management?",
+    "options": [
+      "appraisal, selection, implementation, evaluation",
+      "cash sweep only (theory)",
+      "sole-source award (advanced)",
+      "contingent liability ignoring (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0020_vpinw",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is Public Investment Management?",
+    "options": [
+      "sole-source award — concept",
+      "appraisal, selection, implementation, evaluation",
+      "contingent liability ignoring — in practice",
+      "cash sweep only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0020_vfxte",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced planning: what is Public Investment Management?",
+    "options": [
+      "cash sweep only — in practice",
+      "appraisal, selection, implementation, evaluation",
+      "sole-source award (policy)",
+      "contingent liability ignoring (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0020_v717p",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced planning: what is Public Investment Management?",
+    "options": [
+      "appraisal, selection, implementation, evaluation",
+      "contingent liability ignoring (policy)",
+      "sole-source award — concept",
+      "cash sweep only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0020_v8ajw",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is Public Investment Management? Select the best option.",
+    "options": [
+      "contingent liability ignoring (typically)",
+      "cash sweep only (advanced)",
+      "sole-source award (policy)",
+      "appraisal, selection, implementation, evaluation"
+    ],
+    "answerIndex": 3,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0020_v3en7",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is Public Investment Management? Choose the most accurate answer.",
+    "options": [
+      "cash sweep only (advanced)",
+      "contingent liability ignoring (framework)",
+      "appraisal, selection, implementation, evaluation",
+      "sole-source award (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0020_vg8cw",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced planning: what is Public Investment Management?",
+    "options": [
+      "sole-source award (theory)",
+      "contingent liability ignoring (advanced)",
+      "cash sweep only (framework)",
+      "appraisal, selection, implementation, evaluation"
+    ],
+    "answerIndex": 3,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0020_v6ttu",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced planning: what is Public Investment Management?",
+    "options": [
+      "sole-source award (policy)",
+      "cash sweep only (typically)",
+      "appraisal, selection, implementation, evaluation",
+      "contingent liability ignoring — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "appraisal, selection, implementation, evaluation"
+  },
+  {
+    "id": "adv_national-planning_0021_v0t9r",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: In national planning, CBA (cost–benefit analysis) refers to?",
+    "options": [
+      "gross cost only (theory)",
+      "discounted net present value of benefits and costs",
+      "payback only — concept",
+      "EBITDA multiple (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0021_vaf84",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Within national planning, CBA (cost–benefit analysis) refers to?",
+    "options": [
+      "discounted net present value of benefits and costs",
+      "payback only (typically)",
+      "EBITDA multiple (advanced)",
+      "gross cost only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0021_vgwoe",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: In national planning, CBA (cost–benefit analysis) refers to?",
+    "options": [
+      "EBITDA multiple — concept",
+      "gross cost only (framework)",
+      "discounted net present value of benefits and costs",
+      "payback only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0021_ve1mm",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, CBA (cost–benefit analysis) refers to? Select the best option.",
+    "options": [
+      "payback only — in practice",
+      "gross cost only (policy)",
+      "EBITDA multiple (policy)",
+      "discounted net present value of benefits and costs"
+    ],
+    "answerIndex": 3,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0021_vwb9j",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, CBA (cost–benefit analysis) refers to? Choose the most accurate answer.",
+    "options": [
+      "discounted net present value of benefits and costs",
+      "payback only — concept",
+      "EBITDA multiple — concept",
+      "gross cost only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0021_v1r6c",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: In national planning, CBA (cost–benefit analysis) refers to?",
+    "options": [
+      "discounted net present value of benefits and costs",
+      "EBITDA multiple (policy)",
+      "payback only (advanced)",
+      "gross cost only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0021_voko4",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: In national planning, CBA (cost–benefit analysis) refers to?",
+    "options": [
+      "EBITDA multiple (advanced)",
+      "payback only (framework)",
+      "gross cost only — in practice",
+      "discounted net present value of benefits and costs"
+    ],
+    "answerIndex": 3,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0022_v960r",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of CBA (cost–benefit analysis).",
+    "options": [
+      "discounted net present value of benefits and costs",
+      "EBITDA multiple (policy)",
+      "gross cost only — concept",
+      "payback only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0022_vae1k",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of CBA (cost–benefit analysis).",
+    "options": [
+      "EBITDA multiple (policy)",
+      "payback only — concept",
+      "discounted net present value of benefits and costs",
+      "gross cost only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0022_v842v",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of CBA (cost–benefit analysis).",
+    "options": [
+      "gross cost only (typically)",
+      "EBITDA multiple (typically)",
+      "payback only (framework)",
+      "discounted net present value of benefits and costs"
+    ],
+    "answerIndex": 3,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0022_vg8ae",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of CBA (cost–benefit analysis).",
+    "options": [
+      "gross cost only (typically)",
+      "EBITDA multiple (policy)",
+      "discounted net present value of benefits and costs",
+      "payback only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0022_v409y",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of CBA (cost–benefit analysis). Select the best option.",
+    "options": [
+      "discounted net present value of benefits and costs",
+      "EBITDA multiple — in practice",
+      "payback only (typically)",
+      "gross cost only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0022_vp36y",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of CBA (cost–benefit analysis). Choose the most accurate answer.",
+    "options": [
+      "payback only — concept",
+      "discounted net present value of benefits and costs",
+      "EBITDA multiple (theory)",
+      "gross cost only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0022_v51g1",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of CBA (cost–benefit analysis).",
+    "options": [
+      "EBITDA multiple — in practice",
+      "gross cost only — concept",
+      "payback only (advanced)",
+      "discounted net present value of benefits and costs"
+    ],
+    "answerIndex": 3,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0022_vf53e",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of CBA (cost–benefit analysis).",
+    "options": [
+      "discounted net present value of benefits and costs",
+      "payback only (framework)",
+      "gross cost only — concept",
+      "EBITDA multiple — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0023_vhlli",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes CBA (cost–benefit analysis)?",
+    "options": [
+      "discounted net present value of benefits and costs",
+      "gross cost only (framework)",
+      "payback only (advanced)",
+      "EBITDA multiple (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0023_vmmho",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes CBA (cost–benefit analysis)?",
+    "options": [
+      "payback only — concept",
+      "gross cost only (framework)",
+      "EBITDA multiple (typically)",
+      "discounted net present value of benefits and costs"
+    ],
+    "answerIndex": 3,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0023_vg2oa",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes CBA (cost–benefit analysis)?",
+    "options": [
+      "payback only — concept",
+      "gross cost only (typically)",
+      "discounted net present value of benefits and costs",
+      "EBITDA multiple (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0023_v3hlt",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes CBA (cost–benefit analysis)?",
+    "options": [
+      "discounted net present value of benefits and costs",
+      "gross cost only (typically)",
+      "payback only — in practice",
+      "EBITDA multiple (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0023_vuz73",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes CBA (cost–benefit analysis)? Select the best option.",
+    "options": [
+      "discounted net present value of benefits and costs",
+      "EBITDA multiple (advanced)",
+      "gross cost only — concept",
+      "payback only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0023_valqq",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes CBA (cost–benefit analysis)? Choose the most accurate answer.",
+    "options": [
+      "EBITDA multiple (typically)",
+      "discounted net present value of benefits and costs",
+      "payback only (advanced)",
+      "gross cost only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0023_v3kcd",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes CBA (cost–benefit analysis)?",
+    "options": [
+      "payback only (typically)",
+      "EBITDA multiple (framework)",
+      "discounted net present value of benefits and costs",
+      "gross cost only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0023_v6364",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes CBA (cost–benefit analysis)?",
+    "options": [
+      "EBITDA multiple — concept",
+      "gross cost only — concept",
+      "discounted net present value of benefits and costs",
+      "payback only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0023_vj8nc",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes CBA (cost–benefit analysis)?",
+    "options": [
+      "payback only (framework)",
+      "discounted net present value of benefits and costs",
+      "EBITDA multiple (typically)",
+      "gross cost only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0024_vwr1r",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is CBA (cost–benefit analysis)?",
+    "options": [
+      "EBITDA multiple (framework)",
+      "discounted net present value of benefits and costs",
+      "gross cost only — concept",
+      "payback only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0024_vz48e",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is CBA (cost–benefit analysis)? Select the best option.",
+    "options": [
+      "EBITDA multiple (policy)",
+      "discounted net present value of benefits and costs",
+      "gross cost only (framework)",
+      "payback only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0024_vzr4w",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is CBA (cost–benefit analysis)? Choose the most accurate answer.",
+    "options": [
+      "payback only (policy)",
+      "EBITDA multiple (theory)",
+      "discounted net present value of benefits and costs",
+      "gross cost only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0024_v6c9h",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced planning: what is CBA (cost–benefit analysis)?",
+    "options": [
+      "EBITDA multiple — concept",
+      "payback only (framework)",
+      "discounted net present value of benefits and costs",
+      "gross cost only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0024_vc9qa",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced planning: what is CBA (cost–benefit analysis)?",
+    "options": [
+      "gross cost only (framework)",
+      "discounted net present value of benefits and costs",
+      "payback only (advanced)",
+      "EBITDA multiple — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "discounted net present value of benefits and costs"
+  },
+  {
+    "id": "adv_national-planning_0025_vq4lu",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: In national planning, Fiscal space refers to?",
+    "options": [
+      "budgetary room for priorities without jeopardizing sustainability",
+      "petty cash — in practice",
+      "donor aid only — in practice",
+      "contingency line only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0025_v1zq5",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Within national planning, Fiscal space refers to?",
+    "options": [
+      "budgetary room for priorities without jeopardizing sustainability",
+      "petty cash — concept",
+      "contingency line only — in practice",
+      "donor aid only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0025_vbgav",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: In national planning, Fiscal space refers to?",
+    "options": [
+      "budgetary room for priorities without jeopardizing sustainability",
+      "contingency line only — in practice",
+      "donor aid only (typically)",
+      "petty cash — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0025_vrwoa",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, Fiscal space refers to? Select the best option.",
+    "options": [
+      "donor aid only — concept",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "petty cash (advanced)",
+      "contingency line only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0025_vjo9v",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, Fiscal space refers to? Choose the most accurate answer.",
+    "options": [
+      "contingency line only (advanced)",
+      "petty cash (typically)",
+      "donor aid only (advanced)",
+      "budgetary room for priorities without jeopardizing sustainability"
+    ],
+    "answerIndex": 3,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0025_vt8xt",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: In national planning, Fiscal space refers to?",
+    "options": [
+      "contingency line only (advanced)",
+      "petty cash (advanced)",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "donor aid only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0025_vv5u2",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: In national planning, Fiscal space refers to?",
+    "options": [
+      "petty cash (framework)",
+      "contingency line only (typically)",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "donor aid only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0026_vob51",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Fiscal space.",
+    "options": [
+      "donor aid only — in practice",
+      "contingency line only (typically)",
+      "petty cash — in practice",
+      "budgetary room for priorities without jeopardizing sustainability"
+    ],
+    "answerIndex": 3,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0026_v0d04",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Fiscal space.",
+    "options": [
+      "petty cash (policy)",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "donor aid only (policy)",
+      "contingency line only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0026_vs52y",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Fiscal space.",
+    "options": [
+      "petty cash (advanced)",
+      "contingency line only (advanced)",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "donor aid only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0026_v7d0u",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Fiscal space.",
+    "options": [
+      "donor aid only (theory)",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "petty cash — concept",
+      "contingency line only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0026_vyxfq",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Fiscal space. Select the best option.",
+    "options": [
+      "contingency line only (typically)",
+      "donor aid only (theory)",
+      "petty cash (policy)",
+      "budgetary room for priorities without jeopardizing sustainability"
+    ],
+    "answerIndex": 3,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0026_vsex0",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Fiscal space. Choose the most accurate answer.",
+    "options": [
+      "budgetary room for priorities without jeopardizing sustainability",
+      "contingency line only — in practice",
+      "donor aid only (typically)",
+      "petty cash (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0026_vt2wu",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Fiscal space.",
+    "options": [
+      "donor aid only (advanced)",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "petty cash (framework)",
+      "contingency line only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0026_vwtm1",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Fiscal space.",
+    "options": [
+      "donor aid only (theory)",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "contingency line only (framework)",
+      "petty cash (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0026_vzyd1",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Fiscal space.",
+    "options": [
+      "budgetary room for priorities without jeopardizing sustainability",
+      "petty cash (policy)",
+      "contingency line only (typically)",
+      "donor aid only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0027_vzs80",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Fiscal space?",
+    "options": [
+      "budgetary room for priorities without jeopardizing sustainability",
+      "petty cash (framework)",
+      "donor aid only (theory)",
+      "contingency line only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0027_v97vp",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Fiscal space?",
+    "options": [
+      "contingency line only — concept",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "donor aid only — concept",
+      "petty cash (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0027_v0hmb",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Fiscal space?",
+    "options": [
+      "petty cash (framework)",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "donor aid only (policy)",
+      "contingency line only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0027_v7f94",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Fiscal space?",
+    "options": [
+      "petty cash (framework)",
+      "contingency line only (framework)",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "donor aid only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0027_va6x7",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Fiscal space? Select the best option.",
+    "options": [
+      "donor aid only — concept",
+      "petty cash (typically)",
+      "contingency line only (advanced)",
+      "budgetary room for priorities without jeopardizing sustainability"
+    ],
+    "answerIndex": 3,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0027_vab14",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Fiscal space? Choose the most accurate answer.",
+    "options": [
+      "donor aid only (theory)",
+      "contingency line only (policy)",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "petty cash (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0027_vwsd7",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Fiscal space?",
+    "options": [
+      "petty cash (policy)",
+      "contingency line only (advanced)",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "donor aid only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0027_vk3m4",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Fiscal space?",
+    "options": [
+      "donor aid only — concept",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "petty cash (policy)",
+      "contingency line only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0027_vcfuc",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Fiscal space?",
+    "options": [
+      "budgetary room for priorities without jeopardizing sustainability",
+      "petty cash (theory)",
+      "contingency line only (policy)",
+      "donor aid only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0028_vnyiy",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is Fiscal space?",
+    "options": [
+      "budgetary room for priorities without jeopardizing sustainability",
+      "contingency line only — in practice",
+      "petty cash (framework)",
+      "donor aid only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0028_vrhv0",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced planning: what is Fiscal space?",
+    "options": [
+      "petty cash — concept",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "contingency line only (policy)",
+      "donor aid only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0028_v6tnv",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced planning: what is Fiscal space?",
+    "options": [
+      "petty cash (theory)",
+      "contingency line only (policy)",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "donor aid only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0028_v8mcb",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is Fiscal space? Select the best option.",
+    "options": [
+      "donor aid only (framework)",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "contingency line only — concept",
+      "petty cash (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0028_vlbwb",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is Fiscal space? Choose the most accurate answer.",
+    "options": [
+      "donor aid only — in practice",
+      "petty cash (typically)",
+      "budgetary room for priorities without jeopardizing sustainability",
+      "contingency line only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0028_vsvdl",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced planning: what is Fiscal space?",
+    "options": [
+      "petty cash — in practice",
+      "donor aid only (framework)",
+      "contingency line only — in practice",
+      "budgetary room for priorities without jeopardizing sustainability"
+    ],
+    "answerIndex": 3,
+    "explanation": "budgetary room for priorities without jeopardizing sustainability"
+  },
+  {
+    "id": "adv_national-planning_0029_v6uhs",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: In national planning, Output–outcome distinction refers to?",
+    "options": [
+      "deliverables vs effects on beneficiaries",
+      "same concept (advanced)",
+      "inputs only (typically)",
+      "impacts only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0029_v55ew",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Within national planning, Output–outcome distinction refers to?",
+    "options": [
+      "inputs only (framework)",
+      "same concept (theory)",
+      "impacts only — in practice",
+      "deliverables vs effects on beneficiaries"
+    ],
+    "answerIndex": 3,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0029_vw8bn",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: In national planning, Output–outcome distinction refers to?",
+    "options": [
+      "inputs only (theory)",
+      "same concept — concept",
+      "impacts only — in practice",
+      "deliverables vs effects on beneficiaries"
+    ],
+    "answerIndex": 3,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0029_vgjwq",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, Output–outcome distinction refers to? Select the best option.",
+    "options": [
+      "deliverables vs effects on beneficiaries",
+      "inputs only (theory)",
+      "same concept — concept",
+      "impacts only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0029_vtkw3",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "In national planning, Output–outcome distinction refers to? Choose the most accurate answer.",
+    "options": [
+      "deliverables vs effects on beneficiaries",
+      "inputs only (theory)",
+      "same concept (policy)",
+      "impacts only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0029_venw7",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: In national planning, Output–outcome distinction refers to?",
+    "options": [
+      "inputs only (typically)",
+      "deliverables vs effects on beneficiaries",
+      "impacts only (theory)",
+      "same concept — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0029_va3gl",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: In national planning, Output–outcome distinction refers to?",
+    "options": [
+      "same concept (framework)",
+      "inputs only (typically)",
+      "impacts only — in practice",
+      "deliverables vs effects on beneficiaries"
+    ],
+    "answerIndex": 3,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0030_vvpml",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Output–outcome distinction.",
+    "options": [
+      "deliverables vs effects on beneficiaries",
+      "inputs only (typically)",
+      "same concept (theory)",
+      "impacts only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0030_vmix9",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Output–outcome distinction.",
+    "options": [
+      "impacts only — in practice",
+      "inputs only (policy)",
+      "deliverables vs effects on beneficiaries",
+      "same concept (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0030_vzxcp",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Output–outcome distinction.",
+    "options": [
+      "inputs only (framework)",
+      "same concept (typically)",
+      "impacts only — concept",
+      "deliverables vs effects on beneficiaries"
+    ],
+    "answerIndex": 3,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0030_v1q2w",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Output–outcome distinction.",
+    "options": [
+      "same concept (theory)",
+      "impacts only — concept",
+      "inputs only — in practice",
+      "deliverables vs effects on beneficiaries"
+    ],
+    "answerIndex": 3,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0030_vyg4k",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Output–outcome distinction. Select the best option.",
+    "options": [
+      "same concept — concept",
+      "deliverables vs effects on beneficiaries",
+      "inputs only — in practice",
+      "impacts only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0030_vws4t",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Output–outcome distinction. Choose the most accurate answer.",
+    "options": [
+      "inputs only (framework)",
+      "deliverables vs effects on beneficiaries",
+      "same concept — in practice",
+      "impacts only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0030_vn477",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Output–outcome distinction.",
+    "options": [
+      "same concept (policy)",
+      "deliverables vs effects on beneficiaries",
+      "inputs only (typically)",
+      "impacts only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0030_vooj6",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Output–outcome distinction.",
+    "options": [
+      "deliverables vs effects on beneficiaries",
+      "inputs only (policy)",
+      "impacts only (advanced)",
+      "same concept (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0030_v4ry5",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Output–outcome distinction.",
+    "options": [
+      "impacts only (framework)",
+      "deliverables vs effects on beneficiaries",
+      "same concept (policy)",
+      "inputs only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0031_vjhuz",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Output–outcome distinction?",
+    "options": [
+      "same concept (typically)",
+      "impacts only (advanced)",
+      "inputs only (advanced)",
+      "deliverables vs effects on beneficiaries"
+    ],
+    "answerIndex": 3,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0031_v7hpg",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Output–outcome distinction?",
+    "options": [
+      "inputs only (typically)",
+      "impacts only (typically)",
+      "same concept (typically)",
+      "deliverables vs effects on beneficiaries"
+    ],
+    "answerIndex": 3,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0031_vn656",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Output–outcome distinction?",
+    "options": [
+      "deliverables vs effects on beneficiaries",
+      "inputs only (typically)",
+      "impacts only (typically)",
+      "same concept — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0031_vl4pa",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Output–outcome distinction?",
+    "options": [
+      "inputs only (theory)",
+      "same concept (framework)",
+      "impacts only (theory)",
+      "deliverables vs effects on beneficiaries"
+    ],
+    "answerIndex": 3,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0031_v7rh1",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Output–outcome distinction? Select the best option.",
+    "options": [
+      "impacts only — concept",
+      "inputs only — in practice",
+      "deliverables vs effects on beneficiaries",
+      "same concept — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0031_v6eh8",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Output–outcome distinction? Choose the most accurate answer.",
+    "options": [
+      "inputs only (typically)",
+      "deliverables vs effects on beneficiaries",
+      "same concept (policy)",
+      "impacts only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0032_rqijj",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Advanced planning: what is Output–outcome distinction?",
+    "options": [
+      "impacts only (typically)",
+      "same concept (framework)",
+      "inputs only — in practice",
+      "deliverables vs effects on beneficiaries"
+    ],
+    "answerIndex": 3,
+    "explanation": "deliverables vs effects on beneficiaries"
+  },
+  {
+    "id": "adv_national-planning_0033_r9h1r",
+    "category": "cadre",
+    "cadreSlug": "national-planning",
+    "topic": "National Planning",
+    "subtopic": "Frameworks & M&E",
+    "difficulty": "advanced",
+    "question": "Within national planning, PPPs refers to?",
+    "options": [
+      "allocate risks to parties best able to manage",
+      "transfer all to private always (policy)",
+      "government bears all — in practice",
+      "no risk analysis (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "allocate risks to parties best able to manage"
+  }
+]

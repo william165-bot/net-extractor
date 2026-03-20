@@ -1,0 +1,4252 @@
+[
+  {
+    "id": "adv_foreign-affairs_0001",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Vienna Convention on Diplomatic Relations (1961) refers to?",
+    "options": [
+      "regulates air travel",
+      "governs privileges and immunities of diplomatic missions",
+      "sets maritime boundaries",
+      "establishes trade tariffs"
+    ],
+    "answerIndex": 1,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0005",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Vienna Convention on Consular Relations (1963) refers to?",
+    "options": [
+      "adopts SDGs",
+      "defines consular functions and immunities",
+      "creates ICC",
+      "sets WTO dispute rules"
+    ],
+    "answerIndex": 1,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0009",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Persona non grata refers to?",
+    "options": [
+      "recognizes statehood",
+      "grants asylum automatically",
+      "host declares diplomat unacceptable",
+      "declares embargo"
+    ],
+    "answerIndex": 2,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0013",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Exequatur refers to?",
+    "options": [
+      "visa for diplomats",
+      "trade license",
+      "authorization for consul to exercise functions",
+      "status of forces"
+    ],
+    "answerIndex": 2,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0017",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Treaty ratification refers to?",
+    "options": [
+      "mere signature binds",
+      "formal domestic approval to be bound",
+      "press release binds",
+      "informal pledge"
+    ],
+    "answerIndex": 1,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0021",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Pacta sunt servanda refers to?",
+    "options": [
+      "custom overrides all",
+      "soft law binding like treaties",
+      "rebus sic stantibus prevails",
+      "agreements must be kept"
+    ],
+    "answerIndex": 3,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0025",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, UN Security Council Chapter VII refers to?",
+    "options": [
+      "development goals",
+      "trusteeship admin",
+      "budget approvals",
+      "authorizes enforcement measures"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0029",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Most-Favoured-Nation (MFN) refers to?",
+    "options": [
+      "tariff escalation",
+      "sanction exemption",
+      "non-discriminatory trade treatment",
+      "preferential to one only"
+    ],
+    "answerIndex": 2,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0033",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Consular notification refers to?",
+    "options": [
+      "automatic bail",
+      "grant immunity",
+      "inform sending state upon arrest of national",
+      "issue passport"
+    ],
+    "answerIndex": 2,
+    "explanation": "inform sending state upon arrest of national"
+  },
+  {
+    "id": "adv_foreign-affairs_0037",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Diplomatic bag refers to?",
+    "options": [
+      "requires customs tariff",
+      "inviolable official correspondence",
+      "expires quarterly",
+      "subject to search"
+    ],
+    "answerIndex": 1,
+    "explanation": "inviolable official correspondence"
+  },
+  {
+    "id": "adv_foreign-affairs_0041",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "International Law",
+    "subtopic": "Statehood",
+    "difficulty": "advanced",
+    "question": "What is state recognition effect?",
+    "options": [
+      "ability to enter treaties and have diplomatic relations",
+      "automatic WTO accession",
+      "automatic ICC jurisdiction",
+      "automatic UN membership"
+    ],
+    "answerIndex": 0,
+    "explanation": "Montevideo context"
+  },
+  {
+    "id": "adv_foreign-affairs_0001_v39pj",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Within diplomacy/international law, Vienna Convention on Diplomatic Relations (1961) refers to?",
+    "options": [
+      "regulates air travel — concept",
+      "sets maritime boundaries (advanced)",
+      "governs privileges and immunities of diplomatic missions",
+      "establishes trade tariffs (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0001_v7444",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: In diplomacy/international law, Vienna Convention on Diplomatic Relations (1961) refers to?",
+    "options": [
+      "regulates air travel (framework)",
+      "establishes trade tariffs — in practice",
+      "governs privileges and immunities of diplomatic missions",
+      "sets maritime boundaries — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0001_vsscl",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Vienna Convention on Diplomatic Relations (1961) refers to? Select the best option.",
+    "options": [
+      "governs privileges and immunities of diplomatic missions",
+      "sets maritime boundaries — in practice",
+      "establishes trade tariffs (typically)",
+      "regulates air travel — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0001_vxzox",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Vienna Convention on Diplomatic Relations (1961) refers to? Choose the most accurate answer.",
+    "options": [
+      "governs privileges and immunities of diplomatic missions",
+      "sets maritime boundaries (typically)",
+      "establishes trade tariffs (framework)",
+      "regulates air travel (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0001_vxpc1",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: In diplomacy/international law, Vienna Convention on Diplomatic Relations (1961) refers to?",
+    "options": [
+      "sets maritime boundaries (typically)",
+      "governs privileges and immunities of diplomatic missions",
+      "establishes trade tariffs (advanced)",
+      "regulates air travel (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0002_vw46e",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Precisely which statement is accurate about Vienna Convention on Diplomatic Relations (1961)?",
+    "options": [
+      "establishes trade tariffs — concept",
+      "regulates air travel — in practice",
+      "sets maritime boundaries (theory)",
+      "governs privileges and immunities of diplomatic missions"
+    ],
+    "answerIndex": 3,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0002_vjrw9",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement is accurate about Vienna Convention on Diplomatic Relations (1961)?",
+    "options": [
+      "establishes trade tariffs (advanced)",
+      "governs privileges and immunities of diplomatic missions",
+      "sets maritime boundaries (advanced)",
+      "regulates air travel — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0002_v4eav",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement is accurate about Vienna Convention on Diplomatic Relations (1961)?",
+    "options": [
+      "regulates air travel (typically)",
+      "sets maritime boundaries (theory)",
+      "governs privileges and immunities of diplomatic missions",
+      "establishes trade tariffs (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0002_v3alq",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Vienna Convention on Diplomatic Relations (1961)? Select the best option.",
+    "options": [
+      "regulates air travel — in practice",
+      "sets maritime boundaries (theory)",
+      "establishes trade tariffs (advanced)",
+      "governs privileges and immunities of diplomatic missions"
+    ],
+    "answerIndex": 3,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0002_vkokf",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Vienna Convention on Diplomatic Relations (1961)? Choose the most accurate answer.",
+    "options": [
+      "governs privileges and immunities of diplomatic missions",
+      "sets maritime boundaries (typically)",
+      "regulates air travel (typically)",
+      "establishes trade tariffs (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0002_vv5nu",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement is accurate about Vienna Convention on Diplomatic Relations (1961)?",
+    "options": [
+      "governs privileges and immunities of diplomatic missions",
+      "regulates air travel (typically)",
+      "establishes trade tariffs (advanced)",
+      "sets maritime boundaries (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0002_vxlny",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement is accurate about Vienna Convention on Diplomatic Relations (1961)?",
+    "options": [
+      "regulates air travel (policy)",
+      "governs privileges and immunities of diplomatic missions",
+      "establishes trade tariffs (framework)",
+      "sets maritime boundaries — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0003_v7hxs",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Vienna Convention on Diplomatic Relations (1961).",
+    "options": [
+      "governs privileges and immunities of diplomatic missions",
+      "sets maritime boundaries (framework)",
+      "establishes trade tariffs (policy)",
+      "regulates air travel (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0003_vz8b0",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Vienna Convention on Diplomatic Relations (1961).",
+    "options": [
+      "governs privileges and immunities of diplomatic missions",
+      "establishes trade tariffs (theory)",
+      "regulates air travel (framework)",
+      "sets maritime boundaries (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0003_vxagy",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the correct description of Vienna Convention on Diplomatic Relations (1961).",
+    "options": [
+      "sets maritime boundaries (advanced)",
+      "regulates air travel (policy)",
+      "establishes trade tariffs (typically)",
+      "governs privileges and immunities of diplomatic missions"
+    ],
+    "answerIndex": 3,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0003_v0wwn",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Vienna Convention on Diplomatic Relations (1961). Select the best option.",
+    "options": [
+      "regulates air travel — concept",
+      "establishes trade tariffs — concept",
+      "governs privileges and immunities of diplomatic missions",
+      "sets maritime boundaries (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0003_vqw6l",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Choose the correct description of Vienna Convention on Diplomatic Relations (1961).",
+    "options": [
+      "governs privileges and immunities of diplomatic missions",
+      "sets maritime boundaries (policy)",
+      "establishes trade tariffs (advanced)",
+      "regulates air travel (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0003_v6a3j",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the correct description of Vienna Convention on Diplomatic Relations (1961).",
+    "options": [
+      "governs privileges and immunities of diplomatic missions",
+      "regulates air travel (typically)",
+      "sets maritime boundaries (typically)",
+      "establishes trade tariffs (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0004_ve5cq",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Vienna Convention on Diplomatic Relations (1961) primarily concerns what?",
+    "options": [
+      "establishes trade tariffs — concept",
+      "regulates air travel (framework)",
+      "governs privileges and immunities of diplomatic missions",
+      "sets maritime boundaries (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0004_v91ya",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced foreign service: Vienna Convention on Diplomatic Relations (1961) primarily concerns what?",
+    "options": [
+      "regulates air travel (typically)",
+      "sets maritime boundaries (typically)",
+      "establishes trade tariffs (theory)",
+      "governs privileges and immunities of diplomatic missions"
+    ],
+    "answerIndex": 3,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0004_vw9vu",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Vienna Convention on Diplomatic Relations (1961) primarily concerns what? Select the best option.",
+    "options": [
+      "sets maritime boundaries (theory)",
+      "governs privileges and immunities of diplomatic missions",
+      "regulates air travel (framework)",
+      "establishes trade tariffs (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0004_v8fop",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Vienna Convention on Diplomatic Relations (1961) primarily concerns what? Choose the most accurate answer.",
+    "options": [
+      "sets maritime boundaries (framework)",
+      "regulates air travel (framework)",
+      "establishes trade tariffs (typically)",
+      "governs privileges and immunities of diplomatic missions"
+    ],
+    "answerIndex": 3,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0005_vuo26",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Within diplomacy/international law, Vienna Convention on Consular Relations (1963) refers to?",
+    "options": [
+      "adopts SDGs (theory)",
+      "sets WTO dispute rules (framework)",
+      "creates ICC (typically)",
+      "defines consular functions and immunities"
+    ],
+    "answerIndex": 3,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0005_v0ykc",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: In diplomacy/international law, Vienna Convention on Consular Relations (1963) refers to?",
+    "options": [
+      "defines consular functions and immunities",
+      "creates ICC — in practice",
+      "adopts SDGs (policy)",
+      "sets WTO dispute rules (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0005_v3glz",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Vienna Convention on Consular Relations (1963) refers to? Select the best option.",
+    "options": [
+      "defines consular functions and immunities",
+      "sets WTO dispute rules (framework)",
+      "adopts SDGs (theory)",
+      "creates ICC (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0005_v0j0w",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Vienna Convention on Consular Relations (1963) refers to? Choose the most accurate answer.",
+    "options": [
+      "adopts SDGs (typically)",
+      "sets WTO dispute rules — concept",
+      "defines consular functions and immunities",
+      "creates ICC — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0005_vz7sk",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: In diplomacy/international law, Vienna Convention on Consular Relations (1963) refers to?",
+    "options": [
+      "creates ICC — concept",
+      "adopts SDGs (theory)",
+      "sets WTO dispute rules (typically)",
+      "defines consular functions and immunities"
+    ],
+    "answerIndex": 3,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0006_v1270",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Precisely which statement is accurate about Vienna Convention on Consular Relations (1963)?",
+    "options": [
+      "defines consular functions and immunities",
+      "creates ICC — in practice",
+      "sets WTO dispute rules (typically)",
+      "adopts SDGs (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0006_vw9uk",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement is accurate about Vienna Convention on Consular Relations (1963)?",
+    "options": [
+      "adopts SDGs (advanced)",
+      "creates ICC (framework)",
+      "sets WTO dispute rules — in practice",
+      "defines consular functions and immunities"
+    ],
+    "answerIndex": 3,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0006_v0nc3",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement is accurate about Vienna Convention on Consular Relations (1963)?",
+    "options": [
+      "adopts SDGs (advanced)",
+      "sets WTO dispute rules (framework)",
+      "defines consular functions and immunities",
+      "creates ICC (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0006_v3lh8",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Vienna Convention on Consular Relations (1963)? Select the best option.",
+    "options": [
+      "adopts SDGs — concept",
+      "defines consular functions and immunities",
+      "creates ICC (framework)",
+      "sets WTO dispute rules (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0006_vgryr",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Vienna Convention on Consular Relations (1963)? Choose the most accurate answer.",
+    "options": [
+      "defines consular functions and immunities",
+      "creates ICC — concept",
+      "adopts SDGs — in practice",
+      "sets WTO dispute rules (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0006_v97hs",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement is accurate about Vienna Convention on Consular Relations (1963)?",
+    "options": [
+      "sets WTO dispute rules (policy)",
+      "defines consular functions and immunities",
+      "creates ICC — concept",
+      "adopts SDGs (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0007_v4bjk",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Vienna Convention on Consular Relations (1963).",
+    "options": [
+      "creates ICC (theory)",
+      "sets WTO dispute rules — in practice",
+      "adopts SDGs (framework)",
+      "defines consular functions and immunities"
+    ],
+    "answerIndex": 3,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0007_vby1l",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the correct description of Vienna Convention on Consular Relations (1963).",
+    "options": [
+      "creates ICC (framework)",
+      "adopts SDGs (framework)",
+      "defines consular functions and immunities",
+      "sets WTO dispute rules (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0007_vwc5o",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Vienna Convention on Consular Relations (1963). Select the best option.",
+    "options": [
+      "adopts SDGs (advanced)",
+      "sets WTO dispute rules (framework)",
+      "creates ICC (theory)",
+      "defines consular functions and immunities"
+    ],
+    "answerIndex": 3,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0007_vsn22",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Vienna Convention on Consular Relations (1963). Choose the most accurate answer.",
+    "options": [
+      "defines consular functions and immunities",
+      "creates ICC — concept",
+      "sets WTO dispute rules — concept",
+      "adopts SDGs (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0007_vl105",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Choose the correct description of Vienna Convention on Consular Relations (1963).",
+    "options": [
+      "adopts SDGs (framework)",
+      "creates ICC (typically)",
+      "defines consular functions and immunities",
+      "sets WTO dispute rules — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0007_ve4th",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the correct description of Vienna Convention on Consular Relations (1963).",
+    "options": [
+      "creates ICC (advanced)",
+      "sets WTO dispute rules (theory)",
+      "defines consular functions and immunities",
+      "adopts SDGs — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0008_v7afw",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Vienna Convention on Consular Relations (1963) primarily concerns what?",
+    "options": [
+      "defines consular functions and immunities",
+      "sets WTO dispute rules (theory)",
+      "adopts SDGs (typically)",
+      "creates ICC — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0008_vrzg8",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced foreign service: Vienna Convention on Consular Relations (1963) primarily concerns what?",
+    "options": [
+      "creates ICC — concept",
+      "sets WTO dispute rules (advanced)",
+      "adopts SDGs — in practice",
+      "defines consular functions and immunities"
+    ],
+    "answerIndex": 3,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0008_vhjhj",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Vienna Convention on Consular Relations (1963) primarily concerns what? Select the best option.",
+    "options": [
+      "defines consular functions and immunities",
+      "adopts SDGs (theory)",
+      "sets WTO dispute rules (policy)",
+      "creates ICC (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0008_v8yed",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Vienna Convention on Consular Relations (1963) primarily concerns what? Choose the most accurate answer.",
+    "options": [
+      "creates ICC — concept",
+      "adopts SDGs — in practice",
+      "defines consular functions and immunities",
+      "sets WTO dispute rules (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0008_vb6n1",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced foreign service: Vienna Convention on Consular Relations (1963) primarily concerns what?",
+    "options": [
+      "defines consular functions and immunities",
+      "sets WTO dispute rules — in practice",
+      "adopts SDGs (framework)",
+      "creates ICC (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0009_vst2k",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: In diplomacy/international law, Persona non grata refers to?",
+    "options": [
+      "grants asylum automatically — concept",
+      "recognizes statehood (theory)",
+      "host declares diplomat unacceptable",
+      "declares embargo (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0009_vswsv",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Within diplomacy/international law, Persona non grata refers to?",
+    "options": [
+      "declares embargo — concept",
+      "grants asylum automatically (framework)",
+      "host declares diplomat unacceptable",
+      "recognizes statehood (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0009_vstpy",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: In diplomacy/international law, Persona non grata refers to?",
+    "options": [
+      "declares embargo (framework)",
+      "host declares diplomat unacceptable",
+      "recognizes statehood (theory)",
+      "grants asylum automatically (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0009_v8r9y",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Persona non grata refers to? Select the best option.",
+    "options": [
+      "declares embargo (typically)",
+      "host declares diplomat unacceptable",
+      "grants asylum automatically (advanced)",
+      "recognizes statehood (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0009_v26ud",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Persona non grata refers to? Choose the most accurate answer.",
+    "options": [
+      "grants asylum automatically — in practice",
+      "host declares diplomat unacceptable",
+      "recognizes statehood (typically)",
+      "declares embargo — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0009_voel2",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: In diplomacy/international law, Persona non grata refers to?",
+    "options": [
+      "declares embargo (framework)",
+      "host declares diplomat unacceptable",
+      "recognizes statehood — concept",
+      "grants asylum automatically (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0009_vu0wu",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: In diplomacy/international law, Persona non grata refers to?",
+    "options": [
+      "host declares diplomat unacceptable",
+      "declares embargo — concept",
+      "recognizes statehood (framework)",
+      "grants asylum automatically (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0010_vftnr",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Precisely which statement is accurate about Persona non grata?",
+    "options": [
+      "recognizes statehood — in practice",
+      "grants asylum automatically (advanced)",
+      "host declares diplomat unacceptable",
+      "declares embargo (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0010_vqees",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement is accurate about Persona non grata?",
+    "options": [
+      "declares embargo (theory)",
+      "recognizes statehood — in practice",
+      "host declares diplomat unacceptable",
+      "grants asylum automatically (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0010_v598a",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Persona non grata?",
+    "options": [
+      "host declares diplomat unacceptable",
+      "declares embargo — in practice",
+      "grants asylum automatically — in practice",
+      "recognizes statehood (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0010_vlkoq",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement is accurate about Persona non grata?",
+    "options": [
+      "grants asylum automatically (theory)",
+      "recognizes statehood (typically)",
+      "declares embargo (theory)",
+      "host declares diplomat unacceptable"
+    ],
+    "answerIndex": 3,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0010_vla74",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Persona non grata? Select the best option.",
+    "options": [
+      "grants asylum automatically (typically)",
+      "declares embargo (policy)",
+      "recognizes statehood (policy)",
+      "host declares diplomat unacceptable"
+    ],
+    "answerIndex": 3,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0010_vy53a",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Persona non grata? Choose the most accurate answer.",
+    "options": [
+      "host declares diplomat unacceptable",
+      "recognizes statehood — in practice",
+      "grants asylum automatically (framework)",
+      "declares embargo — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0010_vmfqu",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement is accurate about Persona non grata?",
+    "options": [
+      "grants asylum automatically (advanced)",
+      "host declares diplomat unacceptable",
+      "declares embargo (framework)",
+      "recognizes statehood (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0010_vsws3",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement is accurate about Persona non grata?",
+    "options": [
+      "declares embargo (advanced)",
+      "host declares diplomat unacceptable",
+      "recognizes statehood (typically)",
+      "grants asylum automatically (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0010_vhy36",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement is accurate about Persona non grata?",
+    "options": [
+      "grants asylum automatically (theory)",
+      "declares embargo — in practice",
+      "recognizes statehood — concept",
+      "host declares diplomat unacceptable"
+    ],
+    "answerIndex": 3,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0011_vpd98",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Persona non grata.",
+    "options": [
+      "declares embargo — in practice",
+      "recognizes statehood (framework)",
+      "host declares diplomat unacceptable",
+      "grants asylum automatically (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0011_v54fu",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the correct description of Persona non grata.",
+    "options": [
+      "recognizes statehood (theory)",
+      "declares embargo (advanced)",
+      "grants asylum automatically — in practice",
+      "host declares diplomat unacceptable"
+    ],
+    "answerIndex": 3,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0011_v1bnu",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Persona non grata.",
+    "options": [
+      "grants asylum automatically (typically)",
+      "recognizes statehood (theory)",
+      "declares embargo (typically)",
+      "host declares diplomat unacceptable"
+    ],
+    "answerIndex": 3,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0011_vsq1h",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the correct description of Persona non grata.",
+    "options": [
+      "declares embargo — concept",
+      "grants asylum automatically (advanced)",
+      "host declares diplomat unacceptable",
+      "recognizes statehood — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0011_vhiru",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Persona non grata. Select the best option.",
+    "options": [
+      "recognizes statehood (theory)",
+      "declares embargo (theory)",
+      "host declares diplomat unacceptable",
+      "grants asylum automatically (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0011_vdjeg",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Persona non grata. Choose the most accurate answer.",
+    "options": [
+      "grants asylum automatically (framework)",
+      "declares embargo (framework)",
+      "recognizes statehood (framework)",
+      "host declares diplomat unacceptable"
+    ],
+    "answerIndex": 3,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0011_vueve",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Choose the correct description of Persona non grata.",
+    "options": [
+      "recognizes statehood (framework)",
+      "grants asylum automatically — in practice",
+      "host declares diplomat unacceptable",
+      "declares embargo (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0011_ve7yi",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the correct description of Persona non grata.",
+    "options": [
+      "recognizes statehood (typically)",
+      "declares embargo (framework)",
+      "grants asylum automatically (typically)",
+      "host declares diplomat unacceptable"
+    ],
+    "answerIndex": 3,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0011_vrcg3",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the correct description of Persona non grata.",
+    "options": [
+      "host declares diplomat unacceptable",
+      "declares embargo — concept",
+      "recognizes statehood (theory)",
+      "grants asylum automatically — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0012_vj7za",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Persona non grata primarily concerns what?",
+    "options": [
+      "recognizes statehood (theory)",
+      "grants asylum automatically (policy)",
+      "host declares diplomat unacceptable",
+      "declares embargo — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0012_vsx5c",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced foreign service: Persona non grata primarily concerns what?",
+    "options": [
+      "recognizes statehood (theory)",
+      "declares embargo (framework)",
+      "host declares diplomat unacceptable",
+      "grants asylum automatically (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0012_vn6cm",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Persona non grata primarily concerns what? Select the best option.",
+    "options": [
+      "recognizes statehood (policy)",
+      "declares embargo (typically)",
+      "host declares diplomat unacceptable",
+      "grants asylum automatically (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0012_vd0hi",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Persona non grata primarily concerns what? Choose the most accurate answer.",
+    "options": [
+      "recognizes statehood (framework)",
+      "grants asylum automatically (policy)",
+      "declares embargo (typically)",
+      "host declares diplomat unacceptable"
+    ],
+    "answerIndex": 3,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0012_vfde8",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced foreign service: Persona non grata primarily concerns what?",
+    "options": [
+      "recognizes statehood (advanced)",
+      "grants asylum automatically — in practice",
+      "declares embargo (advanced)",
+      "host declares diplomat unacceptable"
+    ],
+    "answerIndex": 3,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0012_vzaf9",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced foreign service: Persona non grata primarily concerns what?",
+    "options": [
+      "host declares diplomat unacceptable",
+      "grants asylum automatically (advanced)",
+      "recognizes statehood (advanced)",
+      "declares embargo (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "host declares diplomat unacceptable"
+  },
+  {
+    "id": "adv_foreign-affairs_0013_v5x9v",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: In diplomacy/international law, Exequatur refers to?",
+    "options": [
+      "trade license (theory)",
+      "visa for diplomats (typically)",
+      "status of forces — in practice",
+      "authorization for consul to exercise functions"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0013_voeam",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Within diplomacy/international law, Exequatur refers to?",
+    "options": [
+      "authorization for consul to exercise functions",
+      "visa for diplomats (advanced)",
+      "status of forces (advanced)",
+      "trade license (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0013_vl5dr",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: In diplomacy/international law, Exequatur refers to?",
+    "options": [
+      "status of forces (theory)",
+      "authorization for consul to exercise functions",
+      "visa for diplomats — concept",
+      "trade license — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0013_vuryo",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Exequatur refers to? Select the best option.",
+    "options": [
+      "status of forces — concept",
+      "visa for diplomats (typically)",
+      "trade license (typically)",
+      "authorization for consul to exercise functions"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0013_vmh0n",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Exequatur refers to? Choose the most accurate answer.",
+    "options": [
+      "visa for diplomats (theory)",
+      "authorization for consul to exercise functions",
+      "trade license (advanced)",
+      "status of forces — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0013_v5ier",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: In diplomacy/international law, Exequatur refers to?",
+    "options": [
+      "status of forces (policy)",
+      "authorization for consul to exercise functions",
+      "visa for diplomats (advanced)",
+      "trade license (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0013_v730w",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: In diplomacy/international law, Exequatur refers to?",
+    "options": [
+      "authorization for consul to exercise functions",
+      "status of forces (typically)",
+      "visa for diplomats (policy)",
+      "trade license (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0014_v3q5p",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Precisely which statement is accurate about Exequatur?",
+    "options": [
+      "status of forces (advanced)",
+      "visa for diplomats (typically)",
+      "authorization for consul to exercise functions",
+      "trade license — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0014_vqpvs",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement is accurate about Exequatur?",
+    "options": [
+      "authorization for consul to exercise functions",
+      "trade license (policy)",
+      "status of forces — concept",
+      "visa for diplomats (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0014_v67bc",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Exequatur?",
+    "options": [
+      "visa for diplomats — concept",
+      "trade license (framework)",
+      "authorization for consul to exercise functions",
+      "status of forces — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0014_vh106",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement is accurate about Exequatur?",
+    "options": [
+      "authorization for consul to exercise functions",
+      "status of forces (advanced)",
+      "visa for diplomats (framework)",
+      "trade license (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0014_v7k4j",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Exequatur? Select the best option.",
+    "options": [
+      "visa for diplomats (policy)",
+      "trade license — in practice",
+      "status of forces (theory)",
+      "authorization for consul to exercise functions"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0014_vhngu",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Exequatur? Choose the most accurate answer.",
+    "options": [
+      "status of forces — concept",
+      "authorization for consul to exercise functions",
+      "trade license (advanced)",
+      "visa for diplomats (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0014_vv0ki",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement is accurate about Exequatur?",
+    "options": [
+      "visa for diplomats (theory)",
+      "trade license (framework)",
+      "authorization for consul to exercise functions",
+      "status of forces (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0014_vsk34",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement is accurate about Exequatur?",
+    "options": [
+      "authorization for consul to exercise functions",
+      "visa for diplomats (framework)",
+      "trade license — in practice",
+      "status of forces (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0014_v0jyd",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement is accurate about Exequatur?",
+    "options": [
+      "visa for diplomats (advanced)",
+      "trade license (typically)",
+      "status of forces — in practice",
+      "authorization for consul to exercise functions"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0015_vyqpb",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the correct description of Exequatur.",
+    "options": [
+      "trade license (policy)",
+      "visa for diplomats (framework)",
+      "status of forces — in practice",
+      "authorization for consul to exercise functions"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0015_vn4rk",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Exequatur.",
+    "options": [
+      "authorization for consul to exercise functions",
+      "visa for diplomats — in practice",
+      "trade license (theory)",
+      "status of forces (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0015_vvwc4",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Exequatur.",
+    "options": [
+      "authorization for consul to exercise functions",
+      "visa for diplomats — in practice",
+      "trade license (typically)",
+      "status of forces — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0015_vdzjx",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the correct description of Exequatur.",
+    "options": [
+      "status of forces (advanced)",
+      "authorization for consul to exercise functions",
+      "trade license (theory)",
+      "visa for diplomats (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0015_vvte3",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Exequatur. Select the best option.",
+    "options": [
+      "visa for diplomats — concept",
+      "status of forces — in practice",
+      "trade license — in practice",
+      "authorization for consul to exercise functions"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0015_vx9s9",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Exequatur. Choose the most accurate answer.",
+    "options": [
+      "visa for diplomats (advanced)",
+      "trade license (typically)",
+      "authorization for consul to exercise functions",
+      "status of forces (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0015_v0n14",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the correct description of Exequatur.",
+    "options": [
+      "status of forces — in practice",
+      "visa for diplomats (framework)",
+      "trade license (framework)",
+      "authorization for consul to exercise functions"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0015_vcbgo",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the correct description of Exequatur.",
+    "options": [
+      "authorization for consul to exercise functions",
+      "trade license (policy)",
+      "visa for diplomats — concept",
+      "status of forces (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0016_vfuid",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Exequatur primarily concerns what?",
+    "options": [
+      "visa for diplomats — in practice",
+      "status of forces (typically)",
+      "authorization for consul to exercise functions",
+      "trade license (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0016_v032a",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced foreign service: Exequatur primarily concerns what?",
+    "options": [
+      "visa for diplomats (policy)",
+      "status of forces (framework)",
+      "authorization for consul to exercise functions",
+      "trade license (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0016_v3e7a",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced foreign service: Exequatur primarily concerns what?",
+    "options": [
+      "trade license — in practice",
+      "visa for diplomats — concept",
+      "status of forces (advanced)",
+      "authorization for consul to exercise functions"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0016_vvdly",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Exequatur primarily concerns what? Select the best option.",
+    "options": [
+      "trade license (typically)",
+      "visa for diplomats (theory)",
+      "authorization for consul to exercise functions",
+      "status of forces (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0016_vpmuk",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Exequatur primarily concerns what? Choose the most accurate answer.",
+    "options": [
+      "status of forces (theory)",
+      "trade license (theory)",
+      "visa for diplomats — in practice",
+      "authorization for consul to exercise functions"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0016_vxyih",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced foreign service: Exequatur primarily concerns what?",
+    "options": [
+      "authorization for consul to exercise functions",
+      "trade license (advanced)",
+      "status of forces (theory)",
+      "visa for diplomats (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "authorization for consul to exercise functions"
+  },
+  {
+    "id": "adv_foreign-affairs_0017_vq6tf",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: In diplomacy/international law, Treaty ratification refers to?",
+    "options": [
+      "press release binds (framework)",
+      "mere signature binds (policy)",
+      "formal domestic approval to be bound",
+      "informal pledge — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0017_v3fub",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Within diplomacy/international law, Treaty ratification refers to?",
+    "options": [
+      "mere signature binds (policy)",
+      "informal pledge (advanced)",
+      "press release binds (advanced)",
+      "formal domestic approval to be bound"
+    ],
+    "answerIndex": 3,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0017_vqy1x",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: In diplomacy/international law, Treaty ratification refers to?",
+    "options": [
+      "press release binds (advanced)",
+      "informal pledge (policy)",
+      "mere signature binds — concept",
+      "formal domestic approval to be bound"
+    ],
+    "answerIndex": 3,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0017_v7on2",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Treaty ratification refers to? Select the best option.",
+    "options": [
+      "press release binds (theory)",
+      "informal pledge (typically)",
+      "formal domestic approval to be bound",
+      "mere signature binds — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0017_vl8ur",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Treaty ratification refers to? Choose the most accurate answer.",
+    "options": [
+      "mere signature binds (advanced)",
+      "informal pledge — concept",
+      "formal domestic approval to be bound",
+      "press release binds — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0017_v5fjz",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: In diplomacy/international law, Treaty ratification refers to?",
+    "options": [
+      "press release binds (typically)",
+      "formal domestic approval to be bound",
+      "informal pledge (framework)",
+      "mere signature binds — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0017_v7jft",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: In diplomacy/international law, Treaty ratification refers to?",
+    "options": [
+      "press release binds (typically)",
+      "formal domestic approval to be bound",
+      "informal pledge — in practice",
+      "mere signature binds (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0018_vj4gl",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Precisely which statement is accurate about Treaty ratification?",
+    "options": [
+      "mere signature binds — concept",
+      "formal domestic approval to be bound",
+      "informal pledge (framework)",
+      "press release binds — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0018_vpjex",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement is accurate about Treaty ratification?",
+    "options": [
+      "press release binds — concept",
+      "mere signature binds — in practice",
+      "formal domestic approval to be bound",
+      "informal pledge (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0018_v4hvt",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Treaty ratification?",
+    "options": [
+      "informal pledge — concept",
+      "mere signature binds (policy)",
+      "formal domestic approval to be bound",
+      "press release binds (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0018_vnte0",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement is accurate about Treaty ratification?",
+    "options": [
+      "informal pledge (advanced)",
+      "mere signature binds (advanced)",
+      "formal domestic approval to be bound",
+      "press release binds (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0018_v1ov4",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Treaty ratification? Select the best option.",
+    "options": [
+      "press release binds (framework)",
+      "informal pledge — concept",
+      "formal domestic approval to be bound",
+      "mere signature binds — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0018_voabi",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Treaty ratification? Choose the most accurate answer.",
+    "options": [
+      "informal pledge (typically)",
+      "press release binds (advanced)",
+      "formal domestic approval to be bound",
+      "mere signature binds (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0018_vakg7",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement is accurate about Treaty ratification?",
+    "options": [
+      "press release binds (policy)",
+      "informal pledge (policy)",
+      "mere signature binds — in practice",
+      "formal domestic approval to be bound"
+    ],
+    "answerIndex": 3,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0018_vrbag",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement is accurate about Treaty ratification?",
+    "options": [
+      "mere signature binds (advanced)",
+      "formal domestic approval to be bound",
+      "press release binds (policy)",
+      "informal pledge (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0019_vmhoo",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Treaty ratification.",
+    "options": [
+      "formal domestic approval to be bound",
+      "press release binds (framework)",
+      "mere signature binds (framework)",
+      "informal pledge (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0019_v9p8x",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the correct description of Treaty ratification.",
+    "options": [
+      "formal domestic approval to be bound",
+      "mere signature binds — concept",
+      "informal pledge (theory)",
+      "press release binds — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0019_v08o7",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Treaty ratification.",
+    "options": [
+      "press release binds (advanced)",
+      "formal domestic approval to be bound",
+      "informal pledge — in practice",
+      "mere signature binds (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0019_v1lb3",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the correct description of Treaty ratification.",
+    "options": [
+      "formal domestic approval to be bound",
+      "press release binds (policy)",
+      "mere signature binds (theory)",
+      "informal pledge — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0019_vzy93",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Treaty ratification. Select the best option.",
+    "options": [
+      "mere signature binds — in practice",
+      "formal domestic approval to be bound",
+      "press release binds (policy)",
+      "informal pledge (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0019_vhqq8",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Treaty ratification. Choose the most accurate answer.",
+    "options": [
+      "press release binds — concept",
+      "mere signature binds (advanced)",
+      "informal pledge (framework)",
+      "formal domestic approval to be bound"
+    ],
+    "answerIndex": 3,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0019_vy877",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Choose the correct description of Treaty ratification.",
+    "options": [
+      "mere signature binds (policy)",
+      "formal domestic approval to be bound",
+      "press release binds — in practice",
+      "informal pledge (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0019_vbebg",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the correct description of Treaty ratification.",
+    "options": [
+      "informal pledge (policy)",
+      "mere signature binds (framework)",
+      "press release binds — in practice",
+      "formal domestic approval to be bound"
+    ],
+    "answerIndex": 3,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0019_v2gbb",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the correct description of Treaty ratification.",
+    "options": [
+      "press release binds — concept",
+      "mere signature binds (framework)",
+      "informal pledge — in practice",
+      "formal domestic approval to be bound"
+    ],
+    "answerIndex": 3,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0020_vy7ju",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Treaty ratification primarily concerns what?",
+    "options": [
+      "formal domestic approval to be bound",
+      "informal pledge (policy)",
+      "press release binds (framework)",
+      "mere signature binds — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0020_v4548",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced foreign service: Treaty ratification primarily concerns what?",
+    "options": [
+      "formal domestic approval to be bound",
+      "mere signature binds (theory)",
+      "press release binds (typically)",
+      "informal pledge (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0020_v2lag",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced foreign service: Treaty ratification primarily concerns what?",
+    "options": [
+      "informal pledge (typically)",
+      "formal domestic approval to be bound",
+      "mere signature binds (theory)",
+      "press release binds (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0020_vwf5p",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Treaty ratification primarily concerns what? Select the best option.",
+    "options": [
+      "formal domestic approval to be bound",
+      "press release binds (theory)",
+      "mere signature binds (policy)",
+      "informal pledge (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0020_v88on",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Treaty ratification primarily concerns what? Choose the most accurate answer.",
+    "options": [
+      "mere signature binds — in practice",
+      "formal domestic approval to be bound",
+      "informal pledge (framework)",
+      "press release binds (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0020_vkmjj",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced foreign service: Treaty ratification primarily concerns what?",
+    "options": [
+      "press release binds (policy)",
+      "mere signature binds (framework)",
+      "informal pledge (framework)",
+      "formal domestic approval to be bound"
+    ],
+    "answerIndex": 3,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0020_v9e3x",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced foreign service: Treaty ratification primarily concerns what?",
+    "options": [
+      "informal pledge (framework)",
+      "mere signature binds (advanced)",
+      "formal domestic approval to be bound",
+      "press release binds (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "formal domestic approval to be bound"
+  },
+  {
+    "id": "adv_foreign-affairs_0021_v0x0a",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: In diplomacy/international law, Pacta sunt servanda refers to?",
+    "options": [
+      "agreements must be kept",
+      "custom overrides all — concept",
+      "rebus sic stantibus prevails (policy)",
+      "soft law binding like treaties — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0021_vt57m",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Within diplomacy/international law, Pacta sunt servanda refers to?",
+    "options": [
+      "custom overrides all (framework)",
+      "agreements must be kept",
+      "soft law binding like treaties — in practice",
+      "rebus sic stantibus prevails (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0021_v4bs2",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: In diplomacy/international law, Pacta sunt servanda refers to?",
+    "options": [
+      "agreements must be kept",
+      "custom overrides all — in practice",
+      "rebus sic stantibus prevails — concept",
+      "soft law binding like treaties (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0021_vcaj5",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Pacta sunt servanda refers to? Select the best option.",
+    "options": [
+      "rebus sic stantibus prevails (policy)",
+      "custom overrides all (policy)",
+      "agreements must be kept",
+      "soft law binding like treaties — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0021_vk98u",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Pacta sunt servanda refers to? Choose the most accurate answer.",
+    "options": [
+      "soft law binding like treaties (policy)",
+      "agreements must be kept",
+      "rebus sic stantibus prevails — in practice",
+      "custom overrides all (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0021_vjg1y",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: In diplomacy/international law, Pacta sunt servanda refers to?",
+    "options": [
+      "rebus sic stantibus prevails (theory)",
+      "agreements must be kept",
+      "custom overrides all (policy)",
+      "soft law binding like treaties (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0021_vth7j",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: In diplomacy/international law, Pacta sunt servanda refers to?",
+    "options": [
+      "rebus sic stantibus prevails (typically)",
+      "agreements must be kept",
+      "soft law binding like treaties — concept",
+      "custom overrides all (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0022_vogpp",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Precisely which statement is accurate about Pacta sunt servanda?",
+    "options": [
+      "custom overrides all (framework)",
+      "rebus sic stantibus prevails (framework)",
+      "agreements must be kept",
+      "soft law binding like treaties (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0022_vl318",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement is accurate about Pacta sunt servanda?",
+    "options": [
+      "agreements must be kept",
+      "soft law binding like treaties (typically)",
+      "custom overrides all (advanced)",
+      "rebus sic stantibus prevails (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0022_vb5uq",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Pacta sunt servanda?",
+    "options": [
+      "agreements must be kept",
+      "soft law binding like treaties (typically)",
+      "rebus sic stantibus prevails — concept",
+      "custom overrides all (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0022_v9zok",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement is accurate about Pacta sunt servanda?",
+    "options": [
+      "custom overrides all (advanced)",
+      "soft law binding like treaties (framework)",
+      "rebus sic stantibus prevails (framework)",
+      "agreements must be kept"
+    ],
+    "answerIndex": 3,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0022_vzp5c",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Pacta sunt servanda? Choose the most accurate answer.",
+    "options": [
+      "soft law binding like treaties — concept",
+      "agreements must be kept",
+      "custom overrides all (framework)",
+      "rebus sic stantibus prevails (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0022_vxt50",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement is accurate about Pacta sunt servanda?",
+    "options": [
+      "rebus sic stantibus prevails — concept",
+      "soft law binding like treaties (theory)",
+      "agreements must be kept",
+      "custom overrides all (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0022_vsz3s",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement is accurate about Pacta sunt servanda?",
+    "options": [
+      "agreements must be kept",
+      "custom overrides all (framework)",
+      "rebus sic stantibus prevails (advanced)",
+      "soft law binding like treaties — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0022_vhj2q",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement is accurate about Pacta sunt servanda?",
+    "options": [
+      "agreements must be kept",
+      "custom overrides all (policy)",
+      "rebus sic stantibus prevails (policy)",
+      "soft law binding like treaties (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0023_vjram",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Pacta sunt servanda.",
+    "options": [
+      "agreements must be kept",
+      "rebus sic stantibus prevails (typically)",
+      "custom overrides all (theory)",
+      "soft law binding like treaties (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0023_v9gfj",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the correct description of Pacta sunt servanda.",
+    "options": [
+      "soft law binding like treaties (theory)",
+      "rebus sic stantibus prevails (advanced)",
+      "custom overrides all — in practice",
+      "agreements must be kept"
+    ],
+    "answerIndex": 3,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0023_vwr17",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Pacta sunt servanda.",
+    "options": [
+      "custom overrides all — concept",
+      "rebus sic stantibus prevails — concept",
+      "agreements must be kept",
+      "soft law binding like treaties (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0023_vyvki",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the correct description of Pacta sunt servanda.",
+    "options": [
+      "soft law binding like treaties (policy)",
+      "rebus sic stantibus prevails (typically)",
+      "custom overrides all — in practice",
+      "agreements must be kept"
+    ],
+    "answerIndex": 3,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0023_vp68f",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Pacta sunt servanda. Select the best option.",
+    "options": [
+      "rebus sic stantibus prevails (framework)",
+      "custom overrides all (theory)",
+      "soft law binding like treaties — concept",
+      "agreements must be kept"
+    ],
+    "answerIndex": 3,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0023_v9yty",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Pacta sunt servanda. Choose the most accurate answer.",
+    "options": [
+      "custom overrides all — concept",
+      "rebus sic stantibus prevails — in practice",
+      "soft law binding like treaties (framework)",
+      "agreements must be kept"
+    ],
+    "answerIndex": 3,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0023_v96j2",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Choose the correct description of Pacta sunt servanda.",
+    "options": [
+      "soft law binding like treaties (advanced)",
+      "rebus sic stantibus prevails (policy)",
+      "agreements must be kept",
+      "custom overrides all (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0023_v5jfr",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the correct description of Pacta sunt servanda.",
+    "options": [
+      "custom overrides all — concept",
+      "soft law binding like treaties — in practice",
+      "agreements must be kept",
+      "rebus sic stantibus prevails (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0023_vfdgp",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the correct description of Pacta sunt servanda.",
+    "options": [
+      "rebus sic stantibus prevails (typically)",
+      "soft law binding like treaties (theory)",
+      "custom overrides all — in practice",
+      "agreements must be kept"
+    ],
+    "answerIndex": 3,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0024_v6026",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Pacta sunt servanda primarily concerns what?",
+    "options": [
+      "rebus sic stantibus prevails — concept",
+      "custom overrides all (framework)",
+      "agreements must be kept",
+      "soft law binding like treaties — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0024_v3hcq",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced foreign service: Pacta sunt servanda primarily concerns what?",
+    "options": [
+      "rebus sic stantibus prevails — concept",
+      "soft law binding like treaties (advanced)",
+      "custom overrides all (advanced)",
+      "agreements must be kept"
+    ],
+    "answerIndex": 3,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0024_ves7n",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced foreign service: Pacta sunt servanda primarily concerns what?",
+    "options": [
+      "rebus sic stantibus prevails (framework)",
+      "agreements must be kept",
+      "custom overrides all (policy)",
+      "soft law binding like treaties (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0024_voj2p",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Pacta sunt servanda primarily concerns what? Select the best option.",
+    "options": [
+      "soft law binding like treaties — in practice",
+      "rebus sic stantibus prevails (theory)",
+      "custom overrides all (policy)",
+      "agreements must be kept"
+    ],
+    "answerIndex": 3,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0024_vjm0z",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Pacta sunt servanda primarily concerns what? Choose the most accurate answer.",
+    "options": [
+      "rebus sic stantibus prevails — concept",
+      "custom overrides all — in practice",
+      "soft law binding like treaties (policy)",
+      "agreements must be kept"
+    ],
+    "answerIndex": 3,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0024_v6ihq",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced foreign service: Pacta sunt servanda primarily concerns what?",
+    "options": [
+      "rebus sic stantibus prevails (framework)",
+      "custom overrides all (advanced)",
+      "soft law binding like treaties (advanced)",
+      "agreements must be kept"
+    ],
+    "answerIndex": 3,
+    "explanation": "agreements must be kept"
+  },
+  {
+    "id": "adv_foreign-affairs_0025_vjtrb",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: In diplomacy/international law, UN Security Council Chapter VII refers to?",
+    "options": [
+      "development goals — concept",
+      "authorizes enforcement measures",
+      "budget approvals (theory)",
+      "trusteeship admin (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0025_v8fnn",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Within diplomacy/international law, UN Security Council Chapter VII refers to?",
+    "options": [
+      "authorizes enforcement measures",
+      "development goals (framework)",
+      "trusteeship admin (policy)",
+      "budget approvals (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0025_vzss1",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: In diplomacy/international law, UN Security Council Chapter VII refers to?",
+    "options": [
+      "trusteeship admin (policy)",
+      "budget approvals — in practice",
+      "authorizes enforcement measures",
+      "development goals (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0025_vw0kj",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, UN Security Council Chapter VII refers to? Select the best option.",
+    "options": [
+      "development goals — in practice",
+      "budget approvals (theory)",
+      "trusteeship admin — in practice",
+      "authorizes enforcement measures"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0025_v083f",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, UN Security Council Chapter VII refers to? Choose the most accurate answer.",
+    "options": [
+      "authorizes enforcement measures",
+      "trusteeship admin (theory)",
+      "development goals — concept",
+      "budget approvals (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0025_v72uy",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: In diplomacy/international law, UN Security Council Chapter VII refers to?",
+    "options": [
+      "development goals (framework)",
+      "budget approvals (framework)",
+      "authorizes enforcement measures",
+      "trusteeship admin (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0025_v8ji3",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: In diplomacy/international law, UN Security Council Chapter VII refers to?",
+    "options": [
+      "budget approvals — concept",
+      "authorizes enforcement measures",
+      "development goals — concept",
+      "trusteeship admin (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0026_v8eh5",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Precisely which statement is accurate about UN Security Council Chapter VII?",
+    "options": [
+      "development goals (policy)",
+      "trusteeship admin (advanced)",
+      "budget approvals (framework)",
+      "authorizes enforcement measures"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0026_v7dxl",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement is accurate about UN Security Council Chapter VII?",
+    "options": [
+      "trusteeship admin — concept",
+      "budget approvals (typically)",
+      "development goals — concept",
+      "authorizes enforcement measures"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0026_vftyo",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about UN Security Council Chapter VII?",
+    "options": [
+      "development goals (typically)",
+      "budget approvals (advanced)",
+      "trusteeship admin (typically)",
+      "authorizes enforcement measures"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0026_vdnl0",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement is accurate about UN Security Council Chapter VII?",
+    "options": [
+      "trusteeship admin (advanced)",
+      "budget approvals (advanced)",
+      "development goals (typically)",
+      "authorizes enforcement measures"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0026_vkd8i",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about UN Security Council Chapter VII? Select the best option.",
+    "options": [
+      "development goals (theory)",
+      "budget approvals (typically)",
+      "trusteeship admin — in practice",
+      "authorizes enforcement measures"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0026_vdblz",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about UN Security Council Chapter VII? Choose the most accurate answer.",
+    "options": [
+      "development goals (policy)",
+      "budget approvals — concept",
+      "trusteeship admin (framework)",
+      "authorizes enforcement measures"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0026_vnxsu",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement is accurate about UN Security Council Chapter VII?",
+    "options": [
+      "authorizes enforcement measures",
+      "trusteeship admin (theory)",
+      "development goals (policy)",
+      "budget approvals (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0026_v2g1f",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement is accurate about UN Security Council Chapter VII?",
+    "options": [
+      "trusteeship admin (policy)",
+      "authorizes enforcement measures",
+      "development goals (typically)",
+      "budget approvals (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0026_vc6c7",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement is accurate about UN Security Council Chapter VII?",
+    "options": [
+      "budget approvals (theory)",
+      "authorizes enforcement measures",
+      "development goals (framework)",
+      "trusteeship admin (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0027_vqfxe",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of UN Security Council Chapter VII.",
+    "options": [
+      "trusteeship admin (framework)",
+      "budget approvals (theory)",
+      "development goals (framework)",
+      "authorizes enforcement measures"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0027_vqv0q",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the correct description of UN Security Council Chapter VII.",
+    "options": [
+      "development goals — concept",
+      "trusteeship admin — concept",
+      "authorizes enforcement measures",
+      "budget approvals (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0027_vylrv",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of UN Security Council Chapter VII.",
+    "options": [
+      "development goals (typically)",
+      "authorizes enforcement measures",
+      "budget approvals (policy)",
+      "trusteeship admin (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0027_vk921",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the correct description of UN Security Council Chapter VII.",
+    "options": [
+      "trusteeship admin (theory)",
+      "development goals (policy)",
+      "authorizes enforcement measures",
+      "budget approvals — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0027_vc83f",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of UN Security Council Chapter VII. Select the best option.",
+    "options": [
+      "authorizes enforcement measures",
+      "development goals (theory)",
+      "trusteeship admin (typically)",
+      "budget approvals — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0027_vq53u",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of UN Security Council Chapter VII. Choose the most accurate answer.",
+    "options": [
+      "authorizes enforcement measures",
+      "development goals (typically)",
+      "budget approvals (advanced)",
+      "trusteeship admin (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0027_vm61a",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Choose the correct description of UN Security Council Chapter VII.",
+    "options": [
+      "budget approvals (typically)",
+      "trusteeship admin (typically)",
+      "authorizes enforcement measures",
+      "development goals (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0027_vbjlf",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the correct description of UN Security Council Chapter VII.",
+    "options": [
+      "trusteeship admin (policy)",
+      "authorizes enforcement measures",
+      "budget approvals (advanced)",
+      "development goals (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0027_v1te7",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the correct description of UN Security Council Chapter VII.",
+    "options": [
+      "development goals — concept",
+      "budget approvals — concept",
+      "trusteeship admin — in practice",
+      "authorizes enforcement measures"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0028_vbxsy",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: UN Security Council Chapter VII primarily concerns what?",
+    "options": [
+      "authorizes enforcement measures",
+      "trusteeship admin (typically)",
+      "budget approvals (typically)",
+      "development goals — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0028_v9njs",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced foreign service: UN Security Council Chapter VII primarily concerns what?",
+    "options": [
+      "trusteeship admin (typically)",
+      "authorizes enforcement measures",
+      "budget approvals (typically)",
+      "development goals — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0028_v81qs",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: UN Security Council Chapter VII primarily concerns what? Select the best option.",
+    "options": [
+      "budget approvals (framework)",
+      "development goals (policy)",
+      "authorizes enforcement measures",
+      "trusteeship admin (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0028_viutn",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: UN Security Council Chapter VII primarily concerns what? Choose the most accurate answer.",
+    "options": [
+      "trusteeship admin — concept",
+      "authorizes enforcement measures",
+      "budget approvals — in practice",
+      "development goals — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0028_vtpoj",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced foreign service: UN Security Council Chapter VII primarily concerns what?",
+    "options": [
+      "budget approvals (typically)",
+      "trusteeship admin — in practice",
+      "development goals — in practice",
+      "authorizes enforcement measures"
+    ],
+    "answerIndex": 3,
+    "explanation": "authorizes enforcement measures"
+  },
+  {
+    "id": "adv_foreign-affairs_0029_vqgs8",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: In diplomacy/international law, Most-Favoured-Nation (MFN) refers to?",
+    "options": [
+      "preferential to one only (framework)",
+      "sanction exemption (theory)",
+      "tariff escalation (policy)",
+      "non-discriminatory trade treatment"
+    ],
+    "answerIndex": 3,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0029_vjgms",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Within diplomacy/international law, Most-Favoured-Nation (MFN) refers to?",
+    "options": [
+      "non-discriminatory trade treatment",
+      "tariff escalation (theory)",
+      "preferential to one only (theory)",
+      "sanction exemption (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0029_v5s7m",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: In diplomacy/international law, Most-Favoured-Nation (MFN) refers to?",
+    "options": [
+      "tariff escalation (advanced)",
+      "non-discriminatory trade treatment",
+      "sanction exemption (policy)",
+      "preferential to one only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0029_vntl4",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Most-Favoured-Nation (MFN) refers to? Select the best option.",
+    "options": [
+      "non-discriminatory trade treatment",
+      "tariff escalation (policy)",
+      "sanction exemption — in practice",
+      "preferential to one only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0029_vtz78",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "In diplomacy/international law, Most-Favoured-Nation (MFN) refers to? Choose the most accurate answer.",
+    "options": [
+      "preferential to one only (theory)",
+      "sanction exemption (theory)",
+      "non-discriminatory trade treatment",
+      "tariff escalation (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0029_vugbs",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: In diplomacy/international law, Most-Favoured-Nation (MFN) refers to?",
+    "options": [
+      "tariff escalation — in practice",
+      "sanction exemption (advanced)",
+      "non-discriminatory trade treatment",
+      "preferential to one only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0029_vp6mb",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: In diplomacy/international law, Most-Favoured-Nation (MFN) refers to?",
+    "options": [
+      "preferential to one only (theory)",
+      "non-discriminatory trade treatment",
+      "sanction exemption — concept",
+      "tariff escalation (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0030_vsqj9",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Precisely which statement is accurate about Most-Favoured-Nation (MFN)?",
+    "options": [
+      "sanction exemption (theory)",
+      "non-discriminatory trade treatment",
+      "preferential to one only (policy)",
+      "tariff escalation (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0030_v7d97",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement is accurate about Most-Favoured-Nation (MFN)?",
+    "options": [
+      "preferential to one only (advanced)",
+      "tariff escalation (typically)",
+      "sanction exemption (policy)",
+      "non-discriminatory trade treatment"
+    ],
+    "answerIndex": 3,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0030_vsv0m",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Most-Favoured-Nation (MFN)?",
+    "options": [
+      "preferential to one only (policy)",
+      "non-discriminatory trade treatment",
+      "tariff escalation (theory)",
+      "sanction exemption (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0030_vv60c",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement is accurate about Most-Favoured-Nation (MFN)?",
+    "options": [
+      "tariff escalation — concept",
+      "non-discriminatory trade treatment",
+      "preferential to one only (framework)",
+      "sanction exemption — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0030_vzswr",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Most-Favoured-Nation (MFN)? Select the best option.",
+    "options": [
+      "sanction exemption — concept",
+      "non-discriminatory trade treatment",
+      "tariff escalation — concept",
+      "preferential to one only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0030_vstjf",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which statement is accurate about Most-Favoured-Nation (MFN)? Choose the most accurate answer.",
+    "options": [
+      "tariff escalation (policy)",
+      "preferential to one only (typically)",
+      "non-discriminatory trade treatment",
+      "sanction exemption (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0030_vz8no",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement is accurate about Most-Favoured-Nation (MFN)?",
+    "options": [
+      "non-discriminatory trade treatment",
+      "preferential to one only (framework)",
+      "sanction exemption (advanced)",
+      "tariff escalation — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0030_vhleo",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement is accurate about Most-Favoured-Nation (MFN)?",
+    "options": [
+      "tariff escalation (framework)",
+      "preferential to one only — in practice",
+      "non-discriminatory trade treatment",
+      "sanction exemption — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0030_v3rdn",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement is accurate about Most-Favoured-Nation (MFN)?",
+    "options": [
+      "non-discriminatory trade treatment",
+      "tariff escalation (framework)",
+      "preferential to one only — in practice",
+      "sanction exemption — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0031_vw9fp",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Most-Favoured-Nation (MFN).",
+    "options": [
+      "non-discriminatory trade treatment",
+      "preferential to one only (framework)",
+      "sanction exemption (framework)",
+      "tariff escalation (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0031_vmflt",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the correct description of Most-Favoured-Nation (MFN).",
+    "options": [
+      "sanction exemption (policy)",
+      "preferential to one only (policy)",
+      "non-discriminatory trade treatment",
+      "tariff escalation — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0031_v2bcv",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Most-Favoured-Nation (MFN).",
+    "options": [
+      "sanction exemption — in practice",
+      "tariff escalation — in practice",
+      "non-discriminatory trade treatment",
+      "preferential to one only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0031_vee8y",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the correct description of Most-Favoured-Nation (MFN).",
+    "options": [
+      "non-discriminatory trade treatment",
+      "tariff escalation (theory)",
+      "preferential to one only — in practice",
+      "sanction exemption — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0031_viarx",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Most-Favoured-Nation (MFN). Select the best option.",
+    "options": [
+      "sanction exemption (policy)",
+      "non-discriminatory trade treatment",
+      "preferential to one only (theory)",
+      "tariff escalation (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0031_vt08m",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Most-Favoured-Nation (MFN). Choose the most accurate answer.",
+    "options": [
+      "tariff escalation — concept",
+      "non-discriminatory trade treatment",
+      "preferential to one only (typically)",
+      "sanction exemption — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0031_vrcuq",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Choose the correct description of Most-Favoured-Nation (MFN).",
+    "options": [
+      "sanction exemption (theory)",
+      "preferential to one only (theory)",
+      "tariff escalation (policy)",
+      "non-discriminatory trade treatment"
+    ],
+    "answerIndex": 3,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0031_v4rzb",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the correct description of Most-Favoured-Nation (MFN).",
+    "options": [
+      "sanction exemption (typically)",
+      "tariff escalation (framework)",
+      "preferential to one only (advanced)",
+      "non-discriminatory trade treatment"
+    ],
+    "answerIndex": 3,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0031_vunfw",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the correct description of Most-Favoured-Nation (MFN).",
+    "options": [
+      "preferential to one only (advanced)",
+      "sanction exemption (typically)",
+      "non-discriminatory trade treatment",
+      "tariff escalation (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0032_vu533",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Most-Favoured-Nation (MFN) primarily concerns what?",
+    "options": [
+      "preferential to one only (framework)",
+      "non-discriminatory trade treatment",
+      "sanction exemption (policy)",
+      "tariff escalation — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "non-discriminatory trade treatment"
+  },
+  {
+    "id": "adv_foreign-affairs_0002_rty5a",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement is accurate about Vienna Convention on Diplomatic Relations (1961)?",
+    "options": [
+      "sets maritime boundaries (theory)",
+      "regulates air travel (policy)",
+      "governs privileges and immunities of diplomatic missions",
+      "establishes trade tariffs (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "governs privileges and immunities of diplomatic missions"
+  },
+  {
+    "id": "adv_foreign-affairs_0006_rxmgb",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement is accurate about Vienna Convention on Consular Relations (1963)?",
+    "options": [
+      "sets WTO dispute rules (policy)",
+      "adopts SDGs (typically)",
+      "defines consular functions and immunities",
+      "creates ICC (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0007_rcxtz",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Vienna Convention on Consular Relations (1963).",
+    "options": [
+      "adopts SDGs (typically)",
+      "sets WTO dispute rules (typically)",
+      "defines consular functions and immunities",
+      "creates ICC (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "defines consular functions and immunities"
+  },
+  {
+    "id": "adv_foreign-affairs_0033_rz2rl",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Within diplomacy/international law, Consular notification refers to?",
+    "options": [
+      "automatic bail (advanced)",
+      "grant immunity (framework)",
+      "issue passport — in practice",
+      "inform sending state upon arrest of national"
+    ],
+    "answerIndex": 3,
+    "explanation": "inform sending state upon arrest of national"
+  },
+  {
+    "id": "adv_foreign-affairs_0034_rgeex",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Precisely which statement is accurate about Consular notification?",
+    "options": [
+      "automatic bail (typically)",
+      "issue passport (theory)",
+      "grant immunity (framework)",
+      "inform sending state upon arrest of national"
+    ],
+    "answerIndex": 3,
+    "explanation": "inform sending state upon arrest of national"
+  },
+  {
+    "id": "adv_foreign-affairs_0034_r6gu3",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement is accurate about Consular notification?",
+    "options": [
+      "issue passport — in practice",
+      "grant immunity (theory)",
+      "inform sending state upon arrest of national",
+      "automatic bail — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "inform sending state upon arrest of national"
+  },
+  {
+    "id": "adv_foreign-affairs_0034_r6xbg",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement is accurate about Consular notification?",
+    "options": [
+      "automatic bail (advanced)",
+      "inform sending state upon arrest of national",
+      "issue passport (theory)",
+      "grant immunity (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "inform sending state upon arrest of national"
+  },
+  {
+    "id": "adv_foreign-affairs_0035_r3csj",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Consular notification.",
+    "options": [
+      "automatic bail (policy)",
+      "issue passport (framework)",
+      "grant immunity (policy)",
+      "inform sending state upon arrest of national"
+    ],
+    "answerIndex": 3,
+    "explanation": "inform sending state upon arrest of national"
+  },
+  {
+    "id": "adv_foreign-affairs_0036_rqqh5",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Consular notification primarily concerns what?",
+    "options": [
+      "issue passport (theory)",
+      "grant immunity (advanced)",
+      "automatic bail (framework)",
+      "inform sending state upon arrest of national"
+    ],
+    "answerIndex": 3,
+    "explanation": "inform sending state upon arrest of national"
+  },
+  {
+    "id": "adv_foreign-affairs_0035_r6gxc",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Consular notification.",
+    "options": [
+      "grant immunity — in practice",
+      "automatic bail — in practice",
+      "inform sending state upon arrest of national",
+      "issue passport (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "inform sending state upon arrest of national"
+  },
+  {
+    "id": "adv_foreign-affairs_0037_ra2y5",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Within diplomacy/international law, Diplomatic bag refers to?",
+    "options": [
+      "expires quarterly — concept",
+      "inviolable official correspondence",
+      "requires customs tariff (framework)",
+      "subject to search (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "inviolable official correspondence"
+  },
+  {
+    "id": "adv_foreign-affairs_0038_roojo",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Precisely which statement is accurate about Diplomatic bag?",
+    "options": [
+      "expires quarterly — in practice",
+      "requires customs tariff — in practice",
+      "subject to search (advanced)",
+      "inviolable official correspondence"
+    ],
+    "answerIndex": 3,
+    "explanation": "inviolable official correspondence"
+  },
+  {
+    "id": "adv_foreign-affairs_0038_rrjeb",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement is accurate about Diplomatic bag?",
+    "options": [
+      "inviolable official correspondence",
+      "subject to search — in practice",
+      "expires quarterly — in practice",
+      "requires customs tariff (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "inviolable official correspondence"
+  },
+  {
+    "id": "adv_foreign-affairs_0038_ryibt",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement is accurate about Diplomatic bag?",
+    "options": [
+      "subject to search — concept",
+      "requires customs tariff (typically)",
+      "expires quarterly (theory)",
+      "inviolable official correspondence"
+    ],
+    "answerIndex": 3,
+    "explanation": "inviolable official correspondence"
+  },
+  {
+    "id": "adv_foreign-affairs_0039_rfbun",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Select the correct description of Diplomatic bag.",
+    "options": [
+      "subject to search (policy)",
+      "inviolable official correspondence",
+      "expires quarterly (advanced)",
+      "requires customs tariff — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "inviolable official correspondence"
+  },
+  {
+    "id": "adv_foreign-affairs_0039_rw6nc",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Identify the correct description of Diplomatic bag.",
+    "options": [
+      "inviolable official correspondence",
+      "expires quarterly (framework)",
+      "requires customs tariff (advanced)",
+      "subject to search (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "inviolable official correspondence"
+  },
+  {
+    "id": "adv_foreign-affairs_0040_rfuj0",
+    "category": "cadre",
+    "cadreSlug": "foreign-affairs",
+    "topic": "Foreign Affairs",
+    "subtopic": "Diplomacy & Law",
+    "difficulty": "advanced",
+    "question": "Advanced foreign service: Diplomatic bag primarily concerns what?",
+    "options": [
+      "subject to search — in practice",
+      "expires quarterly — in practice",
+      "inviolable official correspondence",
+      "requires customs tariff (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "inviolable official correspondence"
+  }
+]

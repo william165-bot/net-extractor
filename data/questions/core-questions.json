@@ -1,0 +1,1692 @@
+[
+  {
+    "id": "cs001",
+    "category": "civil_service",
+    "question": "Which document primarily governs the conduct and discipline of Federal Civil Servants in Nigeria?",
+    "options": [
+      "Public Procurement Act",
+      "Financial Regulations",
+      "Public Service Rules",
+      "Freedom of Information Act"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Public Service Rules (PSR) set out the standards for conduct, discipline, appointments, and HR matters for Federal Civil Servants."
+  },
+  {
+    "id": "cs002",
+    "category": "civil_service",
+    "question": "What does MDA stand for in the context of Nigerian public administration?",
+    "options": [
+      "Ministries, Departments and Agencies",
+      "Monetary Development Authority",
+      "Monitoring and Development Agency",
+      "Ministerial Directorate Association"
+    ],
+    "answerIndex": 0,
+    "explanation": "MDA stands for Ministries, Departments and Agencies – the organizational units of government that implement policies and deliver services."
+  },
+  {
+    "id": "cs003",
+    "category": "civil_service",
+    "question": "Who is the administrative head of the Federal Civil Service?",
+    "options": [
+      "Head of the Civil Service of the Federation",
+      "Secretary to the Government of the Federation",
+      "Chief of Staff to the President",
+      "Auditor-General of the Federation"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Head of the Civil Service of the Federation is the top administrative officer responsible for managing the Federal Civil Service."
+  },
+  {
+    "id": "cs004",
+    "category": "civil_service",
+    "question": "Which of the following best describes the role of the Permanent Secretary?",
+    "options": [
+      "Political head of a Ministry",
+      "Administrative head responsible for day-to-day operations",
+      "Head of a Parastatal Agency",
+      "Chair of the National Assembly Committee"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Permanent Secretary is the accounting and administrative officer of a Ministry, overseeing daily operations and policy implementation."
+  },
+  {
+    "id": "cs005",
+    "category": "civil_service",
+    "question": "The Freedom of Information Act primarily provides for what?",
+    "options": [
+      "Protection of whistleblowers",
+      "Access to public records and information",
+      "Privacy of citizens' data",
+      "Procurement procedures"
+    ],
+    "answerIndex": 1,
+    "explanation": "The FOI Act grants citizens the right to access records and information held by public institutions, subject to exemptions."
+  },
+  {
+    "id": "cs006",
+    "category": "civil_service",
+    "question": "Which principle emphasizes that public funds must only be used for purposes for which they were approved?",
+    "options": [
+      "Value for Money",
+      "Probity",
+      "Appropriation",
+      "Due Process"
+    ],
+    "answerIndex": 2,
+    "explanation": "Appropriation ensures expenditures are applied only to the specific purposes authorized by the legislature."
+  },
+  {
+    "id": "cs007",
+    "category": "civil_service",
+    "question": "The Public Procurement Act (2007) aims mainly to:",
+    "options": [
+      "Increase government revenue",
+      "Ensure transparency and competition in public procurement",
+      "Privatize public services",
+      "Regulate foreign investment"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Act seeks to entrench transparency, competition, and value for money in public procurement processes."
+  },
+  {
+    "id": "cs008",
+    "category": "civil_service",
+    "question": "Which body oversees public procurement compliance in Nigeria?",
+    "options": [
+      "ICPC",
+      "EFCC",
+      "Bureau of Public Procurement (BPP)",
+      "Office of the Auditor-General"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Bureau of Public Procurement (BPP) regulates and monitors procurement to ensure compliance with the PPA."
+  },
+  {
+    "id": "cs009",
+    "category": "civil_service",
+    "question": "The term 'Estacode' in the Nigerian civil service relates to:",
+    "options": [
+      "Overseas travel allowances",
+      "Housing allowances",
+      "Promotion guidelines",
+      "Training curriculum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Estacode refers to the approved rates of allowances payable to officials traveling outside Nigeria on official duties."
+  },
+  {
+    "id": "cs010",
+    "category": "civil_service",
+    "question": "Which of the following is NOT a core public service value?",
+    "options": [
+      "Integrity",
+      "Impartiality",
+      "Partisanship",
+      "Accountability"
+    ],
+    "answerIndex": 2,
+    "explanation": "Civil servants are expected to be non-partisan; partisanship conflicts with the impartial nature of the service."
+  },
+  {
+    "id": "cs011",
+    "category": "civil_service",
+    "question": "'Due Process' in public service generally refers to:",
+    "options": [
+      "Following lawful, transparent procedures",
+      "Granting staff automatic promotions",
+      "Fast-tracking procurement regardless of rules",
+      "Delegating authority to private firms"
+    ],
+    "answerIndex": 0,
+    "explanation": "Due process means adhering to lawful, transparent, and accountable procedures in public administration."
+  },
+  {
+    "id": "cs012",
+    "category": "civil_service",
+    "question": "Which office is primarily responsible for auditing the accounts of all government agencies?",
+    "options": [
+      "Accountant-General of the Federation",
+      "Auditor-General of the Federation",
+      "Budget Office of the Federation",
+      "Fiscal Responsibility Commission"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Auditor-General audits public accounts and reports to the legislature to enhance accountability."
+  },
+  {
+    "id": "cs013",
+    "category": "civil_service",
+    "question": "Which document contains detailed rules on government financial management in Nigeria?",
+    "options": [
+      "Treasury Single Account",
+      "Financial Regulations",
+      "Public Service Rules",
+      "Fiscal Responsibility Act"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Financial Regulations set out procedures for receipts, custody, and disbursement of public funds."
+  },
+  {
+    "id": "cs014",
+    "category": "civil_service",
+    "question": "The Treasury Single Account (TSA) is designed to:",
+    "options": [
+      "Allow multiple bank accounts for MDAs",
+      "Enhance oversight of government cash flows",
+      "Privatize government banking",
+      "Support only capital projects"
+    ],
+    "answerIndex": 1,
+    "explanation": "TSA consolidates government cash resources into a single account to improve oversight and reduce leakages."
+  },
+  {
+    "id": "cs015",
+    "category": "civil_service",
+    "question": "What is the primary duty of the Federal Character Commission?",
+    "options": [
+      "Investigate corruption",
+      "Ensure equitable representation in public service appointments",
+      "Manage pensions",
+      "Regulate public-private partnerships"
+    ],
+    "answerIndex": 1,
+    "explanation": "The FCC ensures fairness and equitable representation of diverse groups in public service appointments."
+  },
+  {
+    "id": "cs016",
+    "category": "civil_service",
+    "question": "In the Nigerian civil service, 'posting' refers to:",
+    "options": [
+      "Disciplinary suspension",
+      "Assignment or transfer of an officer to a post",
+      "Granting special allowances",
+      "Annual leave scheduling"
+    ],
+    "answerIndex": 1,
+    "explanation": "Posting is the assignment/transfer of an officer to a duty post within or across MDAs."
+  },
+  {
+    "id": "cs017",
+    "category": "civil_service",
+    "question": "An officer's 'APER' in Nigeria stands for:",
+    "options": [
+      "Annual Performance Evaluation Report",
+      "Advanced Personnel Engagement Report",
+      "Administrative Personnel Ethics Rules",
+      "Annual Pension Entitlement Record"
+    ],
+    "answerIndex": 0,
+    "explanation": "APER stands for Annual Performance Evaluation Report, used to assess staff performance annually."
+  },
+  {
+    "id": "cs018",
+    "category": "civil_service",
+    "question": "Which is NOT typically a form of disciplinary measure under the PSR?",
+    "options": [
+      "Dismissal",
+      "Reduction in rank",
+      "Suspension",
+      "Electioneering"
+    ],
+    "answerIndex": 3,
+    "explanation": "Electioneering is political campaigning and not a disciplinary measure in the PSR."
+  },
+  {
+    "id": "cs019",
+    "category": "civil_service",
+    "question": "Which body prosecutes public officers for corruption-related offenses?",
+    "options": [
+      "Federal Character Commission",
+      "EFCC",
+      "BPP",
+      "Servicom"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Economic and Financial Crimes Commission (EFCC) investigates and prosecutes economic and financial crimes."
+  },
+  {
+    "id": "cs020",
+    "category": "civil_service",
+    "question": "SERVICOM focuses on:",
+    "options": [
+      "Civil service pensions",
+      "Service delivery and customer charters",
+      "Military procurement",
+      "Diplomatic services"
+    ],
+    "answerIndex": 1,
+    "explanation": "SERVICOM is a service delivery initiative that promotes service charters and citizen-focused delivery in MDAs."
+  },
+  {
+    "id": "cs021",
+    "category": "civil_service",
+    "question": "Which of the following best defines 'Value for Money' in public spending?",
+    "options": [
+      "Spending the least amount possible",
+      "Maximizing economy, efficiency, and effectiveness",
+      "Favoring local suppliers only",
+      "Delaying payments to vendors"
+    ],
+    "answerIndex": 1,
+    "explanation": "Value for Money balances economy (cost), efficiency (process), and effectiveness (outcomes)."
+  },
+  {
+    "id": "cs022",
+    "category": "civil_service",
+    "question": "The 'Code of Conduct for Public Officers' is primarily enforced by:",
+    "options": [
+      "Code of Conduct Bureau and Tribunal",
+      "National Assembly",
+      "Bureau of Public Service Reforms",
+      "Federal Inland Revenue Service"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Code of Conduct Bureau investigates and the Tribunal adjudicates breaches of the code by public officers."
+  },
+  {
+    "id": "cs023",
+    "category": "civil_service",
+    "question": "Which of these is an example of conflict of interest?",
+    "options": [
+      "Declaring your assets",
+      "Recusing yourself from a procurement you have interest in",
+      "Awarding a contract to a company you secretly own",
+      "Keeping official records"
+    ],
+    "answerIndex": 2,
+    "explanation": "Awarding a contract to a company you secretly own is a clear conflict of interest and is prohibited."
+  },
+  {
+    "id": "cs024",
+    "category": "civil_service",
+    "question": "Which document details the approved budget for a fiscal year?",
+    "options": [
+      "Appropriation Act",
+      "Fiscal Strategy Paper",
+      "Medium-Term Expenditure Framework",
+      "Financial Regulations"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Appropriation Act is the law that authorizes government expenditure for the year."
+  },
+  {
+    "id": "cs025",
+    "category": "civil_service",
+    "question": "A 'gift' from a contractor to a civil servant during a procurement process is:",
+    "options": [
+      "Acceptable if small",
+      "Acceptable if disclosed",
+      "Prohibited as gratification",
+      "Acceptable after contract award"
+    ],
+    "answerIndex": 2,
+    "explanation": "Accepting gifts from vendors during procurement is prohibited as it may constitute gratification and bias."
+  },
+  {
+    "id": "cs026",
+    "category": "civil_service",
+    "question": "MDAs must retain documents for at least how long to comply with transparency and audit requirements?",
+    "options": [
+      "Until project completion",
+      "As specified by records retention schedules and laws",
+      "Three months",
+      "Indefinitely"
+    ],
+    "answerIndex": 1,
+    "explanation": "Retention periods are defined in records management policies and laws; they vary by document type."
+  },
+  {
+    "id": "cs027",
+    "category": "civil_service",
+    "question": "Which is NOT a procurement method under the PPA?",
+    "options": [
+      "Open competitive bidding",
+      "Restricted tendering",
+      "Direct procurement",
+      "Electoral procurement"
+    ],
+    "answerIndex": 3,
+    "explanation": "The PPA provides for methods like open competitive bidding, restricted tendering, selective tendering, and direct procurement."
+  },
+  {
+    "id": "cs028",
+    "category": "civil_service",
+    "question": "Which statement about the Treasury Single Account is TRUE?",
+    "options": [
+      "It prevents revenue remittance",
+      "It consolidates government cash resources",
+      "It eliminates the need for budgets",
+      "It increases bank charges"
+    ],
+    "answerIndex": 1,
+    "explanation": "TSA consolidates cash resources for better cash management and transparency."
+  },
+  {
+    "id": "cs029",
+    "category": "civil_service",
+    "question": "A civil servant must submit assets declaration primarily to:",
+    "options": [
+      "EFCC",
+      "ICPC",
+      "Code of Conduct Bureau",
+      "BPP"
+    ],
+    "answerIndex": 2,
+    "explanation": "Public officers are required to declare their assets to the Code of Conduct Bureau."
+  },
+  {
+    "id": "cs030",
+    "category": "civil_service",
+    "question": "Which entity coordinates reforms in the Nigerian public service?",
+    "options": [
+      "Bureau of Public Service Reforms (BPSR)",
+      "National Salaries, Incomes and Wages Commission",
+      "Fiscal Responsibility Commission",
+      "Office of the Surveyor-General"
+    ],
+    "answerIndex": 0,
+    "explanation": "BPSR leads and coordinates reforms to improve public service efficiency and effectiveness."
+  },
+  {
+    "id": "cs031",
+    "category": "civil_service",
+    "question": "What is the primary aim of the Fiscal Responsibility Act?",
+    "options": [
+      "To regulate civil service promotions",
+      "To ensure prudent management of national resources",
+      "To set exchange rates",
+      "To manage foreign reserves"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Fiscal Responsibility Act seeks to ensure transparency and prudent fiscal management for macroeconomic stability."
+  },
+  {
+    "id": "cs032",
+    "category": "civil_service",
+    "question": "Which office prepares the national budget proposal for the executive?",
+    "options": [
+      "National Assembly",
+      "Budget Office of the Federation",
+      "Debt Management Office",
+      "Office of the Auditor-General"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Budget Office of the Federation coordinates preparation of the annual budget proposal for the executive."
+  },
+  {
+    "id": "cs033",
+    "category": "civil_service",
+    "question": "Which is a key feature of service charters under SERVICOM?",
+    "options": [
+      "Protect staff anonymity",
+      "Define service standards and timelines for citizens",
+      "Increase user fees",
+      "Privatize services"
+    ],
+    "answerIndex": 1,
+    "explanation": "Service charters publicly state the standards and timelines that citizens can expect from MDAs."
+  },
+  {
+    "id": "cs034",
+    "category": "civil_service",
+    "question": "A public servant should respond to FOI requests within how many days (subject to the Act)?",
+    "options": [
+      "48 hours",
+      "7 days",
+      "14 days",
+      "30 days"
+    ],
+    "answerIndex": 1,
+    "explanation": "The FOI Act requires that public institutions respond to requests within 7 days, subject to valid exemptions or extensions."
+  },
+  {
+    "id": "cs035",
+    "category": "civil_service",
+    "question": "Which of the following is TRUE about records management?",
+    "options": [
+      "Only electronic records are official",
+      "Records must be accurate, reliable, and retrievable",
+      "Records can be destroyed at will",
+      "Personal emails are always official records"
+    ],
+    "answerIndex": 1,
+    "explanation": "Records management ensures records are accurate, reliable, and retrievable for accountability and service delivery."
+  },
+  {
+    "id": "cs036",
+    "category": "civil_service",
+    "question": "Which body manages federal government debt?",
+    "options": [
+      "Budget Office of the Federation",
+      "Debt Management Office (DMO)",
+      "Accountant-General of the Federation",
+      "National Planning Commission"
+    ],
+    "answerIndex": 1,
+    "explanation": "The DMO is responsible for managing public debt and related policies."
+  },
+  {
+    "id": "cs037",
+    "category": "civil_service",
+    "question": "What is 'probity' in public administration?",
+    "options": [
+      "Delay in payments",
+      "Civility in meetings",
+      "Uprightness and integrity in handling public resources",
+      "Harsh disciplinary action"
+    ],
+    "answerIndex": 2,
+    "explanation": "Probity means integrity and uprightness in public financial and administrative conduct."
+  },
+  {
+    "id": "cs038",
+    "category": "civil_service",
+    "question": "The Accounting Officer in a Ministry is usually the:",
+    "options": [
+      "Director of Finance",
+      "Permanent Secretary",
+      "Minister",
+      "Procurement Officer"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Permanent Secretary serves as the Accounting Officer responsible for the Ministry's finances."
+  },
+  {
+    "id": "cs039",
+    "category": "civil_service",
+    "question": "Which is NOT a principle of good governance?",
+    "options": [
+      "Transparency",
+      "Accountability",
+      "Rule of law",
+      "Impunity"
+    ],
+    "answerIndex": 3,
+    "explanation": "Impunity contradicts good governance principles such as transparency, accountability, and rule of law."
+  },
+  {
+    "id": "cs040",
+    "category": "civil_service",
+    "question": "What does KPI stand for?",
+    "options": [
+      "Key Performance Indicator",
+      "Knowledge Process Integration",
+      "Known Public Interest",
+      "Key Procurement Issue"
+    ],
+    "answerIndex": 0,
+    "explanation": "KPI stands for Key Performance Indicator, used to measure performance against objectives."
+  },
+  {
+    "id": "cs041",
+    "category": "civil_service",
+    "question": "'Virement' in public finance refers to:",
+    "options": [
+      "Borrowing from foreign sources",
+      "Transferring funds between approved budget subheads",
+      "Printing new currency",
+      "Returning unspent funds to TSA"
+    ],
+    "answerIndex": 1,
+    "explanation": "Virement is the transfer of funds between budget subheads with proper authorization without increasing the total budget."
+  },
+  {
+    "id": "cs042",
+    "category": "civil_service",
+    "question": "Which system automates government financial transactions in Nigeria?",
+    "options": [
+      "IPPIS",
+      "GIFMIS",
+      "BVN",
+      "REMITA only"
+    ],
+    "answerIndex": 1,
+    "explanation": "GIFMIS (Government Integrated Financial Management Information System) automates public financial management processes."
+  },
+  {
+    "id": "cs043",
+    "category": "civil_service",
+    "question": "IPPIS primarily manages:",
+    "options": [
+      "Procurement records",
+      "Payroll and HR data of public servants",
+      "Debt servicing",
+      "Tax remittance"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Integrated Personnel and Payroll Information System (IPPIS) manages payroll and personnel records to curb ghost workers."
+  },
+  {
+    "id": "cs044",
+    "category": "civil_service",
+    "question": "Which statement about the Accountant-General of the Federation (AGF) is correct?",
+    "options": [
+      "AGF audits MDAs",
+      "AGF keeps and renders government accounts",
+      "AGF chairs the National Assembly",
+      "AGF prosecutes graft cases"
+    ],
+    "answerIndex": 1,
+    "explanation": "The AGF is responsible for the custody and rendering of government accounts. Auditing is done by the Auditor-General."
+  },
+  {
+    "id": "cs045",
+    "category": "civil_service",
+    "question": "The Secretary to the Government of the Federation (SGF) mainly:",
+    "options": [
+      "Heads the civil service",
+      "Coordinates government policies and cabinet matters",
+      "Manages public debt",
+      "Controls the Central Bank"
+    ],
+    "answerIndex": 1,
+    "explanation": "The SGF coordinates policy implementation and Cabinet processes for the Presidency."
+  },
+  {
+    "id": "cs046",
+    "category": "civil_service",
+    "question": "Which is an FOI exemption?",
+    "options": [
+      "Information affecting national security",
+      "Approved budgets",
+      "Published procurement plans",
+      "Service charters"
+    ],
+    "answerIndex": 0,
+    "explanation": "Information that could compromise national security is exempt from disclosure under FOI."
+  },
+  {
+    "id": "cs047",
+    "category": "civil_service",
+    "question": "'Supplementary Appropriation' is used to:",
+    "options": [
+      "Reduce salaries",
+      "Authorize additional spending beyond the original budget",
+      "Abolish taxes",
+      "Re-base GDP"
+    ],
+    "answerIndex": 1,
+    "explanation": "Supplementary Appropriation provides additional legal authority to spend beyond the original approved budget in a fiscal year."
+  },
+  {
+    "id": "cs048",
+    "category": "civil_service",
+    "question": "Which practice helps prevent nepotism in recruitment?",
+    "options": [
+      "Internal memos only",
+      "Open competitive recruitment with clear criteria",
+      "Secret interviews",
+      "Verbal offers"
+    ],
+    "answerIndex": 1,
+    "explanation": "Transparent, competitive recruitment with published criteria reduces favoritism and nepotism."
+  },
+  {
+    "id": "cs049",
+    "category": "civil_service",
+    "question": "The 'No Gift Policy' in procurement supports which value?",
+    "options": [
+      "Impunity",
+      "Integrity",
+      "Secrecy",
+      "Favoritism"
+    ],
+    "answerIndex": 1,
+    "explanation": "Prohibiting gifts supports integrity and impartiality in procurement."
+  },
+  {
+    "id": "cs050",
+    "category": "civil_service",
+    "question": "Who reviews bidder complaints under the PPA?",
+    "options": [
+      "Code of Conduct Tribunal",
+      "Administrative review by MDA and BPP",
+      "Federal Character Commission",
+      "DMO"
+    ],
+    "answerIndex": 1,
+    "explanation": "The PPA provides for administrative review first at the MDA, then at the BPP if unresolved."
+  },
+  {
+    "id": "cs051",
+    "category": "civil_service",
+    "question": "Which is NOT typically in a Service Charter?",
+    "options": [
+      "Service standards",
+      "Timelines and expectations",
+      "Complaint channels",
+      "Staff salaries"
+    ],
+    "answerIndex": 3,
+    "explanation": "Service charters set standards, timelines, and complaint mechanisms; they do not list staff salaries."
+  },
+  {
+    "id": "cs052",
+    "category": "civil_service",
+    "question": "'Due process' in procurement requires set timelines for advertisement to ensure:",
+    "options": [
+      "Limited competition",
+      "Adequate bidder participation",
+      "Faster political approval",
+      "Sole sourcing"
+    ],
+    "answerIndex": 1,
+    "explanation": "Adequate advertisement timelines enable fair competition and participation."
+  },
+  {
+    "id": "cs053",
+    "category": "civil_service",
+    "question": "Conflict of interest should be handled by:",
+    "options": [
+      "Ignoring it",
+      "Full disclosure and recusal",
+      "Accepting gifts",
+      "Faster evaluation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Disclose the conflict and recuse yourself from decision-making to preserve integrity."
+  },
+  {
+    "id": "cs054",
+    "category": "civil_service",
+    "question": "An internal audit function in an MDA primarily aims to:",
+    "options": [
+      "Prosecute staff",
+      "Provide independent assurance on controls and processes",
+      "Punish vendors",
+      "Sign cheques"
+    ],
+    "answerIndex": 1,
+    "explanation": "Internal audit provides assurance on risk management, control, and governance processes."
+  },
+  {
+    "id": "cs055",
+    "category": "civil_service",
+    "question": "'Recurrent expenditure' includes:",
+    "options": [
+      "Salaries and overheads",
+      "Construction of new roads",
+      "Acquisition of capital equipment",
+      "Capital grants"
+    ],
+    "answerIndex": 0,
+    "explanation": "Recurrent expenditure covers salaries, overheads, and routine running costs."
+  },
+  {
+    "id": "cs056",
+    "category": "civil_service",
+    "question": "Which best supports transparency in procurement?",
+    "options": [
+      "Publishing tender notices and award decisions",
+      "Oral quotations",
+      "Secretive negotiations",
+      "Cash payments"
+    ],
+    "answerIndex": 0,
+    "explanation": "Publishing notices and awards promotes transparency and accountability."
+  },
+  {
+    "id": "cs057",
+    "category": "civil_service",
+    "question": "'Whistleblower protection' encourages:",
+    "options": [
+      "Retaliation",
+      "Reporting wrongdoing without fear",
+      "Secrecy",
+      "Inflated contracts"
+    ],
+    "answerIndex": 1,
+    "explanation": "Whistleblower protection allows staff and citizens to report wrongdoing safely."
+  },
+  {
+    "id": "cs058",
+    "category": "civil_service",
+    "question": "Which statement about TSA is FALSE?",
+    "options": [
+      "It improves cash visibility",
+      "It reduces idle balances in MDAs",
+      "It makes it harder to track cash",
+      "It centralizes cash management"
+    ],
+    "answerIndex": 2,
+    "explanation": "TSA improves, not worsens, cash tracking and visibility."
+  },
+  {
+    "id": "cs059",
+    "category": "civil_service",
+    "question": "Who is responsible for maintaining service-wide HR policies?",
+    "options": [
+      "Head of the Civil Service of the Federation",
+      "Minister of Finance",
+      "BPP",
+      "DMO"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Head of Service issues circulars and policies on HR matters for the civil service."
+  },
+  {
+    "id": "cs060",
+    "category": "civil_service",
+    "question": "A 'Parastatal' is best described as:",
+    "options": [
+      "A private charity",
+      "A government-owned agency or enterprise with specific mandates",
+      "A political party",
+      "A court"
+    ],
+    "answerIndex": 1,
+    "explanation": "Parastatals are government-owned entities established to carry out specific functions or provide services."
+  },
+  {
+    "id": "cs061",
+    "category": "civil_service",
+    "question": "What is the difference between OAGF and OAuGF?",
+    "options": [
+      "No difference",
+      "OAGF manages accounts; OAuGF audits them",
+      "OAGF audits; OAuGF manages accounts",
+      "Both handle procurement"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Office of the Accountant-General manages government accounts; the Office of the Auditor-General audits them."
+  },
+  {
+    "id": "cs062",
+    "category": "civil_service",
+    "question": "Which is an ethical breach?",
+    "options": [
+      "Declaring conflict of interest",
+      "Maintaining records",
+      "Using official time for private business",
+      "Attending mandatory trainings"
+    ],
+    "answerIndex": 2,
+    "explanation": "Using official time/resources for private business is unethical and prohibited."
+  },
+  {
+    "id": "cs063",
+    "category": "civil_service",
+    "question": "The 'Medium-Term Expenditure Framework (MTEF)' covers:",
+    "options": [
+      "One year",
+      "Three years",
+      "Five years",
+      "Ten years"
+    ],
+    "answerIndex": 1,
+    "explanation": "The MTEF typically provides a 3-year rolling framework for budgeting."
+  },
+  {
+    "id": "cs064",
+    "category": "civil_service",
+    "question": "'Contract variation' should be:",
+    "options": [
+      "Unlimited",
+      "Within permissible thresholds with approvals",
+      "Ignored",
+      "Done verbally"
+    ],
+    "answerIndex": 1,
+    "explanation": "Variations must stay within allowed thresholds and obtain due approvals to maintain value for money."
+  },
+  {
+    "id": "cs065",
+    "category": "civil_service",
+    "question": "A 'Bid security' is used to:",
+    "options": [
+      "Punish bidders",
+      "Ensure bidder commitment and reduce frivolous bids",
+      "Pay staff bonuses",
+      "Replace performance bond"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bid securities protect the procuring entity from bidders who withdraw or fail to sign the contract."
+  },
+  {
+    "id": "cs066",
+    "category": "civil_service",
+    "question": "Which body regulates pensions in Nigeria?",
+    "options": [
+      "PENCOM",
+      "NDIC",
+      "NCC",
+      "NERC"
+    ],
+    "answerIndex": 0,
+    "explanation": "The National Pension Commission (PENCOM) regulates and supervises the pension industry."
+  },
+  {
+    "id": "cs067",
+    "category": "civil_service",
+    "question": "'Nepotism' means:",
+    "options": [
+      "Favouring relatives or friends for jobs/contracts",
+      "Compulsory training",
+      "Transparent hiring",
+      "Reverse auction"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nepotism is favoritism based on family or personal relationships rather than merit."
+  },
+  {
+    "id": "cs068",
+    "category": "civil_service",
+    "question": "Which statement about FOI is TRUE?",
+    "options": [
+      "Applicants must state reasons for requests",
+      "Requests can be oral or written, and reasons are not required",
+      "Only lawyers can file requests",
+      "Fees are always prohibitive"
+    ],
+    "answerIndex": 1,
+    "explanation": "Under FOI, applicants need not state reasons; requests can be made by any person, subject to procedures."
+  },
+  {
+    "id": "cs069",
+    "category": "civil_service",
+    "question": "Which best describes 'Accountability'?",
+    "options": [
+      "Avoiding audits",
+      "Explaining and taking responsibility for decisions and use of resources",
+      "Secrecy in operations",
+      "Political loyalty"
+    ],
+    "answerIndex": 1,
+    "explanation": "Accountability is the obligation to explain decisions and stewardship of resources."
+  },
+  {
+    "id": "cs070",
+    "category": "civil_service",
+    "question": "A 'Performance Bond' is usually required to:",
+    "options": [
+      "Guarantee contract performance by the supplier",
+      "Provide tax clearance",
+      "Replace bid security",
+      "Fund the project"
+    ],
+    "answerIndex": 0,
+    "explanation": "Performance bonds provide assurance that the contractor will fulfil contractual obligations."
+  },
+  {
+    "id": "cs071",
+    "category": "civil_service",
+    "question": "The 'Due Process' concept in Nigeria was institutionalized mainly to:",
+    "options": [
+      "Speed projects regardless of rules",
+      "Enhance transparency, competition, and value for money",
+      "Eliminate budgeting",
+      "Increase recurrent expenditure"
+    ],
+    "answerIndex": 1,
+    "explanation": "Due Process institutionalizes transparent and competitive procurement for value for money."
+  },
+  {
+    "id": "cs072",
+    "category": "civil_service",
+    "question": "'Open competitive bidding' enhances:",
+    "options": [
+      "Secrecy",
+      "Competition and fairness",
+      "Political influence",
+      "Sole sourcing"
+    ],
+    "answerIndex": 1,
+    "explanation": "Open competition broadens participation, improving fairness and outcomes."
+  },
+  {
+    "id": "cs073",
+    "category": "civil_service",
+    "question": "The 'Appropriation Act' is passed by:",
+    "options": [
+      "The Executive",
+      "The National Assembly",
+      "The Judiciary",
+      "The Central Bank"
+    ],
+    "answerIndex": 1,
+    "explanation": "The National Assembly passes the Appropriation Act based on the executive's proposal."
+  },
+  {
+    "id": "cs074",
+    "category": "civil_service",
+    "question": "A 'Vote Book' in public finance is used to:",
+    "options": [
+      "Record budgetary allocations and expenditures",
+      "Keep staff attendance",
+      "Record training needs",
+      "Store procurement bids"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vote books track allocations, commitments, and expenditure against budget heads."
+  },
+  {
+    "id": "cs075",
+    "category": "civil_service",
+    "question": "Which office coordinates anti-corruption policy and reforms across MDAs?",
+    "options": [
+      "BPP",
+      "SERVICOM",
+      "ICPC",
+      "BPSR in collaboration with anticorruption agencies"
+    ],
+    "answerIndex": 3,
+    "explanation": "Reform coordination often involves BPSR working with agencies like ICPC/EFCC on integrity initiatives."
+  },
+  {
+    "id": "cs076",
+    "category": "civil_service",
+    "question": "'Separation of powers' helps ensure:",
+    "options": [
+      "Concentration of authority",
+      "Checks and balances among arms of government",
+      "Elimination of judiciary",
+      "Single-party dominance"
+    ],
+    "answerIndex": 1,
+    "explanation": "Separation of powers provides checks and balances among the legislature, executive, and judiciary."
+  },
+  {
+    "id": "cs077",
+    "category": "civil_service",
+    "question": "Which is a component of a typical MDA procurement plan?",
+    "options": [
+      "Staff birthdays",
+      "Project descriptions, timelines, and estimated costs",
+      "Party events",
+      "Private donations"
+    ],
+    "answerIndex": 1,
+    "explanation": "Procurement plans list projects, timelines, methods, and cost estimates."
+  },
+  {
+    "id": "cs078",
+    "category": "civil_service",
+    "question": "A civil servant who receives a query should first:",
+    "options": [
+      "Ignore it",
+      "Respond in writing within the stipulated time",
+      "Call the media",
+      "Resign immediately"
+    ],
+    "answerIndex": 1,
+    "explanation": "The PSR requires a written response within the stipulated period, explaining the facts."
+  },
+  {
+    "id": "cs079",
+    "category": "civil_service",
+    "question": "'HRH' in the public sector context often refers to:",
+    "options": [
+      "Human Resource Handbook",
+      "Human Resources for Health",
+      "High Royal Highness",
+      "Hiring Rate per Hour"
+    ],
+    "answerIndex": 1,
+    "explanation": "In health MDAs, HRH commonly refers to Human Resources for Health."
+  },
+  {
+    "id": "cs080",
+    "category": "civil_service",
+    "question": "Which best mitigates procurement fraud?",
+    "options": [
+      "Rotation of key duties and segregation of roles",
+      "One person handles all steps",
+      "Eliminate documentation",
+      "Cash payments"
+    ],
+    "answerIndex": 0,
+    "explanation": "Segregation of duties and rotation reduce opportunities for fraud and collusion."
+  },
+  {
+    "id": "cs081",
+    "category": "civil_service",
+    "question": "'Gifts and hospitality' registers are used to:",
+    "options": [
+      "Encourage gift-taking",
+      "Record and manage offers to avoid conflicts",
+      "Hide benefits",
+      "Approve bribes"
+    ],
+    "answerIndex": 1,
+    "explanation": "Recording gifts/hospitality increases transparency and helps manage conflicts of interest."
+  },
+  {
+    "id": "cs082",
+    "category": "civil_service",
+    "question": "Which statement about the National Assembly is TRUE?",
+    "options": [
+      "It implements policies",
+      "It enacts laws and exercises oversight",
+      "It manages payroll",
+      "It awards contracts"
+    ],
+    "answerIndex": 1,
+    "explanation": "The legislature enacts laws and performs oversight on the executive."
+  },
+  {
+    "id": "cs083",
+    "category": "civil_service",
+    "question": "'Internal control' systems primarily aim to:",
+    "options": [
+      "Slow operations",
+      "Ensure reliability of records, safeguard assets, and compliance",
+      "Increase political influence",
+      "Hide errors"
+    ],
+    "answerIndex": 1,
+    "explanation": "Internal controls help ensure reliable reporting, asset protection, and compliance."
+  },
+  {
+    "id": "cs084",
+    "category": "civil_service",
+    "question": "Which is NOT a lawful disciplinary step?",
+    "options": [
+      "Issuing a query",
+      "Constituting a panel",
+      "Dismissing without due process",
+      "Warning"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dismissal must follow due process; arbitrary dismissal is unlawful."
+  },
+  {
+    "id": "cs085",
+    "category": "civil_service",
+    "question": "'GIFMIS' supports which function?",
+    "options": [
+      "Payroll for private firms",
+      "Government budget execution and accounting",
+      "Foreign direct investment approvals",
+      "Election management"
+    ],
+    "answerIndex": 1,
+    "explanation": "GIFMIS supports budget execution, accounting, and reporting across MDAs."
+  },
+  {
+    "id": "cs086",
+    "category": "civil_service",
+    "question": "A 'Performance Appraisal' like APER primarily assesses:",
+    "options": [
+      "Political loyalty",
+      "Achievement of set objectives and competencies",
+      "Salary arrears",
+      "Holiday schedules"
+    ],
+    "answerIndex": 1,
+    "explanation": "Performance appraisals measure achievement and competencies against set objectives."
+  },
+  {
+    "id": "cs087",
+    "category": "civil_service",
+    "question": "Which best defines 'Transparency'?",
+    "options": [
+      "Keeping information internal only",
+      "Making information, processes, and decisions open and verifiable",
+      "Avoiding publication",
+      "Only oral briefings"
+    ],
+    "answerIndex": 1,
+    "explanation": "Transparency involves openness and verifiability of information and decisions."
+  },
+  {
+    "id": "cs088",
+    "category": "civil_service",
+    "question": "'Servicom' units in MDAs typically handle:",
+    "options": [
+      "Payroll processing",
+      "Customer service improvement and complaints redress",
+      "Foreign relations",
+      "Tax audit"
+    ],
+    "answerIndex": 1,
+    "explanation": "SERVICOM units focus on service improvement and handling complaints."
+  },
+  {
+    "id": "cs089",
+    "category": "civil_service",
+    "question": "Which is TRUE about procurement evaluation criteria?",
+    "options": [
+      "They can be changed after bid opening",
+      "They must be published in the solicitation and applied consistently",
+      "They are secret",
+      "They depend on bidder identity"
+    ],
+    "answerIndex": 1,
+    "explanation": "Evaluation criteria must be disclosed in advance and applied uniformly to all bidders."
+  },
+  {
+    "id": "cs090",
+    "category": "civil_service",
+    "question": "'Open government' promotes:",
+    "options": [
+      "Secrecy and closed data",
+      "Access to information, participation, and collaboration",
+      "Political lobbying",
+      "Cash-based contracting"
+    ],
+    "answerIndex": 1,
+    "explanation": "Open government focuses on transparency, participation, and collaboration to build trust and improve services."
+  },
+  {
+    "id": "eng001",
+    "category": "english",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "He don't have any idea.",
+      "He doesn't have any idea.",
+      "He didn't had any idea.",
+      "He doesn't has any idea."
+    ],
+    "answerIndex": 1,
+    "explanation": "With 'he', use 'doesn't' and the base verb: 'He doesn't have any idea.'"
+  },
+  {
+    "id": "eng002",
+    "category": "english",
+    "question": "Select the synonym of 'meticulous':",
+    "options": [
+      "Careless",
+      "Thorough",
+      "Hasty",
+      "Vague"
+    ],
+    "answerIndex": 1,
+    "explanation": "'Meticulous' means very careful and thorough."
+  },
+  {
+    "id": "eng003",
+    "category": "english",
+    "question": "Fill in the blank: She insisted ____ paying the bill.",
+    "options": [
+      "on",
+      "at",
+      "for",
+      "to"
+    ],
+    "answerIndex": 0,
+    "explanation": "The correct preposition is 'on': insisted on doing something."
+  },
+  {
+    "id": "eng004",
+    "category": "english",
+    "question": "Identify the antonym of 'scarce':",
+    "options": [
+      "Rare",
+      "Abundant",
+      "Sparse",
+      "Insufficient"
+    ],
+    "answerIndex": 1,
+    "explanation": "'Scarce' is the opposite of 'abundant'."
+  },
+  {
+    "id": "eng005",
+    "category": "english",
+    "question": "Choose the correctly punctuated sentence:",
+    "options": [
+      "However we tried, we couldn't finish.",
+      "However, we tried we couldn't finish.",
+      "However, we tried, we couldn't finish.",
+      "However we tried we couldn't finish."
+    ],
+    "answerIndex": 2,
+    "explanation": "Use commas to set off the introductory 'However' and to separate the clauses."
+  },
+  {
+    "id": "eng006",
+    "category": "english",
+    "question": "Which word best completes: The committee has ____ decision to postpone.",
+    "options": [
+      "made their",
+      "made its",
+      "did its",
+      "taken their"
+    ],
+    "answerIndex": 1,
+    "explanation": "'Committee' is a collective noun; in formal English, use singular: 'has made its decision'."
+  },
+  {
+    "id": "eng007",
+    "category": "english",
+    "question": "Choose the correct form: If I ____ you, I would apply.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "be"
+    ],
+    "answerIndex": 2,
+    "explanation": "Subjunctive mood: 'If I were you'."
+  },
+  {
+    "id": "eng008",
+    "category": "english",
+    "question": "Select the correctly spelled word:",
+    "options": [
+      "Occurrance",
+      "Occurence",
+      "Occurrence",
+      "Ocurence"
+    ],
+    "answerIndex": 2,
+    "explanation": "The correct spelling is 'Occurrence'."
+  },
+  {
+    "id": "eng009",
+    "category": "english",
+    "question": "Choose the correct option: Neither the manager nor the staff ____ aware.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answerIndex": 2,
+    "explanation": "With 'neither...nor', the verb agrees with the nearest subject; 'staff' as a collective can take singular in formal usage → 'is'."
+  },
+  {
+    "id": "eng010",
+    "category": "english",
+    "question": "Find the error: Each of the files have been uploaded.",
+    "options": [
+      "Each",
+      "files",
+      "have",
+      "uploaded"
+    ],
+    "answerIndex": 2,
+    "explanation": "'Each' takes a singular verb: 'has been uploaded'."
+  },
+  {
+    "id": "eng011",
+    "category": "english",
+    "question": "Select the synonym of 'candid':",
+    "options": [
+      "Secretive",
+      "Frank",
+      "Ambiguous",
+      "Evasive"
+    ],
+    "answerIndex": 1,
+    "explanation": "'Candid' means frank and honest."
+  },
+  {
+    "id": "eng012",
+    "category": "english",
+    "question": "Choose the correct word: The new policy will ____ all departments.",
+    "options": [
+      "affect",
+      "effect",
+      "affects",
+      "effects"
+    ],
+    "answerIndex": 0,
+    "explanation": "Use 'affect' as a verb meaning to influence."
+  },
+  {
+    "id": "eng013",
+    "category": "english",
+    "question": "Identify the antonym of 'lenient':",
+    "options": [
+      "Merciful",
+      "Harsh",
+      "Gentle",
+      "Soft"
+    ],
+    "answerIndex": 1,
+    "explanation": "'Lenient' is the opposite of 'harsh'."
+  },
+  {
+    "id": "eng014",
+    "category": "english",
+    "question": "Fill in the blank: The report was submitted ____ time.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "for"
+    ],
+    "answerIndex": 1,
+    "explanation": "The correct preposition is 'on time'."
+  },
+  {
+    "id": "eng015",
+    "category": "english",
+    "question": "Which sentence is correct?",
+    "options": [
+      "She has went to the office.",
+      "She have gone to the office.",
+      "She has gone to the office.",
+      "She gone to the office."
+    ],
+    "answerIndex": 2,
+    "explanation": "Present perfect for 'she' takes 'has' + past participle: 'has gone'."
+  },
+  {
+    "id": "eng016",
+    "category": "english",
+    "question": "Choose the correctly punctuated sentence:",
+    "options": [
+      "Please find attached the report, Mr. Ade.",
+      "Please, find attached the report Mr. Ade.",
+      "Please find attached, the report, Mr Ade.",
+      "Please find attached the report Mr Ade"
+    ],
+    "answerIndex": 0,
+    "explanation": "Use commas to set off the direct address: '..., Mr. Ade.'"
+  },
+  {
+    "id": "eng017",
+    "category": "english",
+    "question": "Select the best word: The meeting was ____ due to unforeseen circumstances.",
+    "options": [
+      "postponed",
+      "postpone",
+      "postponing",
+      "postpones"
+    ],
+    "answerIndex": 0,
+    "explanation": "Past participle 'postponed' fits the passive construction."
+  },
+  {
+    "id": "eng018",
+    "category": "english",
+    "question": "Choose the correct form: The data ____ encouraging.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "be"
+    ],
+    "answerIndex": 0,
+    "explanation": "In formal usage, 'data' can take singular verb when treated as a mass noun: 'data is encouraging'."
+  },
+  {
+    "id": "eng019",
+    "category": "english",
+    "question": "Select the antonym of 'transparent':",
+    "options": [
+      "Opaque",
+      "Clear",
+      "Lucid",
+      "Obvious"
+    ],
+    "answerIndex": 0,
+    "explanation": "Opposite of transparent is 'opaque'."
+  },
+  {
+    "id": "eng020",
+    "category": "english",
+    "question": "Choose the correct option: The documents have been reviewed, ____?",
+    "options": [
+      "isn't it",
+      "haven't they",
+      "hasn't it",
+      "didn't they"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tag questions agree with the auxiliary and number: 'have' → 'haven't they'."
+  },
+  {
+    "id": "math001",
+    "category": "math",
+    "question": "What is 25% of 360?",
+    "options": [
+      "72",
+      "90",
+      "120",
+      "180"
+    ],
+    "answerIndex": 1,
+    "explanation": "25% is one-quarter; 360/4 = 90."
+  },
+  {
+    "id": "math002",
+    "category": "math",
+    "question": "Simplify: 3(2x + 5) - 4x",
+    "options": [
+      "2x + 15",
+      "6x + 15",
+      "2x + 5",
+      "-x + 15"
+    ],
+    "answerIndex": 0,
+    "explanation": "3(2x+5) = 6x+15; subtract 4x → 2x+15."
+  },
+  {
+    "id": "math003",
+    "category": "math",
+    "question": "If a car travels 180 km in 3 hours, its average speed is ____ km/h.",
+    "options": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "answerIndex": 2,
+    "explanation": "Speed = distance/time = 180/3 = 60 km/h."
+  },
+  {
+    "id": "math004",
+    "category": "math",
+    "question": "Find the simple interest on ₦20,000 at 10% per annum for 2 years.",
+    "options": [
+      "₦2,000",
+      "₦4,000",
+      "₦5,000",
+      "₦8,000"
+    ],
+    "answerIndex": 1,
+    "explanation": "SI = PRT = 20000 × 0.10 × 2 = ₦4,000."
+  },
+  {
+    "id": "math005",
+    "category": "math",
+    "question": "The ratio 8:12 simplified is:",
+    "options": [
+      "2:3",
+      "3:2",
+      "4:6",
+      "1:1.5"
+    ],
+    "answerIndex": 0,
+    "explanation": "Divide both by 4 → 2:3."
+  },
+  {
+    "id": "math006",
+    "category": "math",
+    "question": "Convert 0.75 to a fraction in simplest form.",
+    "options": [
+      "3/4",
+      "1/2",
+      "2/3",
+      "4/5"
+    ],
+    "answerIndex": 0,
+    "explanation": "0.75 = 75/100 = 3/4."
+  },
+  {
+    "id": "math007",
+    "category": "math",
+    "question": "If x + 5 = 12, then x = ?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answerIndex": 2,
+    "explanation": "x = 12 − 5 = 7."
+  },
+  {
+    "id": "math008",
+    "category": "math",
+    "question": "What is the mean of 4, 6, 10?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "10"
+    ],
+    "answerIndex": 1,
+    "explanation": "(4+6+10)/3 = 6.67; nearest whole number given is 7."
+  },
+  {
+    "id": "math009",
+    "category": "math",
+    "question": "A discount of 10% on ₦15,000 is:",
+    "options": [
+      "₦1,000",
+      "₦1,200",
+      "₦1,500",
+      "₦2,000"
+    ],
+    "answerIndex": 2,
+    "explanation": "10% × 15000 = 1500."
+  },
+  {
+    "id": "math010",
+    "category": "math",
+    "question": "What is 3/5 of 200?",
+    "options": [
+      "60",
+      "100",
+      "120",
+      "180"
+    ],
+    "answerIndex": 2,
+    "explanation": "3/5 × 200 = 120."
+  },
+  {
+    "id": "math011",
+    "category": "math",
+    "question": "Find the perimeter of a rectangle 8 cm by 5 cm",
+    "options": [
+      "13 cm",
+      "26 cm",
+      "40 cm",
+      "16 cm"
+    ],
+    "answerIndex": 1,
+    "explanation": "Perimeter = 2(l + w) = 2(8+5) = 26 cm."
+  },
+  {
+    "id": "math012",
+    "category": "math",
+    "question": "Solve: 5y − 7 = 3y + 9",
+    "options": [
+      "y = 1",
+      "y = 8",
+      "y = −8",
+      "y = 4"
+    ],
+    "answerIndex": 1,
+    "explanation": "5y−3y = 9+7 → 2y=16 → y=8."
+  },
+  {
+    "id": "math013",
+    "category": "math",
+    "question": "If the exchange rate is ₦800 per $1, how many dollars is ₦40,000?",
+    "options": [
+      "$40",
+      "$50",
+      "$80",
+      "$100"
+    ],
+    "answerIndex": 1,
+    "explanation": "40000/800 = 50 dollars."
+  },
+  {
+    "id": "math014",
+    "category": "math",
+    "question": "What is 15% of 240?",
+    "options": [
+      "24",
+      "30",
+      "36",
+      "42"
+    ],
+    "answerIndex": 2,
+    "explanation": "0.15 × 240 = 36."
+  },
+  {
+    "id": "math015",
+    "category": "math",
+    "question": "The probability of getting heads on a fair coin is:",
+    "options": [
+      "0",
+      "1/4",
+      "1/2",
+      "1"
+    ],
+    "answerIndex": 2,
+    "explanation": "A fair coin has two equally likely outcomes: 1/2 for heads."
+  },
+  {
+    "id": "math016",
+    "category": "math",
+    "question": "Find the area of a triangle with base 10 cm and height 6 cm",
+    "options": [
+      "16 cm²",
+      "30 cm²",
+      "60 cm²",
+      "80 cm²"
+    ],
+    "answerIndex": 1,
+    "explanation": "Area = 1/2 × base × height = 1/2 × 10 × 6 = 30 cm²."
+  },
+  {
+    "id": "math017",
+    "category": "math",
+    "question": "Simplify: 12/18 in simplest form",
+    "options": [
+      "2/3",
+      "3/5",
+      "4/9",
+      "6/9"
+    ],
+    "answerIndex": 0,
+    "explanation": "Divide numerator and denominator by 6 → 2/3."
+  },
+  {
+    "id": "math018",
+    "category": "math",
+    "question": "A trader bought goods for ₦50,000 and sold for ₦60,000. Profit percentage is:",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "answerIndex": 2,
+    "explanation": "Profit = 10,000; 10,000/50,000 = 20%."
+  },
+  {
+    "id": "math019",
+    "category": "math",
+    "question": "Solve: 9 − (3x + 6) = 0",
+    "options": [
+      "x = 1",
+      "x = 3",
+      "x = 5",
+      "x = -1"
+    ],
+    "answerIndex": 0,
+    "explanation": "9 − 3x - 6 = 0 → 3 − 3x = 0 → x = 1."
+  },
+  {
+    "id": "math020",
+    "category": "math",
+    "question": "What is the median of 2, 7, 5, 9, 4?",
+    "options": [
+      "4",
+      "5",
+      "7",
+      "9"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sorted: 2,4,5,7,9 → median is 5."
+  }
+]

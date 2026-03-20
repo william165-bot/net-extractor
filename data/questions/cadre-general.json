@@ -1,0 +1,1952 @@
+[
+  {
+    "id": 1,
+    "category": "Civil Service Rule (General)",
+    "question": "What core document primarily governs conditions of service for officers in Nigeria's Federal Public Service?",
+    "options": [
+      "Public Service Rules (PSR) 2021",
+      "Labour Act 2004",
+      "Companies and Allied Matters Act",
+      "Evidence Act"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Public Service Rules (PSR) 2021 are the extant rules guiding appointments, conduct, discipline, and general conditions of service for Federal Public Service officers."
+  },
+  {
+    "id": 2,
+    "category": "Civil Service Rule (General)",
+    "question": "Which body constitutionally handles appointments, promotions and discipline of federal civil servants (core civil service)?",
+    "options": [
+      "Office of the Secretary to the Government of the Federation",
+      "Office of the Head of the Civil Service of the Federation",
+      "Federal Civil Service Commission (FCSC)",
+      "National Council on Establishments"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Federal Civil Service Commission (FCSC) exercises powers over appointments, promotions and discipline as provided by the Constitution and relevant regulations."
+  },
+  {
+    "id": 3,
+    "category": "Civil Service Rule (General)",
+    "question": "Under the PSR, the normal probationary period for a newly appointed officer before confirmation is typically:",
+    "options": [
+      "Two years",
+      "One year",
+      "Six months",
+      "Three years"
+    ],
+    "answerIndex": 0,
+    "explanation": "New entrants usually serve a two-year probation, subject to satisfactory performance and passing the required confirmation processes."
+  },
+  {
+    "id": 4,
+    "category": "Civil Service Rule (General)",
+    "question": "Which combination best satisfies confirmation requirements in the Federal Public Service?",
+    "options": [
+      "Length of service only",
+      "Performance reports only",
+      "Passing confirmation exam/training and satisfactory performance",
+      "Political sponsorship and seniority"
+    ],
+    "answerIndex": 2,
+    "explanation": "Confirmation depends on satisfactory performance and fulfilling mandatory confirmation assessments in line with PSR and circulars."
+  },
+  {
+    "id": 5,
+    "category": "Civil Service Rule (General)",
+    "question": "In disciplinary proceedings, the minimum time usually afforded for an officer to respond to a formal query is:",
+    "options": [
+      "At least 48 hours",
+      "24 hours",
+      "7 working days",
+      "14 working days"
+    ],
+    "answerIndex": 0,
+    "explanation": "PSR disciplinary procedure requires that an officer is given adequate time—commonly at least 48 hours—to make written representation to a query."
+  },
+  {
+    "id": 6,
+    "category": "Civil Service Rule (General)",
+    "question": "Which of the following is classified as serious misconduct under the PSR and may attract dismissal?",
+    "options": [
+      "Occasional lateness",
+      "Falsification of records",
+      "Minor negligence",
+      "Dress code infraction"
+    ],
+    "answerIndex": 1,
+    "explanation": "Falsification of records is a serious misconduct and can lead to dismissal after due process."
+  },
+  {
+    "id": 7,
+    "category": "Civil Service Rule (General)",
+    "question": "The standard retirement benchmark for Federal Public Service officers is:",
+    "options": [
+      "55 years of age or 30 years of service",
+      "60 years of age or 35 years of service (whichever comes first)",
+      "65 years of age only",
+      "40 years of service only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Most officers retire at 60 years of age or after 35 years of pensionable service, whichever is earlier, subject to specific cadre exceptions by law."
+  },
+  {
+    "id": 8,
+    "category": "Civil Service Rule (General)",
+    "question": "Under the Pension Reform Act 2014 (Contributory Pension Scheme), the minimum monthly contribution split is:",
+    "options": [
+      "Employer 7%, Employee 5% (12% total)",
+      "Employer 10%, Employee 8% (18% total)",
+      "Employer 5%, Employee 5% (10% total)",
+      "Employer 12%, Employee 6% (18% total)"
+    ],
+    "answerIndex": 1,
+    "explanation": "PRA 2014 prescribes a minimum of 10% by employer and 8% by employee, totaling at least 18%."
+  },
+  {
+    "id": 9,
+    "category": "Civil Service Rule (General)",
+    "question": "The Freedom of Information Act 2011 generally requires public institutions to respond to written information requests within:",
+    "options": [
+      "3 working days",
+      "5 working days",
+      "7 days",
+      "14 days"
+    ],
+    "answerIndex": 2,
+    "explanation": "FOI Act 2011 provides a 7-day window for response, subject to limited grounds for extension or exemption."
+  },
+  {
+    "id": 10,
+    "category": "Civil Service Rule (General)",
+    "question": "Under the Public Procurement Act 2007, which agency issues the Certificate of No Objection for contract awards in MDAs?",
+    "options": [
+      "Economic and Financial Crimes Commission (EFCC)",
+      "Bureau of Public Procurement (BPP)",
+      "National Council on Public Procurement",
+      "Federal Inland Revenue Service (FIRS)"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Bureau of Public Procurement issues the Certificate of No Objection to ensure due process and value for money."
+  },
+  {
+    "id": 11,
+    "category": "Civil Service Rule (General)",
+    "question": "Which office drives human resource policy and administration for the Federal Civil Service?",
+    "options": [
+      "Office of the Head of the Civil Service of the Federation (OHCSF)",
+      "National Salaries, Incomes and Wages Commission",
+      "Code of Conduct Bureau",
+      "Bureau of Public Enterprises"
+    ],
+    "answerIndex": 0,
+    "explanation": "OHCSF provides leadership on HR policy, service welfare, and reforms across the Federal Civil Service."
+  },
+  {
+    "id": 12,
+    "category": "Civil Service Rule (General)",
+    "question": "Which of the following is NOT a typical ground for disciplinary action under the PSR?",
+    "options": [
+      "Absence from duty without leave",
+      "Corruption and embezzlement",
+      "Attending approved training",
+      "Disobedience to lawful orders"
+    ],
+    "answerIndex": 2,
+    "explanation": "Approved training is a positive service activity; the others are recognized misconducts in the PSR."
+  },
+  {
+    "id": 13,
+    "category": "Civil Service Rule (General)",
+    "question": "Which statement best reflects the default method of public procurement under the PPA 2007?",
+    "options": [
+      "Direct procurement as default",
+      "Restricted bidding as default",
+      "Open competitive bidding as default",
+      "Single sourcing as default"
+    ],
+    "answerIndex": 2,
+    "explanation": "Open competitive bidding is the default to promote competition, transparency and value for money."
+  },
+  {
+    "id": 14,
+    "category": "Civil Service Rule (General)",
+    "question": "Which of the following is TRUE about the Treasury Single Account (TSA) in Nigeria?",
+    "options": [
+      "It permits MDAs to retain commercial bank revenue accounts",
+      "It consolidates government revenues at the CBN",
+      "It is an internal MDA petty cash policy",
+      "It applies only to state governments"
+    ],
+    "answerIndex": 1,
+    "explanation": "TSA consolidates FG cash resources within the CBN to improve cash management and accountability."
+  },
+  {
+    "id": 15,
+    "category": "Civil Service Rule (General)",
+    "question": "Integrated Personnel and Payroll Information System (IPPIS) was introduced primarily to:",
+    "options": [
+      "Increase capital budgets",
+      "Eliminate ghost workers and enhance payroll control",
+      "Manage procurement thresholds",
+      "Conduct staff performance appraisals"
+    ],
+    "answerIndex": 1,
+    "explanation": "IPPIS centralizes personnel and payroll to improve accuracy and block leakages."
+  },
+  {
+    "id": 16,
+    "category": "Civil Service Rule (General)",
+    "question": "Which is the correct description of interdiction under the PSR?",
+    "options": [
+      "Temporary removal with full pay",
+      "Temporary removal with partial pay pending investigation",
+      "Permanent removal from service",
+      "Transfer to another MDA"
+    ],
+    "answerIndex": 1,
+    "explanation": "Interdiction is a temporary measure during investigation, usually on part salary, distinct from suspension terms."
+  },
+  {
+    "id": 17,
+    "category": "Civil Service Rule (General)",
+    "question": "Which is the usual retirement benefit access under the Contributory Pension Scheme?",
+    "options": [
+      "Programmed withdrawal or annuity",
+      "Cash-only lump sum of all balance",
+      "Bonds issued by MDAs",
+      "Gratuity funded by treasury"
+    ],
+    "answerIndex": 0,
+    "explanation": "Retirees under CPS typically choose programmed withdrawal managed by PFAs or annuity from insurers, plus an initial lump sum subject to guidelines."
+  },
+  {
+    "id": 18,
+    "category": "Civil Service Rule (General)",
+    "question": "A contributor who loses employment may access up to what portion of RSA after at least 4 months without another job (subject to guidelines)?",
+    "options": [
+      "10% of RSA balance",
+      "15% of RSA balance",
+      "25% of RSA balance",
+      "50% of RSA balance"
+    ],
+    "answerIndex": 2,
+    "explanation": "PRA guidelines allow up to 25% withdrawal after a minimum period of unemployment, subject to PenCom rules."
+  },
+  {
+    "id": 19,
+    "category": "Civil Service Rule (General)",
+    "question": "Under the FOI Act, which of these is generally an exemption ground from disclosure?",
+    "options": [
+      "National security-sensitive information",
+      "Already published information",
+      "Public interest matters",
+      "Budget summaries"
+    ],
+    "answerIndex": 0,
+    "explanation": "FOI exemptions cover, among others, information affecting national security, law enforcement, and personal privacy."
+  },
+  {
+    "id": 20,
+    "category": "Civil Service Rule (General)",
+    "question": "The Official Secrets Act primarily addresses:",
+    "options": [
+      "Asset declaration by public officers",
+      "Taxation of public servants",
+      "Protection of official information and restricted places",
+      "Workplace safety standards"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Act criminalizes unauthorized disclosure of classified information and regulates access to protected places."
+  },
+  {
+    "id": 21,
+    "category": "Civil Service Rule (General)",
+    "question": "Under the PSR, unauthorized absence from duty is:",
+    "options": [
+      "Encouraged if workload is high",
+      "A form of misconduct",
+      "Not regulated",
+      "Only a private matter"
+    ],
+    "answerIndex": 1,
+    "explanation": "Absence without leave or reasonable cause is recognized as misconduct and attracts sanctions after due process."
+  },
+  {
+    "id": 22,
+    "category": "Civil Service Rule (General)",
+    "question": "Which statement about annual leave in the Federal Public Service is correct?",
+    "options": [
+      "Senior officers generally enjoy 30 working days; junior officers about 21 working days",
+      "Leave is unlimited for all grades",
+      "No officer is entitled to annual leave",
+      "Leave is only for contract staff"
+    ],
+    "answerIndex": 0,
+    "explanation": "By convention under PSR, GL07 and above generally enjoy 30 working days; GL06 and below about 21 working days, subject to current circulars."
+  },
+  {
+    "id": 23,
+    "category": "Civil Service Rule (General)",
+    "question": "As introduced in recent reforms, which system is replacing APER for performance management in the Federal Service?",
+    "options": [
+      "PMS (Performance Management System)",
+      "MBO only",
+      "KPI-free appraisal",
+      "Seniority grading"
+    ],
+    "answerIndex": 0,
+    "explanation": "The OHCSF has introduced a Performance Management System with goal setting, mid-year and end-year reviews."
+  },
+  {
+    "id": 24,
+    "category": "Civil Service Rule (General)",
+    "question": "Which best describes SERVICOM?",
+    "options": [
+      "A procurement platform",
+      "A service delivery charter initiative for MDAs",
+      "A payroll system",
+      "A pension administrator"
+    ],
+    "answerIndex": 1,
+    "explanation": "SERVICOM (Service Compact with All Nigerians) drives service standards, charters and complaint redress in MDAs."
+  },
+  {
+    "id": 25,
+    "category": "Civil Service Rule (General)",
+    "question": "Which of the following is a responsibility under the Code of Conduct for Public Officers (Fifth Schedule)?",
+    "options": [
+      "Mandatory asset declaration",
+      "Holding multiple paid public offices simultaneously",
+      "Maintaining foreign bank accounts for all officers",
+      "Accepting gifts for official acts"
+    ],
+    "answerIndex": 0,
+    "explanation": "Public officers must declare assets and avoid conflicts of interest; certain categories are barred from foreign accounts."
+  },
+  {
+    "id": 26,
+    "category": "Civil Service Rule (General)",
+    "question": "Which option best reflects the default classification levels for official records?",
+    "options": [
+      "Open, Confidential, Secret, Top Secret",
+      "Green, Amber, Red",
+      "Public, Private",
+      "Draft, Final"
+    ],
+    "answerIndex": 0,
+    "explanation": "Public institutions typically classify sensitive information into Confidential, Secret, and Top Secret in line with security protocols."
+  },
+  {
+    "id": 27,
+    "category": "Civil Service Rule (General)",
+    "question": "Which is accurate about procurement planning under PPA 2007?",
+    "options": [
+      "It is optional for MDAs",
+      "It must align with approved budgets and annual procurement plans",
+      "It is done only after contract award",
+      "It is outsourced to banks"
+    ],
+    "answerIndex": 1,
+    "explanation": "Procurement must be planned within approved budgets and captured in annual procurement plans."
+  },
+  {
+    "id": 28,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, the difference between transfer and secondment is that secondment:",
+    "options": [
+      "Is a permanent movement",
+      "Is a temporary movement to another organization, often outside the service",
+      "Means change of duty post within same MDA",
+      "Is only for junior officers"
+    ],
+    "answerIndex": 1,
+    "explanation": "Secondment is a temporary release to another body; transfer is a permanent movement within the service framework."
+  },
+  {
+    "id": 29,
+    "category": "Civil Service Rule (General)",
+    "question": "Study leave with pay is typically granted subject to:",
+    "options": [
+      "Absolute discretion without conditions",
+      "Service needs, relevance of course, and bonding where applicable",
+      "Only personal interest",
+      "Automatic entitlement for all"
+    ],
+    "answerIndex": 1,
+    "explanation": "Study leave conditions consider relevance to service, manpower needs, and bonding obligations per PSR/circulars."
+  },
+  {
+    "id": 30,
+    "category": "Civil Service Rule (General)",
+    "question": "Which statement about paternity leave in the Federal Service is correct per recent circulars/PSR?",
+    "options": [
+      "It does not exist",
+      "7 working days",
+      "14 working days for eligible male officers",
+      "28 working days"
+    ],
+    "answerIndex": 2,
+    "explanation": "FG approved 14 working days paternity leave for eligible male officers, implemented via service circulars and PSR updates."
+  },
+  {
+    "id": 31,
+    "category": "Civil Service Rule (General)",
+    "question": "Which statement about maternity leave under updated Federal Service policy is correct?",
+    "options": [
+      "12 weeks only",
+      "16 weeks for eligible female officers per updated rules",
+      "20 weeks for all cadres",
+      "Unpaid leave only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Reforms extended maternity leave for federal civil servants to 16 weeks in line with service circulars."
+  },
+  {
+    "id": 32,
+    "category": "Civil Service Rule (General)",
+    "question": "Which of these is NOT a function of the Bureau of Public Procurement?",
+    "options": [
+      "Issuing Certificates of No Objection",
+      "Setting procurement standards and guidelines",
+      "Managing personal income tax for officers",
+      "Oversight of MDA compliance with PPA 2007"
+    ],
+    "answerIndex": 2,
+    "explanation": "BPP regulates public procurement; tax administration is handled by FIRS/States."
+  },
+  {
+    "id": 33,
+    "category": "Civil Service Rule (General)",
+    "question": "Which option best describes a Conflict of Interest under the Code of Conduct?",
+    "options": [
+      "Situations where official duties and personal interests collide",
+      "Any disagreement at work",
+      "Labour strike action",
+      "Leave scheduling dispute"
+    ],
+    "answerIndex": 0,
+    "explanation": "Public officers must avoid situations where private interests conflict with official responsibilities."
+  },
+  {
+    "id": 34,
+    "category": "Civil Service Rule (General)",
+    "question": "Under FOI Act 2011, proactive disclosure requires MDAs to:",
+    "options": [
+      "Publish key information routinely without request",
+      "Keep all records secret",
+      "Delete old records yearly",
+      "Only disclose on court order"
+    ],
+    "answerIndex": 0,
+    "explanation": "FOI encourages proactive publication of operational, financial and other key information."
+  },
+  {
+    "id": 35,
+    "category": "Civil Service Rule (General)",
+    "question": "Which statement about GIFMIS (Government Integrated Financial Management Information System) is correct?",
+    "options": [
+      "It is a payroll-only platform",
+      "It supports budget execution, accounting, and cash management",
+      "It is an HR recruitment portal",
+      "It is a state government system only"
+    ],
+    "answerIndex": 1,
+    "explanation": "GIFMIS integrates public financial management processes including budget execution and reporting."
+  },
+  {
+    "id": 36,
+    "category": "Civil Service Rule (General)",
+    "question": "Which is a typical step in PSR disciplinary procedure?",
+    "options": [
+      "Issuing a formal query and considering the officer’s written representation",
+      "Immediate dismissal without hearing",
+      "Trial by media",
+      "Oral reprimand only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Due process requires a query, fair hearing, and documentation before sanctions are imposed."
+  },
+  {
+    "id": 37,
+    "category": "Civil Service Rule (General)",
+    "question": "’Suspension’ under PSR generally implies:",
+    "options": [
+      "Temporary removal possibly without pay pending outcome",
+      "Promotion on hold only",
+      "Permanent removal from service",
+      "Study leave"
+    ],
+    "answerIndex": 0,
+    "explanation": "Suspension is a temporary status pending investigation or outcome, with pay conditions guided by rules/circulars."
+  },
+  {
+    "id": 38,
+    "category": "Civil Service Rule (General)",
+    "question": "Under CPS, the Retirement Savings Account (RSA) is managed by:",
+    "options": [
+      "The officer directly",
+      "Pension Fund Administrator (PFA)",
+      "Bureau of Public Procurement",
+      "Office of the Head of Service"
+    ],
+    "answerIndex": 1,
+    "explanation": "Licensed PFAs manage RSAs; PFCs (custodians) hold the assets for safety under PenCom oversight."
+  },
+  {
+    "id": 39,
+    "category": "Civil Service Rule (General)",
+    "question": "Which is TRUE about annual leave carry-over in the Federal Service?",
+    "options": [
+      "Unlimited carry-over",
+      "Subject to current circulars, limited carry-over may be allowed with approval",
+      "Only for directors",
+      "Never permitted in any case"
+    ],
+    "answerIndex": 1,
+    "explanation": "Carry-over is regulated and typically requires justification and approval per extant circulars."
+  },
+  {
+    "id": 40,
+    "category": "Civil Service Rule (General)",
+    "question": "Which of the following is NOT an FOI exemption?",
+    "options": [
+      "National security-sensitive information",
+      "Trade secrets and commercial confidentiality",
+      "Personal privacy data",
+      "Approved annual budgets already published"
+    ],
+    "answerIndex": 3,
+    "explanation": "Published budget information is public; exemptions cover sensitive categories under the FOI Act."
+  },
+  {
+    "id": 41,
+    "category": "Civil Service Rule (General)",
+    "question": "The Code of Conduct Tribunal (CCT) primarily adjudicates:",
+    "options": [
+      "Labour disputes",
+      "Procurement protests",
+      "Breaches of the Code of Conduct for Public Officers",
+      "Pension complaints"
+    ],
+    "answerIndex": 2,
+    "explanation": "CCT tries violations of the Code, including false declaration and conflict of interest."
+  },
+  {
+    "id": 42,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, a 'posting' typically refers to:",
+    "options": [
+      "Permanent movement outside the service",
+      "Assignment to a duty station/department within same service",
+      "Transfer to private sector",
+      "Exit from service"
+    ],
+    "answerIndex": 1,
+    "explanation": "Posting is deployment within the same service/MDA framework."
+  },
+  {
+    "id": 43,
+    "category": "Civil Service Rule (General)",
+    "question": "Which statement best describes casual leave?",
+    "options": [
+      "Granted for short, urgent domestic affairs at management's discretion",
+      "A type of annual leave",
+      "Compulsory unpaid leave",
+      "Exam leave only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Casual leave is short leave for pressing personal matters, subject to approval and rules."
+  },
+  {
+    "id": 44,
+    "category": "Civil Service Rule (General)",
+    "question": "Under procurement rules, the 'No Objection' is aimed at:",
+    "options": [
+      "Approving payrolls",
+      "Validating due process before contract award",
+      "Vetting promotions",
+      "Approving FOI requests"
+    ],
+    "answerIndex": 1,
+    "explanation": "BPP’s No Objection confirms compliance and value for money prior to award."
+  },
+  {
+    "id": 45,
+    "category": "Civil Service Rule (General)",
+    "question": "Under CPS, who regulates PFAs and PFCs?",
+    "options": [
+      "PenCom (National Pension Commission)",
+      "BPP",
+      "FCSC",
+      "NSIWC"
+    ],
+    "answerIndex": 0,
+    "explanation": "PenCom licenses and supervises Pension Fund Administrators and Custodians."
+  },
+  {
+    "id": 46,
+    "category": "Civil Service Rule (General)",
+    "question": "Asset declaration for public officers is made to:",
+    "options": [
+      "Code of Conduct Bureau (CCB)",
+      "EFCC",
+      "ICPC",
+      "Federal Ministry of Finance"
+    ],
+    "answerIndex": 0,
+    "explanation": "Declarations are filed with the CCB within specified timelines by law."
+  },
+  {
+    "id": 47,
+    "category": "Civil Service Rule (General)",
+    "question": "Which payment platform/interface commonly supports TSA collections?",
+    "options": [
+      "Remita",
+      "eNaira only",
+      "NIBBS only",
+      "Swift"
+    ],
+    "answerIndex": 0,
+    "explanation": "Remita has been widely used to facilitate TSA collections into CBN accounts."
+  },
+  {
+    "id": 48,
+    "category": "Civil Service Rule (General)",
+    "question": "Freedom of Information Act 2011 applies to:",
+    "options": [
+      "Only private organizations",
+      "Public institutions and private bodies performing public functions",
+      "Foreign missions only",
+      "Political parties only"
+    ],
+    "answerIndex": 1,
+    "explanation": "FOI covers public institutions and extends to private bodies performing public functions to the extent of those functions."
+  },
+  {
+    "id": 49,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, a 'minor misconduct' is more likely to attract:",
+    "options": [
+      "Dismissal",
+      "Serious criminal prosecution only",
+      "Lesser sanctions such as warning or reprimand after due process",
+      "Automatic promotion"
+    ],
+    "answerIndex": 2,
+    "explanation": "Minor misconducts typically attract lesser sanctions in line with due process."
+  },
+  {
+    "id": 50,
+    "category": "Civil Service Rule (General)",
+    "question": "A key purpose of the PSR is to:",
+    "options": [
+      "Regulate staff conduct and service conditions uniformly",
+      "Replace the Constitution",
+      "Govern private sector HR",
+      "Run elections"
+    ],
+    "answerIndex": 0,
+    "explanation": "PSR provides uniform rules for appointments, discipline, and general service conditions."
+  },
+  {
+    "id": 51,
+    "category": "Civil Service Rule (General)",
+    "question": "Which entity coordinates service-wide reforms and policy direction for civil service modernization?",
+    "options": [
+      "OHCSF",
+      "National Assembly",
+      "Private Consultants only",
+      "National Council of State"
+    ],
+    "answerIndex": 0,
+    "explanation": "The OHCSF leads civil service reforms and policy direction across the service."
+  },
+  {
+    "id": 52,
+    "category": "Civil Service Rule (General)",
+    "question": "Under the PSR, which of these typically requires prior approval before an officer undertakes it?",
+    "options": [
+      "Outside (secondary) employment",
+      "Using public transport",
+      "Wearing ID card",
+      "Attending staff meetings"
+    ],
+    "answerIndex": 0,
+    "explanation": "Secondary employment requires prior written approval to avoid conflicts of interest."
+  },
+  {
+    "id": 53,
+    "category": "Civil Service Rule (General)",
+    "question": "Which of the following aligns with record management obligations under FOI and PSR?",
+    "options": [
+      "Proper creation, classification, storage and retrieval of records",
+      "Destruction of records without authorization",
+      "Withholding all records from the public",
+      "Keeping no records of decisions"
+    ],
+    "answerIndex": 0,
+    "explanation": "Good recordkeeping ensures transparency, accountability, and FOI compliance."
+  },
+  {
+    "id": 54,
+    "category": "Civil Service Rule (General)",
+    "question": "Under procurement, bid evaluation should be based on:",
+    "options": [
+      "Personal relationships",
+      "The published criteria in the solicitation documents",
+      "Unstated criteria discovered later",
+      "Only price, ignoring technical merit"
+    ],
+    "answerIndex": 1,
+    "explanation": "Evaluation must follow published criteria to ensure fairness and transparency."
+  },
+  {
+    "id": 55,
+    "category": "Civil Service Rule (General)",
+    "question": "A complaint redress mechanism under SERVICOM primarily ensures:",
+    "options": [
+      "Citizens have a channel to report service failures",
+      "Procurement is abandoned",
+      "Salaries are increased",
+      "Taxes are waived"
+    ],
+    "answerIndex": 0,
+    "explanation": "SERVICOM promotes service charters and effective complaint resolution in MDAs."
+  },
+  {
+    "id": 56,
+    "category": "Civil Service Rule (General)",
+    "question": "Which of the following is TRUE regarding FOI appeals?",
+    "options": [
+      "Applicants cannot challenge refusals",
+      "Applicants may seek judicial review in court",
+      "Only oral appeals are allowed",
+      "Appeals are made to BPP"
+    ],
+    "answerIndex": 1,
+    "explanation": "FOI refusals can be challenged through the courts for enforcement."
+  },
+  {
+    "id": 57,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, an officer may be required to undergo medical board assessment primarily to:",
+    "options": [
+      "Determine fitness for continued service",
+      "Approve promotions",
+      "Approve procurement plans",
+      "Issue travel visas"
+    ],
+    "answerIndex": 0,
+    "explanation": "Medical boards assess fitness and recommend duty status in line with PSR medical provisions."
+  },
+  {
+    "id": 58,
+    "category": "Civil Service Rule (General)",
+    "question": "Which statement on training and capacity development aligns with PSR objectives?",
+    "options": [
+      "Training should align with organizational needs and manpower plans",
+      "Training is purely for personal hobbies",
+      "Training is discouraged",
+      "Only directors are trained"
+    ],
+    "answerIndex": 0,
+    "explanation": "Capacity building should support service delivery and organizational goals."
+  },
+  {
+    "id": 59,
+    "category": "Civil Service Rule (General)",
+    "question": "Which is NOT a typical sanction under PSR?",
+    "options": [
+      "Verbal warning without records forever",
+      "Written warning or reprimand",
+      "Reduction in rank after due process",
+      "Dismissal after due process"
+    ],
+    "answerIndex": 0,
+    "explanation": "Disciplinary actions must be documented; sanctions range from warnings to dismissal after fair hearing."
+  },
+  {
+    "id": 60,
+    "category": "Civil Service Rule (General)",
+    "question": "The primary purpose of TSA is to:",
+    "options": [
+      "Fragment government cash balances",
+      "Consolidate cash resources for efficient management",
+      "Increase bank profits",
+      "Replace budgets"
+    ],
+    "answerIndex": 1,
+    "explanation": "TSA centralizes government cash to improve control, reduce leakages, and facilitate oversight."
+  },
+  {
+    "id": 61,
+    "category": "Civil Service Rule (General)",
+    "question": "Which statement about procurement ethics is correct?",
+    "options": [
+      "Bribes and kickbacks are prohibited",
+      "Gifts for official favors are acceptable",
+      "Collusion is encouraged",
+      "Conflicts of interest are ignored"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ethical procurement prohibits bribery, collusion, and conflicts of interest."
+  },
+  {
+    "id": 62,
+    "category": "Civil Service Rule (General)",
+    "question": "Who is primarily responsible for keeping personal records updated under PSR?",
+    "options": [
+      "The officer concerned",
+      "The public",
+      "Foreign embassies",
+      "Vendors"
+    ],
+    "answerIndex": 0,
+    "explanation": "Officers must ensure their service records and biodata are accurate and up-to-date."
+  },
+  {
+    "id": 63,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, postings and transfers should consider:",
+    "options": [
+      "Only personal preferences",
+      "Service needs, skills match, and fairness",
+      "Political patronage only",
+      "Vendor requests"
+    ],
+    "answerIndex": 1,
+    "explanation": "Deployment decisions are guided by service needs and equitable considerations."
+  },
+  {
+    "id": 64,
+    "category": "Civil Service Rule (General)",
+    "question": "Under CPS, what is a key role of Pension Fund Custodians (PFCs)?",
+    "options": [
+      "Investment decision-making",
+      "Safe custody of pension assets",
+      "Disciplining civil servants",
+      "Drafting PSR"
+    ],
+    "answerIndex": 1,
+    "explanation": "PFCs securely hold the assets; PFAs make the investment decisions under PenCom regulation."
+  },
+  {
+    "id": 65,
+    "category": "Civil Service Rule (General)",
+    "question": "Which best describes a 'posting instruction'?",
+    "options": [
+      "A leave approval",
+      "A directive redeploying an officer within/between departments",
+      "A fuel voucher",
+      "A promotion letter"
+    ],
+    "answerIndex": 1,
+    "explanation": "Posting instructions redeploy officers as needed by service."
+  },
+  {
+    "id": 66,
+    "category": "Civil Service Rule (General)",
+    "question": "A bidder’s eligibility in procurement commonly includes:",
+    "options": [
+      "Tax clearance and CAC registration",
+      "Birth certificate only",
+      "Personal bank statement only",
+      "Election card"
+    ],
+    "answerIndex": 0,
+    "explanation": "Eligibility criteria include corporate registration, tax compliance and other statutory requirements."
+  },
+  {
+    "id": 67,
+    "category": "Civil Service Rule (General)",
+    "question": "Which is TRUE about whistleblowing in public service?",
+    "options": [
+      "It is illegal to report wrongdoing",
+      "Protection frameworks exist for lawful disclosures of wrongdoing",
+      "Only anonymous tips are allowed",
+      "Reports must be made to vendors"
+    ],
+    "answerIndex": 1,
+    "explanation": "Policies support protected disclosures to combat corruption and misconduct."
+  },
+  {
+    "id": 68,
+    "category": "Civil Service Rule (General)",
+    "question": "An FOI request must:",
+    "options": [
+      "Be in writing and reasonably describe the records sought",
+      "Be made only by lawyers",
+      "Be notarized",
+      "Be oral only"
+    ],
+    "answerIndex": 0,
+    "explanation": "FOI requests may be electronic or written, but must describe the information clearly for processing."
+  },
+  {
+    "id": 69,
+    "category": "Civil Service Rule (General)",
+    "question": "Which is NOT a typical procurement method under PPA 2007?",
+    "options": [
+      "Open competitive bidding",
+      "Restricted bidding",
+      "Direct procurement (under conditions)",
+      "Informal cash gifts"
+    ],
+    "answerIndex": 3,
+    "explanation": "Methods include open, restricted, request for quotations, and direct procurement under conditions—not cash gifts."
+  },
+  {
+    "id": 70,
+    "category": "Civil Service Rule (General)",
+    "question": "Performance agreements under PMS typically include:",
+    "options": [
+      "Clear KPIs and targets with mid-year and end-year reviews",
+      "Only salary details",
+      "Only office seating plan",
+      "Personal hobbies"
+    ],
+    "answerIndex": 0,
+    "explanation": "PMS emphasizes goal setting, measurable KPIs, and periodic reviews."
+  },
+  {
+    "id": 71,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, conversion refers to:",
+    "options": [
+      "Movement between cadres based on qualifications and service needs",
+      "Retirement",
+      "Annual leave allocation",
+      "Salary advance"
+    ],
+    "answerIndex": 0,
+    "explanation": "Conversion changes an officer’s cadre consistent with qualifications and manpower planning."
+  },
+  {
+    "id": 72,
+    "category": "Civil Service Rule (General)",
+    "question": "A key principle of procurement is:",
+    "options": [
+      "Transparency and competition",
+      "Secrecy and favoritism",
+      "Vendor-only evaluation",
+      "Price-only award always"
+    ],
+    "answerIndex": 0,
+    "explanation": "PPA stresses transparency, competition, economy and efficiency."
+  },
+  {
+    "id": 73,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, 'abandonment of duty' implies:",
+    "options": [
+      "Prolonged absence without leave that may amount to desertion",
+      "Approved leave",
+      "Training attendance",
+      "Overtime work"
+    ],
+    "answerIndex": 0,
+    "explanation": "Extended unauthorized absence may constitute serious misconduct subject to investigation."
+  },
+  {
+    "id": 74,
+    "category": "Civil Service Rule (General)",
+    "question": "Which body issues circulars that operationalize PSR changes and HR policies?",
+    "options": [
+      "Federal Civil Service Commission only",
+      "Office of the Head of the Civil Service of the Federation",
+      "Bureau of Public Procurement",
+      "National Assembly Service Commission"
+    ],
+    "answerIndex": 1,
+    "explanation": "OHCSF issues service-wide circulars on HR/administrative matters for MDAs."
+  },
+  {
+    "id": 75,
+    "category": "Civil Service Rule (General)",
+    "question": "Which is TRUE about gifts to public officers under the Code of Conduct?",
+    "options": [
+      "Gifts linked to official acts are prohibited",
+      "All gifts are permitted",
+      "Gifts must be cash only",
+      "Gifts need no disclosure policies"
+    ],
+    "answerIndex": 0,
+    "explanation": "Public officers must not accept gifts/benefits that may influence official duties; limited exceptions apply."
+  },
+  {
+    "id": 76,
+    "category": "Civil Service Rule (General)",
+    "question": "Under CPS, lump-sum payment at retirement is:",
+    "options": [
+      "Entire RSA balance by default",
+      "Subject to actuarial calculations ensuring sustainable periodic benefits",
+      "Always zero",
+      "Determined by MDA HR alone"
+    ],
+    "answerIndex": 1,
+    "explanation": "Initial lump sum is computed to ensure viable programmed withdrawals/annuity thereafter."
+  },
+  {
+    "id": 77,
+    "category": "Civil Service Rule (General)",
+    "question": "Under FOI, personal data is typically:",
+    "options": [
+      "Freely disclosed",
+      "Protected unless public interest overrides and lawful basis exists",
+      "Sold to vendors",
+      "Always published on websites"
+    ],
+    "answerIndex": 1,
+    "explanation": "FOI balances access with privacy; personal information has protections."
+  },
+  {
+    "id": 78,
+    "category": "Civil Service Rule (General)",
+    "question": "Which procurement document sets out technical, financial, and eligibility requirements for bidders?",
+    "options": [
+      "Solicitation/tender documents",
+      "Asset declaration form",
+      "Leave application form",
+      "Performance appraisal form"
+    ],
+    "answerIndex": 0,
+    "explanation": "Solicitation documents provide the rules and criteria for competition."
+  },
+  {
+    "id": 79,
+    "category": "Civil Service Rule (General)",
+    "question": "Which is TRUE about the FOI right?",
+    "options": [
+      "It is limited to citizens only",
+      "Any person has the right to apply for information",
+      "Only corporations can apply",
+      "Only media can apply"
+    ],
+    "answerIndex": 1,
+    "explanation": "FOI Act grants the right of access to any person, without need to show interest."
+  },
+  {
+    "id": 80,
+    "category": "Civil Service Rule (General)",
+    "question": "A key reform objective of IPPIS is to:",
+    "options": [
+      "Create ghost workers",
+      "Eliminate payroll leakages and improve data integrity",
+      "Replace procurement plans",
+      "Fund pensions directly"
+    ],
+    "answerIndex": 1,
+    "explanation": "IPPIS integrates personnel records and payroll to improve integrity and eliminate waste."
+  },
+  {
+    "id": 81,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, a 'warning letter' should:",
+    "options": [
+      "Be oral only",
+      "Be written and placed on record after due process",
+      "Be issued by vendors",
+      "Never be recorded"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sanctions must be documented in service records."
+  },
+  {
+    "id": 82,
+    "category": "Civil Service Rule (General)",
+    "question": "Procurement thresholds and approvals in MDAs are governed by:",
+    "options": [
+      "PPA 2007 and BPP guidelines/circulars",
+      "Social media polls",
+      "Vendor preferences",
+      "Oral traditions"
+    ],
+    "answerIndex": 0,
+    "explanation": "Thresholds and approvals are set by law and regulator guidance."
+  },
+  {
+    "id": 83,
+    "category": "Civil Service Rule (General)",
+    "question": "Which statement on asset declaration timing is correct?",
+    "options": [
+      "Within three months of assumption of office and thereafter as prescribed",
+      "Only at retirement",
+      "Never required",
+      "Only for private sector"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Fifth Schedule prescribes timelines including upon assumption and end of term."
+  },
+  {
+    "id": 84,
+    "category": "Civil Service Rule (General)",
+    "question": "An officer on interdiction is generally paid:",
+    "options": [
+      "Nothing at all",
+      "A portion of salary as specified in rules/circulars",
+      "Double salary",
+      "Vendor allowances"
+    ],
+    "answerIndex": 1,
+    "explanation": "Interdiction involves part-pay pending conclusion, per applicable rules."
+  },
+  {
+    "id": 85,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, ‘conversion’ requires typically:",
+    "options": [
+      "Meeting qualification requirements for the target cadre",
+      "No qualifications at all",
+      "Vendor sponsorship",
+      "Only seniority"
+    ],
+    "answerIndex": 0,
+    "explanation": "Qualification and manpower needs drive conversion decisions."
+  },
+  {
+    "id": 86,
+    "category": "Civil Service Rule (General)",
+    "question": "Which of the following best aligns with procurement transparency?",
+    "options": [
+      "Publishing tenders and awards as required",
+      "Keeping all notices secret",
+      "Direct negotiation always",
+      "Oral awards only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Transparency requires publishing opportunities and outcomes per law."
+  },
+  {
+    "id": 87,
+    "category": "Civil Service Rule (General)",
+    "question": "FOI requests can be submitted:",
+    "options": [
+      "Only in person",
+      "In writing, including electronically",
+      "Only by phone call",
+      "Only through courts"
+    ],
+    "answerIndex": 1,
+    "explanation": "Written requests include email; institutions must acknowledge and process timely."
+  },
+  {
+    "id": 88,
+    "category": "Civil Service Rule (General)",
+    "question": "Which of these best reflects PSR stance on political neutrality?",
+    "options": [
+      "Officers should avoid partisan activities that compromise neutrality",
+      "Officers must serve as party executives",
+      "Officers should campaign during office hours",
+      "Neutrality is irrelevant"
+    ],
+    "answerIndex": 0,
+    "explanation": "Civil servants must maintain political neutrality in official conduct."
+  },
+  {
+    "id": 89,
+    "category": "Civil Service Rule (General)",
+    "question": "Under CPS, who chooses the PFA for a new employee if not selected timely?",
+    "options": [
+      "The employer may assign a default PFA per guidelines",
+      "BPP",
+      "OHCSF",
+      "ICPC"
+    ],
+    "answerIndex": 0,
+    "explanation": "Employer may assign a default PFA where employees fail to choose, consistent with PenCom rules."
+  },
+  {
+    "id": 90,
+    "category": "Civil Service Rule (General)",
+    "question": "A key objective of SERVICOM Charters is to:",
+    "options": [
+      "Set clear service standards and obligations to citizens",
+      "Set only staff canteen menus",
+      "Replace PSR",
+      "Eliminate complaints"
+    ],
+    "answerIndex": 0,
+    "explanation": "Charters define services, timelines, and complaint channels to improve service delivery."
+  },
+  {
+    "id": 91,
+    "category": "Civil Service Rule (General)",
+    "question": "Which option correctly describes ‘Restricted Bidding’ under PPA?",
+    "options": [
+      "Inviting a shortlist of qualified bidders under stated conditions",
+      "Secret cash deals",
+      "Only foreign bidders",
+      "Vendor selection by lottery"
+    ],
+    "answerIndex": 0,
+    "explanation": "Restricted bidding is allowed where specialized or limited suppliers exist, following criteria."
+  },
+  {
+    "id": 92,
+    "category": "Civil Service Rule (General)",
+    "question": "Which is NOT a typical PSR leave type?",
+    "options": [
+      "Annual leave",
+      "Maternity/paternity leave",
+      "Casual leave",
+      "Vacation-only leave for vendors"
+    ],
+    "answerIndex": 3,
+    "explanation": "Vendor-related leaves are not PSR categories; annual, maternity/paternity, and casual are recognized."
+  },
+  {
+    "id": 93,
+    "category": "Civil Service Rule (General)",
+    "question": "Under FOI, if an institution denies access unlawfully, the applicant may:",
+    "options": [
+      "Do nothing",
+      "Seek review in court to compel disclosure",
+      "Ask vendors to intervene",
+      "Burn the records"
+    ],
+    "answerIndex": 1,
+    "explanation": "Courts can order disclosure and apply remedies for FOI violations."
+  },
+  {
+    "id": 94,
+    "category": "Civil Service Rule (General)",
+    "question": "Which is TRUE about annual performance review (PMS)?",
+    "options": [
+      "It includes coaching/feedback and documented assessments",
+      "It is purely oral and undocumented",
+      "It depends only on seniority",
+      "It is optional for departments"
+    ],
+    "answerIndex": 0,
+    "explanation": "PMS emphasizes documentation, feedback, and objective assessment."
+  },
+  {
+    "id": 95,
+    "category": "Civil Service Rule (General)",
+    "question": "The FOI Act mandates institutions to organize records to:",
+    "options": [
+      "Facilitate easy access and retrieval",
+      "Prevent staff from finding them",
+      "Destroy them quickly",
+      "Hide budgets"
+    ],
+    "answerIndex": 0,
+    "explanation": "Proper record organization supports timely FOI compliance and accountability."
+  },
+  {
+    "id": 96,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, which sanction typically follows established serious misconduct?",
+    "options": [
+      "Promotion",
+      "Dismissal or heavier penalties after due process",
+      "Free travel",
+      "Awards"
+    ],
+    "answerIndex": 1,
+    "explanation": "Serious misconduct may lead to dismissal upon conclusion of due process."
+  },
+  {
+    "id": 97,
+    "category": "Civil Service Rule (General)",
+    "question": "A key purpose of the BPP is to:",
+    "options": [
+      "Promote transparency and professionalism in public procurement",
+      "Organize elections",
+      "Run pensions",
+      "Manage FOI requests"
+    ],
+    "answerIndex": 0,
+    "explanation": "BPP ensures due process and professionalism in procurement."
+  },
+  {
+    "id": 98,
+    "category": "Civil Service Rule (General)",
+    "question": "Under CPS, a PFA must invest pension funds:",
+    "options": [
+      "Without any guidelines",
+      "According to PenCom investment regulations",
+      "By officer’s personal instruction always",
+      "In vendor accounts"
+    ],
+    "answerIndex": 1,
+    "explanation": "PenCom issues regulations guiding investment to ensure safety and returns."
+  },
+  {
+    "id": 99,
+    "category": "Civil Service Rule (General)",
+    "question": "Which best reflects the principle of value for money in procurement?",
+    "options": [
+      "Best combination of quality, cost, and timeliness",
+      "Highest price always",
+      "Lowest price regardless of quality",
+      "Vendor preference"
+    ],
+    "answerIndex": 0,
+    "explanation": "Value for money considers quality, cost, and delivery to meet needs effectively."
+  },
+  {
+    "id": 100,
+    "category": "Civil Service Rule (General)",
+    "question": "Who is responsible for developing and maintaining SERVICOM Charters in an MDA?",
+    "options": [
+      "The MDA through its SERVICOM Unit",
+      "Only vendors",
+      "National Assembly",
+      "Private clubs"
+    ],
+    "answerIndex": 0,
+    "explanation": "Each MDA’s SERVICOM Unit coordinates charter development and service improvement plans."
+  },
+  {
+    "id": 101,
+    "category": "Civil Service Rule (General)",
+    "question": "Which is TRUE about promotions under PSR?",
+    "options": [
+      "Based on merit, vacancies, qualifications, and guidelines—not automatic",
+      "Automatic with age",
+      "Determined only by friendships",
+      "Paid for by vendors"
+    ],
+    "answerIndex": 0,
+    "explanation": "Promotions consider merit, performance, eligibility, and available vacancies per rules."
+  },
+  {
+    "id": 102,
+    "category": "Civil Service Rule (General)",
+    "question": "Under FOI, institutions must publish certain information proactively, including:",
+    "options": [
+      "Functions and responsibilities, financial information, and contact points",
+      "Staff private bank accounts",
+      "Passwords",
+      "Classified documents"
+    ],
+    "answerIndex": 0,
+    "explanation": "Proactive disclosure covers organizational information and financial details that aid transparency."
+  },
+  {
+    "id": 103,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, ‘seniority’ implies:",
+    "options": [
+      "Relative position by date of appointment/promotion within cadre",
+      "Age alone",
+      "Number of cars owned",
+      "Vendor ranking"
+    ],
+    "answerIndex": 0,
+    "explanation": "Seniority is determined by service dates and cadre position per rules."
+  },
+  {
+    "id": 104,
+    "category": "Civil Service Rule (General)",
+    "question": "A typical disciplinary panel must observe:",
+    "options": [
+      "Fair hearing and proper documentation",
+      "Secret decisions without records",
+      "Vendor advice only",
+      "Media trials"
+    ],
+    "answerIndex": 0,
+    "explanation": "Panels must ensure fair hearing and keep proper records for decisions."
+  },
+  {
+    "id": 105,
+    "category": "Civil Service Rule (General)",
+    "question": "Under procurement, bid security (where applicable) is meant to:",
+    "options": [
+      "Guarantee bidders will not withdraw during bid validity",
+      "Pay staff salaries",
+      "Fund pensions",
+      "Replace performance security"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bid security protects the procuring entity against bidder default during bid validity."
+  },
+  {
+    "id": 106,
+    "category": "Civil Service Rule (General)",
+    "question": "Under CPS, an annuity is provided by:",
+    "options": [
+      "Insurance company licensed to offer annuities",
+      "BPP",
+      "FCSC",
+      "ICPC"
+    ],
+    "answerIndex": 0,
+    "explanation": "Annuities are life insurance products offered by insurers, alternative to programmed withdrawal."
+  },
+  {
+    "id": 107,
+    "category": "Civil Service Rule (General)",
+    "question": "FOI compliance includes:",
+    "options": [
+      "Designating an FOI desk/Officer and maintaining FOI logs",
+      "Ignoring requests",
+      "Burning records",
+      "Outsourcing to vendors only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Institutions should designate officers and keep request/response records."
+  },
+  {
+    "id": 108,
+    "category": "Civil Service Rule (General)",
+    "question": "A 'performance improvement plan' under PMS aims to:",
+    "options": [
+      "Support underperforming staff to meet targets",
+      "Sack immediately",
+      "Replace budgets",
+      "Assign gifts"
+    ],
+    "answerIndex": 0,
+    "explanation": "PIPs provide structured support and timelines for performance recovery."
+  },
+  {
+    "id": 109,
+    "category": "Civil Service Rule (General)",
+    "question": "Which procurement method is suitable for low-value, off-the-shelf goods?",
+    "options": [
+      "Request for Quotations (RFQ)",
+      "Open national competition always",
+      "International events",
+      "Vendor selection without quotes"
+    ],
+    "answerIndex": 0,
+    "explanation": "RFQ is appropriate for simple, readily available items within set thresholds."
+  },
+  {
+    "id": 110,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, which of these actions requires written approval?",
+    "options": [
+      "Undertaking partisan political office while in service",
+      "Drinking water",
+      "Wearing uniform",
+      "Attending meetings"
+    ],
+    "answerIndex": 0,
+    "explanation": "Civil servants are restricted from partisan offices; approvals and resignations may be required per rules."
+  },
+  {
+    "id": 111,
+    "category": "Civil Service Rule (General)",
+    "question": "Procurement complaint (administrative review) is first addressed by:",
+    "options": [
+      "The procuring entity’s complaints mechanism",
+      "Vendors’ club",
+      "Courts only",
+      "Political party"
+    ],
+    "answerIndex": 0,
+    "explanation": "Administrative review starts with the procuring entity; BPP may intervene as escalated by law."
+  },
+  {
+    "id": 112,
+    "category": "Civil Service Rule (General)",
+    "question": "A key role of the OHCSF is to:",
+    "options": [
+      "Provide leadership on service welfare and HR policy",
+      "Run elections",
+      "Prosecute crimes",
+      "Manage private banks"
+    ],
+    "answerIndex": 0,
+    "explanation": "OHCSF leads on HR policies, welfare, and service reforms."
+  },
+  {
+    "id": 113,
+    "category": "Civil Service Rule (General)",
+    "question": "Under CPS, switching PFAs (transfer window) is:",
+    "options": [
+      "Not permitted",
+      "Permitted under PenCom transfer window guidelines",
+      "Only by employers",
+      "Requires court order"
+    ],
+    "answerIndex": 1,
+    "explanation": "Contributors can switch PFAs during regulated transfer windows."
+  },
+  {
+    "id": 114,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, which best describes \"secondment\" duration?",
+    "options": [
+      "Indefinite without approval",
+      "Time-bound temporary release subject to approval and terms",
+      "Instant retirement",
+      "Vendor sabbatical"
+    ],
+    "answerIndex": 1,
+    "explanation": "Secondment is temporary and governed by terms in approval."
+  },
+  {
+    "id": 115,
+    "category": "Civil Service Rule (General)",
+    "question": "Which is a procurement red flag?",
+    "options": [
+      "Consistent non-competitive awards without justification",
+      "Proper advertising",
+      "Clear evaluation criteria",
+      "Publication of award decisions"
+    ],
+    "answerIndex": 0,
+    "explanation": "Repeated non-competitive awards without legal justification may signal irregularities."
+  },
+  {
+    "id": 116,
+    "category": "Civil Service Rule (General)",
+    "question": "FOI logs should include:",
+    "options": [
+      "Requests received, dates, decisions, and disclosures",
+      "Only birthdays",
+      "Petty cash only",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "Institutions should maintain FOI request and response records."
+  },
+  {
+    "id": 117,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, \"merit principle\" in promotion means:",
+    "options": [
+      "Competence and performance guide promotion decisions",
+      "Only seniority counts",
+      "Only age counts",
+      "Only region counts"
+    ],
+    "answerIndex": 0,
+    "explanation": "Merit, performance, and eligibility drive promotions, subject to vacancies."
+  },
+  {
+    "id": 118,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PPA, performance security is intended to:",
+    "options": [
+      "Ensure the selected contractor performs the contract",
+      "Fund pensions",
+      "Pay staff leave grants",
+      "Replace procurement plans"
+    ],
+    "answerIndex": 0,
+    "explanation": "Performance security protects the procuring entity against non-performance risks."
+  },
+  {
+    "id": 119,
+    "category": "Civil Service Rule (General)",
+    "question": "Under CPS, voluntary contributions (VC) allow contributors to:",
+    "options": [
+      "Make additional savings under PenCom guidelines",
+      "Avoid regular contributions",
+      "Withdraw all funds monthly",
+      "Invest directly in vendors"
+    ],
+    "answerIndex": 0,
+    "explanation": "VCs are additional contributions subject to specific rules and tax considerations."
+  },
+  {
+    "id": 120,
+    "category": "Civil Service Rule (General)",
+    "question": "Which best reflects \"service-wide circulars\"?",
+    "options": [
+      "Instruments that communicate binding administrative instructions across MDAs",
+      "Private memos",
+      "Vendor advertisements",
+      "Social media posts"
+    ],
+    "answerIndex": 0,
+    "explanation": "Circulars convey administrative policies and instructions that MDAs must implement."
+  },
+  {
+    "id": 121,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, \"exit interview/clearance\" ensures:",
+    "options": [
+      "All official property is returned and obligations settled",
+      "New appointments are issued",
+      "FOI requests are made",
+      "Procurement awards are given"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clearance verifies return of assets and settlement before exit benefits processing."
+  },
+  {
+    "id": 122,
+    "category": "Civil Service Rule (General)",
+    "question": "Procurement records retention is important to:",
+    "options": [
+      "Facilitate audits and reviews",
+      "Encourage secrecy",
+      "Destroy evidence",
+      "Prevent FOI compliance"
+    ],
+    "answerIndex": 0,
+    "explanation": "Records enable oversight, audit and dispute resolution."
+  },
+  {
+    "id": 123,
+    "category": "Civil Service Rule (General)",
+    "question": "An officer seeking \"study leave without pay\" should expect:",
+    "options": [
+      "Automatic approval",
+      "Consideration based on service needs and conditions",
+      "Vendor assessment",
+      "Pension top-up"
+    ],
+    "answerIndex": 1,
+    "explanation": "Leave without pay is discretionary and depends on service exigencies and policy."
+  },
+  {
+    "id": 124,
+    "category": "Civil Service Rule (General)",
+    "question": "\"Due process\" in procurement means:",
+    "options": [
+      "Following the law and laid-down procedures",
+      "Using shortcuts",
+      "Vendor-driven processes",
+      "Ignoring thresholds"
+    ],
+    "answerIndex": 0,
+    "explanation": "Due process ensures fairness, competition, and legal compliance."
+  },
+  {
+    "id": 125,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR ethics, officers should avoid:",
+    "options": [
+      "Situations that compromise integrity and impartiality",
+      "Professional conduct",
+      "Accountability",
+      "Recordkeeping"
+    ],
+    "answerIndex": 0,
+    "explanation": "Integrity and impartiality are core values expected of public officers."
+  },
+  {
+    "id": 126,
+    "category": "Civil Service Rule (General)",
+    "question": "Under FOI, if a requested record is already publicly available, the institution should:",
+    "options": [
+      "Provide direction to where it is published",
+      "Refuse silently",
+      "Charge arbitrary fees",
+      "Destroy the public copy"
+    ],
+    "answerIndex": 0,
+    "explanation": "If records are publicly available, the institution may refer the requester to the source."
+  },
+  {
+    "id": 127,
+    "category": "Civil Service Rule (General)",
+    "question": "\"Certificate of No Objection\" is issued at which stage?",
+    "options": [
+      "Prior to contract award, after evaluation",
+      "After project completion",
+      "Before budgeting",
+      "At payment stage only"
+    ],
+    "answerIndex": 0,
+    "explanation": "BPP issues No Objection after evaluation and approvals, before award."
+  },
+  {
+    "id": 128,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, \"reprimand\" is:",
+    "options": [
+      "A formal written censure kept on record",
+      "A promotion",
+      "A loan",
+      "A study grant"
+    ],
+    "answerIndex": 0,
+    "explanation": "Reprimand is a documented disciplinary action for minor misconduct."
+  },
+  {
+    "id": 129,
+    "category": "Civil Service Rule (General)",
+    "question": "Procurement protests/appeals may escalate to BPP when:",
+    "options": [
+      "The procuring entity’s review is unsatisfactory or not done",
+      "Vendors demand gifts",
+      "Budgets are published",
+      "Salaries are paid"
+    ],
+    "answerIndex": 0,
+    "explanation": "Administrative review may escalate to the regulator per PPA."
+  },
+  {
+    "id": 130,
+    "category": "Civil Service Rule (General)",
+    "question": "Under CPS, \"RSA PIN\" uniquely identifies:",
+    "options": [
+      "A contributor’s Retirement Savings Account",
+      "Vendor TIN",
+      "Budget code",
+      "Leave code"
+    ],
+    "answerIndex": 0,
+    "explanation": "Each contributor has a unique RSA PIN for tracking contributions and benefits."
+  },
+  {
+    "id": 131,
+    "category": "Civil Service Rule (General)",
+    "question": "FOI fee regime generally allows charging for:",
+    "options": [
+      "Search and duplication costs where applicable",
+      "Bribes",
+      "Arbitrary penalties",
+      "Access fees for published data"
+    ],
+    "answerIndex": 0,
+    "explanation": "Permissible fees cover reasonable search/duplication; not bribes or arbitrary charges."
+  },
+  {
+    "id": 132,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, \"warning\" and \"query\" differ because:",
+    "options": [
+      "A query seeks explanation; a warning communicates a sanction/concern",
+      "Both are identical",
+      "Both are awards",
+      "Both are leave types"
+    ],
+    "answerIndex": 0,
+    "explanation": "A query asks for explanation; a warning/reprimand is a sanction or caution on record."
+  },
+  {
+    "id": 133,
+    "category": "Civil Service Rule (General)",
+    "question": "Procurement \"Bid Opening\" should be:",
+    "options": [
+      "Public and in accordance with solicitation instructions",
+      "Secret and unannounced",
+      "Done by vendors",
+      "Skipped"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bid opening is conducted publicly at the stated time/place to ensure transparency."
+  },
+  {
+    "id": 134,
+    "category": "Civil Service Rule (General)",
+    "question": "Under CPS, \"micro-pensions\" aim to:",
+    "options": [
+      "Extend pension coverage to informal sector participants",
+      "Replace CPS",
+      "Fund procurement",
+      "Eliminate PFAs"
+    ],
+    "answerIndex": 0,
+    "explanation": "Micro-pension provides pension access to self-employed/informal sector under PenCom rules."
+  },
+  {
+    "id": 135,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, \"conversion\" vs \"advancement\": advancement is typically:",
+    "options": [
+      "Movement within same cadre upon acquiring higher qualifications and meeting conditions",
+      "Movement to a different cadre",
+      "Retirement",
+      "Leave without pay"
+    ],
+    "answerIndex": 0,
+    "explanation": "Advancement is within the same cadre; conversion is across cadres."
+  },
+  {
+    "id": 136,
+    "category": "Civil Service Rule (General)",
+    "question": "Which procurement method may be used in emergencies with justification?",
+    "options": [
+      "Direct procurement under PPA conditions",
+      "Social media vote",
+      "Vendor raffle",
+      "Oral promises"
+    ],
+    "answerIndex": 0,
+    "explanation": "Direct procurement is allowed in specific circumstances, including emergencies, with approvals."
+  },
+  {
+    "id": 137,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, \"salary advance\" is:",
+    "options": [
+      "A recoverable advance subject to terms and approvals",
+      "A gift",
+      "Pension benefit",
+      "Procurement fee"
+    ],
+    "answerIndex": 0,
+    "explanation": "Salary advances are recoverable per financial rules and approvals."
+  },
+  {
+    "id": 138,
+    "category": "Civil Service Rule (General)",
+    "question": "FOI training for MDAs is important to:",
+    "options": [
+      "Build capacity for compliance and records management",
+      "Avoid compliance",
+      "Burn records",
+      "Replace PSR"
+    ],
+    "answerIndex": 0,
+    "explanation": "Training improves FOI handling, timelines, and recordkeeping."
+  },
+  {
+    "id": 139,
+    "category": "Civil Service Rule (General)",
+    "question": "Under procurement, evaluation committees should be:",
+    "options": [
+      "Competent and unbiased",
+      "Vendor-led",
+      "Social media influencers",
+      "Untrained"
+    ],
+    "answerIndex": 0,
+    "explanation": "Committees must be skilled and impartial to ensure fair evaluation."
+  },
+  {
+    "id": 140,
+    "category": "Civil Service Rule (General)",
+    "question": "Under CPS, \"benefit computation\" at retirement considers:",
+    "options": [
+      "RSA balance and actuarial assumptions",
+      "Vendor invoices",
+      "Social media polls",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "Benefits depend on contributions, returns, and actuarial projections."
+  },
+  {
+    "id": 141,
+    "category": "Civil Service Rule (General)",
+    "question": "Which is TRUE about \"seniority list\"?",
+    "options": [
+      "It orders officers by relevant service dates within cadre",
+      "It lists vendors",
+      "It is a gift list",
+      "It is an FOI exemption list"
+    ],
+    "answerIndex": 0,
+    "explanation": "Seniority lists rank officers by service dates and cadre position."
+  },
+  {
+    "id": 142,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, \"oath of secrecy\" relates to:",
+    "options": [
+      "Non-disclosure of official information as required by law",
+      "Social media posts",
+      "Vendor NDAs",
+      "Holiday greetings"
+    ],
+    "answerIndex": 0,
+    "explanation": "Officers may take oaths to protect official information per law."
+  },
+  {
+    "id": 143,
+    "category": "Civil Service Rule (General)",
+    "question": "Procurement planning begins with:",
+    "options": [
+      "Needs assessment and budgeting",
+      "Award letters first",
+      "Paying vendors first",
+      "Skipping user requirements"
+    ],
+    "answerIndex": 0,
+    "explanation": "Planning starts with identifying needs, specifying requirements, and aligning to budgets."
+  },
+  {
+    "id": 144,
+    "category": "Civil Service Rule (General)",
+    "question": "Under CPS, \"benefit statement\" sent by PFAs shows:",
+    "options": [
+      "Contributions, returns, and RSA balance",
+      "Vendor contacts only",
+      "Leave rosters",
+      "Procurement plans"
+    ],
+    "answerIndex": 0,
+    "explanation": "PFAs issue periodic statements detailing contributions and balances."
+  },
+  {
+    "id": 145,
+    "category": "Civil Service Rule (General)",
+    "question": "FOI exemptions are subject to:",
+    "options": [
+      "Public interest tests and statutory limits",
+      "Vendor opinions",
+      "Unlimited secrecy",
+      "Personal discretion only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Some exemptions require balancing with public interest; the Act sets limits."
+  },
+  {
+    "id": 146,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PSR, \"dismissal\" results in:",
+    "options": [
+      "Termination of appointment with loss of certain benefits",
+      "Promotion",
+      "Study grant",
+      "Casual leave"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dismissal is the most severe sanction with consequences for benefits."
+  },
+  {
+    "id": 147,
+    "category": "Civil Service Rule (General)",
+    "question": "Which statement on PMS mid-year review is correct?",
+    "options": [
+      "It allows course-correction and feedback on targets",
+      "It is conducted by vendors",
+      "It replaces budgets",
+      "It is a leave type"
+    ],
+    "answerIndex": 0,
+    "explanation": "Mid-year reviews facilitate adjustments and support for performance delivery."
+  },
+  {
+    "id": 148,
+    "category": "Civil Service Rule (General)",
+    "question": "Under PPA, blacklisting/debarment may occur for:",
+    "options": [
+      "Fraudulent or corrupt practices by a bidder",
+      "Paying taxes",
+      "Submitting valid bids",
+      "Attending bid opening"
+    ],
+    "answerIndex": 0,
+    "explanation": "Serious violations can lead to debarment per law/regulations."
+  },
+  {
+    "id": 149,
+    "category": "Civil Service Rule (General)",
+    "question": "Under CPS, \"Programmed Withdrawal\" is managed by:",
+    "options": [
+      "Pension Fund Administrator (PFA)",
+      "Vendor union",
+      "BPP",
+      "FOI office"
+    ],
+    "answerIndex": 0,
+    "explanation": "Programmed Withdrawal is administered by PFAs based on approved schedules."
+  },
+  {
+    "id": 150,
+    "category": "Civil Service Rule (General)",
+    "question": "A central purpose of the PSR, FOI Act, PPA, and PRA frameworks is to:",
+    "options": [
+      "Strengthen transparency, accountability, efficiency and service delivery",
+      "Encourage secrecy and waste",
+      "Replace all laws",
+      "Privatize pensions"
+    ],
+    "answerIndex": 0,
+    "explanation": "These frameworks collectively improve governance, service delivery, and financial probity in the public sector."
+  }
+]

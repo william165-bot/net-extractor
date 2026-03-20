@@ -1,0 +1,63 @@
+[
+  {
+    "file": "cadre-accounting.json",
+    "slug": "accounting",
+    "before": 89,
+    "added": 131,
+    "after": 220
+  },
+  {
+    "file": "cadre-administrative-officer.json",
+    "slug": "administrative-officer",
+    "before": 35,
+    "added": 185,
+    "after": 220
+  },
+  {
+    "file": "cadre-education.json",
+    "slug": "education",
+    "before": 20,
+    "added": 200,
+    "after": 220
+  },
+  {
+    "file": "cadre-engineering.json",
+    "slug": "engineering",
+    "before": 20,
+    "added": 200,
+    "after": 220
+  },
+  {
+    "file": "cadre-general.json",
+    "slug": "general",
+    "skipped": true
+  },
+  {
+    "file": "cadre-health.json",
+    "slug": "health",
+    "before": 20,
+    "added": 200,
+    "after": 220
+  },
+  {
+    "file": "cadre-procurement.json",
+    "slug": "procurement",
+    "before": 4,
+    "added": 216,
+    "after": 220
+  },
+  {
+    "file": "cadre-program-analyst.json",
+    "slug": "program-analyst",
+    "before": 15,
+    "added": 205,
+    "after": 220
+  },
+  {
+    "file": "cadre-statistics.json",
+    "slug": "statistics",
+    "before": 15,
+    "added": 205,
+    "after": 220
+  }
+]

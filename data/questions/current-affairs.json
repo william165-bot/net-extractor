@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 1,
+    "category": "Current Affairs",
+    "question": "What is Nigeria's current national anthem as of May 2024?",
+    "options": [
+      "Nigeria, We Hail Thee",
+      "Arise, O Compatriots",
+      "Lift Every Voice",
+      "Great Nation, Great People"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nigeria readopted 'Nigeria, We Hail Thee' on 29 May 2024 after the National Assembly passed and the President signed the bill."
+  },
+  {
+    "id": 2,
+    "category": "Current Affairs",
+    "question": "On what date did Nigeria gain independence from Britain?",
+    "options": [
+      "1 October 1960",
+      "1 January 1963",
+      "12 June 1993",
+      "29 May 1999"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nigeria became an independent nation on 1 October 1960."
+  },
+  {
+    "id": 3,
+    "category": "Current Affairs",
+    "question": "Nigeria's Democracy Day is officially marked on which date?",
+    "options": [
+      "12 June",
+      "1 October",
+      "29 May",
+      "27 May"
+    ],
+    "answerIndex": 0,
+    "explanation": "Democracy Day was moved from 29 May to 12 June to honour the 1993 election won by M.K.O. Abiola."
+  },
+  {
+    "id": 4,
+    "category": "Current Affairs",
+    "question": "How many states are in the Federal Republic of Nigeria?",
+    "options": [
+      "36 states and 1 FCT",
+      "30 states and 1 FCT",
+      "37 states",
+      "35 states and 1 FCT"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nigeria has 36 states and the Federal Capital Territory (Abuja)."
+  },
+  {
+    "id": 5,
+    "category": "Current Affairs",
+    "question": "What is Nigeria's capital city?",
+    "options": [
+      "Abuja",
+      "Lagos",
+      "Port Harcourt",
+      "Ibadan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Abuja became the capital on 12 December 1991, replacing Lagos."
+  },
+  {
+    "id": 6,
+    "category": "Current Affairs",
+    "question": "Who is Nigeria's President sworn in on 29 May 2023?",
+    "options": [
+      "Bola Ahmed Tinubu",
+      "Muhammadu Buhari",
+      "Goodluck Jonathan",
+      "Atiku Abubakar"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bola Ahmed Tinubu became President on 29 May 2023."
+  },
+  {
+    "id": 7,
+    "category": "Current Affairs",
+    "question": "Who is Nigeria's Vice President since 29 May 2023?",
+    "options": [
+      "Kashim Shettima",
+      "Yemi Osinbajo",
+      "Namadi Sambo",
+      "Ibrahim Shekarau"
+    ],
+    "answerIndex": 0,
+    "explanation": "Kashim Shettima was sworn in as Vice President alongside President Tinubu."
+  },
+  {
+    "id": 8,
+    "category": "Current Affairs",
+    "question": "Who is the President of the Senate elected in June 2023?",
+    "options": [
+      "Godswill Akpabio",
+      "Ahmed Lawan",
+      "Bukola Saraki",
+      "Aminu Tambuwal"
+    ],
+    "answerIndex": 0,
+    "explanation": "Senator Godswill Akpabio was elected President of the 10th Senate in June 2023."
+  },
+  {
+    "id": 9,
+    "category": "Current Affairs",
+    "question": "Who is the Speaker of Nigeria's House of Representatives elected in June 2023?",
+    "options": [
+      "Tajudeen Abbas",
+      "Femi Gbajabiamila",
+      "Yakubu Dogara",
+      "Dimeji Bankole"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hon. Tajudeen Abbas was elected Speaker of the 10th House of Representatives in June 2023."
+  },
+  {
+    "id": 10,
+    "category": "Current Affairs",
+    "question": "Who is Nigeria's Chief Justice (CJN) as of 2025?",
+    "options": [
+      "Olukayode Ariwoola",
+      "Walter Onnoghen",
+      "Tanko Muhammad",
+      "Mary Odili"
+    ],
+    "answerIndex": 0,
+    "explanation": "Justice Olukayode Ariwoola has served as Chief Justice of Nigeria since 2022."
+  },
+  {
+    "id": 11,
+    "category": "Current Affairs",
+    "question": "Who is the Governor of the Central Bank of Nigeria appointed in 2023?",
+    "options": [
+      "Yemi Cardoso",
+      "Godwin Emefiele",
+      "Kingsley Moghalu",
+      "Sanusi Lamido Sanusi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Olayemi (Yemi) Cardoso was appointed CBN Governor in September 2023."
+  },
+  {
+    "id": 12,
+    "category": "Current Affairs",
+    "question": "Who became Chairman of the EFCC in October 2023?",
+    "options": [
+      "Ola Olukoyede",
+      "Abdulrasheed Bawa",
+      "Ibrahim Magu",
+      "Nuhu Ribadu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ola Olukoyede was appointed Executive Chairman of the EFCC in October 2023."
+  },
+  {
+    "id": 13,
+    "category": "Current Affairs",
+    "question": "Who is Nigeria's Inspector-General of Police appointed in June 2023 (later confirmed)?",
+    "options": [
+      "Kayode Egbetokun",
+      "Usman Alkali Baba",
+      "Ibrahim Idris",
+      "Adamu Mohammed"
+    ],
+    "answerIndex": 0,
+    "explanation": "Kayode Egbetokun was appointed Acting IGP in June 2023 and later confirmed."
+  },
+  {
+    "id": 14,
+    "category": "Current Affairs",
+    "question": "Who is the Group CEO of NNPC Ltd as of 2025?",
+    "options": [
+      "Mele Kyari",
+      "Diezani Alison-Madueke",
+      "Austin Avuru",
+      "Timipre Sylva"
+    ],
+    "answerIndex": 0,
+    "explanation": "Mele Kolo Kyari has served as Group Chief Executive Officer of NNPC Ltd since 2019."
+  },
+  {
+    "id": 15,
+    "category": "Current Affairs",
+    "question": "What is Nigeria's official currency?",
+    "options": [
+      "Naira",
+      "Cedi",
+      "Shilling",
+      "Rand"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Nigerian currency is the Naira (₦), subdivided into kobo."
+  },
+  {
+    "id": 16,
+    "category": "Current Affairs",
+    "question": "How many Local Government Areas (LGAs) are in Nigeria?",
+    "options": [
+      "774",
+      "768",
+      "804",
+      "710"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nigeria has 774 constitutionally recognized LGAs."
+  },
+  {
+    "id": 17,
+    "category": "Current Affairs",
+    "question": "Which West African regional bloc has its headquarters in Abuja, Nigeria?",
+    "options": [
+      "ECOWAS",
+      "SADC",
+      "EAC",
+      "CEMAC"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Economic Community of West African States (ECOWAS) Commission is headquartered in Abuja."
+  },
+  {
+    "id": 18,
+    "category": "Current Affairs",
+    "question": "Which statement about Nigeria's national flag is correct?",
+    "options": [
+      "Green-White-Green vertical stripes",
+      "Green-Green-White horizontal stripes",
+      "Red-White-Blue",
+      "Black-Green-White"
+    ],
+    "answerIndex": 0,
+    "explanation": "The flag has vertical green-white-green stripes symbolizing agriculture and peace."
+  },
+  {
+    "id": 19,
+    "category": "Current Affairs",
+    "question": "Who designed Nigeria's national flag?",
+    "options": [
+      "Michael Taiwo Akinkunmi",
+      "Wole Soyinka",
+      "Chinua Achebe",
+      "Festus Okotie-Eboh"
+    ],
+    "answerIndex": 0,
+    "explanation": "Akinkunmi designed the flag in 1959 while a student in London."
+  },
+  {
+    "id": 20,
+    "category": "Current Affairs",
+    "question": "What is the motto on Nigeria's coat of arms?",
+    "options": [
+      "Unity and Faith, Peace and Progress",
+      "Freedom and Justice",
+      "Unity and Diversity",
+      "Strength and Honour"
+    ],
+    "answerIndex": 0,
+    "explanation": "The coat of arms bears the national motto: Unity and Faith, Peace and Progress."
+  },
+  {
+    "id": 21,
+    "category": "Current Affairs",
+    "question": "Which river is the longest in Nigeria?",
+    "options": [
+      "River Niger",
+      "River Benue",
+      "Cross River",
+      "Osun River"
+    ],
+    "answerIndex": 0,
+    "explanation": "The River Niger is Nigeria's longest river, joined by the Benue at Lokoja."
+  },
+  {
+    "id": 22,
+    "category": "Current Affairs",
+    "question": "What is Nigeria's highest mountain?",
+    "options": [
+      "Chappal Waddi (Gangirwal)",
+      "Kilimanjaro",
+      "Obudu Plateau",
+      "Shere Hills"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chappal Waddi in Taraba State is Nigeria's highest peak (~2,419m)."
+  },
+  {
+    "id": 23,
+    "category": "Current Affairs",
+    "question": "Which city is Nigeria's most populous urban area?",
+    "options": [
+      "Lagos",
+      "Kano",
+      "Port Harcourt",
+      "Abuja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Lagos is Nigeria's largest city by population and a major economic hub."
+  },
+  {
+    "id": 24,
+    "category": "Current Affairs",
+    "question": "Which landmark bridge is the longest in Nigeria?",
+    "options": [
+      "Third Mainland Bridge",
+      "Second Niger Bridge",
+      "Lekki-Ikoyi Bridge",
+      "Carter Bridge"
+    ],
+    "answerIndex": 0,
+    "explanation": "Third Mainland Bridge in Lagos is the longest bridge in Nigeria."
+  },
+  {
+    "id": 25,
+    "category": "Current Affairs",
+    "question": "What is Nigeria's calling country code?",
+    "options": [
+      "+234",
+      "+233",
+      "+235",
+      "+247"
+    ],
+    "answerIndex": 0,
+    "explanation": "International calls to Nigeria use the country code +234."
+  },
+  {
+    "id": 26,
+    "category": "Current Affairs",
+    "question": "What is the name of Nigeria's currency subunit?",
+    "options": [
+      "Kobo",
+      "Cents",
+      "Pence",
+      "Shilling"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Naira is subdivided into 100 kobo."
+  },
+  {
+    "id": 27,
+    "category": "Current Affairs",
+    "question": "In what year did Abuja officially become Nigeria's capital?",
+    "options": [
+      "1991",
+      "1983",
+      "1999",
+      "1976"
+    ],
+    "answerIndex": 0,
+    "explanation": "Abuja replaced Lagos as capital on 12 December 1991."
+  },
+  {
+    "id": 28,
+    "category": "Current Affairs",
+    "question": "What are Nigeria's three arms of government?",
+    "options": [
+      "Executive, Legislature, Judiciary",
+      "Federal, State, Local",
+      "Police, Army, Navy",
+      "Senate, House, Courts"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nigeria operates separation of powers among Executive, Legislature and Judiciary."
+  },
+  {
+    "id": 29,
+    "category": "Current Affairs",
+    "question": "How many senators make up Nigeria's Senate?",
+    "options": [
+      "109",
+      "108",
+      "120",
+      "360"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Senate has 109 members: 3 per state and 1 from the FCT."
+  },
+  {
+    "id": 30,
+    "category": "Current Affairs",
+    "question": "How many members are in Nigeria's House of Representatives?",
+    "options": [
+      "360",
+      "109",
+      "320",
+      "400"
+    ],
+    "answerIndex": 0,
+    "explanation": "The House of Representatives has 360 members."
+  },
+  {
+    "id": 31,
+    "category": "Current Affairs",
+    "question": "How many geopolitical zones does Nigeria have?",
+    "options": [
+      "6",
+      "4",
+      "3",
+      "8"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nigeria is commonly divided into six geopolitical zones."
+  },
+  {
+    "id": 32,
+    "category": "Current Affairs",
+    "question": "Which body conducts federal elections in Nigeria?",
+    "options": [
+      "INEC",
+      "EFCC",
+      "NCC",
+      "BPP"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Independent National Electoral Commission conducts elections in Nigeria."
+  },
+  {
+    "id": 33,
+    "category": "Current Affairs",
+    "question": "Which organization regulates the power (electricity) sector in Nigeria?",
+    "options": [
+      "NERC",
+      "NCC",
+      "PenCom",
+      "FAAN"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Nigerian Electricity Regulatory Commission oversees the electricity industry."
+  },
+  {
+    "id": 34,
+    "category": "Current Affairs",
+    "question": "Which agency regulates telecommunications in Nigeria?",
+    "options": [
+      "NCC",
+      "NERC",
+      "NPA",
+      "NIMC"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Nigerian Communications Commission regulates telecoms."
+  },
+  {
+    "id": 35,
+    "category": "Current Affairs",
+    "question": "Which law provides for right of access to public information in Nigeria?",
+    "options": [
+      "Freedom of Information Act 2011",
+      "Public Procurement Act 2007",
+      "PenCom Act 2014",
+      "Cybercrimes Act 2015"
+    ],
+    "answerIndex": 0,
+    "explanation": "FOI Act 2011 guarantees access to public records with limited exemptions."
+  },
+  {
+    "id": 36,
+    "category": "Current Affairs",
+    "question": "Which law established the modern public procurement framework?",
+    "options": [
+      "Public Procurement Act 2007",
+      "Procurement Decree 1998",
+      "Audit Act 1956",
+      "Fiscal Responsibility Act 2007"
+    ],
+    "answerIndex": 0,
+    "explanation": "PPA 2007 created the BPP and codified public procurement processes."
+  },
+  {
+    "id": 37,
+    "category": "Current Affairs",
+    "question": "Which event occurred at AFCON 2023 (played in 2024) final?",
+    "options": [
+      "Ivory Coast beat Nigeria 2–1",
+      "Nigeria beat Ivory Coast 2–1",
+      "Ghana beat Nigeria 1–0",
+      "Egypt beat Nigeria 3–2"
+    ],
+    "answerIndex": 0,
+    "explanation": "Côte d’Ivoire defeated Nigeria 2–1 in Abidjan on 11 Feb 2024."
+  },
+  {
+    "id": 38,
+    "category": "Current Affairs",
+    "question": "Which major refinery commenced significant output in 2024, impacting West African fuel markets?",
+    "options": [
+      "Dangote Refinery",
+      "Warri Refinery",
+      "Kaduna Refinery",
+      "Port Harcourt Refinery"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Dangote Refinery began significant output and exports in 2024, affecting regional markets."
+  },
+  {
+    "id": 39,
+    "category": "Current Affairs",
+    "question": "What is Nigeria's official language?",
+    "options": [
+      "English",
+      "French",
+      "Arabic",
+      "Portuguese"
+    ],
+    "answerIndex": 0,
+    "explanation": "English is Nigeria's official language, with many indigenous languages nationwide."
+  },
+  {
+    "id": 40,
+    "category": "Current Affairs",
+    "question": "What is Nigeria's time zone?",
+    "options": [
+      "West Africa Time (UTC+1)",
+      "Central Africa Time (UTC+2)",
+      "Greenwich Mean Time (UTC+0)",
+      "Eastern Africa Time (UTC+3)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nigeria observes West Africa Time, one hour ahead of UTC."
+  },
+  {
+    "id": 41,
+    "category": "Current Affairs",
+    "question": "Which is the largest Nigerian state by land area?",
+    "options": [
+      "Niger State",
+      "Borno State",
+      "Taraba State",
+      "Bauchi State"
+    ],
+    "answerIndex": 0,
+    "explanation": "Niger State is the largest by land area in Nigeria."
+  },
+  {
+    "id": 42,
+    "category": "Current Affairs",
+    "question": "Which city hosts the ECOWAS Commission headquarters?",
+    "options": [
+      "Abuja",
+      "Accra",
+      "Lagos",
+      "Dakar"
+    ],
+    "answerIndex": 0,
+    "explanation": "The ECOWAS Commission is based in Abuja, Nigeria."
+  },
+  {
+    "id": 43,
+    "category": "Current Affairs",
+    "question": "What is the ccTLD (country code top-level domain) for Nigeria?",
+    "options": [
+      ".ng",
+      ".nr",
+      ".na",
+      ".ni"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nigeria's internet country code top-level domain is .ng."
+  },
+  {
+    "id": 44,
+    "category": "Current Affairs",
+    "question": "Who wrote Nigeria's national pledge (1960s)?",
+    "options": [
+      "Prof. Felicia Adebola Adedoyin",
+      "Chinua Achebe",
+      "Nnamdi Azikiwe",
+      "Ben Odiase"
+    ],
+    "answerIndex": 0,
+    "explanation": "Prof. Adedoyin authored the national pledge later adopted for schools."
+  },
+  {
+    "id": 45,
+    "category": "Current Affairs",
+    "question": "Which year did Nigeria become a republic (First Republic)?",
+    "options": [
+      "1963",
+      "1960",
+      "1979",
+      "1999"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nigeria became a republic on 1 October 1963, three years after independence."
+  },
+  {
+    "id": 46,
+    "category": "Current Affairs",
+    "question": "Who was Nigeria's first Prime Minister?",
+    "options": [
+      "Abubakar Tafawa Balewa",
+      "Nnamdi Azikiwe",
+      "Shehu Shagari",
+      "Yakubu Gowon"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sir Abubakar Tafawa Balewa served as Nigeria's first Prime Minister."
+  },
+  {
+    "id": 47,
+    "category": "Current Affairs",
+    "question": "Who was Nigeria's first Executive President (Second Republic)?",
+    "options": [
+      "Shehu Shagari",
+      "Olusegun Obasanjo",
+      "Umaru Yar'Adua",
+      "Goodluck Jonathan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Alhaji Shehu Shagari was the first Executive President (1979–1983)."
+  },
+  {
+    "id": 48,
+    "category": "Current Affairs",
+    "question": "Which is Nigeria's oldest degree-awarding institution?",
+    "options": [
+      "University of Ibadan",
+      "University of Lagos",
+      "Ahmadu Bello University",
+      "University of Nigeria, Nsukka"
+    ],
+    "answerIndex": 0,
+    "explanation": "Established in 1948, UI is Nigeria's oldest university."
+  },
+  {
+    "id": 49,
+    "category": "Current Affairs",
+    "question": "Which law re-enacted Nigeria's Contributory Pension Scheme?",
+    "options": [
+      "Pension Reform Act 2014",
+      "Pension Act 1961",
+      "National Health Act 2014",
+      "Fiscal Responsibility Act 2007"
+    ],
+    "answerIndex": 0,
+    "explanation": "PRA 2014 governs the Contributory Pension Scheme (CPS)."
+  },
+  {
+    "id": 50,
+    "category": "Current Affairs",
+    "question": "Which agency oversees pensions administration in Nigeria?",
+    "options": [
+      "PenCom",
+      "CBN",
+      "NCC",
+      "NERC"
+    ],
+    "answerIndex": 0,
+    "explanation": "The National Pension Commission (PenCom) regulates the pension industry."
+  },
+  {
+    "id": 51,
+    "category": "Current Affairs",
+    "question": "Which anti-narcotics agency is headed by Brig. Gen. Buba Marwa (retd.) since 2021?",
+    "options": [
+      "NDLEA",
+      "EFCC",
+      "ICPC",
+      "DSS"
+    ],
+    "answerIndex": 0,
+    "explanation": "Gen. Buba Marwa was appointed Chairman/CEO of the NDLEA in 2021."
+  },
+  {
+    "id": 52,
+    "category": "Current Affairs",
+    "question": "Which security corps is led by CG Ahmed Audi as of 2025?",
+    "options": [
+      "NSCDC",
+      "FRSC",
+      "NIS",
+      "NCoS"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dr. Ahmed Abubakar Audi is the Commandant-General of the NSCDC."
+  },
+  {
+    "id": 53,
+    "category": "Current Affairs",
+    "question": "Which road safety agency is headed by Corps Marshal Dauda Ali Biu (confirmed 2023)?",
+    "options": [
+      "FRSC",
+      "NSCDC",
+      "NIS",
+      "NPF"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dauda Ali Biu is the Corps Marshal of the Federal Road Safety Corps."
+  },
+  {
+    "id": 54,
+    "category": "Current Affairs",
+    "question": "Which body issues Nigeria's National Identification Number (NIN)?",
+    "options": [
+      "NIMC",
+      "NCC",
+      "NIS",
+      "BVN Office"
+    ],
+    "answerIndex": 0,
+    "explanation": "The National Identity Management Commission issues NINs."
+  },
+  {
+    "id": 55,
+    "category": "Current Affairs",
+    "question": "BVN in Nigeria's banking system stands for?",
+    "options": [
+      "Bank Verification Number",
+      "Bank Value Number",
+      "Basic Verification Number",
+      "Bank Vending Number"
+    ],
+    "answerIndex": 0,
+    "explanation": "BVN uniquely identifies bank customers across institutions."
+  },
+  {
+    "id": 56,
+    "category": "Current Affairs",
+    "question": "Nigeria's apex bank (CBN) was established in which year?",
+    "options": [
+      "1958",
+      "1960",
+      "1973",
+      "1988"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Central Bank of Nigeria was established by the CBN Act of 1958."
+  },
+  {
+    "id": 57,
+    "category": "Current Affairs",
+    "question": "Which day is Nigeria's Presidential inauguration traditionally held?",
+    "options": [
+      "29 May",
+      "1 October",
+      "12 June",
+      "31 December"
+    ],
+    "answerIndex": 0,
+    "explanation": "Since 1999, Presidents have been sworn in on 29 May (though Democracy Day moved to 12 June)."
+  },
+  {
+    "id": 58,
+    "category": "Current Affairs",
+    "question": "Which Act created the Nigerian Correctional Service (formerly Prisons Service) in 2019?",
+    "options": [
+      "Nigerian Correctional Service Act 2019",
+      "Prisons Act 1972",
+      "Police Act 2020",
+      "Interior Act 2004"
+    ],
+    "answerIndex": 0,
+    "explanation": "The 2019 Act rebranded and reformed the service."
+  },
+  {
+    "id": 59,
+    "category": "Current Affairs",
+    "question": "Which commission regulates data protection since 2023?",
+    "options": [
+      "Nigeria Data Protection Commission (NDPC)",
+      "NCC",
+      "NITDA",
+      "NBC"
+    ],
+    "answerIndex": 0,
+    "explanation": "NDPC was established in 2023 to regulate data protection."
+  },
+  {
+    "id": 60,
+    "category": "Current Affairs",
+    "question": "What is the standard duration of the National Youth Service Corps (NYSC)?",
+    "options": [
+      "12 months",
+      "6 months",
+      "18 months",
+      "24 months"
+    ],
+    "answerIndex": 0,
+    "explanation": "NYSC is a compulsory one-year national service for eligible graduates."
+  },
+  {
+    "id": 61,
+    "category": "Current Affairs",
+    "question": "Which body administers public universities' entry examinations (UTME)?",
+    "options": [
+      "JAMB",
+      "WAEC",
+      "NECO",
+      "NABTEB"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Joint Admissions and Matriculation Board conducts the UTME."
+  },
+  {
+    "id": 62,
+    "category": "Current Affairs",
+    "question": "Which examination body awards the West African Senior School Certificate?",
+    "options": [
+      "WAEC",
+      "NECO",
+      "JAMB",
+      "NABTEB"
+    ],
+    "answerIndex": 0,
+    "explanation": "WAEC conducts the WASSCE across anglophone West Africa."
+  },
+  {
+    "id": 63,
+    "category": "Current Affairs",
+    "question": "Which national initiative launched in 2024 provides interest-free student loans?",
+    "options": [
+      "NELFUND (Students Loans Act 2024)",
+      "TETFUND",
+      "YouWIN!",
+      "SURE-P"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Students Loans (Access to Higher Education) Act 2024 established NELFUND and launched an online portal."
+  },
+  {
+    "id": 64,
+    "category": "Current Affairs",
+    "question": "Which month and year did Nigeria readopt 'Nigeria, We Hail Thee' as the national anthem?",
+    "options": [
+      "May 2024",
+      "October 2023",
+      "January 2024",
+      "June 2025"
+    ],
+    "answerIndex": 0,
+    "explanation": "The anthem bill was signed into law on 29 May 2024."
+  },
+  {
+    "id": 65,
+    "category": "Current Affairs",
+    "question": "Which body manages major Nigerian airports?",
+    "options": [
+      "FAAN",
+      "NCAA",
+      "NIMASA",
+      "NPA"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Federal Airports Authority of Nigeria manages airports nationwide."
+  },
+  {
+    "id": 66,
+    "category": "Current Affairs",
+    "question": "Which authority regulates civil aviation in Nigeria?",
+    "options": [
+      "NCAA",
+      "FAAN",
+      "NAMA",
+      "NSIB"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Nigerian Civil Aviation Authority regulates aviation safety and operations."
+  },
+  {
+    "id": 67,
+    "category": "Current Affairs",
+    "question": "Nigeria operates a bicameral legislature consisting of:",
+    "options": [
+      "Senate and House of Representatives",
+      "Upper House only",
+      "House of Commons only",
+      "Senate only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nigeria's National Assembly comprises the Senate and House of Representatives."
+  },
+  {
+    "id": 68,
+    "category": "Current Affairs",
+    "question": "Which city is nicknamed 'Coal City'?",
+    "options": [
+      "Enugu",
+      "Port Harcourt",
+      "Aba",
+      "Jos"
+    ],
+    "answerIndex": 0,
+    "explanation": "Enugu earned the nickname due to historic coal mining activities."
+  },
+  {
+    "id": 69,
+    "category": "Current Affairs",
+    "question": "Oil was first discovered in commercial quantity in Nigeria at:",
+    "options": [
+      "Oloibiri",
+      "Warri",
+      "Bonny",
+      "Brass"
+    ],
+    "answerIndex": 0,
+    "explanation": "Crude oil was first discovered in Oloibiri (present-day Bayelsa State) in 1956."
+  },
+  {
+    "id": 70,
+    "category": "Current Affairs",
+    "question": "Which river joins the Niger at Lokoja?",
+    "options": [
+      "Benue River",
+      "Cross River",
+      "Kaduna River",
+      "Gongola River"
+    ],
+    "answerIndex": 0,
+    "explanation": "The River Benue meets the Niger at Lokoja, Kogi State."
+  },
+  {
+    "id": 71,
+    "category": "Current Affairs",
+    "question": "Which body oversees seaports operations in Nigeria?",
+    "options": [
+      "Nigerian Ports Authority (NPA)",
+      "NIMASA",
+      "NPA (Pharmacists)",
+      "NCAA"
+    ],
+    "answerIndex": 0,
+    "explanation": "NPA manages Nigeria's seaports infrastructure and operations."
+  },
+  {
+    "id": 72,
+    "category": "Current Affairs",
+    "question": "Which agency is responsible for maritime safety and administration?",
+    "options": [
+      "NIMASA",
+      "NPA",
+      "NCC",
+      "NSCDC"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Nigerian Maritime Administration and Safety Agency regulates maritime safety."
+  },
+  {
+    "id": 73,
+    "category": "Current Affairs",
+    "question": "Which Nigerian city is nicknamed 'Garden City'?",
+    "options": [
+      "Port Harcourt",
+      "Calabar",
+      "Abeokuta",
+      "Ilorin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Port Harcourt is known as the Garden City due to its greenery and planned layout."
+  },
+  {
+    "id": 74,
+    "category": "Current Affairs",
+    "question": "The University of Nigeria is located primarily in which town?",
+    "options": [
+      "Nsukka",
+      "Zaria",
+      "Ife",
+      "Akoka"
+    ],
+    "answerIndex": 0,
+    "explanation": "The University of Nigeria's main campus is in Nsukka, Enugu State."
+  },
+  {
+    "id": 75,
+    "category": "Current Affairs",
+    "question": "Which state is known as the 'Seat of the Caliphate'?",
+    "options": [
+      "Sokoto",
+      "Kano",
+      "Katsina",
+      "Zamfara"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sokoto is historically the seat of the Sokoto Caliphate."
+  },
+  {
+    "id": 76,
+    "category": "Current Affairs",
+    "question": "Which is Nigeria's main legislative complex area in Abuja?",
+    "options": [
+      "Three Arms Zone",
+      "Central Business District",
+      "Garki",
+      "Maitama"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Three Arms Zone hosts the Presidential Villa, National Assembly, and Supreme Court."
+  },
+  {
+    "id": 77,
+    "category": "Current Affairs",
+    "question": "Which reform was announced on 29 May 2023 affecting petrol pricing?",
+    "options": [
+      "Removal of petrol subsidy",
+      "Introduction of price controls",
+      "Ban on petrol vehicles",
+      "Nationalization of stations"
+    ],
+    "answerIndex": 0,
+    "explanation": "The government announced an end to petrol subsidy at the 2023 inauguration speech."
+  },
+  {
+    "id": 78,
+    "category": "Current Affairs",
+    "question": "Which commission regulates broadcasting in Nigeria?",
+    "options": [
+      "NBC",
+      "NCC",
+      "NERC",
+      "NIMASA"
+    ],
+    "answerIndex": 0,
+    "explanation": "The National Broadcasting Commission regulates broadcasting in Nigeria."
+  },
+  {
+    "id": 79,
+    "category": "Current Affairs",
+    "question": "Which is Nigeria's busiest airport by international traffic?",
+    "options": [
+      "Murtala Muhammed International Airport",
+      "Nnamdi Azikiwe International Airport",
+      "Port Harcourt International Airport",
+      "Mallam Aminu Kano International Airport"
+    ],
+    "answerIndex": 0,
+    "explanation": "MMIA in Lagos handles the highest international passenger volume."
+  },
+  {
+    "id": 80,
+    "category": "Current Affairs",
+    "question": "Which Nigerian state is nicknamed 'The Centre of Excellence'?",
+    "options": [
+      "Lagos",
+      "Kano",
+      "Anambra",
+      "Ogun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Lagos State's slogan is 'Centre of Excellence'."
+  },
+  {
+    "id": 81,
+    "category": "Current Affairs",
+    "question": "Which is the largest hydropower dam on the Niger River in Nigeria?",
+    "options": [
+      "Kainji Dam",
+      "Shiroro Dam",
+      "Zungeru Dam",
+      "Jebba Dam"
+    ],
+    "answerIndex": 0,
+    "explanation": "Kainji Dam is a major hydroelectric facility on the Niger River."
+  },
+  {
+    "id": 82,
+    "category": "Current Affairs",
+    "question": "Which Nigerian city hosts the headquarters of the Nigerian Army?",
+    "options": [
+      "Abuja",
+      "Lagos",
+      "Kaduna",
+      "Enugu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Army Headquarters is located in Abuja, the nation's capital."
+  },
+  {
+    "id": 83,
+    "category": "Current Affairs",
+    "question": "Which regulatory body oversees financial market conduct and investor protection?",
+    "options": [
+      "Securities and Exchange Commission (SEC)",
+      "NSE (NGX)",
+      "CBN",
+      "FIRS"
+    ],
+    "answerIndex": 0,
+    "explanation": "The SEC regulates Nigeria's capital markets and protects investors."
+  },
+  {
+    "id": 84,
+    "category": "Current Affairs",
+    "question": "Which federal tax agency administers VAT and company income tax?",
+    "options": [
+      "FIRS",
+      "FCTA",
+      "NBS",
+      "NAICOM"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Federal Inland Revenue Service administers federal taxes including VAT and CIT."
+  },
+  {
+    "id": 85,
+    "category": "Current Affairs",
+    "question": "What is Nigeria's current VAT rate (from 2020 change)?",
+    "options": [
+      "7.5%",
+      "5%",
+      "10%",
+      "12.5%"
+    ],
+    "answerIndex": 0,
+    "explanation": "VAT was increased from 5% to 7.5% in 2020."
+  },
+  {
+    "id": 86,
+    "category": "Current Affairs",
+    "question": "Which body oversees public procurement regulation and 'No Objection' certificates?",
+    "options": [
+      "BPP",
+      "PenCom",
+      "NIMASA",
+      "NPA"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Bureau of Public Procurement regulates procurement and issues 'No Objection'."
+  },
+  {
+    "id": 87,
+    "category": "Current Affairs",
+    "question": "Which 2024 initiative provides student loans via an online portal in Nigeria?",
+    "options": [
+      "NELFUND",
+      "TraderMoni",
+      "YouWIN!",
+      "SEEFOR"
+    ],
+    "answerIndex": 0,
+    "explanation": "The National Education Loan Fund launched in 2024 to extend interest-free student loans."
+  },
+  {
+    "id": 88,
+    "category": "Current Affairs",
+    "question": "Which Nigerian city is nicknamed 'Tin City'?",
+    "options": [
+      "Jos",
+      "Abeokuta",
+      "Lokoja",
+      "Katsina"
+    ],
+    "answerIndex": 0,
+    "explanation": "Jos is known for historical tin mining activities."
+  },
+  {
+    "id": 89,
+    "category": "Current Affairs",
+    "question": "Which region is Nigeria located in?",
+    "options": [
+      "West Africa",
+      "East Africa",
+      "North Africa",
+      "Southern Africa"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nigeria lies on the Gulf of Guinea in West Africa."
+  },
+  {
+    "id": 90,
+    "category": "Current Affairs",
+    "question": "Which statement about Nigeria's legislature is correct?",
+    "options": [
+      "It is bicameral with 109 Senators and 360 Representatives",
+      "It is unicameral with 469 members",
+      "It has 36 Senators and 1 FCT Representative",
+      "It has 360 Senators"
+    ],
+    "answerIndex": 0,
+    "explanation": "The National Assembly has two chambers: 109-seat Senate and 360-seat House."
+  },
+  {
+    "id": 91,
+    "category": "Current Affairs",
+    "question": "Which body runs the Nigeria Customs Service?",
+    "options": [
+      "NCS",
+      "NIS",
+      "NSCDC",
+      "NPA"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Nigeria Customs Service enforces customs laws and collects duties."
+  },
+  {
+    "id": 92,
+    "category": "Current Affairs",
+    "question": "Which agency issues Nigerian international passports?",
+    "options": [
+      "Nigeria Immigration Service (NIS)",
+      "NCS",
+      "NSCDC",
+      "NISER"
+    ],
+    "answerIndex": 0,
+    "explanation": "The NIS is responsible for passport issuance and immigration control."
+  },
+  {
+    "id": 93,
+    "category": "Current Affairs",
+    "question": "Which event characterizes Nigeria's Fourth Republic?",
+    "options": [
+      "Return to civilian rule in 1999",
+      "Civil war of 1967–1970",
+      "Military coup of 1983",
+      "First Republic 1963"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Fourth Republic began with the handover to civilian government on 29 May 1999."
+  },
+  {
+    "id": 94,
+    "category": "Current Affairs",
+    "question": "Which body manages Nigeria's sovereign wealth fund?",
+    "options": [
+      "NSIA",
+      "CBN",
+      "FIRS",
+      "SEC"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Nigeria Sovereign Investment Authority manages the sovereign wealth fund."
+  },
+  {
+    "id": 95,
+    "category": "Current Affairs",
+    "question": "Which Nigerian city is nicknamed 'Ancient City'?",
+    "options": [
+      "Kano",
+      "Ibadan",
+      "Benin City",
+      "Abeokuta"
+    ],
+    "answerIndex": 0,
+    "explanation": "Kano is often called the Ancient City due to its rich history and ancient walls."
+  },
+  {
+    "id": 96,
+    "category": "Current Affairs",
+    "question": "Which state is nicknamed 'Gateway State'?",
+    "options": [
+      "Ogun",
+      "Oyo",
+      "Osun",
+      "Ondo"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ogun is known as the Gateway State due to its location and industry."
+  },
+  {
+    "id": 97,
+    "category": "Current Affairs",
+    "question": "Which state is known as 'The Land of Promise'?",
+    "options": [
+      "Akwa Ibom",
+      "Cross River",
+      "Bayelsa",
+      "Rivers"
+    ],
+    "answerIndex": 0,
+    "explanation": "Akwa Ibom's slogan is the Land of Promise."
+  },
+  {
+    "id": 98,
+    "category": "Current Affairs",
+    "question": "Which Nigerian city is nicknamed 'Rock City'?",
+    "options": [
+      "Abeokuta",
+      "Minna",
+      "Jos",
+      "Lokoja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Abeokuta ('under the rock') is famed for Olumo Rock."
+  },
+  {
+    "id": 99,
+    "category": "Current Affairs",
+    "question": "Which body manages Nigeria's national statistics (e.g., GDP, inflation)?",
+    "options": [
+      "National Bureau of Statistics (NBS)",
+      "NBS Television",
+      "NISER",
+      "BOI"
+    ],
+    "answerIndex": 0,
+    "explanation": "The NBS publishes official statistics including GDP and inflation."
+  },
+  {
+    "id": 100,
+    "category": "Current Affairs",
+    "question": "Which federal agency regulates insurance in Nigeria?",
+    "options": [
+      "NAICOM",
+      "SEC",
+      "NCC",
+      "NERC"
+    ],
+    "answerIndex": 0,
+    "explanation": "The National Insurance Commission regulates the insurance industry."
+  },
+  {
+    "id": 101,
+    "category": "Current Affairs",
+    "question": "Which Nigerian state is nicknamed 'Salt of the Nation'?",
+    "options": [
+      "Ebonyi",
+      "Enugu",
+      "Anambra",
+      "Imo"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ebonyi State is known for its salt lakes and rice production."
+  },
+  {
+    "id": 102,
+    "category": "Current Affairs",
+    "question": "Which Nigerian state is nicknamed 'Coal City State'?",
+    "options": [
+      "Enugu",
+      "Kogi",
+      "Edo",
+      "Benue"
+    ],
+    "answerIndex": 0,
+    "explanation": "Enugu State is the Coal City State."
+  },
+  {
+    "id": 103,
+    "category": "Current Affairs",
+    "question": "Which Nigerian city is the 'City of Excellence'?",
+    "options": [
+      "Lagos",
+      "Abuja",
+      "Kano",
+      "Uyo"
+    ],
+    "answerIndex": 0,
+    "explanation": "Lagos State slogan is Centre of Excellence; Lagos city is often called City of Excellence."
+  },
+  {
+    "id": 104,
+    "category": "Current Affairs",
+    "question": "What animal sits atop Nigeria's coat of arms?",
+    "options": [
+      "Eagle",
+      "Horse",
+      "Lion",
+      "Elephant"
+    ],
+    "answerIndex": 0,
+    "explanation": "A red eagle represents strength; two white horses support the shield."
+  },
+  {
+    "id": 105,
+    "category": "Current Affairs",
+    "question": "What do the two supporting animals on Nigeria's coat of arms represent?",
+    "options": [
+      "Dignity and pride",
+      "Wealth and power",
+      "Speed and courage",
+      "Peace and justice"
+    ],
+    "answerIndex": 0,
+    "explanation": "The white horses symbolize dignity and pride; the black shield symbolizes fertile soil."
+  },
+  {
+    "id": 106,
+    "category": "Current Affairs",
+    "question": "Which Commission is responsible for anti-corruption alongside EFCC?",
+    "options": [
+      "ICPC",
+      "NERC",
+      "NCC",
+      "NBC"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Independent Corrupt Practices and Other Related Offences Commission combats corruption."
+  },
+  {
+    "id": 107,
+    "category": "Current Affairs",
+    "question": "Which body regulates food and drug standards in Nigeria?",
+    "options": [
+      "NAFDAC",
+      "SON",
+      "NABDA",
+      "FMHDS"
+    ],
+    "answerIndex": 0,
+    "explanation": "NAFDAC ensures the quality and safety of foods, drugs, and related products."
+  },
+  {
+    "id": 108,
+    "category": "Current Affairs",
+    "question": "Which body sets and enforces standards for products and services in Nigeria?",
+    "options": [
+      "Standards Organisation of Nigeria (SON)",
+      "NAFDAC",
+      "NCC",
+      "NSIA"
+    ],
+    "answerIndex": 0,
+    "explanation": "SON sets and enforces standards for products and services."
+  },
+  {
+    "id": 109,
+    "category": "Current Affairs",
+    "question": "Which Nigerian banking reform introduced in 2014 affects pension contributions?",
+    "options": [
+      "Pension Reform Act 2014",
+      "Banking Reform Act 2012",
+      "CBN Act 2007",
+      "Finance Act 2020"
+    ],
+    "answerIndex": 0,
+    "explanation": "PRA 2014 increased minimum CPS contributions to 18% (10% employer, 8% employee)."
+  },
+  {
+    "id": 110,
+    "category": "Current Affairs",
+    "question": "Which major Nigerian sports achievement occurred in 2024?",
+    "options": [
+      "AFCON silver medal for Super Eagles",
+      "World Cup victory",
+      "Olympic gold in football",
+      "CAF Champions League win by Enyimba"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nigeria finished runners-up at AFCON 2023 (played 2024)."
+  },
+  {
+    "id": 111,
+    "category": "Current Affairs",
+    "question": "Which of these is Nigeria's national airline regulator?",
+    "options": [
+      "NCAA",
+      "FAAN",
+      "NAMA",
+      "NSIB"
+    ],
+    "answerIndex": 0,
+    "explanation": "NCAA regulates aviation; FAAN manages airports; NAMA manages air navigation; NSIB investigates safety."
+  },
+  {
+    "id": 112,
+    "category": "Current Affairs",
+    "question": "Which investigative body examines serious air and rail incidents in Nigeria?",
+    "options": [
+      "NSIB",
+      "NCAA",
+      "FAAN",
+      "NAMA"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Nigerian Safety Investigation Bureau investigates air, rail and maritime occurrences."
+  },
+  {
+    "id": 113,
+    "category": "Current Affairs",
+    "question": "Which Nigerian city is called 'The Coal City' and also the state capital with same nickname?",
+    "options": [
+      "Enugu",
+      "Aba",
+      "Owerri",
+      "Onitsha"
+    ],
+    "answerIndex": 0,
+    "explanation": "Enugu is both the city and state known for coal."
+  },
+  {
+    "id": 114,
+    "category": "Current Affairs",
+    "question": "Which border country lies directly west of Nigeria?",
+    "options": [
+      "Benin Republic",
+      "Cameroon",
+      "Niger",
+      "Chad"
+    ],
+    "answerIndex": 0,
+    "explanation": "Benin lies to Nigeria's west; Niger to the north; Chad to the northeast; Cameroon to the east."
+  },
+  {
+    "id": 115,
+    "category": "Current Affairs",
+    "question": "Which border country lies east of Nigeria?",
+    "options": [
+      "Cameroon",
+      "Benin",
+      "Ghana",
+      "Togo"
+    ],
+    "answerIndex": 0,
+    "explanation": "Cameroon borders Nigeria to the east and southeast."
+  },
+  {
+    "id": 116,
+    "category": "Current Affairs",
+    "question": "Which agency is responsible for national population census and demographics?",
+    "options": [
+      "NPC",
+      "NBS",
+      "INEC",
+      "NOA"
+    ],
+    "answerIndex": 0,
+    "explanation": "The National Population Commission conducts censuses and vital statistics."
+  },
+  {
+    "id": 117,
+    "category": "Current Affairs",
+    "question": "Which federal agency runs public enlightenment and civic education?",
+    "options": [
+      "National Orientation Agency (NOA)",
+      "NABDA",
+      "NIMASA",
+      "NSCDC"
+    ],
+    "answerIndex": 0,
+    "explanation": "NOA conducts civic education and public enlightenment."
+  },
+  {
+    "id": 118,
+    "category": "Current Affairs",
+    "question": "Which federal agency oversees small and medium enterprise development?",
+    "options": [
+      "SMEDAN",
+      "BOI",
+      "NEXIM",
+      "NSIA"
+    ],
+    "answerIndex": 0,
+    "explanation": "The Small and Medium Enterprises Development Agency of Nigeria supports MSMEs."
+  },
+  {
+    "id": 119,
+    "category": "Current Affairs",
+    "question": "Which development finance institution funds industry projects in Nigeria?",
+    "options": [
+      "Bank of Industry (BOI)",
+      "CBN",
+      "FIRS",
+      "NPA"
+    ],
+    "answerIndex": 0,
+    "explanation": "BOI provides finance to support industrial and SME projects."
+  },
+  {
+    "id": 120,
+    "category": "Current Affairs",
+    "question": "Which statement about Nigeria's anthem change in 2024 is true?",
+    "options": [
+      "The nation reverted to 'Nigeria, We Hail Thee'",
+      "A brand-new anthem was composed",
+      "Anthem was abolished",
+      "Two anthems are sung alternately"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nigeria restored its independence-era anthem in May 2024."
+  },
+  {
+    "id": 121,
+    "category": "Current Affairs",
+    "question": "Which FX policy change did the CBN implement in June 2023?",
+    "options": [
+      "Unification of FX windows with market-driven rates (I&E)",
+      "Pegging the naira to the US dollar",
+      "Banning domiciliary accounts",
+      "Declaring cryptocurrency legal tender"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Jun 2023 | Topic: FX Policy | Source: CBN circulars; national business press"
+  },
+  {
+    "id": 122,
+    "category": "Current Affairs",
+    "question": "What key reform did the Electricity Act 2023 enable?",
+    "options": [
+      "States can license sub‑national electricity markets",
+      "Abolition of NERC",
+      "Free electricity for all households",
+      "Ban on off‑grid solar"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Jun 2023 | Topic: Power Sector | Source: Electricity Act 2023; Presidency briefings"
+  },
+  {
+    "id": 123,
+    "category": "Current Affairs",
+    "question": "Who was appointed Nigeria's National Security Adviser in June 2023?",
+    "options": [
+      "Nuhu Ribadu",
+      "Babagana Monguno",
+      "Olusegun Adeniyi",
+      "Tukur Buratai"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Jun 2023 | Topic: Security Appointments | Source: State House announcements"
+  },
+  {
+    "id": 124,
+    "category": "Current Affairs",
+    "question": "Who became Chief of Defence Staff in June 2023?",
+    "options": [
+      "Gen. Christopher Musa",
+      "Gen. Lucky Irabor",
+      "Gen. Taoreed Lagbaja",
+      "Gen. Abdulrahman Dambazau"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Jun 2023 | Topic: Security Appointments | Source: State House announcements"
+  },
+  {
+    "id": 125,
+    "category": "Current Affairs",
+    "question": "Who assumed office as Chief of Army Staff in June 2023?",
+    "options": [
+      "Lt‑Gen. Taoreed Lagbaja",
+      "Lt‑Gen. Faruk Yahaya",
+      "Lt‑Gen. Azubuike Ihejirika",
+      "Lt‑Gen. Kenneth Minimah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Jun 2023 | Topic: Security Appointments | Source: State House announcements"
+  },
+  {
+    "id": 126,
+    "category": "Current Affairs",
+    "question": "Who became Chief of Naval Staff in June 2023?",
+    "options": [
+      "Vice Adm. Emmanuel Ogalla",
+      "Vice Adm. Awwal Zubairu Gambo",
+      "Vice Adm. Ibok‑Ete Ibas",
+      "Rear Adm. Dele Ezeoba"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Jun 2023 | Topic: Security Appointments | Source: State House announcements"
+  },
+  {
+    "id": 127,
+    "category": "Current Affairs",
+    "question": "Who was appointed Chief of Air Staff in June 2023?",
+    "options": [
+      "Air Mshl. Hassan Abubakar",
+      "Air Mshl. Oladayo Amao",
+      "Air Mshl. Sadique Abubakar",
+      "Air Cdre. Dan Suleiman"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Jun 2023 | Topic: Security Appointments | Source: State House announcements"
+  },
+  {
+    "id": 128,
+    "category": "Current Affairs",
+    "question": "Which Lagos urban rail line began commercial passenger operations in September 2023?",
+    "options": [
+      "Blue Line",
+      "Red Line",
+      "Green Line",
+      "Purple Line"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Sep 2023 | Topic: Transport | Source: Lagos State Govt press; media reports"
+  },
+  {
+    "id": 129,
+    "category": "Current Affairs",
+    "question": "Which Act established the Nigeria Data Protection Commission in 2023?",
+    "options": [
+      "Nigeria Data Protection Act 2023",
+      "Cybercrimes Act 2015",
+      "Digital Rights Act 2022",
+      "Freedom of Information Act 2011"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Jun 2023 | Topic: Data Protection | Source: NDPA 2023; Presidency"
+  },
+  {
+    "id": 130,
+    "category": "Current Affairs",
+    "question": "In April 2024, NERC raised Band A electricity tariffs to about what rate per kWh?",
+    "options": [
+      "₦225/kWh",
+      "₦165/kWh",
+      "₦75/kWh",
+      "₦300/kWh"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Apr 2024 | Topic: Power Tariffs | Source: NERC statements; national dailies"
+  },
+  {
+    "id": 131,
+    "category": "Current Affairs",
+    "question": "In May 2024, CBN directed banks to implement what levy on electronic transfers under the Cybercrimes Act?",
+    "options": [
+      "0.5% cybersecurity levy",
+      "5% cybersecurity levy",
+      "0.05% cybersecurity levy",
+      "1% cybersecurity levy"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: May 2024 | Topic: Banking Policy | Source: CBN circular; media coverage"
+  },
+  {
+    "id": 132,
+    "category": "Current Affairs",
+    "question": "What happened to the 0.5% cybersecurity levy weeks after the CBN circular in May 2024?",
+    "options": [
+      "It was suspended by the Federal Government",
+      "It was doubled to 1%",
+      "It was expanded to cash withdrawals",
+      "It was converted into VAT"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: May–Jun 2024 | Topic: Banking Policy | Source: Presidency/CBN clarifications; media"
+  },
+  {
+    "id": 133,
+    "category": "Current Affairs",
+    "question": "To what level did the CBN raise the Monetary Policy Rate (MPR) in March 2024?",
+    "options": [
+      "24.75%",
+      "22.75%",
+      "26.50%",
+      "20.00%"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Mar 2024 | Topic: Monetary Policy | Source: CBN MPC communiqués"
+  },
+  {
+    "id": 134,
+    "category": "Current Affairs",
+    "question": "Headline inflation reported by NBS in April 2024 was closest to which figure?",
+    "options": [
+      "33.69%",
+      "25.00%",
+      "13.00%",
+      "40.00%"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Apr 2024 | Topic: Inflation | Source: NBS CPI report"
+  },
+  {
+    "id": 135,
+    "category": "Current Affairs",
+    "question": "Which Lagos urban rail line was inaugurated in March 2024?",
+    "options": [
+      "Red Line",
+      "Blue Line",
+      "Yellow Line",
+      "Silver Line"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Mar 2024 | Topic: Transport | Source: Lagos State Govt; national media"
+  },
+  {
+    "id": 136,
+    "category": "Current Affairs",
+    "question": "Under NELFUND guidelines, when do loan repayments begin?",
+    "options": [
+      "Two years after completing NYSC",
+      "Immediately after disbursement",
+      "Ten years after graduation",
+      "Only after age 40"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Education Finance | Source: NELFUND portal guidance"
+  },
+  {
+    "id": 137,
+    "category": "Current Affairs",
+    "question": "The National Minimum Wage (Amendment) Act 2024 set the new wage at which amount?",
+    "options": [
+      "₦70,000",
+      "₦30,000",
+      "₦50,000",
+      "₦100,000"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Labour Policy | Source: Global Legal Insights 2025; govt statements"
+  },
+  {
+    "id": 138,
+    "category": "Current Affairs",
+    "question": "As of 2024, Nigeria's official FX market is commonly referred to as:",
+    "options": [
+      "NAFEM",
+      "I&E Window",
+      "BDC Market",
+      "AFEX"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: FX Market | Source: CBN/market communications"
+  },
+  {
+    "id": 139,
+    "category": "Current Affairs",
+    "question": "Nigeria began rollout of which malaria vaccine in 2024?",
+    "options": [
+      "R21/Matrix‑M",
+      "RTS,S only",
+      "BCG",
+      "Polio IPV"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Public Health | Source: FMoH; UNICEF/WHO country updates"
+  },
+  {
+    "id": 140,
+    "category": "Current Affairs",
+    "question": "Which outbreak prompted an Emergency Operations Centre activation by NCDC in mid‑2024?",
+    "options": [
+      "Cholera",
+      "Measles",
+      "Ebola",
+      "Yellow fever"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Jun–Jul 2024 | Topic: Public Health | Source: NCDC situation reports"
+  },
+  {
+    "id": 141,
+    "category": "Current Affairs",
+    "question": "Which Nigerian airline launched direct Lagos–London (Gatwick) flights in March 2024?",
+    "options": [
+      "Air Peace",
+      "Arik Air",
+      "Dana Air",
+      "Ibom Air"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Mar 2024 | Topic: Aviation | Source: Airline press; aviation media"
+  },
+  {
+    "id": 142,
+    "category": "Current Affairs",
+    "question": "Which major coastal infrastructure project was flagged off in April 2024?",
+    "options": [
+      "Lagos–Calabar Coastal Highway",
+      "East‑West Rail Link",
+      "Abuja Second Runway",
+      "Benin–Asaba Expressway"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Apr 2024 | Topic: Infrastructure | Source: FEC/Works Ministry briefings; media"
+  },
+  {
+    "id": 143,
+    "category": "Current Affairs",
+    "question": "Which urban rail service in Abuja was reopened for operations in May 2024?",
+    "options": [
+      "Abuja Light Rail",
+      "Abuja–Kaduna Intercity",
+      "Port Harcourt Monorail",
+      "Kano Metro"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: May 2024 | Topic: Transport | Source: FCTA; national media coverage"
+  },
+  {
+    "id": 144,
+    "category": "Current Affairs",
+    "question": "Which civic record famously fell when Tunde Onakoya set a 60‑hour chess marathon in April 2024?",
+    "options": [
+      "World chess marathon record",
+      "World fastest checkmate record",
+      "Highest Elo by an African",
+      "Youngest GM title"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Apr 2024 | Topic: Culture/Sports | Source: Guinness World Records; media"
+  },
+  {
+    "id": 145,
+    "category": "Current Affairs",
+    "question": "Which Nigerian women's team qualified for the Paris 2024 Olympics in April 2024?",
+    "options": [
+      "Super Falcons (football)",
+      "D'Tigress (basketball)",
+      "Nigerian Queens (volleyball)",
+      "Falcons (rugby)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Apr 2024 | Topic: Sports | Source: NFF; CAF/FIFA reports"
+  },
+  {
+    "id": 146,
+    "category": "Current Affairs",
+    "question": "Which star striker moved to the NWSL's Bay FC in 2024?",
+    "options": [
+      "Asisat Oshoala",
+      "Rasheedat Ajibade",
+      "Desire Oparanozie",
+      "Francisca Ordega"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Feb 2024 | Topic: Sports Transfers | Source: Club/NFF announcements"
+  },
+  {
+    "id": 147,
+    "category": "Current Affairs",
+    "question": "Which Nigerian tech/ID initiative announced a new multi‑purpose national ID card in 2024?",
+    "options": [
+      "NIMC with CBN/NIBSS",
+      "NCC with NSIA",
+      "PenCom with NBS",
+      "FIRS with SON"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Apr–May 2024 | Topic: Digital ID | Source: NIMC/CBN/NIBSS releases; media"
+  },
+  {
+    "id": 148,
+    "category": "Current Affairs",
+    "question": "Which reform to rationalize MDAs did the Federal Government approve for implementation in 2024?",
+    "options": [
+      "Oronsaye Report",
+      "Vision 20:2020",
+      "NEEDS Strategy",
+      "SAP"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Feb 2024 | Topic: Public Sector Reform | Source: FEC communiqués; media"
+  },
+  {
+    "id": 149,
+    "category": "Current Affairs",
+    "question": "Which border did Nigeria reopen in March 2024 after ECOWAS lifted sanctions on Niger?",
+    "options": [
+      "The Nigeria–Niger land border",
+      "The Nigeria–Benin coastal border",
+      "The Nigeria–Cameroon maritime border",
+      "The Nigeria–Chad air border"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Mar 2024 | Topic: Regional Affairs | Source: Presidency/Customs; regional media"
+  },
+  {
+    "id": 150,
+    "category": "Current Affairs",
+    "question": "Which Nigerian city suffered a deadly explosion in January 2024 linked to stored explosives?",
+    "options": [
+      "Ibadan",
+      "Kano",
+      "Abuja",
+      "Uyo"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Jan 2024 | Topic: Public Safety | Source: Oyo State Govt; national dailies"
+  },
+  {
+    "id": 151,
+    "category": "Current Affairs",
+    "question": "Which consumer finance initiative did the Federal Government launch in April 2024?",
+    "options": [
+      "CREDICORP (Consumer Credit Corporation)",
+      "TraderMoni 2.0",
+      "BOI Micro Fund",
+      "NG-CARES"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Apr 2024 | Topic: Consumer Finance | Source: Presidency/FMOF; media"
+  },
+  {
+    "id": 152,
+    "category": "Current Affairs",
+    "question": "Which states held off‑cycle governorship elections in November 2023?",
+    "options": [
+      "Bayelsa, Imo, Kogi",
+      "Edo, Ondo, Ekiti",
+      "Anambra, Enugu, Ebonyi",
+      "Kwara, Osun, Oyo"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Nov 2023 | Topic: Elections | Source: INEC"
+  },
+  {
+    "id": 153,
+    "category": "Current Affairs",
+    "question": "Which sector regulator directed telcos to bar SIMs without verified NIN linkage by March 2024?",
+    "options": [
+      "NCC",
+      "NIMC",
+      "NITDA",
+      "NBC"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Mar 2024 | Topic: Telecom Policy | Source: NCC directives; media"
+  },
+  {
+    "id": 154,
+    "category": "Current Affairs",
+    "question": "Which dam on the River Niger was boosted by the commissioning of the 700MW Zungeru plant in 2024 grid updates?",
+    "options": [
+      "Zungeru Hydropower",
+      "Shiroro Dam",
+      "Kainji Dam",
+      "Jebba Dam"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Power Generation | Source: TCN/Power Ministry updates; media"
+  },
+  {
+    "id": 155,
+    "category": "Current Affairs",
+    "question": "Which maritime facility began full container operations, boosting Lagos' port capacity in 2023?",
+    "options": [
+      "Lekki Deep Sea Port",
+      "Onne Free Port",
+      "Badagry Mega Port",
+      "Ibaka Deep Sea Port"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2023 | Topic: Maritime/Logistics | Source: NPA; terminal operator releases"
+  },
+  {
+    "id": 156,
+    "category": "Current Affairs",
+    "question": "Which petroleum policy shift was announced on 29 May 2023?",
+    "options": [
+      "Fuel subsidy removal",
+      "Fuel price freeze",
+      "Nationalization of retail",
+      "Ban on diesel"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: May 2023 | Topic: Energy Policy | Source: Inauguration speech; media"
+  },
+  {
+    "id": 157,
+    "category": "Current Affairs",
+    "question": "Which Nigerian hurdler won the African Championships 100m hurdles title in 2024?",
+    "options": [
+      "Tobi Amusan",
+      "Blessing Okagbare",
+      "Ese Brume",
+      "Chioma Ajunwa"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Jun 2024 | Topic: Athletics | Source: CAA/athletics media"
+  },
+  {
+    "id": 158,
+    "category": "Current Affairs",
+    "question": "Which Federal agency leads cholera response coordination in Nigeria?",
+    "options": [
+      "NCDC",
+      "NAFDAC",
+      "NOA",
+      "NIMR"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Public Health | Source: NCDC"
+  },
+  {
+    "id": 159,
+    "category": "Current Affairs",
+    "question": "Which Nigerian airline regulator investigates serious incidents via NSIB?",
+    "options": [
+      "NCAA regulates; NSIB investigates",
+      "FAAN investigates; NCC regulates",
+      "NSIB regulates; NCAA investigates",
+      "NAMA investigates; FAAN regulates"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Aviation Safety | Source: NCAA/NSIB"
+  },
+  {
+    "id": 160,
+    "category": "Current Affairs",
+    "question": "Which payment code identifies Nigerian bank customers uniquely across banks?",
+    "options": [
+      "BVN",
+      "NIN",
+      "TIN",
+      "CAC RC"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Banking | Source: CBN/NIBSS"
+  },
+  {
+    "id": 161,
+    "category": "Current Affairs",
+    "question": "Which statement best describes the Students Loans (Access to Higher Education) (Repeal and Re‑enactment) Act 2024?",
+    "options": [
+      "It restructured governance and implementation for NELFUND",
+      "It abolished all student loans",
+      "It created tuition‑free universities",
+      "It removed NYSC"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Education Finance | Source: Presidency; NELFUND"
+  },
+  {
+    "id": 162,
+    "category": "Current Affairs",
+    "question": "Which Nigerian city hosts the ECOWAS Commission headquarters?",
+    "options": [
+      "Abuja",
+      "Accra",
+      "Lomé",
+      "Cotonou"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Regional | Source: ECOWAS"
+  },
+  {
+    "id": 163,
+    "category": "Current Affairs",
+    "question": "Which agency manages Nigeria's sovereign wealth funds?",
+    "options": [
+      "NSIA",
+      "CBN",
+      "SEC",
+      "BOI"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Public Finance | Source: NSIA"
+  },
+  {
+    "id": 164,
+    "category": "Current Affairs",
+    "question": "Which anti‑drug agency intensified seizures nationwide under Buba Marwa?",
+    "options": [
+      "NDLEA",
+      "EFCC",
+      "ICPC",
+      "DSS"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Security/Health | Source: NDLEA"
+  },
+  {
+    "id": 165,
+    "category": "Current Affairs",
+    "question": "Which national broadband/telecom regulator oversees SIM registration policies?",
+    "options": [
+      "NCC",
+      "NITDA",
+      "NBC",
+      "NIMC"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Telecom | Source: NCC"
+  },
+  {
+    "id": 166,
+    "category": "Current Affairs",
+    "question": "Which agency issues the National Identification Number used to link SIMs?",
+    "options": [
+      "NIMC",
+      "NCC",
+      "NIS",
+      "FIRS"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Digital ID | Source: NIMC"
+  },
+  {
+    "id": 167,
+    "category": "Current Affairs",
+    "question": "Which port project strengthened Nigeria's maritime capacity in 2023?",
+    "options": [
+      "Lekki Deep Sea Port",
+      "Ibaka Deep Sea Port",
+      "Badagry Port",
+      "Escravos Port"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2023 | Topic: Maritime | Source: NPA; Lekki Port LFTZ updates"
+  },
+  {
+    "id": 168,
+    "category": "Current Affairs",
+    "question": "Which Nigerian carrier began selling London route tickets in naira after its 2024 launch?",
+    "options": [
+      "Air Peace",
+      "Arik Air",
+      "Aero Contractors",
+      "Overland"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Aviation/FX | Source: Airline releases; media"
+  },
+  {
+    "id": 169,
+    "category": "Current Affairs",
+    "question": "Which financial indicator did NBS report rising above 30% year‑on‑year in 2024?",
+    "options": [
+      "Headline inflation",
+      "Unemployment rate",
+      "External reserves growth",
+      "GDP growth"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Inflation | Source: NBS CPI"
+  },
+  {
+    "id": 170,
+    "category": "Current Affairs",
+    "question": "Which FX market name replaced the I&E Window nomenclature by 2024?",
+    "options": [
+      "NAFEM",
+      "BDC Market",
+      "NAFDAC",
+      "NAICOM"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: FX Market | Source: Market communications"
+  },
+  {
+    "id": 171,
+    "category": "Current Affairs",
+    "question": "Which energy megaproject started exporting petroleum products in 2024, altering W. Africa fuel flows?",
+    "options": [
+      "Dangote Refinery",
+      "Warri Refinery",
+      "Port Harcourt Refinery",
+      "Kaduna Refinery"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Energy/Trade | Source: Reuters; industry reports"
+  },
+  {
+    "id": 172,
+    "category": "Current Affairs",
+    "question": "Which government initiative launched in 2024 aims to expand consumer credit access nationwide?",
+    "options": [
+      "CREDICORP",
+      "BOI Grants",
+      "TraderMoni",
+      "SEEFOR"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Apr 2024 | Topic: Consumer Finance | Source: Presidency/FMOF"
+  },
+  {
+    "id": 173,
+    "category": "Current Affairs",
+    "question": "Which band experienced tariff adjustments to reflect cost‑reflective pricing in April 2024?",
+    "options": [
+      "Band A customers",
+      "Band E customers",
+      "Band C only",
+      "All bands equally"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Apr 2024 | Topic: Power Tariffs | Source: NERC"
+  },
+  {
+    "id": 174,
+    "category": "Current Affairs",
+    "question": "Which public health vaccine did Nigeria begin deploying to children in 2024 to fight malaria?",
+    "options": [
+      "R21/Matrix‑M",
+      "COVID‑19 bivalent boosters",
+      "HPV for boys",
+      "Ebola ZMapp"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Vaccination | Source: FMoH/UNICEF/WHO"
+  },
+  {
+    "id": 175,
+    "category": "Current Affairs",
+    "question": "Which telecom policy step did NCC enforce in March 2024 regarding SIMs?",
+    "options": [
+      "Bar unlinked lines lacking verified NIN",
+      "Enable anonymous SIMs",
+      "Allow unlimited SIM swaps",
+      "Suspend KYC"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Mar 2024 | Topic: Telecom/KYC | Source: NCC"
+  },
+  {
+    "id": 176,
+    "category": "Current Affairs",
+    "question": "Which Nigerian capital project resumed passenger services in May 2024 after prior suspension?",
+    "options": [
+      "Abuja Light Rail",
+      "Port Harcourt Monorail",
+      "Kano Metro",
+      "Enugu Tram"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: May 2024 | Topic: Transport | Source: FCTA"
+  },
+  {
+    "id": 177,
+    "category": "Current Affairs",
+    "question": "Which state‑owned oil firm remained Nigeria's national oil company during 2023–2025 reforms?",
+    "options": [
+      "NNPC Ltd",
+      "NOC Plc",
+      "PetroNigeria",
+      "NNPC Corp"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Energy | Source: NNPC Ltd"
+  },
+  {
+    "id": 178,
+    "category": "Current Affairs",
+    "question": "Which Nigerian Olympiad sport saw the Super Falcons qualify for Paris 2024?",
+    "options": [
+      "Football (women)",
+      "Basketball (women)",
+      "Volleyball (women)",
+      "Handball (women)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Apr 2024 | Topic: Sports/Olympics | Source: NFF/FIFA"
+  },
+  {
+    "id": 179,
+    "category": "Current Affairs",
+    "question": "Which consumer protection/market regulator oversees capital market conduct in Nigeria?",
+    "options": [
+      "SEC",
+      "CBN",
+      "NAICOM",
+      "SON"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Markets | Source: SEC"
+  },
+  {
+    "id": 180,
+    "category": "Current Affairs",
+    "question": "Which 2024 anthem decision restored Nigeria's independence‑era song?",
+    "options": [
+      "Reversion to 'Nigeria, We Hail Thee'",
+      "Adoption of a brand‑new anthem",
+      "Dual‑anthem policy",
+      "Regional anthems"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: May 2024 | Topic: National Symbols | Source: Act; BBC/Semafor coverage"
+  },
+  {
+    "id": 181,
+    "category": "Current Affairs",
+    "question": "Which federal statistics body publishes CPI and GDP data?",
+    "options": [
+      "NBS",
+      "NPC",
+      "FIRS",
+      "DPR"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Statistics | Source: NBS"
+  },
+  {
+    "id": 182,
+    "category": "Current Affairs",
+    "question": "Which federal commission regulates broadcasting content and licensing?",
+    "options": [
+      "NBC",
+      "NCC",
+      "NERC",
+      "NIMASA"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Media | Source: NBC"
+  },
+  {
+    "id": 183,
+    "category": "Current Affairs",
+    "question": "Which agency regulates insurance underwriting and brokers in Nigeria?",
+    "options": [
+      "NAICOM",
+      "SEC",
+      "NCC",
+      "SON"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Insurance | Source: NAICOM"
+  },
+  {
+    "id": 184,
+    "category": "Current Affairs",
+    "question": "Which apex bank circular in 2024 drove multiple upward adjustments of MPR?",
+    "options": [
+      "MPC communiqués",
+      "AML/CFT guidelines",
+      "BVN update circular",
+      "Cashless policy memo"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Monetary Policy | Source: CBN MPC"
+  },
+  {
+    "id": 185,
+    "category": "Current Affairs",
+    "question": "Which Nigerian mega‑refinery began diesel (gasoil) exports affecting EU/West Africa flows in 2024?",
+    "options": [
+      "Dangote Refinery",
+      "Port Harcourt Refinery",
+      "Warri Refinery",
+      "Kaduna Refinery"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Energy/Trade | Source: Reuters (Jul 1, 2024)"
+  },
+  {
+    "id": 186,
+    "category": "Current Affairs",
+    "question": "Which health agency coordinates national responses to Lassa fever, cholera, and diphtheria?",
+    "options": [
+      "NCDC",
+      "FMoH",
+      "NAFDAC",
+      "NHIA"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Public Health | Source: NCDC"
+  },
+  {
+    "id": 187,
+    "category": "Current Affairs",
+    "question": "Which government entity launched interest‑free student loans portal operations in 2024?",
+    "options": [
+      "NELFUND",
+      "TETFUND",
+      "SEEFOR",
+      "UBEC"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Education Finance | Source: NELFUND portal"
+  },
+  {
+    "id": 188,
+    "category": "Current Affairs",
+    "question": "Which federal act decentralised the power sector allowing states to regulate electricity markets?",
+    "options": [
+      "Electricity Act 2023",
+      "Power Sector Reform Act 2005",
+      "Energy Act 2010",
+      "IPP Act 2012"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2023 | Topic: Power Law | Source: Act; NERC"
+  },
+  {
+    "id": 189,
+    "category": "Current Affairs",
+    "question": "Which national ID partnership added payment functionality to the proposed multipurpose card in 2024?",
+    "options": [
+      "NIMC–CBN–NIBSS",
+      "NCC–SEC–NAICOM",
+      "NBS–FIRS–SON",
+      "NIS–NPC–FRSC"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Digital ID/Payments | Source: NIMC/CBN/NIBSS"
+  },
+  {
+    "id": 190,
+    "category": "Current Affairs",
+    "question": "Which policy goal under tariff reforms is to move towards cost‑reflective electricity pricing?",
+    "options": [
+      "Improve service reliability for Band A feeders",
+      "Eliminate meters",
+      "Ban embedded generation",
+      "Fix a single national tariff forever"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Power Tariffs | Source: NERC"
+  },
+  {
+    "id": 191,
+    "category": "Current Affairs",
+    "question": "Which agency runs the Consumer Credit Corporation launched in 2024?",
+    "options": [
+      "Federal Government (CREDICORP)",
+      "NCC",
+      "PenCom",
+      "NPA"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Consumer Finance | Source: Presidency"
+  },
+  {
+    "id": 192,
+    "category": "Current Affairs",
+    "question": "Which public safety incident in January 2024 led to policy reviews on explosives handling?",
+    "options": [
+      "Ibadan explosion",
+      "Lokoja flooding",
+      "Kano market fire",
+      "Abuja building collapse"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Jan 2024 | Topic: Public Safety | Source: Oyo State Govt; media"
+  },
+  {
+    "id": 193,
+    "category": "Current Affairs",
+    "question": "Which women's footballer transfer from Barcelona to Bay FC grabbed headlines in early 2024?",
+    "options": [
+      "Asisat Oshoala",
+      "Onome Ebi",
+      "Chiamaka Nnadozie",
+      "Uchenna Kanu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Feb 2024 | Topic: Sports Transfers | Source: Club announcement"
+  },
+  {
+    "id": 194,
+    "category": "Current Affairs",
+    "question": "Which government credit initiative was created to expand access to consumer loans in 2024?",
+    "options": [
+      "CREDICORP",
+      "TraderMoni",
+      "NIRSAL MFB only",
+      "YouWIN!"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Apr 2024 | Topic: Consumer Credit | Source: Presidency"
+  },
+  {
+    "id": 195,
+    "category": "Current Affairs",
+    "question": "Which transport link in Lagos was launched to decongest road traffic in March 2024?",
+    "options": [
+      "Red Line rail",
+      "Third Mainland expansion",
+      "Lekki Coastal tram",
+      "Oshodi cable car"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Mar 2024 | Topic: Urban Transport | Source: Lagos State Govt"
+  },
+  {
+    "id": 196,
+    "category": "Current Affairs",
+    "question": "Which FX levy policy was paused following public feedback in mid‑2024?",
+    "options": [
+      "0.5% cybersecurity levy on e‑transfers",
+      "5% telecom excise",
+      "Stamp duty 2%",
+      "Cash handling levy 10%"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: May–Jun 2024 | Topic: Banking Policy | Source: CBN/Presidency"
+  },
+  {
+    "id": 197,
+    "category": "Current Affairs",
+    "question": "Which sports team earned Nigeria a silver medal at AFCON 2023 (played in 2024)?",
+    "options": [
+      "Super Eagles",
+      "Super Falcons",
+      "Flying Eagles",
+      "Home‑based Eagles"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: Feb 2024 | Topic: Football | Source: CAF"
+  },
+  {
+    "id": 198,
+    "category": "Current Affairs",
+    "question": "Which regulatory commission oversees the electricity market reforms and tariffs?",
+    "options": [
+      "NERC",
+      "NCC",
+      "NBC",
+      "SEC"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Power Regulation | Source: NERC"
+  },
+  {
+    "id": 199,
+    "category": "Current Affairs",
+    "question": "Which initiative provides interest‑free student loans to Nigerian students in public institutions?",
+    "options": [
+      "NELFUND",
+      "TETFUND",
+      "UBEC",
+      "NSIA"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Education Finance | Source: Students Loans Act 2024; NELFUND"
+  },
+  {
+    "id": 200,
+    "category": "Current Affairs",
+    "question": "Which public procurement law continues to guide federal contracting processes?",
+    "options": [
+      "Public Procurement Act 2007",
+      "Fiscal Responsibility Act 2007",
+      "FOI Act 2011",
+      "NDPA 2023"
+    ],
+    "answerIndex": 0,
+    "explanation": "Month: 2024 | Topic: Governance | Source: BPP/Act"
+  }
+]

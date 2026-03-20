@@ -1,0 +1,2504 @@
+{
+  "statistics_questions": [
+    {
+      "question_no": 1,
+      "question": "In a sequential probability ratio test (SPRT), what happens to the Type I and Type II error probabilities as the sequential boundary becomes wider?",
+      "option_a": "Both decrease",
+      "option_b": "Both increase",
+      "option_c": "Type I increases, Type II decreases",
+      "option_d": "Type I decreases, Type II increases",
+      "correct_answer": "a",
+      "explanation": "Wider sequential boundaries in SPRT reduce both Type I and Type II error probabilities but require larger sample sizes to reach a decision."
+    },
+    {
+      "question_no": 2,
+      "question": "When using the Benjamini-Hochberg procedure for multiple comparisons with 100 tests and desired FDR of 0.05, what is the critical value for the 10th ordered p-value?",
+      "option_a": "0.0005",
+      "option_b": "0.005",
+      "option_c": "0.05",
+      "option_d": "0.5",
+      "correct_answer": "b",
+      "explanation": "The Benjamini-Hochberg critical value for the k-th ordered p-value is (k/m) \u00d7 \u03b1, so for k=10, m=100, \u03b1=0.05: (10/100) \u00d7 0.05 = 0.005."
+    },
+    {
+      "question_no": 3,
+      "question": "In a likelihood ratio test comparing nested models, if the test statistic follows a \u03c7\u00b2 distribution with 3 degrees of freedom and the observed value is 11.07, what is the approximate p-value?",
+      "option_a": "0.01",
+      "option_b": "0.025",
+      "option_c": "0.05",
+      "option_d": "0.10",
+      "correct_answer": "c",
+      "explanation": "For \u03c7\u00b2 with 3 df, the critical value for \u03b1=0.05 is 7.815. Since 11.07 > 7.815, p < 0.05. The exact p-value is approximately 0.011."
+    },
+    {
+      "question_no": 4,
+      "question": "What is the primary advantage of using a permutation test over a parametric test when the distributional assumptions are questionable?",
+      "option_a": "Higher statistical power",
+      "option_b": "Exact p-values regardless of distribution",
+      "option_c": "Smaller sample size requirements",
+      "option_d": "Faster computational speed",
+      "correct_answer": "b",
+      "explanation": "Permutation tests provide exact p-values by enumerating all possible rearrangements of the data, making no distributional assumptions."
+    },
+    {
+      "question_no": 5,
+      "question": "In a Bayesian hypothesis test using Bayes factors, if BF\u2081\u2080 = 5.2, what does this indicate?",
+      "option_a": "Strong evidence for H\u2081",
+      "option_b": "Moderate evidence for H\u2081",
+      "option_c": "Weak evidence for H\u2081",
+      "option_d": "Evidence for H\u2080",
+      "correct_answer": "b",
+      "explanation": "Bayes factors between 3-10 indicate moderate evidence for H\u2081, with 5.2 falling in this range."
+    },
+    {
+      "question_no": 6,
+      "question": "When conducting a test with the null hypothesis H\u2080: \u03bc = 100 and the observed sample mean is 105 with standard error 2.1, what is the 95% confidence interval for \u03bc?",
+      "option_a": "[100.9, 109.1]",
+      "option_b": "[100.9, 109.1]",
+      "option_c": "[100.9, 109.1]",
+      "option_d": "[100.9, 109.1]",
+      "correct_answer": "b",
+      "explanation": "95% CI = x\u0304 \u00b1 1.96\u00d7SE = 105 \u00b1 1.96\u00d72.1 = 105 \u00b1 4.116 = [100.884, 109.116]"
+    },
+    {
+      "question_no": 7,
+      "question": "In a one-sided t-test with \u03b1 = 0.05 and 20 degrees of freedom, what is the critical t-value?",
+      "option_a": "1.725",
+      "option_b": "2.086",
+      "option_c": "1.725",
+      "option_d": "2.528",
+      "correct_answer": "a",
+      "explanation": "For one-sided t-test with \u03b1 = 0.05 and df = 20, the critical value is t\u2080.\u2080\u2085,\u2082\u2080 = 1.725."
+    },
+    {
+      "question_no": 8,
+      "question": "What is the power of a test when the true mean is 2 standard errors away from the null hypothesis mean?",
+      "option_a": "0.50",
+      "option_b": "0.84",
+      "option_c": "0.95",
+      "option_d": "0.68",
+      "correct_answer": "b",
+      "explanation": "Power = P(Z > z\u2081\u208b\u03b1 - |\u03bc\u2081 - \u03bc\u2080|/\u03c3) = P(Z > 1.96 - 2) = P(Z > -0.04) \u2248 0.516 + 0.5 \u00d7 0.68 = 0.84"
+    },
+    {
+      "question_no": 9,
+      "question": "In a chi-square goodness-of-fit test with 5 categories and no parameters estimated, what are the degrees of freedom?",
+      "option_a": "4",
+      "option_b": "5",
+      "option_c": "3",
+      "option_d": "6",
+      "correct_answer": "a",
+      "explanation": "Degrees of freedom = k - 1 - p where k = number of categories, p = number of estimated parameters. Here: 5 - 1 - 0 = 4."
+    },
+    {
+      "question_no": 10,
+      "question": "When the p-value is 0.03 in a two-tailed test, what is the corresponding z-score approximately?",
+      "option_a": "1.88",
+      "option_b": "2.17",
+      "option_c": "1.96",
+      "option_d": "2.58",
+      "correct_answer": "b",
+      "explanation": "For two-tailed test, p = 0.03 means each tail has 0.015. The z-score for cumulative probability 0.985 is approximately 2.17."
+    },
+    {
+      "question_no": 11,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=25 and n\u2082=30, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 12,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=26 and n\u2082=31, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 13,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=27 and n\u2082=32, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 14,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=28 and n\u2082=33, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 15,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=29 and n\u2082=34, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 16,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=30 and n\u2082=35, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 17,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=31 and n\u2082=36, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 18,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=32 and n\u2082=37, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 19,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=33 and n\u2082=38, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 20,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=34 and n\u2082=39, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 21,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=35 and n\u2082=40, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 22,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=36 and n\u2082=41, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 23,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=37 and n\u2082=42, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 24,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=38 and n\u2082=43, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 25,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=39 and n\u2082=44, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 26,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=40 and n\u2082=45, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 27,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=41 and n\u2082=46, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 28,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=42 and n\u2082=47, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 29,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=43 and n\u2082=48, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 30,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=44 and n\u2082=49, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 31,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=45 and n\u2082=50, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 32,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=46 and n\u2082=51, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 33,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=47 and n\u2082=52, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 34,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=48 and n\u2082=53, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 35,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=49 and n\u2082=54, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 36,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=50 and n\u2082=55, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 37,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=51 and n\u2082=56, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 38,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=52 and n\u2082=57, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 39,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=53 and n\u2082=58, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 40,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=54 and n\u2082=59, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 41,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=55 and n\u2082=60, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 42,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=56 and n\u2082=61, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 43,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=57 and n\u2082=62, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 44,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=58 and n\u2082=63, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 45,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=59 and n\u2082=64, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 46,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=60 and n\u2082=65, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 47,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=61 and n\u2082=66, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 48,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=62 and n\u2082=67, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 49,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=63 and n\u2082=68, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 50,
+      "question": "In a Kolmogorov-Smirnov test comparing two samples of size n\u2081=64 and n\u2082=69, what affects the critical value most?",
+      "option_a": "The difference in sample means",
+      "option_b": "The ratio n\u2081/n\u2082",
+      "option_c": "The combined sample size n\u2081+n\u2082",
+      "option_d": "The individual sample sizes",
+      "correct_answer": "c",
+      "explanation": "The K-S test critical value depends primarily on the combined sample size through the formula c(\u03b1)\u221a((n\u2081+n\u2082)/(n\u2081n\u2082))."
+    },
+    {
+      "question_no": 51,
+      "question": "In a logistic regression model, if the odds ratio for a predictor is 0.85 with 95% CI [0.82, 0.88], what can be concluded?",
+      "option_a": "The predictor has no significant effect",
+      "option_b": "The predictor significantly decreases the odds",
+      "option_c": "The predictor significantly increases the odds",
+      "option_d": "The confidence interval is too wide for interpretation",
+      "correct_answer": "b",
+      "explanation": "OR = 0.85 < 1 and the entire CI is below 1, indicating the predictor significantly decreases the odds of the outcome."
+    },
+    {
+      "question_no": 52,
+      "question": "When multicollinearity is detected in a multiple regression model with VIF values around 8-10, what is the most appropriate action?",
+      "option_a": "Remove all correlated predictors",
+      "option_b": "Use ridge regression or principal component regression",
+      "option_c": "Increase the sample size",
+      "option_d": "Transform the response variable",
+      "correct_answer": "b",
+      "explanation": "VIF values of 8-10 indicate serious multicollinearity. Regularization methods like ridge regression or dimensionality reduction via PCR are appropriate solutions."
+    },
+    {
+      "question_no": 53,
+      "question": "In a Poisson regression model, if the dispersion parameter is estimated as 3.2, what does this indicate?",
+      "option_a": "Underdispersion",
+      "option_b": "Overdispersion",
+      "option_c": "Perfect Poisson fit",
+      "option_d": "Model misspecification",
+      "correct_answer": "b",
+      "explanation": "Dispersion parameter > 1 indicates overdispersion, meaning variance exceeds the mean, violating the Poisson assumption."
+    },
+    {
+      "question_no": 54,
+      "question": "What is the primary difference between fixed effects and random effects in mixed models?",
+      "option_a": "Fixed effects assume normality, random effects do not",
+      "option_b": "Fixed effects estimate specific levels, random effects estimate variance components",
+      "option_c": "Fixed effects are for continuous variables, random effects for categorical",
+      "option_d": "There is no meaningful difference",
+      "correct_answer": "b",
+      "explanation": "Fixed effects estimate parameters for specific levels of a factor, while random effects estimate the variance of the factor's effects across all possible levels."
+    },
+    {
+      "question_no": 55,
+      "question": "In a time series regression with autocorrelated errors, what is the consequence of using OLS instead of appropriate methods?",
+      "option_a": "Biased coefficient estimates",
+      "option_b": "Inefficient estimates with incorrect standard errors",
+      "option_c": "Higher R\u00b2 values",
+      "option_d": "Improved model fit",
+      "correct_answer": "b",
+      "explanation": "OLS estimates remain unbiased but become inefficient with autocorrelated errors, and standard errors are incorrectly estimated, affecting inference."
+    },
+    {
+      "question_no": 56,
+      "question": "In a polynomial regression of degree 2, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 57,
+      "question": "In a polynomial regression of degree 3, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 58,
+      "question": "In a polynomial regression of degree 4, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 59,
+      "question": "In a polynomial regression of degree 5, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 60,
+      "question": "In a polynomial regression of degree 6, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 61,
+      "question": "In a polynomial regression of degree 7, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 62,
+      "question": "In a polynomial regression of degree 8, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 63,
+      "question": "In a polynomial regression of degree 9, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 64,
+      "question": "In a polynomial regression of degree 10, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 65,
+      "question": "In a polynomial regression of degree 11, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 66,
+      "question": "In a polynomial regression of degree 12, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 67,
+      "question": "In a polynomial regression of degree 13, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 68,
+      "question": "In a polynomial regression of degree 14, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 69,
+      "question": "In a polynomial regression of degree 15, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 70,
+      "question": "In a polynomial regression of degree 16, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 71,
+      "question": "In a polynomial regression of degree 17, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 72,
+      "question": "In a polynomial regression of degree 18, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 73,
+      "question": "In a polynomial regression of degree 19, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 74,
+      "question": "In a polynomial regression of degree 20, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 75,
+      "question": "In a polynomial regression of degree 21, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 76,
+      "question": "In a polynomial regression of degree 22, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 77,
+      "question": "In a polynomial regression of degree 23, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 78,
+      "question": "In a polynomial regression of degree 24, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 79,
+      "question": "In a polynomial regression of degree 25, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 80,
+      "question": "In a polynomial regression of degree 26, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 81,
+      "question": "In a polynomial regression of degree 27, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 82,
+      "question": "In a polynomial regression of degree 28, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 83,
+      "question": "In a polynomial regression of degree 29, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 84,
+      "question": "In a polynomial regression of degree 30, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 85,
+      "question": "In a polynomial regression of degree 31, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 86,
+      "question": "In a polynomial regression of degree 32, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 87,
+      "question": "In a polynomial regression of degree 33, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 88,
+      "question": "In a polynomial regression of degree 34, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 89,
+      "question": "In a polynomial regression of degree 35, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 90,
+      "question": "In a polynomial regression of degree 36, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 91,
+      "question": "In a polynomial regression of degree 37, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 92,
+      "question": "In a polynomial regression of degree 38, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 93,
+      "question": "In a polynomial regression of degree 39, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 94,
+      "question": "In a polynomial regression of degree 40, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 95,
+      "question": "In a polynomial regression of degree 41, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 96,
+      "question": "In a polynomial regression of degree 42, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 97,
+      "question": "In a polynomial regression of degree 43, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 98,
+      "question": "In a polynomial regression of degree 44, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 99,
+      "question": "In a polynomial regression of degree 45, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 100,
+      "question": "In a polynomial regression of degree 46, what is the primary concern when interpreting coefficients?",
+      "option_a": "Multicollinearity between terms",
+      "option_b": "Non-normal residuals",
+      "option_c": "Heteroscedasticity",
+      "option_d": "Autocorrelation",
+      "correct_answer": "a",
+      "explanation": "Polynomial terms are highly correlated with each other, leading to multicollinearity issues that make individual coefficient interpretation difficult."
+    },
+    {
+      "question_no": 101,
+      "question": "If X ~ Gamma(\u03b1=2, \u03b2=3) and Y ~ Gamma(\u03b1=3, \u03b2=3) are independent, what is the distribution of X + Y?",
+      "option_a": "Gamma(5, 3)",
+      "option_b": "Gamma(5, 6)",
+      "option_c": "Gamma(6, 3)",
+      "option_d": "Gamma(2, 6)",
+      "correct_answer": "a",
+      "explanation": "The sum of independent Gamma distributions with the same rate parameter \u03b2 is Gamma(\u03b1\u2081+\u03b1\u2082, \u03b2), so X+Y ~ Gamma(2+3, 3) = Gamma(5, 3)."
+    },
+    {
+      "question_no": 102,
+      "question": "In a bivariate normal distribution with correlation \u03c1 = 0.6, what is the conditional variance of Y given X = x?",
+      "option_a": "\u03c3\u00b2\u1d67(1 - \u03c1\u00b2)",
+      "option_b": "\u03c3\u00b2\u1d67(1 + \u03c1\u00b2)",
+      "option_c": "\u03c3\u00b2\u1d67/\u03c1\u00b2",
+      "option_d": "\u03c3\u00b2\u1d67\u03c1\u00b2",
+      "correct_answer": "a",
+      "explanation": "For bivariate normal, Var(Y|X=x) = \u03c3\u00b2\u1d67(1 - \u03c1\u00b2), which equals \u03c3\u00b2\u1d67(1 - 0.36) = 0.64\u03c3\u00b2\u1d67 when \u03c1 = 0.6."
+    },
+    {
+      "question_no": 103,
+      "question": "If Z\u2081, Z\u2082, ..., Z\u2096 are i.i.d. standard normal, what is the distribution of Z\u2081\u00b2 + Z\u2082\u00b2 + ... + Z\u2096\u00b2?",
+      "option_a": "N(0, k)",
+      "option_b": "\u03c7\u00b2(k)",
+      "option_c": "\u03c7\u00b2(k-1)",
+      "option_d": "Gamma(k/2, 1/2)",
+      "correct_answer": "b",
+      "explanation": "The sum of squares of k independent standard normal variables follows a chi-squared distribution with k degrees of freedom."
+    },
+    {
+      "question_no": 104,
+      "question": "For a negative binomial distribution with r = 3 and p = 0.4, what is the variance?",
+      "option_a": "3 \u00d7 0.4 / 0.6",
+      "option_b": "3 \u00d7 0.6 / 0.4\u00b2",
+      "option_c": "3 \u00d7 0.4\u00b2 / 0.6",
+      "option_d": "3 \u00d7 0.6\u00b2 / 0.4",
+      "correct_answer": "b",
+      "explanation": "For negative binomial: Var(X) = r(1-p)/p\u00b2 = 3 \u00d7 0.6 / 0.4\u00b2 = 3 \u00d7 0.6 / 0.16 = 11.25."
+    },
+    {
+      "question_no": 105,
+      "question": "In a Dirichlet distribution with parameters \u03b1\u2081=2, \u03b1\u2082=3, \u03b1\u2083=5, what is the expected proportion for the second component?",
+      "option_a": "3/10",
+      "option_b": "3/5",
+      "option_c": "2/10",
+      "option_d": "5/10",
+      "correct_answer": "a",
+      "explanation": "For Dirichlet(\u03b1\u2081, \u03b1\u2082, ..., \u03b1\u2096), E[X\u1d62] = \u03b1\u1d62 / \u03a3\u03b1\u2c7c. Here, E[X\u2082] = 3/(2+3+5) = 3/10."
+    },
+    {
+      "question_no": 106,
+      "question": "If X ~ Beta(1, 3), what is the expected value of X?",
+      "option_a": "1/4",
+      "option_b": "3/4",
+      "option_c": "1/3",
+      "option_d": "3/1",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 107,
+      "question": "If X ~ Beta(2, 4), what is the expected value of X?",
+      "option_a": "2/5",
+      "option_b": "4/5",
+      "option_c": "2/4",
+      "option_d": "4/2",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 108,
+      "question": "If X ~ Beta(3, 5), what is the expected value of X?",
+      "option_a": "3/6",
+      "option_b": "5/6",
+      "option_c": "3/5",
+      "option_d": "5/3",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 109,
+      "question": "If X ~ Beta(4, 6), what is the expected value of X?",
+      "option_a": "4/7",
+      "option_b": "6/7",
+      "option_c": "4/6",
+      "option_d": "6/4",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 110,
+      "question": "If X ~ Beta(5, 7), what is the expected value of X?",
+      "option_a": "5/8",
+      "option_b": "7/8",
+      "option_c": "5/7",
+      "option_d": "7/5",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 111,
+      "question": "If X ~ Beta(6, 8), what is the expected value of X?",
+      "option_a": "6/9",
+      "option_b": "8/9",
+      "option_c": "6/8",
+      "option_d": "8/6",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 112,
+      "question": "If X ~ Beta(7, 9), what is the expected value of X?",
+      "option_a": "7/10",
+      "option_b": "9/10",
+      "option_c": "7/9",
+      "option_d": "9/7",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 113,
+      "question": "If X ~ Beta(8, 10), what is the expected value of X?",
+      "option_a": "8/11",
+      "option_b": "10/11",
+      "option_c": "8/10",
+      "option_d": "10/8",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 114,
+      "question": "If X ~ Beta(9, 11), what is the expected value of X?",
+      "option_a": "9/12",
+      "option_b": "11/12",
+      "option_c": "9/11",
+      "option_d": "11/9",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 115,
+      "question": "If X ~ Beta(10, 12), what is the expected value of X?",
+      "option_a": "10/13",
+      "option_b": "12/13",
+      "option_c": "10/12",
+      "option_d": "12/10",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 116,
+      "question": "If X ~ Beta(11, 13), what is the expected value of X?",
+      "option_a": "11/14",
+      "option_b": "13/14",
+      "option_c": "11/13",
+      "option_d": "13/11",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 117,
+      "question": "If X ~ Beta(12, 14), what is the expected value of X?",
+      "option_a": "12/15",
+      "option_b": "14/15",
+      "option_c": "12/14",
+      "option_d": "14/12",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 118,
+      "question": "If X ~ Beta(13, 15), what is the expected value of X?",
+      "option_a": "13/16",
+      "option_b": "15/16",
+      "option_c": "13/15",
+      "option_d": "15/13",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 119,
+      "question": "If X ~ Beta(14, 16), what is the expected value of X?",
+      "option_a": "14/17",
+      "option_b": "16/17",
+      "option_c": "14/16",
+      "option_d": "16/14",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 120,
+      "question": "If X ~ Beta(15, 17), what is the expected value of X?",
+      "option_a": "15/18",
+      "option_b": "17/18",
+      "option_c": "15/17",
+      "option_d": "17/15",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 121,
+      "question": "If X ~ Beta(16, 18), what is the expected value of X?",
+      "option_a": "16/19",
+      "option_b": "18/19",
+      "option_c": "16/18",
+      "option_d": "18/16",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 122,
+      "question": "If X ~ Beta(17, 19), what is the expected value of X?",
+      "option_a": "17/20",
+      "option_b": "19/20",
+      "option_c": "17/19",
+      "option_d": "19/17",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 123,
+      "question": "If X ~ Beta(18, 20), what is the expected value of X?",
+      "option_a": "18/21",
+      "option_b": "20/21",
+      "option_c": "18/20",
+      "option_d": "20/18",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 124,
+      "question": "If X ~ Beta(19, 21), what is the expected value of X?",
+      "option_a": "19/22",
+      "option_b": "21/22",
+      "option_c": "19/21",
+      "option_d": "21/19",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 125,
+      "question": "If X ~ Beta(20, 22), what is the expected value of X?",
+      "option_a": "20/23",
+      "option_b": "22/23",
+      "option_c": "20/22",
+      "option_d": "22/20",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 126,
+      "question": "If X ~ Beta(21, 23), what is the expected value of X?",
+      "option_a": "21/24",
+      "option_b": "23/24",
+      "option_c": "21/23",
+      "option_d": "23/21",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 127,
+      "question": "If X ~ Beta(22, 24), what is the expected value of X?",
+      "option_a": "22/25",
+      "option_b": "24/25",
+      "option_c": "22/24",
+      "option_d": "24/22",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 128,
+      "question": "If X ~ Beta(23, 25), what is the expected value of X?",
+      "option_a": "23/26",
+      "option_b": "25/26",
+      "option_c": "23/25",
+      "option_d": "25/23",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 129,
+      "question": "If X ~ Beta(24, 26), what is the expected value of X?",
+      "option_a": "24/27",
+      "option_b": "26/27",
+      "option_c": "24/26",
+      "option_d": "26/24",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 130,
+      "question": "If X ~ Beta(25, 27), what is the expected value of X?",
+      "option_a": "25/28",
+      "option_b": "27/28",
+      "option_c": "25/27",
+      "option_d": "27/25",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 131,
+      "question": "If X ~ Beta(26, 28), what is the expected value of X?",
+      "option_a": "26/29",
+      "option_b": "28/29",
+      "option_c": "26/28",
+      "option_d": "28/26",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 132,
+      "question": "If X ~ Beta(27, 29), what is the expected value of X?",
+      "option_a": "27/30",
+      "option_b": "29/30",
+      "option_c": "27/29",
+      "option_d": "29/27",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 133,
+      "question": "If X ~ Beta(28, 30), what is the expected value of X?",
+      "option_a": "28/31",
+      "option_b": "30/31",
+      "option_c": "28/30",
+      "option_d": "30/28",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 134,
+      "question": "If X ~ Beta(29, 31), what is the expected value of X?",
+      "option_a": "29/32",
+      "option_b": "31/32",
+      "option_c": "29/31",
+      "option_d": "31/29",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 135,
+      "question": "If X ~ Beta(30, 32), what is the expected value of X?",
+      "option_a": "30/33",
+      "option_b": "32/33",
+      "option_c": "30/32",
+      "option_d": "32/30",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 136,
+      "question": "If X ~ Beta(31, 33), what is the expected value of X?",
+      "option_a": "31/34",
+      "option_b": "33/34",
+      "option_c": "31/33",
+      "option_d": "33/31",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 137,
+      "question": "If X ~ Beta(32, 34), what is the expected value of X?",
+      "option_a": "32/35",
+      "option_b": "34/35",
+      "option_c": "32/34",
+      "option_d": "34/32",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 138,
+      "question": "If X ~ Beta(33, 35), what is the expected value of X?",
+      "option_a": "33/36",
+      "option_b": "35/36",
+      "option_c": "33/35",
+      "option_d": "35/33",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 139,
+      "question": "If X ~ Beta(34, 36), what is the expected value of X?",
+      "option_a": "34/37",
+      "option_b": "36/37",
+      "option_c": "34/36",
+      "option_d": "36/34",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 140,
+      "question": "If X ~ Beta(35, 37), what is the expected value of X?",
+      "option_a": "35/38",
+      "option_b": "37/38",
+      "option_c": "35/37",
+      "option_d": "37/35",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 141,
+      "question": "If X ~ Beta(36, 38), what is the expected value of X?",
+      "option_a": "36/39",
+      "option_b": "38/39",
+      "option_c": "36/38",
+      "option_d": "38/36",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 142,
+      "question": "If X ~ Beta(37, 39), what is the expected value of X?",
+      "option_a": "37/40",
+      "option_b": "39/40",
+      "option_c": "37/39",
+      "option_d": "39/37",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 143,
+      "question": "If X ~ Beta(38, 40), what is the expected value of X?",
+      "option_a": "38/41",
+      "option_b": "40/41",
+      "option_c": "38/40",
+      "option_d": "40/38",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 144,
+      "question": "If X ~ Beta(39, 41), what is the expected value of X?",
+      "option_a": "39/42",
+      "option_b": "41/42",
+      "option_c": "39/41",
+      "option_d": "41/39",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 145,
+      "question": "If X ~ Beta(40, 42), what is the expected value of X?",
+      "option_a": "40/43",
+      "option_b": "42/43",
+      "option_c": "40/42",
+      "option_d": "42/40",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 146,
+      "question": "If X ~ Beta(41, 43), what is the expected value of X?",
+      "option_a": "41/44",
+      "option_b": "43/44",
+      "option_c": "41/43",
+      "option_d": "43/41",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 147,
+      "question": "If X ~ Beta(42, 44), what is the expected value of X?",
+      "option_a": "42/45",
+      "option_b": "44/45",
+      "option_c": "42/44",
+      "option_d": "44/42",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 148,
+      "question": "If X ~ Beta(43, 45), what is the expected value of X?",
+      "option_a": "43/46",
+      "option_b": "45/46",
+      "option_c": "43/45",
+      "option_d": "45/43",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 149,
+      "question": "If X ~ Beta(44, 46), what is the expected value of X?",
+      "option_a": "44/47",
+      "option_b": "46/47",
+      "option_c": "44/46",
+      "option_d": "46/44",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 150,
+      "question": "If X ~ Beta(45, 47), what is the expected value of X?",
+      "option_a": "45/48",
+      "option_b": "47/48",
+      "option_c": "45/47",
+      "option_d": "47/45",
+      "correct_answer": "a",
+      "explanation": "For Beta(\u03b1, \u03b2), E[X] = \u03b1/(\u03b1+\u03b2). Here, E[X] = (i+1)/((i+1)+(i+3)) = (i+1)/(2i+4)."
+    },
+    {
+      "question_no": 151,
+      "question": "In Bayesian analysis, if the prior is N(0, 1) and likelihood is N(\u03b8, 0.5), what is the posterior variance?",
+      "option_a": "1/3",
+      "option_b": "1/2",
+      "option_c": "2/3",
+      "option_d": "3/4",
+      "correct_answer": "a",
+      "explanation": "Posterior variance = 1/(1/\u03c3\u00b2\u2080 + 1/\u03c3\u00b2\u2081) = 1/(1/1 + 1/0.5) = 1/(1 + 2) = 1/3."
+    },
+    {
+      "question_no": 152,
+      "question": "For a binomial likelihood with Beta(1,1) prior, after observing 8 successes in 20 trials, what is the posterior mean?",
+      "option_a": "8/20",
+      "option_b": "9/22",
+      "option_c": "7/18",
+      "option_d": "8/21",
+      "correct_answer": "b",
+      "explanation": "Beta(\u03b1+x, \u03b2+n-x) = Beta(1+8, 1+20-8) = Beta(9, 13). Posterior mean = 9/(9+13) = 9/22."
+    },
+    {
+      "question_no": 153,
+      "question": "In MCMC sampling, what does the acceptance rate of 23% in Metropolis-Hastings algorithm suggest?",
+      "option_a": "Optimal efficiency",
+      "option_b": "Chain is not mixing well",
+      "option_c": "Too many rejections, need wider proposals",
+      "option_d": "Perfect convergence",
+      "correct_answer": "b",
+      "explanation": "Acceptance rates of 20-40% are often considered optimal for Metropolis-Hastings. 23% suggests good mixing and exploration of the parameter space."
+    },
+    {
+      "question_no": 154,
+      "question": "What is the Jeffreys prior for the variance parameter \u03c3\u00b2 in a normal distribution?",
+      "option_a": "1/\u03c3\u00b2",
+      "option_b": "1/\u03c3",
+      "option_c": "\u03c3\u00b2",
+      "option_d": "1",
+      "correct_answer": "a",
+      "explanation": "Jeffreys prior for \u03c3\u00b2 is proportional to 1/\u03c3\u00b2, which is invariant under reparameterization and represents ignorance about the scale parameter."
+    },
+    {
+      "question_no": 155,
+      "question": "In a hierarchical Bayesian model, what is the purpose of hyperpriors?",
+      "option_a": "To reduce computational complexity",
+      "option_b": "To model uncertainty in prior parameters",
+      "option_c": "To ensure conjugacy",
+      "option_d": "To eliminate the need for MCMC",
+      "correct_answer": "b",
+      "explanation": "Hyperpriors place priors on the parameters of the prior distribution, allowing the model to learn about and account for uncertainty in prior specifications."
+    },
+    {
+      "question_no": 156,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 0.2, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 157,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 0.3, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 158,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 0.4, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 159,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 0.5, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 160,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 0.6, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 161,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 0.7, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 162,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 0.8, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 163,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 0.9, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 164,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 1.0, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 165,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 1.1, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 166,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 1.2, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 167,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 1.3, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 168,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 1.4, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 169,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 1.5, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 170,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 1.6, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 171,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 1.7, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 172,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 1.8, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 173,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 1.9, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 174,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 2.0, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 175,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 2.1, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 176,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 2.2, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 177,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 2.3, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 178,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 2.4, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 179,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 2.5, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 180,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 2.6, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 181,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 2.7, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 182,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 2.8, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 183,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 2.9, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 184,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 3.0, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 185,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 3.1, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 186,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 3.2, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 187,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 3.3, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 188,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 3.4, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 189,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 3.5, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 190,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 3.6, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 191,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 3.7, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 192,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 3.8, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 193,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 3.9, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 194,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 4.0, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 195,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 4.1, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 196,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 4.2, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 197,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 4.3, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 198,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 4.4, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 199,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 4.5, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 200,
+      "question": "For a normal likelihood with known variance and normal prior, if posterior variance is 4.6, what does this indicate about prior-likelihood agreement?",
+      "option_a": "Strong disagreement between prior and likelihood",
+      "option_b": "Moderate agreement between prior and likelihood",
+      "option_c": "Strong agreement between prior and likelihood",
+      "option_d": "Cannot determine without more information",
+      "correct_answer": "c",
+      "explanation": "Smaller posterior variance indicates that prior and likelihood are in agreement, as the data supports the prior information."
+    },
+    {
+      "question_no": 201,
+      "question": "In a fractional factorial design with 4 factors at 2 levels using a 2\u2074\u207b\u00b9 design, what is the defining relation?",
+      "option_a": "I = ABCD",
+      "option_b": "I = ABC",
+      "option_c": "I = ABD",
+      "option_d": "I = AC",
+      "correct_answer": "a",
+      "explanation": "In a 2\u2074\u207b\u00b9 fractional factorial, the defining relation is I = ABCD, which means the design is resolution IV and main effects are confounded with 3-factor interactions."
+    },
+    {
+      "question_no": 202,
+      "question": "For stratified sampling with 3 strata of sizes N\u2081=100, N\u2082=200, N\u2083=300 and standard deviations S\u2081=10, S\u2082=15, S\u2083=20, what is the optimal allocation for a total sample of 120?",
+      "option_a": "Proportional to stratum sizes",
+      "option_b": "Proportional to N\u1d62S\u1d62",
+      "option_c": "Equal allocation across strata",
+      "option_d": "Proportional to S\u1d62\u00b2",
+      "correct_answer": "b",
+      "explanation": "Optimal (Neyman) allocation is proportional to N\u1d62S\u1d62: n\u1d62 = n \u00d7 (N\u1d62S\u1d62)/\u03a3(N\u2c7cS\u2c7c). Here: n\u2081=17, n\u2082=35, n\u2083=68."
+    },
+    {
+      "question_no": 203,
+      "question": "In a crossover design with potential carryover effects, what is the primary advantage of using a Latin square arrangement?",
+      "option_a": "Eliminates period effects",
+      "option_b": "Balances carryover effects across treatments",
+      "option_c": "Reduces sample size requirements",
+      "option_d": "Simplifies statistical analysis",
+      "correct_answer": "b",
+      "explanation": "Latin square designs ensure each treatment follows every other treatment equally often, balancing potential carryover effects."
+    },
+    {
+      "question_no": 204,
+      "question": "For a response surface design near an optimum, what design is most efficient for fitting a second-order model?",
+      "option_a": "2\u1d4f factorial",
+      "option_b": "Central composite design",
+      "option_c": "Plackett-Burman design",
+      "option_d": "Randomized block design",
+      "correct_answer": "b",
+      "explanation": "Central composite designs provide efficient estimation of second-order response surface models with fewer runs than full factorial designs."
+    },
+    {
+      "question_no": 205,
+      "question": "In cluster sampling with equal cluster sizes, if the intraclass correlation is 0.3, what does this indicate about design efficiency?",
+      "option_a": "Clusters are more efficient than simple random sampling",
+      "option_b": "Clusters are less efficient than simple random sampling",
+      "option_c": "Clusters have the same efficiency as SRS",
+      "option_d": "Cannot determine without cluster size",
+      "correct_answer": "b",
+      "explanation": "Positive intraclass correlation (\u03c1 > 0) indicates that observations within clusters are similar, making cluster sampling less efficient than simple random sampling."
+    },
+    {
+      "question_no": 206,
+      "question": "In a blocked experiment with 2 blocks and 3 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 207,
+      "question": "In a blocked experiment with 3 blocks and 4 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 208,
+      "question": "In a blocked experiment with 4 blocks and 5 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 209,
+      "question": "In a blocked experiment with 5 blocks and 6 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 210,
+      "question": "In a blocked experiment with 6 blocks and 7 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 211,
+      "question": "In a blocked experiment with 7 blocks and 8 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 212,
+      "question": "In a blocked experiment with 8 blocks and 9 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 213,
+      "question": "In a blocked experiment with 9 blocks and 10 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 214,
+      "question": "In a blocked experiment with 10 blocks and 11 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 215,
+      "question": "In a blocked experiment with 11 blocks and 12 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 216,
+      "question": "In a blocked experiment with 12 blocks and 13 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 217,
+      "question": "In a blocked experiment with 13 blocks and 14 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 218,
+      "question": "In a blocked experiment with 14 blocks and 15 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 219,
+      "question": "In a blocked experiment with 15 blocks and 16 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 220,
+      "question": "In a blocked experiment with 16 blocks and 17 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 221,
+      "question": "In a blocked experiment with 17 blocks and 18 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 222,
+      "question": "In a blocked experiment with 18 blocks and 19 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 223,
+      "question": "In a blocked experiment with 19 blocks and 20 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 224,
+      "question": "In a blocked experiment with 20 blocks and 21 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 225,
+      "question": "In a blocked experiment with 21 blocks and 22 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 226,
+      "question": "In a blocked experiment with 22 blocks and 23 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 227,
+      "question": "In a blocked experiment with 23 blocks and 24 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 228,
+      "question": "In a blocked experiment with 24 blocks and 25 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 229,
+      "question": "In a blocked experiment with 25 blocks and 26 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 230,
+      "question": "In a blocked experiment with 26 blocks and 27 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 231,
+      "question": "In a blocked experiment with 27 blocks and 28 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 232,
+      "question": "In a blocked experiment with 28 blocks and 29 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 233,
+      "question": "In a blocked experiment with 29 blocks and 30 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 234,
+      "question": "In a blocked experiment with 30 blocks and 31 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 235,
+      "question": "In a blocked experiment with 31 blocks and 32 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 236,
+      "question": "In a blocked experiment with 32 blocks and 33 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 237,
+      "question": "In a blocked experiment with 33 blocks and 34 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 238,
+      "question": "In a blocked experiment with 34 blocks and 35 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 239,
+      "question": "In a blocked experiment with 35 blocks and 36 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 240,
+      "question": "In a blocked experiment with 36 blocks and 37 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 241,
+      "question": "In a blocked experiment with 37 blocks and 38 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 242,
+      "question": "In a blocked experiment with 38 blocks and 39 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 243,
+      "question": "In a blocked experiment with 39 blocks and 40 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 244,
+      "question": "In a blocked experiment with 40 blocks and 41 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 245,
+      "question": "In a blocked experiment with 41 blocks and 42 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 246,
+      "question": "In a blocked experiment with 42 blocks and 43 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 247,
+      "question": "In a blocked experiment with 43 blocks and 44 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 248,
+      "question": "In a blocked experiment with 44 blocks and 45 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 249,
+      "question": "In a blocked experiment with 45 blocks and 46 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    },
+    {
+      "question_no": 250,
+      "question": "In a blocked experiment with 46 blocks and 47 treatments, what is the primary purpose of blocking?",
+      "option_a": "To increase the number of treatments",
+      "option_b": "To reduce unexplained variation",
+      "option_c": "To test interaction effects",
+      "option_d": "To simplify the analysis",
+      "correct_answer": "b",
+      "explanation": "Blocking groups similar experimental units together to reduce unexplained variation and increase the precision of treatment comparisons."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+export type User = { email: string; premium: boolean; role?: string }
+export type Question = { id: number; category: string; question: string; options: string[]; answerIndex: number; explanation?: string }
+export const CADRES = [
+  { key: 'current-affairs', label: 'Current Affairs (Free)' },
+  { key: 'accounting', label: 'Accounting' },
+  { key: 'administrative-officers', label: 'Administrative Officers' },
+  { key: 'audit', label: 'Audit' },
+  { key: 'culture-and-tourism', label: 'Culture and Tourism' },
+  { key: 'education', label: 'Education' },
+  { key: 'electrical-engineering', label: 'Electrical Engineering' },
+  { key: 'mechanical-engineering', label: 'Mechanical Engineering' },
+  { key: 'engineering', label: 'Engineering' },
+  { key: 'foreign-affairs', label: 'Foreign Affairs' },
+  { key: 'health', label: 'Health' },
+  { key: 'human-resources', label: 'Human Resources' },
+  { key: 'legal', label: 'Legal' },
+  { key: 'program-analyst', label: 'Program Analyst' },
+  { key: 'solid-mineral-development', label: 'Solid Mineral Development' },
+  { key: 'statistics', label: 'Statistics' },
+  { key: 'town-planners', label: 'Town Planners' },
+  { key: 'works-housing', label: 'Works / Housing' },
+  { key: 'financial-regulation', label: 'Financial Regulation' },
+  { key: 'civil-service-rule-general', label: 'Civil Service Rule (General)' },
+  { key: 'procurement', label: 'Procurement' },
+] as const

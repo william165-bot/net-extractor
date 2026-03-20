@@ -1,0 +1,4252 @@
+[
+  {
+    "id": "adv_human-resources_0001",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Job analysis refers to?",
+    "options": [
+      "exit interview only",
+      "systematic study of duties, responsibilities, requirements",
+      "org chart only",
+      "salary survey only"
+    ],
+    "answerIndex": 1,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0005",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Competency framework refers to?",
+    "options": [
+      "cluster of knowledge, skills, behaviors for roles",
+      "salary bands",
+      "attendance policy",
+      "org design only"
+    ],
+    "answerIndex": 0,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0009",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Validity in selection refers to?",
+    "options": [
+      "recruiter preference",
+      "test difficulty only",
+      "face validity only",
+      "degree test predicts job performance"
+    ],
+    "answerIndex": 3,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0013",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Performance management refers to?",
+    "options": [
+      "recruitment only",
+      "goal setting, feedback, appraisal, development",
+      "discipline only",
+      "annual pay only"
+    ],
+    "answerIndex": 1,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0017",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Balanced scorecard HR refers to?",
+    "options": [
+      "align HR metrics across perspectives",
+      "payroll ledger",
+      "headcount only",
+      "leave request count"
+    ],
+    "answerIndex": 0,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0021",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Broadbanding refers to?",
+    "options": [
+      "fewer wider pay bands for flexibility",
+      "pay freezes",
+      "tight grades only",
+      "skill-based pay only"
+    ],
+    "answerIndex": 0,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0025",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Training needs analysis refers to?",
+    "options": [
+      "post-training survey only",
+      "budget variance only",
+      "identify gaps between current and desired competence",
+      "talent inventory only"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0029",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Succession planning refers to?",
+    "options": [
+      "retire early only",
+      "identify/develop internal talent for key roles",
+      "external hire always",
+      "freeze promotions"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0033",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Engagement drivers refers to?",
+    "options": [
+      "canteen menu",
+      "office color",
+      "meaning, autonomy, growth, recognition",
+      "holiday dates only"
+    ],
+    "answerIndex": 2,
+    "explanation": "meaning, autonomy, growth, recognition"
+  },
+  {
+    "id": "adv_human-resources_0037",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Industrial relations grievance refers to?",
+    "options": [
+      "skip procedure",
+      "casual chat only",
+      "discipline without hearing",
+      "formal complaint process and resolution"
+    ],
+    "answerIndex": 3,
+    "explanation": "formal complaint process and resolution"
+  },
+  {
+    "id": "adv_human-resources_0001_vluve",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: In HR, Job analysis refers to?",
+    "options": [
+      "salary survey only (typically)",
+      "systematic study of duties, responsibilities, requirements",
+      "exit interview only (policy)",
+      "org chart only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0001_vmw3m",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Within HR, Job analysis refers to?",
+    "options": [
+      "org chart only (theory)",
+      "exit interview only — concept",
+      "salary survey only (policy)",
+      "systematic study of duties, responsibilities, requirements"
+    ],
+    "answerIndex": 3,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0001_v409g",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: In HR, Job analysis refers to?",
+    "options": [
+      "systematic study of duties, responsibilities, requirements",
+      "salary survey only (theory)",
+      "exit interview only — in practice",
+      "org chart only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0001_vpxru",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Job analysis refers to? Select the best option.",
+    "options": [
+      "salary survey only (framework)",
+      "exit interview only (framework)",
+      "org chart only (policy)",
+      "systematic study of duties, responsibilities, requirements"
+    ],
+    "answerIndex": 3,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0001_virq0",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Job analysis refers to? Choose the most accurate answer.",
+    "options": [
+      "salary survey only (typically)",
+      "exit interview only (typically)",
+      "systematic study of duties, responsibilities, requirements",
+      "org chart only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0001_vap5o",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: In HR, Job analysis refers to?",
+    "options": [
+      "salary survey only — concept",
+      "systematic study of duties, responsibilities, requirements",
+      "exit interview only (advanced)",
+      "org chart only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0001_v1sxq",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: In HR, Job analysis refers to?",
+    "options": [
+      "salary survey only — in practice",
+      "org chart only — in practice",
+      "systematic study of duties, responsibilities, requirements",
+      "exit interview only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0002_vld9d",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Job analysis?",
+    "options": [
+      "org chart only (policy)",
+      "salary survey only — in practice",
+      "exit interview only (typically)",
+      "systematic study of duties, responsibilities, requirements"
+    ],
+    "answerIndex": 3,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0002_v7fy9",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Job analysis?",
+    "options": [
+      "salary survey only (framework)",
+      "systematic study of duties, responsibilities, requirements",
+      "exit interview only — in practice",
+      "org chart only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0002_vfxoe",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Job analysis?",
+    "options": [
+      "salary survey only — in practice",
+      "systematic study of duties, responsibilities, requirements",
+      "org chart only — in practice",
+      "exit interview only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0002_vwo1k",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Job analysis?",
+    "options": [
+      "org chart only (advanced)",
+      "exit interview only — concept",
+      "systematic study of duties, responsibilities, requirements",
+      "salary survey only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0002_v6sc4",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Job analysis? Select the best option.",
+    "options": [
+      "salary survey only (framework)",
+      "org chart only (typically)",
+      "systematic study of duties, responsibilities, requirements",
+      "exit interview only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0002_v4won",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Job analysis? Choose the most accurate answer.",
+    "options": [
+      "systematic study of duties, responsibilities, requirements",
+      "exit interview only — in practice",
+      "org chart only (policy)",
+      "salary survey only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0002_vmmuu",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Job analysis?",
+    "options": [
+      "salary survey only (theory)",
+      "org chart only — in practice",
+      "exit interview only — concept",
+      "systematic study of duties, responsibilities, requirements"
+    ],
+    "answerIndex": 3,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0002_vi5ma",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Job analysis?",
+    "options": [
+      "systematic study of duties, responsibilities, requirements",
+      "salary survey only — in practice",
+      "exit interview only (policy)",
+      "org chart only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0002_vd2s5",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Job analysis?",
+    "options": [
+      "systematic study of duties, responsibilities, requirements",
+      "salary survey only (theory)",
+      "org chart only — concept",
+      "exit interview only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0003_vre69",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Job analysis.",
+    "options": [
+      "salary survey only (advanced)",
+      "exit interview only (framework)",
+      "org chart only (policy)",
+      "systematic study of duties, responsibilities, requirements"
+    ],
+    "answerIndex": 3,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0003_vr2vs",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Job analysis.",
+    "options": [
+      "systematic study of duties, responsibilities, requirements",
+      "exit interview only (framework)",
+      "salary survey only (theory)",
+      "org chart only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0003_vaoi3",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Job analysis.",
+    "options": [
+      "salary survey only — in practice",
+      "org chart only (policy)",
+      "exit interview only (policy)",
+      "systematic study of duties, responsibilities, requirements"
+    ],
+    "answerIndex": 3,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0003_va2bo",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Job analysis.",
+    "options": [
+      "systematic study of duties, responsibilities, requirements",
+      "exit interview only (advanced)",
+      "salary survey only (typically)",
+      "org chart only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0003_vgddn",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Job analysis. Select the best option.",
+    "options": [
+      "systematic study of duties, responsibilities, requirements",
+      "org chart only (framework)",
+      "exit interview only (advanced)",
+      "salary survey only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0003_vop26",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Job analysis. Choose the most accurate answer.",
+    "options": [
+      "systematic study of duties, responsibilities, requirements",
+      "exit interview only (policy)",
+      "org chart only (framework)",
+      "salary survey only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0003_vc0ym",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Job analysis.",
+    "options": [
+      "exit interview only — concept",
+      "systematic study of duties, responsibilities, requirements",
+      "salary survey only (theory)",
+      "org chart only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0003_v2xz5",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Job analysis.",
+    "options": [
+      "salary survey only (typically)",
+      "exit interview only (typically)",
+      "systematic study of duties, responsibilities, requirements",
+      "org chart only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0003_vmwk5",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Job analysis.",
+    "options": [
+      "org chart only (framework)",
+      "systematic study of duties, responsibilities, requirements",
+      "salary survey only (policy)",
+      "exit interview only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0004_vvq19",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced HR: Job analysis primarily aims to?",
+    "options": [
+      "salary survey only — in practice",
+      "exit interview only — in practice",
+      "org chart only (policy)",
+      "systematic study of duties, responsibilities, requirements"
+    ],
+    "answerIndex": 3,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0004_vzwiv",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Job analysis primarily aims to?",
+    "options": [
+      "salary survey only (policy)",
+      "systematic study of duties, responsibilities, requirements",
+      "org chart only (policy)",
+      "exit interview only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0004_vxxt3",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced HR: Job analysis primarily aims to?",
+    "options": [
+      "org chart only (policy)",
+      "systematic study of duties, responsibilities, requirements",
+      "salary survey only (theory)",
+      "exit interview only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0004_vin7e",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Job analysis primarily aims to? Select the best option.",
+    "options": [
+      "systematic study of duties, responsibilities, requirements",
+      "org chart only (advanced)",
+      "exit interview only (advanced)",
+      "salary survey only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0004_vv2vc",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Job analysis primarily aims to? Choose the most accurate answer.",
+    "options": [
+      "salary survey only (advanced)",
+      "systematic study of duties, responsibilities, requirements",
+      "exit interview only (typically)",
+      "org chart only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0004_vedex",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced HR: Job analysis primarily aims to?",
+    "options": [
+      "org chart only — in practice",
+      "salary survey only (advanced)",
+      "exit interview only — concept",
+      "systematic study of duties, responsibilities, requirements"
+    ],
+    "answerIndex": 3,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0004_vhb85",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced HR: Job analysis primarily aims to?",
+    "options": [
+      "org chart only (theory)",
+      "salary survey only (advanced)",
+      "systematic study of duties, responsibilities, requirements",
+      "exit interview only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "systematic study of duties, responsibilities, requirements"
+  },
+  {
+    "id": "adv_human-resources_0005_vzq55",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: In HR, Competency framework refers to?",
+    "options": [
+      "cluster of knowledge, skills, behaviors for roles",
+      "org design only — in practice",
+      "salary bands — in practice",
+      "attendance policy (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0005_v9pbu",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Within HR, Competency framework refers to?",
+    "options": [
+      "org design only — concept",
+      "cluster of knowledge, skills, behaviors for roles",
+      "attendance policy (framework)",
+      "salary bands (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0005_v48p5",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: In HR, Competency framework refers to?",
+    "options": [
+      "cluster of knowledge, skills, behaviors for roles",
+      "salary bands (typically)",
+      "attendance policy — concept",
+      "org design only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0005_v8t2u",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Competency framework refers to? Select the best option.",
+    "options": [
+      "cluster of knowledge, skills, behaviors for roles",
+      "attendance policy (framework)",
+      "org design only — concept",
+      "salary bands (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0005_v62ku",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Competency framework refers to? Choose the most accurate answer.",
+    "options": [
+      "attendance policy (advanced)",
+      "salary bands (policy)",
+      "org design only (theory)",
+      "cluster of knowledge, skills, behaviors for roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0005_vqqwh",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: In HR, Competency framework refers to?",
+    "options": [
+      "org design only (framework)",
+      "salary bands (policy)",
+      "attendance policy (typically)",
+      "cluster of knowledge, skills, behaviors for roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0005_vzaav",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: In HR, Competency framework refers to?",
+    "options": [
+      "salary bands (typically)",
+      "org design only (framework)",
+      "attendance policy (framework)",
+      "cluster of knowledge, skills, behaviors for roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0006_vnb1x",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Competency framework?",
+    "options": [
+      "attendance policy (policy)",
+      "org design only — concept",
+      "cluster of knowledge, skills, behaviors for roles",
+      "salary bands (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0006_vck5j",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Competency framework?",
+    "options": [
+      "org design only (theory)",
+      "salary bands — concept",
+      "cluster of knowledge, skills, behaviors for roles",
+      "attendance policy — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0006_vluti",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Competency framework?",
+    "options": [
+      "salary bands (theory)",
+      "org design only (policy)",
+      "attendance policy (policy)",
+      "cluster of knowledge, skills, behaviors for roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0006_vf8dn",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Competency framework?",
+    "options": [
+      "attendance policy (framework)",
+      "org design only (advanced)",
+      "cluster of knowledge, skills, behaviors for roles",
+      "salary bands — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0006_v7w7q",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Competency framework? Select the best option.",
+    "options": [
+      "attendance policy (framework)",
+      "org design only (theory)",
+      "salary bands (typically)",
+      "cluster of knowledge, skills, behaviors for roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0006_vm3u2",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Competency framework? Choose the most accurate answer.",
+    "options": [
+      "org design only (policy)",
+      "salary bands (policy)",
+      "cluster of knowledge, skills, behaviors for roles",
+      "attendance policy — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0006_voj77",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Competency framework?",
+    "options": [
+      "cluster of knowledge, skills, behaviors for roles",
+      "attendance policy (typically)",
+      "salary bands (theory)",
+      "org design only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0006_v9bxs",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Competency framework?",
+    "options": [
+      "attendance policy (typically)",
+      "cluster of knowledge, skills, behaviors for roles",
+      "org design only (advanced)",
+      "salary bands (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0007_vpwy7",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Competency framework.",
+    "options": [
+      "cluster of knowledge, skills, behaviors for roles",
+      "org design only — in practice",
+      "salary bands (policy)",
+      "attendance policy (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0007_vpxff",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Competency framework.",
+    "options": [
+      "cluster of knowledge, skills, behaviors for roles",
+      "salary bands (advanced)",
+      "attendance policy — concept",
+      "org design only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0007_vy5y9",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Competency framework.",
+    "options": [
+      "attendance policy (theory)",
+      "salary bands (policy)",
+      "cluster of knowledge, skills, behaviors for roles",
+      "org design only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0007_vgc9w",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Competency framework.",
+    "options": [
+      "attendance policy — concept",
+      "org design only — in practice",
+      "cluster of knowledge, skills, behaviors for roles",
+      "salary bands (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0007_vmviv",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Competency framework. Select the best option.",
+    "options": [
+      "org design only (typically)",
+      "attendance policy — in practice",
+      "salary bands (typically)",
+      "cluster of knowledge, skills, behaviors for roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0007_vc0f7",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Competency framework. Choose the most accurate answer.",
+    "options": [
+      "cluster of knowledge, skills, behaviors for roles",
+      "attendance policy (theory)",
+      "org design only — concept",
+      "salary bands (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0007_vtxag",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Competency framework.",
+    "options": [
+      "attendance policy (theory)",
+      "org design only (theory)",
+      "cluster of knowledge, skills, behaviors for roles",
+      "salary bands — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0007_v1nza",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Competency framework.",
+    "options": [
+      "org design only — in practice",
+      "salary bands (policy)",
+      "attendance policy — in practice",
+      "cluster of knowledge, skills, behaviors for roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0007_vm97s",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Competency framework.",
+    "options": [
+      "attendance policy — concept",
+      "salary bands (typically)",
+      "cluster of knowledge, skills, behaviors for roles",
+      "org design only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0008_v83qc",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Competency framework primarily aims to?",
+    "options": [
+      "salary bands (theory)",
+      "attendance policy (advanced)",
+      "org design only (framework)",
+      "cluster of knowledge, skills, behaviors for roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0008_v03uu",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced HR: Competency framework primarily aims to?",
+    "options": [
+      "attendance policy (theory)",
+      "org design only — in practice",
+      "salary bands (policy)",
+      "cluster of knowledge, skills, behaviors for roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0008_vwdwd",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced HR: Competency framework primarily aims to?",
+    "options": [
+      "org design only (theory)",
+      "salary bands (framework)",
+      "cluster of knowledge, skills, behaviors for roles",
+      "attendance policy (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0008_va6o8",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Competency framework primarily aims to? Select the best option.",
+    "options": [
+      "salary bands (theory)",
+      "org design only — in practice",
+      "attendance policy (typically)",
+      "cluster of knowledge, skills, behaviors for roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0008_vhvz8",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced HR: Competency framework primarily aims to?",
+    "options": [
+      "cluster of knowledge, skills, behaviors for roles",
+      "org design only (typically)",
+      "attendance policy — concept",
+      "salary bands (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0008_v0izy",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced HR: Competency framework primarily aims to?",
+    "options": [
+      "cluster of knowledge, skills, behaviors for roles",
+      "attendance policy (framework)",
+      "org design only (typically)",
+      "salary bands (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "cluster of knowledge, skills, behaviors for roles"
+  },
+  {
+    "id": "adv_human-resources_0009_vcjne",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: In HR, Validity in selection refers to?",
+    "options": [
+      "degree test predicts job performance",
+      "test difficulty only (framework)",
+      "recruiter preference (theory)",
+      "face validity only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0009_vxxv5",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Validity in Identifyion refers to?",
+    "options": [
+      "test difficulty only (theory)",
+      "degree test predicts job performance",
+      "recruiter preference (theory)",
+      "face validity only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0009_vfnui",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Within HR, Validity in selection refers to?",
+    "options": [
+      "degree test predicts job performance",
+      "recruiter preference (theory)",
+      "test difficulty only (advanced)",
+      "face validity only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0009_vgq7q",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: In HR, Validity in selection refers to?",
+    "options": [
+      "recruiter preference — in practice",
+      "degree test predicts job performance",
+      "face validity only — in practice",
+      "test difficulty only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0009_v4kd6",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Validity in selection refers to? Select the best option.",
+    "options": [
+      "recruiter preference — concept",
+      "test difficulty only — in practice",
+      "degree test predicts job performance",
+      "face validity only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0009_volxe",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Validity in selection refers to? Choose the most accurate answer.",
+    "options": [
+      "test difficulty only (typically)",
+      "face validity only — concept",
+      "degree test predicts job performance",
+      "recruiter preference (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0009_v17n1",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: In HR, Validity in selection refers to?",
+    "options": [
+      "recruiter preference (typically)",
+      "face validity only (theory)",
+      "test difficulty only — concept",
+      "degree test predicts job performance"
+    ],
+    "answerIndex": 3,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0009_vofao",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: In HR, Validity in selection refers to?",
+    "options": [
+      "test difficulty only (typically)",
+      "degree test predicts job performance",
+      "recruiter preference (theory)",
+      "face validity only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0010_vhsws",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Validity in selection?",
+    "options": [
+      "recruiter preference — in practice",
+      "degree test predicts job performance",
+      "test difficulty only (theory)",
+      "face validity only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0010_vrhqz",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Validity in selection?",
+    "options": [
+      "recruiter preference (theory)",
+      "degree test predicts job performance",
+      "test difficulty only — concept",
+      "face validity only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0010_vpeks",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Validity in Identifyion?",
+    "options": [
+      "face validity only (advanced)",
+      "test difficulty only (typically)",
+      "degree test predicts job performance",
+      "recruiter preference (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0010_vaj8o",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Validity in selection?",
+    "options": [
+      "test difficulty only (policy)",
+      "degree test predicts job performance",
+      "recruiter preference (framework)",
+      "face validity only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0010_vaqe1",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Validity in selection?",
+    "options": [
+      "test difficulty only (theory)",
+      "recruiter preference (framework)",
+      "degree test predicts job performance",
+      "face validity only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0010_v056a",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Validity in selection? Select the best option.",
+    "options": [
+      "face validity only (typically)",
+      "recruiter preference (framework)",
+      "test difficulty only — concept",
+      "degree test predicts job performance"
+    ],
+    "answerIndex": 3,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0010_v48j4",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Validity in selection? Choose the most accurate answer.",
+    "options": [
+      "degree test predicts job performance",
+      "recruiter preference (theory)",
+      "test difficulty only (advanced)",
+      "face validity only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0010_vqqdx",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Validity in selection?",
+    "options": [
+      "recruiter preference (typically)",
+      "degree test predicts job performance",
+      "face validity only (typically)",
+      "test difficulty only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0010_vdvk4",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Validity in selection?",
+    "options": [
+      "face validity only (framework)",
+      "degree test predicts job performance",
+      "recruiter preference (advanced)",
+      "test difficulty only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0010_v94o2",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Validity in selection?",
+    "options": [
+      "recruiter preference (theory)",
+      "face validity only (policy)",
+      "test difficulty only (framework)",
+      "degree test predicts job performance"
+    ],
+    "answerIndex": 3,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0011_v9da1",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Validity in selection.",
+    "options": [
+      "recruiter preference (theory)",
+      "test difficulty only (typically)",
+      "face validity only (typically)",
+      "degree test predicts job performance"
+    ],
+    "answerIndex": 3,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0011_vtca0",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Validity in selection.",
+    "options": [
+      "test difficulty only — in practice",
+      "face validity only (policy)",
+      "recruiter preference — concept",
+      "degree test predicts job performance"
+    ],
+    "answerIndex": 3,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0011_vwrjt",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Validity in selection.",
+    "options": [
+      "test difficulty only (theory)",
+      "face validity only — in practice",
+      "degree test predicts job performance",
+      "recruiter preference — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0011_vtsri",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Validity in selection.",
+    "options": [
+      "recruiter preference (framework)",
+      "degree test predicts job performance",
+      "test difficulty only (policy)",
+      "face validity only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0011_vv949",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Validity in selection. Select the best option.",
+    "options": [
+      "recruiter preference (theory)",
+      "test difficulty only (framework)",
+      "face validity only (theory)",
+      "degree test predicts job performance"
+    ],
+    "answerIndex": 3,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0011_vwjnl",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Validity in selection. Choose the most accurate answer.",
+    "options": [
+      "degree test predicts job performance",
+      "face validity only (policy)",
+      "recruiter preference — concept",
+      "test difficulty only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0011_v7o1q",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Validity in selection.",
+    "options": [
+      "face validity only (framework)",
+      "test difficulty only (advanced)",
+      "recruiter preference (framework)",
+      "degree test predicts job performance"
+    ],
+    "answerIndex": 3,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0011_vf2vb",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Validity in selection.",
+    "options": [
+      "face validity only (typically)",
+      "recruiter preference (theory)",
+      "test difficulty only — in practice",
+      "degree test predicts job performance"
+    ],
+    "answerIndex": 3,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0011_vswvd",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Validity in selection.",
+    "options": [
+      "face validity only (advanced)",
+      "recruiter preference — concept",
+      "test difficulty only (framework)",
+      "degree test predicts job performance"
+    ],
+    "answerIndex": 3,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0012_vdgyw",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Validity in selection primarily aims to?",
+    "options": [
+      "degree test predicts job performance",
+      "face validity only (advanced)",
+      "test difficulty only (typically)",
+      "recruiter preference (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0012_vmpo6",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced HR: Validity in selection primarily aims to?",
+    "options": [
+      "degree test predicts job performance",
+      "test difficulty only (framework)",
+      "recruiter preference (framework)",
+      "face validity only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0012_v1c8u",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Validity in Identifyion primarily aims to?",
+    "options": [
+      "face validity only (advanced)",
+      "degree test predicts job performance",
+      "test difficulty only — concept",
+      "recruiter preference (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0012_vke62",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced HR: Validity in selection primarily aims to?",
+    "options": [
+      "degree test predicts job performance",
+      "recruiter preference (framework)",
+      "face validity only — concept",
+      "test difficulty only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0012_vz1rx",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Validity in selection primarily aims to? Select the best option.",
+    "options": [
+      "recruiter preference — in practice",
+      "test difficulty only (framework)",
+      "degree test predicts job performance",
+      "face validity only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0012_v4lz2",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Validity in selection primarily aims to? Choose the most accurate answer.",
+    "options": [
+      "recruiter preference — concept",
+      "test difficulty only (policy)",
+      "face validity only — in practice",
+      "degree test predicts job performance"
+    ],
+    "answerIndex": 3,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0012_v3c35",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced HR: Validity in selection primarily aims to?",
+    "options": [
+      "degree test predicts job performance",
+      "face validity only (policy)",
+      "test difficulty only (policy)",
+      "recruiter preference (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0012_vm0m8",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced HR: Validity in selection primarily aims to?",
+    "options": [
+      "test difficulty only (typically)",
+      "recruiter preference (policy)",
+      "degree test predicts job performance",
+      "face validity only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "degree test predicts job performance"
+  },
+  {
+    "id": "adv_human-resources_0013_vr933",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: In HR, Performance management refers to?",
+    "options": [
+      "recruitment only (advanced)",
+      "goal setting, feedback, appraisal, development",
+      "discipline only (theory)",
+      "annual pay only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0013_vc6sw",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Within HR, Performance management refers to?",
+    "options": [
+      "recruitment only (theory)",
+      "goal setting, feedback, appraisal, development",
+      "annual pay only (advanced)",
+      "discipline only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0013_v14l6",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: In HR, Performance management refers to?",
+    "options": [
+      "discipline only — in practice",
+      "annual pay only (policy)",
+      "recruitment only (policy)",
+      "goal setting, feedback, appraisal, development"
+    ],
+    "answerIndex": 3,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0013_v6vdd",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Performance management refers to? Select the best option.",
+    "options": [
+      "recruitment only (policy)",
+      "goal setting, feedback, appraisal, development",
+      "discipline only (typically)",
+      "annual pay only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0013_vtyn0",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Performance management refers to? Choose the most accurate answer.",
+    "options": [
+      "recruitment only (theory)",
+      "discipline only (policy)",
+      "goal setting, feedback, appraisal, development",
+      "annual pay only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0013_vfsp0",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: In HR, Performance management refers to?",
+    "options": [
+      "goal setting, feedback, appraisal, development",
+      "annual pay only (advanced)",
+      "recruitment only (typically)",
+      "discipline only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0013_v7nx5",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: In HR, Performance management refers to?",
+    "options": [
+      "goal setting, feedback, appraisal, development",
+      "recruitment only — concept",
+      "annual pay only — in practice",
+      "discipline only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0014_vl78v",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Performance management?",
+    "options": [
+      "discipline only (advanced)",
+      "goal setting, feedback, appraisal, development",
+      "annual pay only (framework)",
+      "recruitment only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0014_vg8m8",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Performance management?",
+    "options": [
+      "discipline only — in practice",
+      "goal setting, feedback, appraisal, development",
+      "recruitment only (typically)",
+      "annual pay only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0014_v0os5",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Performance management?",
+    "options": [
+      "recruitment only (framework)",
+      "goal setting, feedback, appraisal, development",
+      "discipline only (advanced)",
+      "annual pay only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0014_vsm7v",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Performance management?",
+    "options": [
+      "discipline only (typically)",
+      "recruitment only (theory)",
+      "annual pay only (framework)",
+      "goal setting, feedback, appraisal, development"
+    ],
+    "answerIndex": 3,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0014_v5dga",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Performance management? Select the best option.",
+    "options": [
+      "goal setting, feedback, appraisal, development",
+      "annual pay only (typically)",
+      "discipline only — in practice",
+      "recruitment only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0014_vu8ri",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Performance management? Choose the most accurate answer.",
+    "options": [
+      "recruitment only (policy)",
+      "annual pay only (typically)",
+      "discipline only (advanced)",
+      "goal setting, feedback, appraisal, development"
+    ],
+    "answerIndex": 3,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0014_v9fmg",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Performance management?",
+    "options": [
+      "annual pay only (framework)",
+      "recruitment only — concept",
+      "goal setting, feedback, appraisal, development",
+      "discipline only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0014_vrtov",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Performance management?",
+    "options": [
+      "recruitment only (policy)",
+      "goal setting, feedback, appraisal, development",
+      "annual pay only (framework)",
+      "discipline only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0014_vged5",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Performance management?",
+    "options": [
+      "goal setting, feedback, appraisal, development",
+      "recruitment only — concept",
+      "discipline only (framework)",
+      "annual pay only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0015_vy0wb",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Performance management.",
+    "options": [
+      "recruitment only (policy)",
+      "discipline only (framework)",
+      "annual pay only (typically)",
+      "goal setting, feedback, appraisal, development"
+    ],
+    "answerIndex": 3,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0015_vjkwb",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Performance management.",
+    "options": [
+      "annual pay only (theory)",
+      "goal setting, feedback, appraisal, development",
+      "discipline only — in practice",
+      "recruitment only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0015_vxm6x",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Performance management.",
+    "options": [
+      "recruitment only (theory)",
+      "goal setting, feedback, appraisal, development",
+      "discipline only — in practice",
+      "annual pay only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0015_v6gh6",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Performance management.",
+    "options": [
+      "recruitment only (policy)",
+      "annual pay only (policy)",
+      "discipline only (advanced)",
+      "goal setting, feedback, appraisal, development"
+    ],
+    "answerIndex": 3,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0015_vkyd6",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Performance management. Select the best option.",
+    "options": [
+      "goal setting, feedback, appraisal, development",
+      "annual pay only — concept",
+      "discipline only (policy)",
+      "recruitment only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0015_ve1db",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Performance management. Choose the most accurate answer.",
+    "options": [
+      "goal setting, feedback, appraisal, development",
+      "annual pay only (typically)",
+      "discipline only (theory)",
+      "recruitment only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0015_vc7q7",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Performance management.",
+    "options": [
+      "recruitment only — concept",
+      "goal setting, feedback, appraisal, development",
+      "annual pay only (advanced)",
+      "discipline only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0015_vftqp",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Performance management.",
+    "options": [
+      "goal setting, feedback, appraisal, development",
+      "annual pay only (theory)",
+      "discipline only (framework)",
+      "recruitment only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0016_vytcm",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Performance management primarily aims to?",
+    "options": [
+      "annual pay only (policy)",
+      "recruitment only (advanced)",
+      "discipline only (typically)",
+      "goal setting, feedback, appraisal, development"
+    ],
+    "answerIndex": 3,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0016_vh0ad",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced HR: Performance management primarily aims to?",
+    "options": [
+      "goal setting, feedback, appraisal, development",
+      "annual pay only (framework)",
+      "recruitment only — in practice",
+      "discipline only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0016_v1exy",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced HR: Performance management primarily aims to?",
+    "options": [
+      "discipline only (advanced)",
+      "annual pay only (typically)",
+      "recruitment only (advanced)",
+      "goal setting, feedback, appraisal, development"
+    ],
+    "answerIndex": 3,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0016_vts26",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Performance management primarily aims to? Select the best option.",
+    "options": [
+      "discipline only — concept",
+      "annual pay only (theory)",
+      "recruitment only (framework)",
+      "goal setting, feedback, appraisal, development"
+    ],
+    "answerIndex": 3,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0016_vz2nw",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Performance management primarily aims to? Choose the most accurate answer.",
+    "options": [
+      "annual pay only (theory)",
+      "discipline only (theory)",
+      "recruitment only (typically)",
+      "goal setting, feedback, appraisal, development"
+    ],
+    "answerIndex": 3,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0016_v2pa0",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced HR: Performance management primarily aims to?",
+    "options": [
+      "annual pay only (typically)",
+      "goal setting, feedback, appraisal, development",
+      "recruitment only — in practice",
+      "discipline only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0016_vvn7e",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced HR: Performance management primarily aims to?",
+    "options": [
+      "discipline only (policy)",
+      "annual pay only (framework)",
+      "recruitment only (advanced)",
+      "goal setting, feedback, appraisal, development"
+    ],
+    "answerIndex": 3,
+    "explanation": "goal setting, feedback, appraisal, development"
+  },
+  {
+    "id": "adv_human-resources_0017_vd2jp",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: In HR, Balanced scorecard HR refers to?",
+    "options": [
+      "leave request count (typically)",
+      "headcount only (advanced)",
+      "payroll ledger (theory)",
+      "align HR metrics across perspectives"
+    ],
+    "answerIndex": 3,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0017_vbem0",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Within HR, Balanced scorecard HR refers to?",
+    "options": [
+      "leave request count (policy)",
+      "align HR metrics across perspectives",
+      "headcount only (advanced)",
+      "payroll ledger — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0017_vw4j3",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: In HR, Balanced scorecard HR refers to?",
+    "options": [
+      "align HR metrics across perspectives",
+      "headcount only (theory)",
+      "payroll ledger — in practice",
+      "leave request count (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0017_vmdvr",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Balanced scorecard HR refers to? Select the best option.",
+    "options": [
+      "payroll ledger (framework)",
+      "headcount only (advanced)",
+      "align HR metrics across perspectives",
+      "leave request count — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0017_vl8rn",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Balanced scorecard HR refers to? Choose the most accurate answer.",
+    "options": [
+      "align HR metrics across perspectives",
+      "leave request count (typically)",
+      "headcount only (typically)",
+      "payroll ledger (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0017_vghnt",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: In HR, Balanced scorecard HR refers to?",
+    "options": [
+      "leave request count — in practice",
+      "align HR metrics across perspectives",
+      "payroll ledger (policy)",
+      "headcount only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0017_v1vld",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: In HR, Balanced scorecard HR refers to?",
+    "options": [
+      "headcount only (policy)",
+      "leave request count (theory)",
+      "align HR metrics across perspectives",
+      "payroll ledger — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0018_vp01x",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Balanced scorecard HR?",
+    "options": [
+      "leave request count (theory)",
+      "align HR metrics across perspectives",
+      "payroll ledger (policy)",
+      "headcount only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0018_vyyb3",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Balanced scorecard HR?",
+    "options": [
+      "payroll ledger (typically)",
+      "leave request count (framework)",
+      "align HR metrics across perspectives",
+      "headcount only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0018_vda50",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Balanced scorecard HR?",
+    "options": [
+      "align HR metrics across perspectives",
+      "payroll ledger (theory)",
+      "leave request count (advanced)",
+      "headcount only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0018_v09tj",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Balanced scorecard HR?",
+    "options": [
+      "payroll ledger (typically)",
+      "headcount only (policy)",
+      "align HR metrics across perspectives",
+      "leave request count (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0018_vb0zd",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Balanced scorecard HR? Select the best option.",
+    "options": [
+      "align HR metrics across perspectives",
+      "payroll ledger (typically)",
+      "leave request count (advanced)",
+      "headcount only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0018_vevg8",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Balanced scorecard HR? Choose the most accurate answer.",
+    "options": [
+      "align HR metrics across perspectives",
+      "leave request count — concept",
+      "payroll ledger — in practice",
+      "headcount only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0018_v9q7z",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Balanced scorecard HR?",
+    "options": [
+      "align HR metrics across perspectives",
+      "headcount only — in practice",
+      "leave request count (advanced)",
+      "payroll ledger (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0018_vtfwo",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Balanced scorecard HR?",
+    "options": [
+      "leave request count (policy)",
+      "headcount only (theory)",
+      "align HR metrics across perspectives",
+      "payroll ledger (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0018_valjo",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Balanced scorecard HR?",
+    "options": [
+      "payroll ledger (typically)",
+      "align HR metrics across perspectives",
+      "leave request count (advanced)",
+      "headcount only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0019_vpufv",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Balanced scorecard HR.",
+    "options": [
+      "payroll ledger — concept",
+      "align HR metrics across perspectives",
+      "headcount only — in practice",
+      "leave request count (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0019_vgp25",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Balanced scorecard HR.",
+    "options": [
+      "payroll ledger (policy)",
+      "align HR metrics across perspectives",
+      "headcount only (policy)",
+      "leave request count (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0019_vgiy9",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Balanced scorecard HR.",
+    "options": [
+      "align HR metrics across perspectives",
+      "headcount only (typically)",
+      "payroll ledger (typically)",
+      "leave request count (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0019_v9lkm",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Balanced scorecard HR.",
+    "options": [
+      "align HR metrics across perspectives",
+      "headcount only (framework)",
+      "leave request count (theory)",
+      "payroll ledger (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0019_vloei",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Balanced scorecard HR. Select the best option.",
+    "options": [
+      "payroll ledger (policy)",
+      "headcount only (typically)",
+      "align HR metrics across perspectives",
+      "leave request count (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0019_vme9w",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Balanced scorecard HR.",
+    "options": [
+      "align HR metrics across perspectives",
+      "payroll ledger (framework)",
+      "headcount only (policy)",
+      "leave request count (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0019_v6l2k",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Balanced scorecard HR.",
+    "options": [
+      "leave request count — concept",
+      "payroll ledger — concept",
+      "align HR metrics across perspectives",
+      "headcount only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0019_vmccx",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Balanced scorecard HR.",
+    "options": [
+      "payroll ledger — in practice",
+      "align HR metrics across perspectives",
+      "leave request count (framework)",
+      "headcount only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0020_vjzlz",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Balanced scorecard HR primarily aims to?",
+    "options": [
+      "headcount only (advanced)",
+      "align HR metrics across perspectives",
+      "payroll ledger (advanced)",
+      "leave request count — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0020_vc0o0",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced HR: Balanced scorecard HR primarily aims to?",
+    "options": [
+      "align HR metrics across perspectives",
+      "payroll ledger — in practice",
+      "headcount only (theory)",
+      "leave request count (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0020_vs2dh",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced HR: Balanced scorecard HR primarily aims to?",
+    "options": [
+      "headcount only (framework)",
+      "payroll ledger (advanced)",
+      "leave request count — concept",
+      "align HR metrics across perspectives"
+    ],
+    "answerIndex": 3,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0020_v1o06",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Balanced scorecard HR primarily aims to? Select the best option.",
+    "options": [
+      "leave request count (theory)",
+      "payroll ledger — concept",
+      "headcount only — concept",
+      "align HR metrics across perspectives"
+    ],
+    "answerIndex": 3,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0020_v1l8y",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Balanced scorecard HR primarily aims to? Choose the most accurate answer.",
+    "options": [
+      "align HR metrics across perspectives",
+      "headcount only (advanced)",
+      "leave request count (policy)",
+      "payroll ledger (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0020_vmubo",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced HR: Balanced scorecard HR primarily aims to?",
+    "options": [
+      "align HR metrics across perspectives",
+      "headcount only — concept",
+      "payroll ledger (theory)",
+      "leave request count (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0020_vgyyf",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced HR: Balanced scorecard HR primarily aims to?",
+    "options": [
+      "align HR metrics across perspectives",
+      "leave request count (theory)",
+      "headcount only (advanced)",
+      "payroll ledger — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "align HR metrics across perspectives"
+  },
+  {
+    "id": "adv_human-resources_0021_vr2us",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: In HR, Broadbanding refers to?",
+    "options": [
+      "tight grades only (policy)",
+      "fewer wider pay bands for flexibility",
+      "skill-based pay only (advanced)",
+      "pay freezes (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0021_v0chd",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Within HR, Broadbanding refers to?",
+    "options": [
+      "tight grades only (advanced)",
+      "fewer wider pay bands for flexibility",
+      "skill-based pay only — in practice",
+      "pay freezes (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0021_v6yyj",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: In HR, Broadbanding refers to?",
+    "options": [
+      "tight grades only (framework)",
+      "fewer wider pay bands for flexibility",
+      "skill-based pay only (theory)",
+      "pay freezes — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0021_v4haq",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Broadbanding refers to? Select the best option.",
+    "options": [
+      "skill-based pay only (framework)",
+      "tight grades only (advanced)",
+      "pay freezes — in practice",
+      "fewer wider pay bands for flexibility"
+    ],
+    "answerIndex": 3,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0021_ve7rv",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Broadbanding refers to? Choose the most accurate answer.",
+    "options": [
+      "pay freezes (advanced)",
+      "fewer wider pay bands for flexibility",
+      "skill-based pay only (framework)",
+      "tight grades only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0021_vlvjk",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: In HR, Broadbanding refers to?",
+    "options": [
+      "skill-based pay only (typically)",
+      "pay freezes — concept",
+      "fewer wider pay bands for flexibility",
+      "tight grades only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0021_vg4ez",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: In HR, Broadbanding refers to?",
+    "options": [
+      "skill-based pay only (typically)",
+      "tight grades only (typically)",
+      "pay freezes (typically)",
+      "fewer wider pay bands for flexibility"
+    ],
+    "answerIndex": 3,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0022_vim1w",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Broadbanding?",
+    "options": [
+      "tight grades only (typically)",
+      "skill-based pay only (typically)",
+      "pay freezes (framework)",
+      "fewer wider pay bands for flexibility"
+    ],
+    "answerIndex": 3,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0022_vx1tl",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Broadbanding?",
+    "options": [
+      "fewer wider pay bands for flexibility",
+      "tight grades only (typically)",
+      "skill-based pay only (policy)",
+      "pay freezes — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0022_vlml8",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Broadbanding?",
+    "options": [
+      "fewer wider pay bands for flexibility",
+      "tight grades only (framework)",
+      "skill-based pay only (typically)",
+      "pay freezes (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0022_v3bqd",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Broadbanding? Select the best option.",
+    "options": [
+      "tight grades only (policy)",
+      "skill-based pay only (advanced)",
+      "pay freezes (framework)",
+      "fewer wider pay bands for flexibility"
+    ],
+    "answerIndex": 3,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0022_vz3yu",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Broadbanding? Choose the most accurate answer.",
+    "options": [
+      "tight grades only — in practice",
+      "pay freezes (advanced)",
+      "skill-based pay only — concept",
+      "fewer wider pay bands for flexibility"
+    ],
+    "answerIndex": 3,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0022_vxigs",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Broadbanding?",
+    "options": [
+      "skill-based pay only — in practice",
+      "tight grades only — concept",
+      "fewer wider pay bands for flexibility",
+      "pay freezes (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0022_vu9ww",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Broadbanding?",
+    "options": [
+      "fewer wider pay bands for flexibility",
+      "tight grades only — concept",
+      "skill-based pay only (typically)",
+      "pay freezes — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0023_vm9kk",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Broadbanding.",
+    "options": [
+      "pay freezes — in practice",
+      "fewer wider pay bands for flexibility",
+      "tight grades only (typically)",
+      "skill-based pay only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0023_v95c2",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Broadbanding.",
+    "options": [
+      "skill-based pay only (framework)",
+      "fewer wider pay bands for flexibility",
+      "tight grades only (policy)",
+      "pay freezes — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0023_v1oka",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Broadbanding.",
+    "options": [
+      "skill-based pay only (advanced)",
+      "tight grades only (advanced)",
+      "fewer wider pay bands for flexibility",
+      "pay freezes (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0023_v2j7y",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Broadbanding.",
+    "options": [
+      "tight grades only (framework)",
+      "fewer wider pay bands for flexibility",
+      "skill-based pay only (advanced)",
+      "pay freezes (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0023_vl5rl",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Broadbanding. Select the best option.",
+    "options": [
+      "fewer wider pay bands for flexibility",
+      "pay freezes — in practice",
+      "skill-based pay only — concept",
+      "tight grades only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0023_vqy3m",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Broadbanding. Choose the most accurate answer.",
+    "options": [
+      "fewer wider pay bands for flexibility",
+      "pay freezes (framework)",
+      "tight grades only (advanced)",
+      "skill-based pay only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0023_v42ia",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Broadbanding.",
+    "options": [
+      "fewer wider pay bands for flexibility",
+      "tight grades only — in practice",
+      "pay freezes (advanced)",
+      "skill-based pay only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0023_vqysf",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Broadbanding.",
+    "options": [
+      "pay freezes (policy)",
+      "tight grades only — concept",
+      "fewer wider pay bands for flexibility",
+      "skill-based pay only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0023_vfhx1",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Broadbanding.",
+    "options": [
+      "tight grades only (framework)",
+      "pay freezes — concept",
+      "skill-based pay only (advanced)",
+      "fewer wider pay bands for flexibility"
+    ],
+    "answerIndex": 3,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0024_vk9ny",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Broadbanding primarily aims to?",
+    "options": [
+      "skill-based pay only — concept",
+      "tight grades only (framework)",
+      "fewer wider pay bands for flexibility",
+      "pay freezes (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0024_vawc6",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced HR: Broadbanding primarily aims to?",
+    "options": [
+      "tight grades only (advanced)",
+      "skill-based pay only — concept",
+      "pay freezes (advanced)",
+      "fewer wider pay bands for flexibility"
+    ],
+    "answerIndex": 3,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0024_vqhk2",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced HR: Broadbanding primarily aims to?",
+    "options": [
+      "pay freezes (advanced)",
+      "tight grades only (policy)",
+      "skill-based pay only (framework)",
+      "fewer wider pay bands for flexibility"
+    ],
+    "answerIndex": 3,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0024_vgb4o",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced HR: Broadbanding primarily aims to?",
+    "options": [
+      "tight grades only — concept",
+      "skill-based pay only (theory)",
+      "fewer wider pay bands for flexibility",
+      "pay freezes (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0024_vokgl",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced HR: Broadbanding primarily aims to?",
+    "options": [
+      "tight grades only — in practice",
+      "skill-based pay only (theory)",
+      "pay freezes — concept",
+      "fewer wider pay bands for flexibility"
+    ],
+    "answerIndex": 3,
+    "explanation": "fewer wider pay bands for flexibility"
+  },
+  {
+    "id": "adv_human-resources_0025_vmrnd",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: In HR, Training needs analysis refers to?",
+    "options": [
+      "talent inventory only (theory)",
+      "post-training survey only (theory)",
+      "identify gaps between current and desired competence",
+      "budget variance only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0025_vpglv",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Within HR, Training needs analysis refers to?",
+    "options": [
+      "talent inventory only (typically)",
+      "budget variance only (framework)",
+      "post-training survey only (framework)",
+      "identify gaps between current and desired competence"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0025_vxm4f",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: In HR, Training needs analysis refers to?",
+    "options": [
+      "budget variance only (advanced)",
+      "identify gaps between current and desired competence",
+      "post-training survey only — concept",
+      "talent inventory only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0025_vvrzn",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Training needs analysis refers to? Select the best option.",
+    "options": [
+      "identify gaps between current and desired competence",
+      "budget variance only (framework)",
+      "post-training survey only (theory)",
+      "talent inventory only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0025_vsp2v",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Training needs analysis refers to? Choose the most accurate answer.",
+    "options": [
+      "budget variance only — concept",
+      "talent inventory only (typically)",
+      "identify gaps between current and desired competence",
+      "post-training survey only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0025_vzyap",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: In HR, Training needs analysis refers to?",
+    "options": [
+      "identify gaps between current and desired competence",
+      "budget variance only (advanced)",
+      "talent inventory only — concept",
+      "post-training survey only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0025_vqhgm",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: In HR, Training needs analysis refers to?",
+    "options": [
+      "budget variance only (typically)",
+      "post-training survey only (advanced)",
+      "talent inventory only — concept",
+      "identify gaps between current and desired competence"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0026_v4mt7",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Training needs analysis?",
+    "options": [
+      "identify gaps between current and desired competence",
+      "budget variance only — in practice",
+      "post-training survey only — in practice",
+      "talent inventory only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0026_vkrun",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Training needs analysis?",
+    "options": [
+      "budget variance only (theory)",
+      "identify gaps between current and desired competence",
+      "talent inventory only (policy)",
+      "post-training survey only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0026_vigey",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Training needs analysis?",
+    "options": [
+      "post-training survey only — in practice",
+      "identify gaps between current and desired competence",
+      "talent inventory only (typically)",
+      "budget variance only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0026_vp5im",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Training needs analysis?",
+    "options": [
+      "post-training survey only — in practice",
+      "talent inventory only — in practice",
+      "budget variance only — in practice",
+      "identify gaps between current and desired competence"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0026_vptxv",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Training needs analysis? Choose the most accurate answer.",
+    "options": [
+      "post-training survey only — in practice",
+      "identify gaps between current and desired competence",
+      "budget variance only (policy)",
+      "talent inventory only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0026_vxmj8",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Training needs analysis?",
+    "options": [
+      "identify gaps between current and desired competence",
+      "talent inventory only (advanced)",
+      "budget variance only — in practice",
+      "post-training survey only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0026_vkpfq",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Training needs analysis?",
+    "options": [
+      "budget variance only (policy)",
+      "talent inventory only (policy)",
+      "identify gaps between current and desired competence",
+      "post-training survey only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0026_vho0e",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Training needs analysis?",
+    "options": [
+      "talent inventory only (framework)",
+      "identify gaps between current and desired competence",
+      "post-training survey only — concept",
+      "budget variance only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0027_vuel1",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Training needs analysis.",
+    "options": [
+      "budget variance only (policy)",
+      "identify gaps between current and desired competence",
+      "post-training survey only — concept",
+      "talent inventory only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0027_vcpqz",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Training needs analysis.",
+    "options": [
+      "post-training survey only (framework)",
+      "identify gaps between current and desired competence",
+      "budget variance only (framework)",
+      "talent inventory only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0027_v5adh",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Training needs analysis.",
+    "options": [
+      "budget variance only — concept",
+      "identify gaps between current and desired competence",
+      "talent inventory only (advanced)",
+      "post-training survey only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0027_va51d",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Training needs analysis.",
+    "options": [
+      "budget variance only (framework)",
+      "post-training survey only — in practice",
+      "talent inventory only (policy)",
+      "identify gaps between current and desired competence"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0027_v41yc",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Training needs analysis. Select the best option.",
+    "options": [
+      "budget variance only (framework)",
+      "identify gaps between current and desired competence",
+      "talent inventory only — in practice",
+      "post-training survey only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0027_vcnfk",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Training needs analysis. Choose the most accurate answer.",
+    "options": [
+      "post-training survey only (advanced)",
+      "talent inventory only — concept",
+      "identify gaps between current and desired competence",
+      "budget variance only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0027_vqu1d",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Training needs analysis.",
+    "options": [
+      "identify gaps between current and desired competence",
+      "post-training survey only — concept",
+      "budget variance only (theory)",
+      "talent inventory only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0027_vfuuo",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Training needs analysis.",
+    "options": [
+      "talent inventory only (typically)",
+      "identify gaps between current and desired competence",
+      "post-training survey only — concept",
+      "budget variance only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0027_vnob6",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Training needs analysis.",
+    "options": [
+      "budget variance only (theory)",
+      "post-training survey only — concept",
+      "talent inventory only (theory)",
+      "identify gaps between current and desired competence"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0028_vs8ws",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced HR: Training needs analysis primarily aims to?",
+    "options": [
+      "identify gaps between current and desired competence",
+      "talent inventory only (typically)",
+      "post-training survey only (typically)",
+      "budget variance only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0028_v9zvb",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Training needs analysis primarily aims to?",
+    "options": [
+      "identify gaps between current and desired competence",
+      "budget variance only (framework)",
+      "post-training survey only — in practice",
+      "talent inventory only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0028_vuw68",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced HR: Training needs analysis primarily aims to?",
+    "options": [
+      "talent inventory only (advanced)",
+      "budget variance only — concept",
+      "post-training survey only (policy)",
+      "identify gaps between current and desired competence"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0028_vsfwt",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Training needs analysis primarily aims to? Select the best option.",
+    "options": [
+      "post-training survey only (theory)",
+      "talent inventory only (framework)",
+      "budget variance only — concept",
+      "identify gaps between current and desired competence"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0028_vejrw",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced HR: Training needs analysis primarily aims to? Choose the most accurate answer.",
+    "options": [
+      "post-training survey only (framework)",
+      "budget variance only (advanced)",
+      "talent inventory only (theory)",
+      "identify gaps between current and desired competence"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0028_vx7wh",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced HR: Training needs analysis primarily aims to?",
+    "options": [
+      "talent inventory only (theory)",
+      "identify gaps between current and desired competence",
+      "post-training survey only (typically)",
+      "budget variance only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0028_v6to5",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced HR: Training needs analysis primarily aims to?",
+    "options": [
+      "budget variance only — in practice",
+      "post-training survey only (advanced)",
+      "identify gaps between current and desired competence",
+      "talent inventory only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify gaps between current and desired competence"
+  },
+  {
+    "id": "adv_human-resources_0029_vuire",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: In HR, Succession planning refers to?",
+    "options": [
+      "identify/develop internal talent for key roles",
+      "freeze promotions (framework)",
+      "retire early only (framework)",
+      "external hire always (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0029_v6qgq",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Within HR, Succession planning refers to?",
+    "options": [
+      "freeze promotions (theory)",
+      "external hire always — in practice",
+      "identify/develop internal talent for key roles",
+      "retire early only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0029_v4qcf",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: In HR, Succession planning refers to?",
+    "options": [
+      "retire early only (advanced)",
+      "identify/develop internal talent for key roles",
+      "external hire always (framework)",
+      "freeze promotions (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0029_vqdnz",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Succession planning refers to? Select the best option.",
+    "options": [
+      "external hire always (advanced)",
+      "identify/develop internal talent for key roles",
+      "retire early only (policy)",
+      "freeze promotions (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0029_vvh4a",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "In HR, Succession planning refers to? Choose the most accurate answer.",
+    "options": [
+      "freeze promotions — concept",
+      "retire early only (policy)",
+      "external hire always (policy)",
+      "identify/develop internal talent for key roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0029_vez5v",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: In HR, Succession planning refers to?",
+    "options": [
+      "retire early only — concept",
+      "identify/develop internal talent for key roles",
+      "external hire always — in practice",
+      "freeze promotions — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0029_v7tqh",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: In HR, Succession planning refers to?",
+    "options": [
+      "retire early only (typically)",
+      "external hire always (advanced)",
+      "freeze promotions (typically)",
+      "identify/develop internal talent for key roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0030_vfewg",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Succession planning?",
+    "options": [
+      "freeze promotions — in practice",
+      "retire early only — concept",
+      "external hire always (advanced)",
+      "identify/develop internal talent for key roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0030_vt9tr",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Succession planning?",
+    "options": [
+      "identify/develop internal talent for key roles",
+      "external hire always (framework)",
+      "retire early only (theory)",
+      "freeze promotions (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0030_voq1m",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Succession planning?",
+    "options": [
+      "freeze promotions (advanced)",
+      "external hire always — concept",
+      "retire early only (policy)",
+      "identify/develop internal talent for key roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0030_vpj2z",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Succession planning?",
+    "options": [
+      "retire early only (policy)",
+      "freeze promotions — in practice",
+      "external hire always (typically)",
+      "identify/develop internal talent for key roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0030_v3iu4",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Succession planning? Select the best option.",
+    "options": [
+      "identify/develop internal talent for key roles",
+      "external hire always (advanced)",
+      "retire early only (typically)",
+      "freeze promotions — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0030_vcb58",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Succession planning? Choose the most accurate answer.",
+    "options": [
+      "external hire always — concept",
+      "retire early only — in practice",
+      "identify/develop internal talent for key roles",
+      "freeze promotions (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0030_vmax4",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Succession planning?",
+    "options": [
+      "freeze promotions (advanced)",
+      "retire early only (typically)",
+      "external hire always — in practice",
+      "identify/develop internal talent for key roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0030_vey54",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Succession planning?",
+    "options": [
+      "retire early only — in practice",
+      "external hire always (policy)",
+      "freeze promotions — concept",
+      "identify/develop internal talent for key roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0030_vwo9f",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Succession planning?",
+    "options": [
+      "retire early only (theory)",
+      "freeze promotions (typically)",
+      "external hire always (framework)",
+      "identify/develop internal talent for key roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0031_vy0qo",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Succession planning.",
+    "options": [
+      "external hire always — concept",
+      "freeze promotions (theory)",
+      "identify/develop internal talent for key roles",
+      "retire early only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0031_v2v56",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Succession planning.",
+    "options": [
+      "freeze promotions (advanced)",
+      "external hire always (policy)",
+      "retire early only (framework)",
+      "identify/develop internal talent for key roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0031_vwvc8",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Succession planning.",
+    "options": [
+      "identify/develop internal talent for key roles",
+      "retire early only — concept",
+      "freeze promotions (theory)",
+      "external hire always (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0031_v1sc2",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Succession planning.",
+    "options": [
+      "retire early only (policy)",
+      "external hire always (theory)",
+      "freeze promotions — concept",
+      "identify/develop internal talent for key roles"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0031_v2fog",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Succession planning. Select the best option.",
+    "options": [
+      "retire early only (advanced)",
+      "freeze promotions (policy)",
+      "identify/develop internal talent for key roles",
+      "external hire always (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify/develop internal talent for key roles"
+  },
+  {
+    "id": "adv_human-resources_0031_v7imy",
+    "category": "cadre",
+    "cadreSlug": "human-resources",
+    "topic": "Human Resources",
+    "subtopic": "Talent & Organization",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Succession planning. Choose the most accurate answer.",
+    "options": [
+      "freeze promotions (theory)",
+      "external hire always — concept",
+      "identify/develop internal talent for key roles",
+      "retire early only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify/develop internal talent for key roles"
+  }
+]

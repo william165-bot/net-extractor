@@ -1,0 +1,26 @@
+[
+  {
+    "id": "custom001",
+    "category": "civil_service",
+    "question": "Which law regulates public procurement in Nigeria?",
+    "options": ["Public Service Rules", "Public Procurement Act", "Fiscal Responsibility Act", "Freedom of Information Act"],
+    "answerIndex": 1,
+    "explanation": "The Public Procurement Act (2007) governs public procurement processes in Nigeria."
+  },
+  {
+    "id": "custom002",
+    "category": "english",
+    "question": "Choose the correct option: The documents ____ on my desk.",
+    "options": ["is", "are", "was", "be"],
+    "answerIndex": 1,
+    "explanation": "'Documents' is plural, so use 'are'."
+  },
+  {
+    "id": "custom003",
+    "category": "math",
+    "question": "Find 10% of 750.",
+    "options": ["65", "70", "75", "80"],
+    "answerIndex": 2,
+    "explanation": "10% × 750 = 75."
+  }
+]

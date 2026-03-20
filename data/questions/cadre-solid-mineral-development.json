@@ -1,0 +1,4252 @@
+[
+  {
+    "id": "adv_solid-mineral-development_0001",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Reconnaissance vs exploration refers to?",
+    "options": [
+      "both drilling only",
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both laboratory only",
+      "both identical"
+    ],
+    "answerIndex": 1,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0005",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Ore grade refers to?",
+    "options": [
+      "tonnage of waste",
+      "density only",
+      "concentration of valuable mineral in ore",
+      "drill diameter"
+    ],
+    "answerIndex": 2,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0009",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Cut-off grade refers to?",
+    "options": [
+      "minimum grade for economic mining",
+      "maximum grade",
+      "average grade",
+      "lab threshold only"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0013",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Beneficiation refers to?",
+    "options": [
+      "processing to improve ore quality",
+      "shipping raw ore",
+      "blasting only",
+      "mine closure only"
+    ],
+    "answerIndex": 0,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0017",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Royalties refers to?",
+    "options": [
+      "EIA fee",
+      "CSR budget",
+      "corporate tax only",
+      "payments to state based on production value/volume"
+    ],
+    "answerIndex": 3,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0021",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Mining lease refers to?",
+    "options": [
+      "prospecting license only",
+      "rights granted to extract minerals",
+      "export permit",
+      "import license"
+    ],
+    "answerIndex": 1,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0025",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, EIA in mining refers to?",
+    "options": [
+      "ISO 9001 audit",
+      "tax clearance",
+      "assess and mitigate environmental impacts",
+      "CSR brochure"
+    ],
+    "answerIndex": 2,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0029",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Mine closure plan refers to?",
+    "options": [
+      "progressive rehabilitation and post-mining land use",
+      "sell equipment only",
+      "defer indefinitely",
+      "ignore tailings"
+    ],
+    "answerIndex": 0,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0033",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Artisanal formalization refers to?",
+    "options": [
+      "ignore safety",
+      "arrest all",
+      "ban outright",
+      "organize ASM into cooperatives with support"
+    ],
+    "answerIndex": 3,
+    "explanation": "organize ASM into cooperatives with support"
+  },
+  {
+    "id": "adv_solid-mineral-development_0037",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, HSE in mining refers to?",
+    "options": [
+      "track hotel occupancy",
+      "bank interest",
+      "monitor dust, noise, ground stability",
+      "school fees"
+    ],
+    "answerIndex": 2,
+    "explanation": "monitor dust, noise, ground stability"
+  },
+  {
+    "id": "adv_solid-mineral-development_0001_vs73k",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: In solid minerals, Reconnaissance vs exploration refers to?",
+    "options": [
+      "both laboratory only (typically)",
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both identical (typically)",
+      "both drilling only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0001_v0msi",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Within solid minerals, Reconnaissance vs exploration refers to?",
+    "options": [
+      "both identical (framework)",
+      "both drilling only — in practice",
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both laboratory only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0001_v7nwy",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: In solid minerals, Reconnaissance vs exploration refers to?",
+    "options": [
+      "both laboratory only (policy)",
+      "both drilling only — in practice",
+      "both identical — concept",
+      "recon is regional scanning; exploration is detailed evaluation"
+    ],
+    "answerIndex": 3,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0001_vldaf",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Reconnaissance vs exploration refers to? Select the best option.",
+    "options": [
+      "both drilling only (typically)",
+      "both laboratory only (theory)",
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both identical (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0001_vl94z",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Reconnaissance vs exploration refers to? Choose the most accurate answer.",
+    "options": [
+      "both identical (theory)",
+      "both laboratory only (advanced)",
+      "both drilling only (framework)",
+      "recon is regional scanning; exploration is detailed evaluation"
+    ],
+    "answerIndex": 3,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0001_v2x1y",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: In solid minerals, Reconnaissance vs exploration refers to?",
+    "options": [
+      "both drilling only — concept",
+      "both laboratory only — concept",
+      "both identical (framework)",
+      "recon is regional scanning; exploration is detailed evaluation"
+    ],
+    "answerIndex": 3,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0001_v3yu3",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: In solid minerals, Reconnaissance vs exploration refers to?",
+    "options": [
+      "both identical (typically)",
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both drilling only (theory)",
+      "both laboratory only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0002_vec9g",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Reconnaissance vs exploration?",
+    "options": [
+      "both identical (theory)",
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both laboratory only (theory)",
+      "both drilling only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0002_vox67",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Reconnaissance vs exploration?",
+    "options": [
+      "both drilling only (advanced)",
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both laboratory only (typically)",
+      "both identical (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0002_v9mho",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Reconnaissance vs exploration?",
+    "options": [
+      "both identical (framework)",
+      "both laboratory only (typically)",
+      "both drilling only (policy)",
+      "recon is regional scanning; exploration is detailed evaluation"
+    ],
+    "answerIndex": 3,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0002_v001l",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Reconnaissance vs exploration?",
+    "options": [
+      "both identical — concept",
+      "both laboratory only — concept",
+      "both drilling only (framework)",
+      "recon is regional scanning; exploration is detailed evaluation"
+    ],
+    "answerIndex": 3,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0002_vws8c",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Reconnaissance vs exploration? Select the best option.",
+    "options": [
+      "both drilling only (typically)",
+      "both laboratory only (advanced)",
+      "both identical (typically)",
+      "recon is regional scanning; exploration is detailed evaluation"
+    ],
+    "answerIndex": 3,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0002_vu1zj",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Reconnaissance vs exploration? Choose the most accurate answer.",
+    "options": [
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both laboratory only — in practice",
+      "both identical — concept",
+      "both drilling only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0002_vsb6r",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Reconnaissance vs exploration?",
+    "options": [
+      "both drilling only (typically)",
+      "both laboratory only (typically)",
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both identical (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0002_vilr2",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Reconnaissance vs exploration?",
+    "options": [
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both identical (framework)",
+      "both drilling only (policy)",
+      "both laboratory only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0002_vo2jw",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Reconnaissance vs exploration?",
+    "options": [
+      "both laboratory only — in practice",
+      "both identical (policy)",
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both drilling only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0003_vghd4",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Reconnaissance vs exploration.",
+    "options": [
+      "both laboratory only (framework)",
+      "both identical (advanced)",
+      "both drilling only — in practice",
+      "recon is regional scanning; exploration is detailed evaluation"
+    ],
+    "answerIndex": 3,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0003_vy5uz",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate definition of Reconnaissance vs exploration.",
+    "options": [
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both drilling only (framework)",
+      "both laboratory only (policy)",
+      "both identical (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0003_vikyq",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Identify the accurate definition of Reconnaissance vs exploration.",
+    "options": [
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both laboratory only (advanced)",
+      "both identical (policy)",
+      "both drilling only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0003_vxu1q",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate definition of Reconnaissance vs exploration.",
+    "options": [
+      "both drilling only (framework)",
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both identical (policy)",
+      "both laboratory only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0003_vzajv",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Reconnaissance vs exploration. Select the best option.",
+    "options": [
+      "both drilling only (policy)",
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both laboratory only (advanced)",
+      "both identical (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0003_ve7lt",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Choose the accurate definition of Reconnaissance vs exploration.",
+    "options": [
+      "both laboratory only — concept",
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both identical (advanced)",
+      "both drilling only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0003_vd6ps",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate definition of Reconnaissance vs exploration.",
+    "options": [
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both identical (framework)",
+      "both drilling only (theory)",
+      "both laboratory only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0003_vezrm",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate definition of Reconnaissance vs exploration.",
+    "options": [
+      "both drilling only — concept",
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both laboratory only — in practice",
+      "both identical (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0004_v625r",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: Reconnaissance vs exploration primarily involves what?",
+    "options": [
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both identical — in practice",
+      "both drilling only — concept",
+      "both laboratory only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0004_vgym3",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced mining: Reconnaissance vs exploration primarily involves what?",
+    "options": [
+      "both laboratory only (advanced)",
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both drilling only (theory)",
+      "both identical (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0004_vgbgi",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced mining: Reconnaissance vs exploration primarily involves what?",
+    "options": [
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both drilling only (advanced)",
+      "both laboratory only — in practice",
+      "both identical — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0004_vp9f9",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: Reconnaissance vs exploration primarily involves what? Select the best option.",
+    "options": [
+      "both identical (framework)",
+      "both laboratory only (typically)",
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both drilling only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0004_v8e1c",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced mining: Reconnaissance vs exploration primarily involves what?",
+    "options": [
+      "recon is regional scanning; exploration is detailed evaluation",
+      "both drilling only — concept",
+      "both laboratory only (theory)",
+      "both identical (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "recon is regional scanning; exploration is detailed evaluation"
+  },
+  {
+    "id": "adv_solid-mineral-development_0005_vhc7y",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: In solid minerals, Ore grade refers to?",
+    "options": [
+      "density only (policy)",
+      "concentration of valuable mineral in ore",
+      "tonnage of waste (policy)",
+      "drill diameter (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0005_vvlt5",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Within solid minerals, Ore grade refers to?",
+    "options": [
+      "tonnage of waste — concept",
+      "drill diameter (advanced)",
+      "density only (advanced)",
+      "concentration of valuable mineral in ore"
+    ],
+    "answerIndex": 3,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0005_vnz95",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: In solid minerals, Ore grade refers to?",
+    "options": [
+      "tonnage of waste (policy)",
+      "concentration of valuable mineral in ore",
+      "density only — in practice",
+      "drill diameter (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0005_vlu3a",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Ore grade refers to? Select the best option.",
+    "options": [
+      "density only (theory)",
+      "concentration of valuable mineral in ore",
+      "drill diameter (typically)",
+      "tonnage of waste (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0005_v19h6",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Ore grade refers to? Choose the most accurate answer.",
+    "options": [
+      "tonnage of waste — in practice",
+      "concentration of valuable mineral in ore",
+      "drill diameter (theory)",
+      "density only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0005_vilk4",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: In solid minerals, Ore grade refers to?",
+    "options": [
+      "tonnage of waste (framework)",
+      "concentration of valuable mineral in ore",
+      "drill diameter — concept",
+      "density only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0005_v9pxr",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: In solid minerals, Ore grade refers to?",
+    "options": [
+      "concentration of valuable mineral in ore",
+      "drill diameter — in practice",
+      "density only — in practice",
+      "tonnage of waste (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0006_vm2nl",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Ore grade?",
+    "options": [
+      "density only (framework)",
+      "concentration of valuable mineral in ore",
+      "drill diameter — concept",
+      "tonnage of waste — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0006_v0exa",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Ore grade?",
+    "options": [
+      "drill diameter (policy)",
+      "density only — concept",
+      "tonnage of waste (policy)",
+      "concentration of valuable mineral in ore"
+    ],
+    "answerIndex": 3,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0006_vlyaj",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Ore grade?",
+    "options": [
+      "concentration of valuable mineral in ore",
+      "density only (typically)",
+      "drill diameter (policy)",
+      "tonnage of waste (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0006_vzvjj",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Ore grade?",
+    "options": [
+      "concentration of valuable mineral in ore",
+      "drill diameter (framework)",
+      "tonnage of waste (theory)",
+      "density only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0006_vwlxf",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Ore grade? Select the best option.",
+    "options": [
+      "drill diameter (framework)",
+      "density only (policy)",
+      "concentration of valuable mineral in ore",
+      "tonnage of waste (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0006_v3fkq",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Ore grade? Choose the most accurate answer.",
+    "options": [
+      "tonnage of waste (framework)",
+      "drill diameter — concept",
+      "concentration of valuable mineral in ore",
+      "density only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0006_v8me8",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Ore grade?",
+    "options": [
+      "tonnage of waste (framework)",
+      "density only (theory)",
+      "drill diameter (framework)",
+      "concentration of valuable mineral in ore"
+    ],
+    "answerIndex": 3,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0006_vau22",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Ore grade?",
+    "options": [
+      "drill diameter (typically)",
+      "density only (framework)",
+      "concentration of valuable mineral in ore",
+      "tonnage of waste — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0006_vs0y0",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Ore grade?",
+    "options": [
+      "tonnage of waste (framework)",
+      "concentration of valuable mineral in ore",
+      "drill diameter (policy)",
+      "density only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0007_vzbyp",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Ore grade.",
+    "options": [
+      "concentration of valuable mineral in ore",
+      "drill diameter (policy)",
+      "density only — in practice",
+      "tonnage of waste — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0007_vsimw",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate definition of Ore grade.",
+    "options": [
+      "drill diameter — concept",
+      "concentration of valuable mineral in ore",
+      "density only (framework)",
+      "tonnage of waste (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0007_vvt6j",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Identify the accurate definition of Ore grade.",
+    "options": [
+      "concentration of valuable mineral in ore",
+      "density only — concept",
+      "drill diameter — concept",
+      "tonnage of waste (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0007_v6ex6",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate definition of Ore grade.",
+    "options": [
+      "tonnage of waste (framework)",
+      "concentration of valuable mineral in ore",
+      "drill diameter (advanced)",
+      "density only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0007_vpjsl",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Ore grade. Select the best option.",
+    "options": [
+      "concentration of valuable mineral in ore",
+      "drill diameter (policy)",
+      "density only (policy)",
+      "tonnage of waste (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0007_v9uqo",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Ore grade. Choose the most accurate answer.",
+    "options": [
+      "density only (typically)",
+      "drill diameter — in practice",
+      "concentration of valuable mineral in ore",
+      "tonnage of waste (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0007_vjt6v",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Choose the accurate definition of Ore grade.",
+    "options": [
+      "tonnage of waste (advanced)",
+      "drill diameter (advanced)",
+      "concentration of valuable mineral in ore",
+      "density only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0007_v7je8",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate definition of Ore grade.",
+    "options": [
+      "density only (advanced)",
+      "drill diameter (framework)",
+      "concentration of valuable mineral in ore",
+      "tonnage of waste — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0007_vpy3z",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate definition of Ore grade.",
+    "options": [
+      "drill diameter (advanced)",
+      "density only (typically)",
+      "concentration of valuable mineral in ore",
+      "tonnage of waste — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0008_vlnfw",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: Ore grade primarily involves what?",
+    "options": [
+      "tonnage of waste (theory)",
+      "density only (framework)",
+      "concentration of valuable mineral in ore",
+      "drill diameter — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0008_vvei9",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced mining: Ore grade primarily involves what?",
+    "options": [
+      "tonnage of waste (framework)",
+      "drill diameter (policy)",
+      "density only (theory)",
+      "concentration of valuable mineral in ore"
+    ],
+    "answerIndex": 3,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0008_v6c6n",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced mining: Ore grade primarily involves what?",
+    "options": [
+      "tonnage of waste (advanced)",
+      "concentration of valuable mineral in ore",
+      "drill diameter (theory)",
+      "density only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0008_v44az",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: Ore grade primarily involves what? Select the best option.",
+    "options": [
+      "density only (advanced)",
+      "concentration of valuable mineral in ore",
+      "drill diameter (policy)",
+      "tonnage of waste (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0008_v38vg",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: Ore grade primarily involves what? Choose the most accurate answer.",
+    "options": [
+      "density only (typically)",
+      "drill diameter (policy)",
+      "concentration of valuable mineral in ore",
+      "tonnage of waste (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0008_vulkt",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced mining: Ore grade primarily involves what?",
+    "options": [
+      "tonnage of waste — in practice",
+      "concentration of valuable mineral in ore",
+      "drill diameter — concept",
+      "density only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0008_vxji0",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced mining: Ore grade primarily involves what?",
+    "options": [
+      "drill diameter (typically)",
+      "density only (advanced)",
+      "tonnage of waste — in practice",
+      "concentration of valuable mineral in ore"
+    ],
+    "answerIndex": 3,
+    "explanation": "concentration of valuable mineral in ore"
+  },
+  {
+    "id": "adv_solid-mineral-development_0009_vwcgg",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: In solid minerals, Cut-off grade refers to?",
+    "options": [
+      "minimum grade for economic mining",
+      "average grade (advanced)",
+      "lab threshold only (theory)",
+      "maximum grade — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0009_vxj1w",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Within solid minerals, Cut-off grade refers to?",
+    "options": [
+      "average grade (theory)",
+      "minimum grade for economic mining",
+      "maximum grade — concept",
+      "lab threshold only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0009_vpnlt",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: In solid minerals, Cut-off grade refers to?",
+    "options": [
+      "minimum grade for economic mining",
+      "maximum grade — in practice",
+      "lab threshold only — in practice",
+      "average grade (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0009_vzy2x",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Cut-off grade refers to? Select the best option.",
+    "options": [
+      "average grade (typically)",
+      "lab threshold only (typically)",
+      "minimum grade for economic mining",
+      "maximum grade (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0009_vuwvu",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Cut-off grade refers to? Choose the most accurate answer.",
+    "options": [
+      "minimum grade for economic mining",
+      "average grade — in practice",
+      "lab threshold only (policy)",
+      "maximum grade (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0009_vy14m",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: In solid minerals, Cut-off grade refers to?",
+    "options": [
+      "lab threshold only (policy)",
+      "average grade (advanced)",
+      "maximum grade (typically)",
+      "minimum grade for economic mining"
+    ],
+    "answerIndex": 3,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0009_v6l60",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: In solid minerals, Cut-off grade refers to?",
+    "options": [
+      "lab threshold only (theory)",
+      "minimum grade for economic mining",
+      "maximum grade (theory)",
+      "average grade (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0010_vmk7r",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Cut-off grade?",
+    "options": [
+      "maximum grade — in practice",
+      "lab threshold only (theory)",
+      "average grade (framework)",
+      "minimum grade for economic mining"
+    ],
+    "answerIndex": 3,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0010_vqdmp",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Cut-off grade?",
+    "options": [
+      "average grade (theory)",
+      "minimum grade for economic mining",
+      "maximum grade — concept",
+      "lab threshold only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0010_vp9r2",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Cut-off grade?",
+    "options": [
+      "average grade (advanced)",
+      "lab threshold only (typically)",
+      "maximum grade (policy)",
+      "minimum grade for economic mining"
+    ],
+    "answerIndex": 3,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0010_v72l1",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Cut-off grade?",
+    "options": [
+      "average grade (advanced)",
+      "lab threshold only (framework)",
+      "minimum grade for economic mining",
+      "maximum grade — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0010_vbp84",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Cut-off grade? Select the best option.",
+    "options": [
+      "maximum grade — concept",
+      "lab threshold only (framework)",
+      "average grade — concept",
+      "minimum grade for economic mining"
+    ],
+    "answerIndex": 3,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0010_viybl",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Cut-off grade? Choose the most accurate answer.",
+    "options": [
+      "average grade (advanced)",
+      "minimum grade for economic mining",
+      "maximum grade (framework)",
+      "lab threshold only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0010_v32i8",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Cut-off grade?",
+    "options": [
+      "average grade (policy)",
+      "lab threshold only (theory)",
+      "maximum grade (framework)",
+      "minimum grade for economic mining"
+    ],
+    "answerIndex": 3,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0010_v0v42",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Cut-off grade?",
+    "options": [
+      "minimum grade for economic mining",
+      "average grade (policy)",
+      "maximum grade (policy)",
+      "lab threshold only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0010_vb9t0",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Cut-off grade?",
+    "options": [
+      "maximum grade (framework)",
+      "lab threshold only (framework)",
+      "minimum grade for economic mining",
+      "average grade (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0011_vi8pa",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Cut-off grade.",
+    "options": [
+      "maximum grade — in practice",
+      "average grade (framework)",
+      "minimum grade for economic mining",
+      "lab threshold only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0011_v2qvx",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate definition of Cut-off grade.",
+    "options": [
+      "minimum grade for economic mining",
+      "lab threshold only — in practice",
+      "average grade (theory)",
+      "maximum grade (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0011_vvzkh",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate definition of Cut-off grade.",
+    "options": [
+      "lab threshold only (policy)",
+      "maximum grade (framework)",
+      "minimum grade for economic mining",
+      "average grade (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0011_v99ku",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Cut-off grade. Select the best option.",
+    "options": [
+      "maximum grade (framework)",
+      "minimum grade for economic mining",
+      "average grade (theory)",
+      "lab threshold only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0011_vl1rp",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Cut-off grade. Choose the most accurate answer.",
+    "options": [
+      "average grade — in practice",
+      "lab threshold only (policy)",
+      "maximum grade — concept",
+      "minimum grade for economic mining"
+    ],
+    "answerIndex": 3,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0011_vg4bd",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Choose the accurate definition of Cut-off grade.",
+    "options": [
+      "average grade (advanced)",
+      "minimum grade for economic mining",
+      "lab threshold only (advanced)",
+      "maximum grade (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0011_vdkzr",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate definition of Cut-off grade.",
+    "options": [
+      "minimum grade for economic mining",
+      "maximum grade (theory)",
+      "average grade — in practice",
+      "lab threshold only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0011_vhk36",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate definition of Cut-off grade.",
+    "options": [
+      "lab threshold only (typically)",
+      "minimum grade for economic mining",
+      "average grade (theory)",
+      "maximum grade — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0012_vdkn8",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: Cut-off grade primarily involves what?",
+    "options": [
+      "average grade (theory)",
+      "minimum grade for economic mining",
+      "lab threshold only — concept",
+      "maximum grade — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0012_v3od4",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced mining: Cut-off grade primarily involves what?",
+    "options": [
+      "lab threshold only — concept",
+      "minimum grade for economic mining",
+      "average grade (typically)",
+      "maximum grade (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0012_vdes5",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced mining: Cut-off grade primarily involves what?",
+    "options": [
+      "average grade — concept",
+      "minimum grade for economic mining",
+      "maximum grade — in practice",
+      "lab threshold only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0012_v87jf",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: Cut-off grade primarily involves what? Select the best option.",
+    "options": [
+      "lab threshold only (framework)",
+      "average grade — in practice",
+      "maximum grade (policy)",
+      "minimum grade for economic mining"
+    ],
+    "answerIndex": 3,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0012_vgzrx",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: Cut-off grade primarily involves what? Choose the most accurate answer.",
+    "options": [
+      "maximum grade (theory)",
+      "average grade (advanced)",
+      "minimum grade for economic mining",
+      "lab threshold only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0012_vm3rx",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced mining: Cut-off grade primarily involves what?",
+    "options": [
+      "lab threshold only (theory)",
+      "maximum grade — concept",
+      "average grade (framework)",
+      "minimum grade for economic mining"
+    ],
+    "answerIndex": 3,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0012_vyf5i",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced mining: Cut-off grade primarily involves what?",
+    "options": [
+      "average grade (advanced)",
+      "minimum grade for economic mining",
+      "maximum grade — in practice",
+      "lab threshold only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum grade for economic mining"
+  },
+  {
+    "id": "adv_solid-mineral-development_0013_vzoxv",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: In solid minerals, Beneficiation refers to?",
+    "options": [
+      "shipping raw ore (framework)",
+      "mine closure only (theory)",
+      "blasting only (advanced)",
+      "processing to improve ore quality"
+    ],
+    "answerIndex": 3,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0013_vepsq",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Within solid minerals, Beneficiation refers to?",
+    "options": [
+      "mine closure only (framework)",
+      "processing to improve ore quality",
+      "blasting only (framework)",
+      "shipping raw ore (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0013_vawyi",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: In solid minerals, Beneficiation refers to?",
+    "options": [
+      "blasting only — concept",
+      "shipping raw ore (advanced)",
+      "processing to improve ore quality",
+      "mine closure only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0013_va03z",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Beneficiation refers to? Select the best option.",
+    "options": [
+      "shipping raw ore — concept",
+      "mine closure only — in practice",
+      "blasting only — in practice",
+      "processing to improve ore quality"
+    ],
+    "answerIndex": 3,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0013_v604j",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Beneficiation refers to? Choose the most accurate answer.",
+    "options": [
+      "processing to improve ore quality",
+      "blasting only (typically)",
+      "mine closure only (typically)",
+      "shipping raw ore (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0013_vznag",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: In solid minerals, Beneficiation refers to?",
+    "options": [
+      "blasting only (theory)",
+      "processing to improve ore quality",
+      "mine closure only (framework)",
+      "shipping raw ore (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0013_vzjgj",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: In solid minerals, Beneficiation refers to?",
+    "options": [
+      "blasting only — concept",
+      "processing to improve ore quality",
+      "mine closure only (framework)",
+      "shipping raw ore (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0014_vsz4s",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Beneficiation?",
+    "options": [
+      "blasting only (advanced)",
+      "processing to improve ore quality",
+      "mine closure only (framework)",
+      "shipping raw ore (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0014_v3y48",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Beneficiation?",
+    "options": [
+      "shipping raw ore — in practice",
+      "processing to improve ore quality",
+      "blasting only — concept",
+      "mine closure only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0014_v7vgc",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Beneficiation?",
+    "options": [
+      "shipping raw ore — in practice",
+      "blasting only — concept",
+      "processing to improve ore quality",
+      "mine closure only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0014_v8wtw",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Beneficiation?",
+    "options": [
+      "mine closure only — concept",
+      "processing to improve ore quality",
+      "blasting only (advanced)",
+      "shipping raw ore (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0014_v82uq",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Beneficiation? Select the best option.",
+    "options": [
+      "blasting only (framework)",
+      "processing to improve ore quality",
+      "shipping raw ore — concept",
+      "mine closure only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0014_vt4n4",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Beneficiation? Choose the most accurate answer.",
+    "options": [
+      "shipping raw ore (typically)",
+      "blasting only — concept",
+      "mine closure only (theory)",
+      "processing to improve ore quality"
+    ],
+    "answerIndex": 3,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0014_vd6ld",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Beneficiation?",
+    "options": [
+      "processing to improve ore quality",
+      "blasting only — in practice",
+      "mine closure only (theory)",
+      "shipping raw ore (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0014_vly3f",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Beneficiation?",
+    "options": [
+      "mine closure only (framework)",
+      "shipping raw ore — concept",
+      "blasting only (theory)",
+      "processing to improve ore quality"
+    ],
+    "answerIndex": 3,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0015_vsej5",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Beneficiation.",
+    "options": [
+      "blasting only (theory)",
+      "processing to improve ore quality",
+      "mine closure only — concept",
+      "shipping raw ore (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0015_vhf3x",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Identify the accurate definition of Beneficiation.",
+    "options": [
+      "mine closure only (policy)",
+      "shipping raw ore (typically)",
+      "processing to improve ore quality",
+      "blasting only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0015_vxpix",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate definition of Beneficiation.",
+    "options": [
+      "processing to improve ore quality",
+      "mine closure only (theory)",
+      "shipping raw ore — in practice",
+      "blasting only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0015_vg5ip",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Beneficiation. Select the best option.",
+    "options": [
+      "blasting only (advanced)",
+      "shipping raw ore (theory)",
+      "processing to improve ore quality",
+      "mine closure only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0015_vh0wm",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Beneficiation. Choose the most accurate answer.",
+    "options": [
+      "mine closure only (theory)",
+      "processing to improve ore quality",
+      "shipping raw ore (theory)",
+      "blasting only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0015_v9i2x",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Choose the accurate definition of Beneficiation.",
+    "options": [
+      "mine closure only — in practice",
+      "blasting only (theory)",
+      "processing to improve ore quality",
+      "shipping raw ore (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0015_vfvc0",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate definition of Beneficiation.",
+    "options": [
+      "blasting only (typically)",
+      "processing to improve ore quality",
+      "shipping raw ore (typically)",
+      "mine closure only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0015_vham3",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate definition of Beneficiation.",
+    "options": [
+      "processing to improve ore quality",
+      "mine closure only — concept",
+      "blasting only (advanced)",
+      "shipping raw ore (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0016_vuxu2",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: Beneficiation primarily involves what?",
+    "options": [
+      "mine closure only (policy)",
+      "blasting only (advanced)",
+      "shipping raw ore — in practice",
+      "processing to improve ore quality"
+    ],
+    "answerIndex": 3,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0016_vx3sc",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced mining: Beneficiation primarily involves what?",
+    "options": [
+      "processing to improve ore quality",
+      "blasting only (framework)",
+      "shipping raw ore (policy)",
+      "mine closure only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0016_vwet2",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced mining: Beneficiation primarily involves what?",
+    "options": [
+      "processing to improve ore quality",
+      "blasting only (policy)",
+      "shipping raw ore (advanced)",
+      "mine closure only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0016_vnsbz",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: Beneficiation primarily involves what? Select the best option.",
+    "options": [
+      "shipping raw ore (theory)",
+      "blasting only (framework)",
+      "mine closure only (advanced)",
+      "processing to improve ore quality"
+    ],
+    "answerIndex": 3,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0016_v2zh7",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: Beneficiation primarily involves what? Choose the most accurate answer.",
+    "options": [
+      "processing to improve ore quality",
+      "blasting only (typically)",
+      "shipping raw ore — in practice",
+      "mine closure only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0016_vrcry",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced mining: Beneficiation primarily involves what?",
+    "options": [
+      "mine closure only (typically)",
+      "blasting only (policy)",
+      "shipping raw ore (framework)",
+      "processing to improve ore quality"
+    ],
+    "answerIndex": 3,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0016_v68bw",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced mining: Beneficiation primarily involves what?",
+    "options": [
+      "blasting only (typically)",
+      "mine closure only — concept",
+      "processing to improve ore quality",
+      "shipping raw ore (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "processing to improve ore quality"
+  },
+  {
+    "id": "adv_solid-mineral-development_0017_vsegm",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: In solid minerals, Royalties refers to?",
+    "options": [
+      "CSR budget (framework)",
+      "EIA fee (advanced)",
+      "payments to state based on production value/volume",
+      "corporate tax only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0017_vzc6f",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Within solid minerals, Royalties refers to?",
+    "options": [
+      "CSR budget (theory)",
+      "EIA fee (framework)",
+      "payments to state based on production value/volume",
+      "corporate tax only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0017_v5rby",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: In solid minerals, Royalties refers to?",
+    "options": [
+      "CSR budget (policy)",
+      "EIA fee — concept",
+      "corporate tax only — in practice",
+      "payments to state based on production value/volume"
+    ],
+    "answerIndex": 3,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0017_ve4un",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Royalties refers to? Select the best option.",
+    "options": [
+      "payments to state based on production value/volume",
+      "EIA fee — concept",
+      "corporate tax only (typically)",
+      "CSR budget (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0017_vpnoi",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Royalties refers to? Choose the most accurate answer.",
+    "options": [
+      "EIA fee — in practice",
+      "corporate tax only (typically)",
+      "payments to state based on production value/volume",
+      "CSR budget — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0017_v0szj",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: In solid minerals, Royalties refers to?",
+    "options": [
+      "CSR budget (typically)",
+      "corporate tax only (policy)",
+      "EIA fee (framework)",
+      "payments to state based on production value/volume"
+    ],
+    "answerIndex": 3,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0017_vo979",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: In solid minerals, Royalties refers to?",
+    "options": [
+      "payments to state based on production value/volume",
+      "CSR budget (typically)",
+      "corporate tax only (policy)",
+      "EIA fee — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0018_v4629",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Royalties?",
+    "options": [
+      "CSR budget (advanced)",
+      "EIA fee (policy)",
+      "payments to state based on production value/volume",
+      "corporate tax only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0018_v0mgf",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Royalties?",
+    "options": [
+      "CSR budget (theory)",
+      "EIA fee (advanced)",
+      "payments to state based on production value/volume",
+      "corporate tax only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0018_vtpw2",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Royalties?",
+    "options": [
+      "CSR budget (theory)",
+      "EIA fee (typically)",
+      "corporate tax only — in practice",
+      "payments to state based on production value/volume"
+    ],
+    "answerIndex": 3,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0018_vyzhb",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Royalties?",
+    "options": [
+      "payments to state based on production value/volume",
+      "EIA fee (theory)",
+      "CSR budget (typically)",
+      "corporate tax only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0018_v6rbw",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Royalties? Select the best option.",
+    "options": [
+      "payments to state based on production value/volume",
+      "EIA fee (typically)",
+      "corporate tax only (theory)",
+      "CSR budget (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0018_vs0g6",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Royalties? Choose the most accurate answer.",
+    "options": [
+      "CSR budget (framework)",
+      "corporate tax only — concept",
+      "EIA fee (advanced)",
+      "payments to state based on production value/volume"
+    ],
+    "answerIndex": 3,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0018_v5ww9",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Royalties?",
+    "options": [
+      "EIA fee — concept",
+      "corporate tax only (typically)",
+      "CSR budget — in practice",
+      "payments to state based on production value/volume"
+    ],
+    "answerIndex": 3,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0018_vgilf",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Royalties?",
+    "options": [
+      "CSR budget (typically)",
+      "payments to state based on production value/volume",
+      "corporate tax only (theory)",
+      "EIA fee — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0019_vn8gb",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Royalties.",
+    "options": [
+      "corporate tax only (typically)",
+      "payments to state based on production value/volume",
+      "CSR budget (theory)",
+      "EIA fee — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0019_v63rs",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate definition of Royalties.",
+    "options": [
+      "CSR budget (typically)",
+      "EIA fee (theory)",
+      "payments to state based on production value/volume",
+      "corporate tax only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0019_vylf2",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Identify the accurate definition of Royalties.",
+    "options": [
+      "corporate tax only (advanced)",
+      "CSR budget — concept",
+      "EIA fee (advanced)",
+      "payments to state based on production value/volume"
+    ],
+    "answerIndex": 3,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0019_vgt78",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate definition of Royalties.",
+    "options": [
+      "EIA fee (policy)",
+      "payments to state based on production value/volume",
+      "corporate tax only (typically)",
+      "CSR budget (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0019_vjosf",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Royalties. Select the best option.",
+    "options": [
+      "corporate tax only — in practice",
+      "EIA fee — in practice",
+      "payments to state based on production value/volume",
+      "CSR budget (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0019_vejwd",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Royalties. Choose the most accurate answer.",
+    "options": [
+      "CSR budget — in practice",
+      "payments to state based on production value/volume",
+      "corporate tax only (policy)",
+      "EIA fee — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0019_ve1oq",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Choose the accurate definition of Royalties.",
+    "options": [
+      "CSR budget — concept",
+      "corporate tax only (advanced)",
+      "EIA fee — in practice",
+      "payments to state based on production value/volume"
+    ],
+    "answerIndex": 3,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0019_vnc7x",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate definition of Royalties.",
+    "options": [
+      "payments to state based on production value/volume",
+      "CSR budget — in practice",
+      "corporate tax only (theory)",
+      "EIA fee — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0019_v1eu8",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate definition of Royalties.",
+    "options": [
+      "payments to state based on production value/volume",
+      "EIA fee (typically)",
+      "corporate tax only (policy)",
+      "CSR budget (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0020_v9t3b",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: Royalties primarily involves what?",
+    "options": [
+      "EIA fee (typically)",
+      "payments to state based on production value/volume",
+      "corporate tax only (typically)",
+      "CSR budget — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0020_v69r6",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced mining: Royalties primarily involves what?",
+    "options": [
+      "payments to state based on production value/volume",
+      "EIA fee — concept",
+      "CSR budget (policy)",
+      "corporate tax only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0020_vmhxo",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced mining: Royalties primarily involves what?",
+    "options": [
+      "EIA fee — concept",
+      "payments to state based on production value/volume",
+      "CSR budget (framework)",
+      "corporate tax only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0020_v4omu",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: Royalties primarily involves what? Select the best option.",
+    "options": [
+      "payments to state based on production value/volume",
+      "EIA fee (advanced)",
+      "corporate tax only (framework)",
+      "CSR budget — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0020_vnu0h",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced mining: Royalties primarily involves what?",
+    "options": [
+      "corporate tax only — concept",
+      "payments to state based on production value/volume",
+      "CSR budget (policy)",
+      "EIA fee (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0020_vh21g",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced mining: Royalties primarily involves what?",
+    "options": [
+      "EIA fee (theory)",
+      "payments to state based on production value/volume",
+      "corporate tax only (framework)",
+      "CSR budget (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "payments to state based on production value/volume"
+  },
+  {
+    "id": "adv_solid-mineral-development_0021_vee8w",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: In solid minerals, Mining lease refers to?",
+    "options": [
+      "export permit (theory)",
+      "prospecting license only (framework)",
+      "rights granted to extract minerals",
+      "import license (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0021_vwu7g",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Within solid minerals, Mining lease refers to?",
+    "options": [
+      "import license (typically)",
+      "rights granted to extract minerals",
+      "export permit (policy)",
+      "prospecting license only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0021_vdkbo",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: In solid minerals, Mining lease refers to?",
+    "options": [
+      "rights granted to extract minerals",
+      "prospecting license only (typically)",
+      "import license — concept",
+      "export permit (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0021_vk7r9",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Mining lease refers to? Select the best option.",
+    "options": [
+      "prospecting license only (policy)",
+      "rights granted to extract minerals",
+      "import license (theory)",
+      "export permit (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0021_vord5",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Mining lease refers to? Choose the most accurate answer.",
+    "options": [
+      "rights granted to extract minerals",
+      "import license (framework)",
+      "prospecting license only (policy)",
+      "export permit (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0021_vwigo",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: In solid minerals, Mining lease refers to?",
+    "options": [
+      "export permit (advanced)",
+      "prospecting license only (policy)",
+      "rights granted to extract minerals",
+      "import license (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0021_vzo9q",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: In solid minerals, Mining lease refers to?",
+    "options": [
+      "import license — concept",
+      "prospecting license only (typically)",
+      "rights granted to extract minerals",
+      "export permit (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0022_vm0nx",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Mining lease?",
+    "options": [
+      "export permit (typically)",
+      "rights granted to extract minerals",
+      "prospecting license only (framework)",
+      "import license (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0022_v592g",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Mining lease?",
+    "options": [
+      "rights granted to extract minerals",
+      "prospecting license only (advanced)",
+      "import license (framework)",
+      "export permit (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0022_vxdu6",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Mining lease?",
+    "options": [
+      "export permit — concept",
+      "prospecting license only (advanced)",
+      "import license (theory)",
+      "rights granted to extract minerals"
+    ],
+    "answerIndex": 3,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0022_v3m8w",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Mining lease?",
+    "options": [
+      "import license (advanced)",
+      "export permit — concept",
+      "rights granted to extract minerals",
+      "prospecting license only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0022_vbn0d",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Mining lease? Select the best option.",
+    "options": [
+      "prospecting license only (policy)",
+      "export permit (advanced)",
+      "rights granted to extract minerals",
+      "import license — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0022_v23kv",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Mining lease? Choose the most accurate answer.",
+    "options": [
+      "rights granted to extract minerals",
+      "import license (policy)",
+      "prospecting license only (framework)",
+      "export permit (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0022_vukg6",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Mining lease?",
+    "options": [
+      "rights granted to extract minerals",
+      "import license — concept",
+      "export permit (policy)",
+      "prospecting license only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0022_vbuv6",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Mining lease?",
+    "options": [
+      "prospecting license only — concept",
+      "import license (theory)",
+      "export permit — in practice",
+      "rights granted to extract minerals"
+    ],
+    "answerIndex": 3,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0022_vnnm4",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Mining lease?",
+    "options": [
+      "prospecting license only — concept",
+      "rights granted to extract minerals",
+      "export permit — in practice",
+      "import license — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0023_vra6t",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Mining lease.",
+    "options": [
+      "prospecting license only (framework)",
+      "export permit (policy)",
+      "import license (typically)",
+      "rights granted to extract minerals"
+    ],
+    "answerIndex": 3,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0023_vqgan",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate definition of Mining lease.",
+    "options": [
+      "import license — concept",
+      "rights granted to extract minerals",
+      "export permit (theory)",
+      "prospecting license only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0023_v4a89",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Identify the accurate definition of Mining lease.",
+    "options": [
+      "export permit (theory)",
+      "rights granted to extract minerals",
+      "import license — in practice",
+      "prospecting license only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0023_vetuk",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate definition of Mining lease.",
+    "options": [
+      "import license (typically)",
+      "rights granted to extract minerals",
+      "export permit (typically)",
+      "prospecting license only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0023_vrde0",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Mining lease. Select the best option.",
+    "options": [
+      "rights granted to extract minerals",
+      "import license (framework)",
+      "export permit (advanced)",
+      "prospecting license only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0023_vv6nq",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Mining lease. Choose the most accurate answer.",
+    "options": [
+      "rights granted to extract minerals",
+      "import license (theory)",
+      "prospecting license only (framework)",
+      "export permit (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0023_v3uvr",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Choose the accurate definition of Mining lease.",
+    "options": [
+      "prospecting license only — in practice",
+      "rights granted to extract minerals",
+      "import license (theory)",
+      "export permit — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0023_v2kjn",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate definition of Mining lease.",
+    "options": [
+      "rights granted to extract minerals",
+      "prospecting license only — concept",
+      "export permit — in practice",
+      "import license (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0023_vw5di",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate definition of Mining lease.",
+    "options": [
+      "prospecting license only (advanced)",
+      "export permit (theory)",
+      "rights granted to extract minerals",
+      "import license (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0024_vlyv8",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: Mining lease primarily involves what?",
+    "options": [
+      "import license (advanced)",
+      "rights granted to extract minerals",
+      "export permit (policy)",
+      "prospecting license only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0024_vy9qk",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced mining: Mining lease primarily involves what?",
+    "options": [
+      "rights granted to extract minerals",
+      "export permit (theory)",
+      "prospecting license only — in practice",
+      "import license (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0024_vhxss",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced mining: Mining lease primarily involves what?",
+    "options": [
+      "import license (theory)",
+      "export permit — in practice",
+      "rights granted to extract minerals",
+      "prospecting license only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0024_vc693",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: Mining lease primarily involves what? Choose the most accurate answer.",
+    "options": [
+      "prospecting license only — concept",
+      "import license (advanced)",
+      "rights granted to extract minerals",
+      "export permit — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0024_voxx1",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced mining: Mining lease primarily involves what?",
+    "options": [
+      "import license (advanced)",
+      "rights granted to extract minerals",
+      "export permit (advanced)",
+      "prospecting license only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "rights granted to extract minerals"
+  },
+  {
+    "id": "adv_solid-mineral-development_0025_vhqtl",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: In solid minerals, EIA in mining refers to?",
+    "options": [
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit (theory)",
+      "CSR brochure — in practice",
+      "tax clearance — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0025_v76rc",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Within solid minerals, EIA in mining refers to?",
+    "options": [
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit (policy)",
+      "CSR brochure (theory)",
+      "tax clearance (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0025_veugs",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: In solid minerals, EIA in mining refers to?",
+    "options": [
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit (theory)",
+      "CSR brochure — in practice",
+      "tax clearance (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0025_vtu22",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, EIA in mining refers to? Select the best option.",
+    "options": [
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit (advanced)",
+      "tax clearance (framework)",
+      "CSR brochure (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0025_v6z75",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, EIA in mining refers to? Choose the most accurate answer.",
+    "options": [
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit (framework)",
+      "CSR brochure (theory)",
+      "tax clearance (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0025_vy2lo",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: In solid minerals, EIA in mining refers to?",
+    "options": [
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit (typically)",
+      "CSR brochure (policy)",
+      "tax clearance — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0025_v31q2",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: In solid minerals, EIA in mining refers to?",
+    "options": [
+      "ISO 9001 audit (policy)",
+      "assess and mitigate environmental impacts",
+      "tax clearance (theory)",
+      "CSR brochure (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0026_vuvab",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes EIA in mining?",
+    "options": [
+      "tax clearance (framework)",
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit (theory)",
+      "CSR brochure (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0026_v1qx7",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes EIA in mining?",
+    "options": [
+      "CSR brochure (framework)",
+      "tax clearance (typically)",
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0026_vp95v",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes EIA in mining?",
+    "options": [
+      "assess and mitigate environmental impacts",
+      "tax clearance (typically)",
+      "CSR brochure (advanced)",
+      "ISO 9001 audit (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0026_v1joz",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes EIA in mining?",
+    "options": [
+      "tax clearance (policy)",
+      "CSR brochure (typically)",
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0026_vc9ly",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes EIA in mining? Select the best option.",
+    "options": [
+      "tax clearance (advanced)",
+      "CSR brochure (typically)",
+      "ISO 9001 audit — concept",
+      "assess and mitigate environmental impacts"
+    ],
+    "answerIndex": 3,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0026_v7ynb",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes EIA in mining? Choose the most accurate answer.",
+    "options": [
+      "CSR brochure — concept",
+      "tax clearance (typically)",
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0026_vaqs9",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes EIA in mining?",
+    "options": [
+      "ISO 9001 audit (theory)",
+      "tax clearance — in practice",
+      "CSR brochure — concept",
+      "assess and mitigate environmental impacts"
+    ],
+    "answerIndex": 3,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0026_v8hi8",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes EIA in mining?",
+    "options": [
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit (typically)",
+      "tax clearance — in practice",
+      "CSR brochure (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0026_vztke",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes EIA in mining?",
+    "options": [
+      "assess and mitigate environmental impacts",
+      "CSR brochure (typically)",
+      "tax clearance (theory)",
+      "ISO 9001 audit (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0027_vrwnp",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of EIA in mining.",
+    "options": [
+      "ISO 9001 audit (policy)",
+      "tax clearance — concept",
+      "CSR brochure (framework)",
+      "assess and mitigate environmental impacts"
+    ],
+    "answerIndex": 3,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0027_vj8hj",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate definition of EIA in mining.",
+    "options": [
+      "CSR brochure (advanced)",
+      "ISO 9001 audit — concept",
+      "assess and mitigate environmental impacts",
+      "tax clearance — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0027_vya2j",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Identify the accurate definition of EIA in mining.",
+    "options": [
+      "tax clearance (policy)",
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit — in practice",
+      "CSR brochure (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0027_v2802",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate definition of EIA in mining.",
+    "options": [
+      "ISO 9001 audit — in practice",
+      "tax clearance (policy)",
+      "assess and mitigate environmental impacts",
+      "CSR brochure — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0027_vqvbc",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of EIA in mining. Select the best option.",
+    "options": [
+      "CSR brochure — concept",
+      "tax clearance (theory)",
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0027_vpyic",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Choose the accurate definition of EIA in mining.",
+    "options": [
+      "CSR brochure (theory)",
+      "ISO 9001 audit (advanced)",
+      "tax clearance (theory)",
+      "assess and mitigate environmental impacts"
+    ],
+    "answerIndex": 3,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0027_vwefd",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate definition of EIA in mining.",
+    "options": [
+      "ISO 9001 audit (policy)",
+      "assess and mitigate environmental impacts",
+      "CSR brochure — concept",
+      "tax clearance (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0027_vksy6",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate definition of EIA in mining.",
+    "options": [
+      "tax clearance — in practice",
+      "CSR brochure (framework)",
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0028_vblru",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: EIA in mining primarily involves what?",
+    "options": [
+      "CSR brochure — in practice",
+      "tax clearance (advanced)",
+      "ISO 9001 audit (framework)",
+      "assess and mitigate environmental impacts"
+    ],
+    "answerIndex": 3,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0028_vi65p",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced mining: EIA in mining primarily involves what?",
+    "options": [
+      "CSR brochure — in practice",
+      "tax clearance (theory)",
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0028_vkfpj",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced mining: EIA in mining primarily involves what?",
+    "options": [
+      "tax clearance — in practice",
+      "ISO 9001 audit (theory)",
+      "assess and mitigate environmental impacts",
+      "CSR brochure (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0028_vk8mx",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: EIA in mining primarily involves what? Select the best option.",
+    "options": [
+      "CSR brochure — concept",
+      "tax clearance (advanced)",
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0028_vemkp",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: EIA in mining primarily involves what? Choose the most accurate answer.",
+    "options": [
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit — in practice",
+      "tax clearance (advanced)",
+      "CSR brochure (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0028_vth4p",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced mining: EIA in mining primarily involves what?",
+    "options": [
+      "CSR brochure (typically)",
+      "tax clearance (theory)",
+      "assess and mitigate environmental impacts",
+      "ISO 9001 audit (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0028_vja8e",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced mining: EIA in mining primarily involves what?",
+    "options": [
+      "tax clearance — in practice",
+      "CSR brochure (typically)",
+      "ISO 9001 audit (advanced)",
+      "assess and mitigate environmental impacts"
+    ],
+    "answerIndex": 3,
+    "explanation": "assess and mitigate environmental impacts"
+  },
+  {
+    "id": "adv_solid-mineral-development_0029_v8l2d",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: In solid minerals, Mine closure plan refers to?",
+    "options": [
+      "ignore tailings (policy)",
+      "defer indefinitely — concept",
+      "sell equipment only (advanced)",
+      "progressive rehabilitation and post-mining land use"
+    ],
+    "answerIndex": 3,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0029_v0nhv",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Within solid minerals, Mine closure plan refers to?",
+    "options": [
+      "defer indefinitely (framework)",
+      "sell equipment only (typically)",
+      "progressive rehabilitation and post-mining land use",
+      "ignore tailings (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0029_v7bjt",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: In solid minerals, Mine closure plan refers to?",
+    "options": [
+      "sell equipment only (typically)",
+      "ignore tailings — concept",
+      "defer indefinitely (advanced)",
+      "progressive rehabilitation and post-mining land use"
+    ],
+    "answerIndex": 3,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0029_vtj24",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Mine closure plan refers to? Select the best option.",
+    "options": [
+      "defer indefinitely (typically)",
+      "progressive rehabilitation and post-mining land use",
+      "ignore tailings — concept",
+      "sell equipment only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0029_v47zy",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "In solid minerals, Mine closure plan refers to? Choose the most accurate answer.",
+    "options": [
+      "sell equipment only (theory)",
+      "defer indefinitely (theory)",
+      "progressive rehabilitation and post-mining land use",
+      "ignore tailings (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0029_vwyuk",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: In solid minerals, Mine closure plan refers to?",
+    "options": [
+      "defer indefinitely — in practice",
+      "sell equipment only (framework)",
+      "progressive rehabilitation and post-mining land use",
+      "ignore tailings — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0029_vdz5v",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: In solid minerals, Mine closure plan refers to?",
+    "options": [
+      "ignore tailings (theory)",
+      "defer indefinitely — in practice",
+      "progressive rehabilitation and post-mining land use",
+      "sell equipment only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0030_vogkv",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Mine closure plan?",
+    "options": [
+      "defer indefinitely — in practice",
+      "ignore tailings — in practice",
+      "progressive rehabilitation and post-mining land use",
+      "sell equipment only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0030_vldiv",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Mine closure plan?",
+    "options": [
+      "defer indefinitely — in practice",
+      "ignore tailings — concept",
+      "progressive rehabilitation and post-mining land use",
+      "sell equipment only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0030_vv79t",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Mine closure plan?",
+    "options": [
+      "sell equipment only — concept",
+      "ignore tailings (framework)",
+      "defer indefinitely (advanced)",
+      "progressive rehabilitation and post-mining land use"
+    ],
+    "answerIndex": 3,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0030_vcm50",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Mine closure plan?",
+    "options": [
+      "progressive rehabilitation and post-mining land use",
+      "sell equipment only — in practice",
+      "defer indefinitely (advanced)",
+      "ignore tailings — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0030_vgzcu",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Mine closure plan? Select the best option.",
+    "options": [
+      "ignore tailings — concept",
+      "defer indefinitely (framework)",
+      "sell equipment only (advanced)",
+      "progressive rehabilitation and post-mining land use"
+    ],
+    "answerIndex": 3,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0030_vlfi2",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Mine closure plan? Choose the most accurate answer.",
+    "options": [
+      "ignore tailings — concept",
+      "progressive rehabilitation and post-mining land use",
+      "sell equipment only (typically)",
+      "defer indefinitely — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0030_vi1fy",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Mine closure plan?",
+    "options": [
+      "ignore tailings (theory)",
+      "progressive rehabilitation and post-mining land use",
+      "defer indefinitely (policy)",
+      "sell equipment only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0030_vrw2t",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Mine closure plan?",
+    "options": [
+      "progressive rehabilitation and post-mining land use",
+      "ignore tailings (policy)",
+      "defer indefinitely (policy)",
+      "sell equipment only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0030_vf6kf",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Mine closure plan?",
+    "options": [
+      "progressive rehabilitation and post-mining land use",
+      "defer indefinitely (theory)",
+      "sell equipment only (typically)",
+      "ignore tailings (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0031_v0plv",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Mine closure plan.",
+    "options": [
+      "progressive rehabilitation and post-mining land use",
+      "sell equipment only (policy)",
+      "defer indefinitely (framework)",
+      "ignore tailings (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0031_vuz8b",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate definition of Mine closure plan.",
+    "options": [
+      "defer indefinitely (policy)",
+      "sell equipment only (framework)",
+      "progressive rehabilitation and post-mining land use",
+      "ignore tailings (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0031_v9aj0",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Identify the accurate definition of Mine closure plan.",
+    "options": [
+      "progressive rehabilitation and post-mining land use",
+      "defer indefinitely (framework)",
+      "ignore tailings (policy)",
+      "sell equipment only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0031_vgliz",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate definition of Mine closure plan.",
+    "options": [
+      "ignore tailings (theory)",
+      "sell equipment only — concept",
+      "defer indefinitely — concept",
+      "progressive rehabilitation and post-mining land use"
+    ],
+    "answerIndex": 3,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0031_v38fe",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Mine closure plan. Select the best option.",
+    "options": [
+      "progressive rehabilitation and post-mining land use",
+      "sell equipment only (theory)",
+      "defer indefinitely (policy)",
+      "ignore tailings — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0031_vg8tp",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate definition of Mine closure plan. Choose the most accurate answer.",
+    "options": [
+      "progressive rehabilitation and post-mining land use",
+      "ignore tailings — concept",
+      "sell equipment only (theory)",
+      "defer indefinitely (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0031_vzu3q",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate definition of Mine closure plan.",
+    "options": [
+      "progressive rehabilitation and post-mining land use",
+      "defer indefinitely — in practice",
+      "ignore tailings (framework)",
+      "sell equipment only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0031_vp2fy",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate definition of Mine closure plan.",
+    "options": [
+      "defer indefinitely (policy)",
+      "progressive rehabilitation and post-mining land use",
+      "ignore tailings — in practice",
+      "sell equipment only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0032_vfjvu",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced mining: Mine closure plan primarily involves what?",
+    "options": [
+      "sell equipment only — concept",
+      "ignore tailings — concept",
+      "defer indefinitely (theory)",
+      "progressive rehabilitation and post-mining land use"
+    ],
+    "answerIndex": 3,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0032_v48cj",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced mining: Mine closure plan primarily involves what?",
+    "options": [
+      "ignore tailings (policy)",
+      "defer indefinitely (typically)",
+      "sell equipment only — in practice",
+      "progressive rehabilitation and post-mining land use"
+    ],
+    "answerIndex": 3,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  },
+  {
+    "id": "adv_solid-mineral-development_0032_vxmtt",
+    "category": "cadre",
+    "cadreSlug": "solid-mineral-development",
+    "topic": "Solid Minerals",
+    "subtopic": "Law & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced mining: Mine closure plan primarily involves what?",
+    "options": [
+      "defer indefinitely (framework)",
+      "sell equipment only (policy)",
+      "progressive rehabilitation and post-mining land use",
+      "ignore tailings — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "progressive rehabilitation and post-mining land use"
+  }
+]

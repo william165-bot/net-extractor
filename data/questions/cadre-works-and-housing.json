@@ -1,0 +1,4252 @@
+[
+  {
+    "id": "adv_works-and-housing_0001",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, FIDIC Red Book refers to?",
+    "options": [
+      "measurement contract for building/engineering works",
+      "professional services only",
+      "lump sum EPC focus",
+      "design-build operate"
+    ],
+    "answerIndex": 0,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0005",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Eurocode EN 1992 refers to?",
+    "options": [
+      "timber structures",
+      "steel structures",
+      "design of concrete structures",
+      "geotechnical design"
+    ],
+    "answerIndex": 2,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0009",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Concrete slump test refers to?",
+    "options": [
+      "compressive strength directly",
+      "measures workability",
+      "chloride content",
+      "tensile strength"
+    ],
+    "answerIndex": 1,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0013",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Bill of Quantities (BOQ) refers to?",
+    "options": [
+      "itemized quantities with rates for pricing",
+      "contractor CVs",
+      "as-built drawings",
+      "safety plan"
+    ],
+    "answerIndex": 0,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0017",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Critical Path Method refers to?",
+    "options": [
+      "fastest path only",
+      "QA plan only",
+      "identifies longest path determining project duration",
+      "shortest resource path"
+    ],
+    "answerIndex": 2,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0021",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, HSE risk assessment refers to?",
+    "options": [
+      "identify hazards, evaluate risks, implement controls",
+      "record incidents only",
+      "insurance purchase",
+      "issue PPE only"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0025",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Cube strength test refers to?",
+    "options": [
+      "density test only",
+      "modulus directly",
+      "compressive strength at 28 days",
+      "slump at 7 days"
+    ],
+    "answerIndex": 2,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0029",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Asphalt Marshall stability refers to?",
+    "options": [
+      "skid resistance only",
+      "aggregate soundness",
+      "assesses mix stability and flow",
+      "bitumen flash point"
+    ],
+    "answerIndex": 2,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0033",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, BS 1377 refers to?",
+    "options": [
+      "steel welding",
+      "timber grading",
+      "electrical wiring",
+      "soils testing methods"
+    ],
+    "answerIndex": 3,
+    "explanation": "soils testing methods"
+  },
+  {
+    "id": "adv_works-and-housing_0037",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Procurement for works refers to?",
+    "options": [
+      "no prequalification",
+      "two-stage tendering for complex projects",
+      "random draw",
+      "verbal quotes"
+    ],
+    "answerIndex": 1,
+    "explanation": "two-stage tendering for complex projects"
+  },
+  {
+    "id": "adv_works-and-housing_0041",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Contracts",
+    "subtopic": "Commercial",
+    "difficulty": "advanced",
+    "question": "What does \u201cretention\u201d in contracts achieve?",
+    "options": [
+      "is VAT credit",
+      "covers contractor salary",
+      "replaces performance bond",
+      "secures performance against defects"
+    ],
+    "answerIndex": 3,
+    "explanation": "Retention purpose"
+  },
+  {
+    "id": "adv_works-and-housing_0001_v9y4v",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: In works/housing, FIDIC Red Book refers to?",
+    "options": [
+      "measurement contract for building/engineering works",
+      "professional services only (typically)",
+      "lump sum EPC focus \u2014 in practice",
+      "design-build operate (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0001_v6h0l",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Within works/housing, FIDIC Red Book refers to?",
+    "options": [
+      "lump sum EPC focus \u2014 concept",
+      "measurement contract for building/engineering works",
+      "professional services only (advanced)",
+      "design-build operate \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0001_vzg00",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: In works/housing, FIDIC Red Book refers to?",
+    "options": [
+      "professional services only (framework)",
+      "lump sum EPC focus (framework)",
+      "measurement contract for building/engineering works",
+      "design-build operate (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0001_vt8ma",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, FIDIC Red Book refers to? Select the best option.",
+    "options": [
+      "lump sum EPC focus \u2014 in practice",
+      "design-build operate \u2014 concept",
+      "professional services only (policy)",
+      "measurement contract for building/engineering works"
+    ],
+    "answerIndex": 3,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0001_v5eqe",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, FIDIC Red Book refers to? Choose the most accurate answer.",
+    "options": [
+      "design-build operate (typically)",
+      "measurement contract for building/engineering works",
+      "lump sum EPC focus (policy)",
+      "professional services only \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0001_vteph",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: In works/housing, FIDIC Red Book refers to?",
+    "options": [
+      "design-build operate (policy)",
+      "professional services only (framework)",
+      "measurement contract for building/engineering works",
+      "lump sum EPC focus (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0001_vocc9",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: In works/housing, FIDIC Red Book refers to?",
+    "options": [
+      "professional services only (framework)",
+      "measurement contract for building/engineering works",
+      "design-build operate \u2014 in practice",
+      "lump sum EPC focus \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0002_vg1b6",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes FIDIC Red Book?",
+    "options": [
+      "lump sum EPC focus (theory)",
+      "design-build operate \u2014 in practice",
+      "measurement contract for building/engineering works",
+      "professional services only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0002_ve4ik",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes FIDIC Red Book?",
+    "options": [
+      "professional services only \u2014 in practice",
+      "measurement contract for building/engineering works",
+      "lump sum EPC focus (framework)",
+      "design-build operate \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0002_vcs32",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes FIDIC Red Book?",
+    "options": [
+      "professional services only (typically)",
+      "design-build operate \u2014 in practice",
+      "lump sum EPC focus \u2014 concept",
+      "measurement contract for building/engineering works"
+    ],
+    "answerIndex": 3,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0002_vx47f",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes FIDIC Red Book? Select the best option.",
+    "options": [
+      "measurement contract for building/engineering works",
+      "design-build operate (advanced)",
+      "lump sum EPC focus \u2014 in practice",
+      "professional services only \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0002_v4pwt",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes FIDIC Red Book? Choose the most accurate answer.",
+    "options": [
+      "professional services only (advanced)",
+      "measurement contract for building/engineering works",
+      "lump sum EPC focus (theory)",
+      "design-build operate (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0002_v0bw3",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes FIDIC Red Book?",
+    "options": [
+      "measurement contract for building/engineering works",
+      "professional services only (advanced)",
+      "design-build operate (advanced)",
+      "lump sum EPC focus (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0002_vui9f",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes FIDIC Red Book?",
+    "options": [
+      "measurement contract for building/engineering works",
+      "design-build operate \u2014 in practice",
+      "lump sum EPC focus (advanced)",
+      "professional services only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0002_v2qfj",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes FIDIC Red Book?",
+    "options": [
+      "design-build operate (framework)",
+      "professional services only (framework)",
+      "lump sum EPC focus (typically)",
+      "measurement contract for building/engineering works"
+    ],
+    "answerIndex": 3,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0003_vy97x",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of FIDIC Red Book.",
+    "options": [
+      "lump sum EPC focus \u2014 in practice",
+      "measurement contract for building/engineering works",
+      "design-build operate (typically)",
+      "professional services only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0003_ve479",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of FIDIC Red Book.",
+    "options": [
+      "measurement contract for building/engineering works",
+      "design-build operate (policy)",
+      "lump sum EPC focus (theory)",
+      "professional services only \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0003_vuo4d",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of FIDIC Red Book.",
+    "options": [
+      "lump sum EPC focus (theory)",
+      "professional services only (framework)",
+      "design-build operate (typically)",
+      "measurement contract for building/engineering works"
+    ],
+    "answerIndex": 3,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0003_v28tx",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of FIDIC Red Book.",
+    "options": [
+      "professional services only (framework)",
+      "lump sum EPC focus (typically)",
+      "measurement contract for building/engineering works",
+      "design-build operate (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0003_vpclv",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of FIDIC Red Book. Select the best option.",
+    "options": [
+      "design-build operate (typically)",
+      "professional services only \u2014 concept",
+      "lump sum EPC focus \u2014 in practice",
+      "measurement contract for building/engineering works"
+    ],
+    "answerIndex": 3,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0003_vrmzt",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of FIDIC Red Book. Choose the most accurate answer.",
+    "options": [
+      "lump sum EPC focus (advanced)",
+      "professional services only (advanced)",
+      "measurement contract for building/engineering works",
+      "design-build operate (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0003_vy5j5",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of FIDIC Red Book.",
+    "options": [
+      "professional services only (framework)",
+      "measurement contract for building/engineering works",
+      "design-build operate \u2014 concept",
+      "lump sum EPC focus (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0003_vqt2g",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of FIDIC Red Book.",
+    "options": [
+      "lump sum EPC focus (typically)",
+      "professional services only (policy)",
+      "design-build operate (typically)",
+      "measurement contract for building/engineering works"
+    ],
+    "answerIndex": 3,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0003_vwhes",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of FIDIC Red Book.",
+    "options": [
+      "professional services only (framework)",
+      "design-build operate (advanced)",
+      "lump sum EPC focus \u2014 concept",
+      "measurement contract for building/engineering works"
+    ],
+    "answerIndex": 3,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0004_vwqhw",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: FIDIC Red Book primarily aims to?",
+    "options": [
+      "professional services only (framework)",
+      "measurement contract for building/engineering works",
+      "lump sum EPC focus (framework)",
+      "design-build operate \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0004_vfuvj",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced construction: FIDIC Red Book primarily aims to?",
+    "options": [
+      "professional services only (advanced)",
+      "design-build operate (typically)",
+      "lump sum EPC focus (policy)",
+      "measurement contract for building/engineering works"
+    ],
+    "answerIndex": 3,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0004_v2zq3",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced construction: FIDIC Red Book primarily aims to?",
+    "options": [
+      "professional services only \u2014 concept",
+      "measurement contract for building/engineering works",
+      "design-build operate (policy)",
+      "lump sum EPC focus (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0004_voemo",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: FIDIC Red Book primarily aims to? Choose the most accurate answer.",
+    "options": [
+      "lump sum EPC focus (advanced)",
+      "design-build operate \u2014 concept",
+      "professional services only (advanced)",
+      "measurement contract for building/engineering works"
+    ],
+    "answerIndex": 3,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0004_vc6jm",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced construction: FIDIC Red Book primarily aims to?",
+    "options": [
+      "lump sum EPC focus (typically)",
+      "professional services only (typically)",
+      "design-build operate (typically)",
+      "measurement contract for building/engineering works"
+    ],
+    "answerIndex": 3,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0004_v0pqz",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced construction: FIDIC Red Book primarily aims to?",
+    "options": [
+      "professional services only (framework)",
+      "design-build operate (theory)",
+      "lump sum EPC focus (framework)",
+      "measurement contract for building/engineering works"
+    ],
+    "answerIndex": 3,
+    "explanation": "measurement contract for building/engineering works"
+  },
+  {
+    "id": "adv_works-and-housing_0005_vb3qs",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: In works/housing, Eurocode EN 1992 refers to?",
+    "options": [
+      "timber structures (framework)",
+      "steel structures (advanced)",
+      "geotechnical design (typically)",
+      "design of concrete structures"
+    ],
+    "answerIndex": 3,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0005_vfx5i",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Within works/housing, Eurocode EN 1992 refers to?",
+    "options": [
+      "timber structures (framework)",
+      "design of concrete structures",
+      "steel structures (typically)",
+      "geotechnical design (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0005_v42hl",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: In works/housing, Eurocode EN 1992 refers to?",
+    "options": [
+      "timber structures (advanced)",
+      "steel structures (typically)",
+      "design of concrete structures",
+      "geotechnical design (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0005_v4w8s",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Eurocode EN 1992 refers to? Select the best option.",
+    "options": [
+      "geotechnical design \u2014 in practice",
+      "steel structures (framework)",
+      "timber structures (theory)",
+      "design of concrete structures"
+    ],
+    "answerIndex": 3,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0005_vg0pf",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Eurocode EN 1992 refers to? Choose the most accurate answer.",
+    "options": [
+      "design of concrete structures",
+      "steel structures (advanced)",
+      "timber structures (framework)",
+      "geotechnical design (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0005_vm8be",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: In works/housing, Eurocode EN 1992 refers to?",
+    "options": [
+      "geotechnical design \u2014 concept",
+      "design of concrete structures",
+      "timber structures \u2014 in practice",
+      "steel structures \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0005_v3iao",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: In works/housing, Eurocode EN 1992 refers to?",
+    "options": [
+      "design of concrete structures",
+      "geotechnical design (theory)",
+      "timber structures (typically)",
+      "steel structures (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0006_vemdp",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Eurocode EN 1992?",
+    "options": [
+      "geotechnical design (theory)",
+      "timber structures \u2014 in practice",
+      "steel structures (advanced)",
+      "design of concrete structures"
+    ],
+    "answerIndex": 3,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0006_v653f",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Eurocode EN 1992?",
+    "options": [
+      "steel structures (typically)",
+      "timber structures (theory)",
+      "design of concrete structures",
+      "geotechnical design (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0006_vlwkw",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Eurocode EN 1992?",
+    "options": [
+      "design of concrete structures",
+      "timber structures (framework)",
+      "steel structures (framework)",
+      "geotechnical design \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0006_v9wcl",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Eurocode EN 1992? Select the best option.",
+    "options": [
+      "geotechnical design (advanced)",
+      "steel structures (theory)",
+      "design of concrete structures",
+      "timber structures (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0006_vho65",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Eurocode EN 1992? Choose the most accurate answer.",
+    "options": [
+      "design of concrete structures",
+      "steel structures (typically)",
+      "timber structures (framework)",
+      "geotechnical design \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0006_vnwd7",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Eurocode EN 1992?",
+    "options": [
+      "design of concrete structures",
+      "geotechnical design (policy)",
+      "steel structures (policy)",
+      "timber structures (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0006_vtl38",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Eurocode EN 1992?",
+    "options": [
+      "design of concrete structures",
+      "timber structures \u2014 concept",
+      "steel structures \u2014 concept",
+      "geotechnical design \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0006_v4232",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Eurocode EN 1992?",
+    "options": [
+      "geotechnical design (framework)",
+      "steel structures \u2014 in practice",
+      "timber structures (policy)",
+      "design of concrete structures"
+    ],
+    "answerIndex": 3,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0007_v4t2p",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Eurocode EN 1992.",
+    "options": [
+      "steel structures (advanced)",
+      "timber structures (typically)",
+      "geotechnical design \u2014 concept",
+      "design of concrete structures"
+    ],
+    "answerIndex": 3,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0007_v1kjc",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Eurocode EN 1992.",
+    "options": [
+      "timber structures (policy)",
+      "steel structures (policy)",
+      "geotechnical design (policy)",
+      "design of concrete structures"
+    ],
+    "answerIndex": 3,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0007_vcvo5",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Eurocode EN 1992.",
+    "options": [
+      "design of concrete structures",
+      "steel structures \u2014 in practice",
+      "geotechnical design (framework)",
+      "timber structures \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0007_vgmrx",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Eurocode EN 1992.",
+    "options": [
+      "steel structures (advanced)",
+      "design of concrete structures",
+      "geotechnical design (framework)",
+      "timber structures (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0007_vjn0f",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Eurocode EN 1992. Select the best option.",
+    "options": [
+      "design of concrete structures",
+      "geotechnical design (theory)",
+      "timber structures (framework)",
+      "steel structures (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0007_vahp5",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Eurocode EN 1992. Choose the most accurate answer.",
+    "options": [
+      "geotechnical design (typically)",
+      "design of concrete structures",
+      "timber structures (framework)",
+      "steel structures (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0007_vfrjz",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Eurocode EN 1992.",
+    "options": [
+      "timber structures (policy)",
+      "steel structures \u2014 in practice",
+      "design of concrete structures",
+      "geotechnical design (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0007_vnkm1",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Eurocode EN 1992.",
+    "options": [
+      "geotechnical design (theory)",
+      "timber structures (policy)",
+      "design of concrete structures",
+      "steel structures (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0007_vv62b",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Eurocode EN 1992.",
+    "options": [
+      "geotechnical design \u2014 concept",
+      "steel structures \u2014 concept",
+      "design of concrete structures",
+      "timber structures (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0008_vxef1",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: Eurocode EN 1992 primarily aims to?",
+    "options": [
+      "geotechnical design (theory)",
+      "design of concrete structures",
+      "timber structures (typically)",
+      "steel structures (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0008_v1fwa",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced construction: Eurocode EN 1992 primarily aims to?",
+    "options": [
+      "geotechnical design \u2014 concept",
+      "steel structures \u2014 in practice",
+      "timber structures (advanced)",
+      "design of concrete structures"
+    ],
+    "answerIndex": 3,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0008_vzk6a",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced construction: Eurocode EN 1992 primarily aims to?",
+    "options": [
+      "geotechnical design \u2014 concept",
+      "design of concrete structures",
+      "timber structures (advanced)",
+      "steel structures (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0008_v73jy",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: Eurocode EN 1992 primarily aims to? Select the best option.",
+    "options": [
+      "design of concrete structures",
+      "timber structures (framework)",
+      "geotechnical design (framework)",
+      "steel structures (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0008_v9lv8",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced construction: Eurocode EN 1992 primarily aims to?",
+    "options": [
+      "geotechnical design (policy)",
+      "design of concrete structures",
+      "steel structures \u2014 in practice",
+      "timber structures \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0008_vc9vu",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced construction: Eurocode EN 1992 primarily aims to?",
+    "options": [
+      "steel structures \u2014 in practice",
+      "design of concrete structures",
+      "geotechnical design (theory)",
+      "timber structures (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "design of concrete structures"
+  },
+  {
+    "id": "adv_works-and-housing_0009_vvr4y",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: In works/housing, Concrete slump test refers to?",
+    "options": [
+      "chloride content (theory)",
+      "tensile strength (policy)",
+      "compressive strength directly \u2014 in practice",
+      "measures workability"
+    ],
+    "answerIndex": 3,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0009_v4kf1",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Within works/housing, Concrete slump test refers to?",
+    "options": [
+      "compressive strength directly (policy)",
+      "measures workability",
+      "tensile strength \u2014 in practice",
+      "chloride content (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0009_v8m87",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: In works/housing, Concrete slump test refers to?",
+    "options": [
+      "chloride content (policy)",
+      "measures workability",
+      "tensile strength (theory)",
+      "compressive strength directly (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0009_vxhrc",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Concrete slump test refers to? Select the best option.",
+    "options": [
+      "tensile strength (framework)",
+      "chloride content \u2014 concept",
+      "compressive strength directly \u2014 concept",
+      "measures workability"
+    ],
+    "answerIndex": 3,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0009_vfqrx",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Concrete slump test refers to? Choose the most accurate answer.",
+    "options": [
+      "tensile strength (theory)",
+      "measures workability",
+      "chloride content \u2014 in practice",
+      "compressive strength directly \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0009_v15vd",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: In works/housing, Concrete slump test refers to?",
+    "options": [
+      "chloride content (policy)",
+      "compressive strength directly \u2014 in practice",
+      "tensile strength (framework)",
+      "measures workability"
+    ],
+    "answerIndex": 3,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0009_vyz31",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: In works/housing, Concrete slump test refers to?",
+    "options": [
+      "tensile strength (advanced)",
+      "compressive strength directly (policy)",
+      "measures workability",
+      "chloride content (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0010_vxkv5",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Concrete slump test?",
+    "options": [
+      "tensile strength (policy)",
+      "compressive strength directly (advanced)",
+      "measures workability",
+      "chloride content (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0010_vxaav",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Concrete slump test?",
+    "options": [
+      "chloride content (advanced)",
+      "compressive strength directly (theory)",
+      "tensile strength (policy)",
+      "measures workability"
+    ],
+    "answerIndex": 3,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0010_vgr5b",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Concrete slump test?",
+    "options": [
+      "chloride content \u2014 concept",
+      "compressive strength directly (theory)",
+      "measures workability",
+      "tensile strength (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0010_vec6u",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Concrete slump test?",
+    "options": [
+      "tensile strength (typically)",
+      "compressive strength directly (framework)",
+      "measures workability",
+      "chloride content (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0010_v4po3",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Concrete slump test? Select the best option.",
+    "options": [
+      "tensile strength (theory)",
+      "compressive strength directly (policy)",
+      "chloride content (typically)",
+      "measures workability"
+    ],
+    "answerIndex": 3,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0010_vty4r",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Concrete slump test? Choose the most accurate answer.",
+    "options": [
+      "compressive strength directly \u2014 in practice",
+      "tensile strength (policy)",
+      "measures workability",
+      "chloride content (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0010_vrywy",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Concrete slump test?",
+    "options": [
+      "measures workability",
+      "compressive strength directly \u2014 concept",
+      "tensile strength \u2014 concept",
+      "chloride content (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0010_vhg1r",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Concrete slump test?",
+    "options": [
+      "tensile strength (policy)",
+      "chloride content (theory)",
+      "measures workability",
+      "compressive strength directly (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0010_vl34r",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Concrete slump test?",
+    "options": [
+      "measures workability",
+      "chloride content (policy)",
+      "compressive strength directly (typically)",
+      "tensile strength (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0011_vtixx",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Concrete slump test.",
+    "options": [
+      "measures workability",
+      "chloride content (typically)",
+      "compressive strength directly (theory)",
+      "tensile strength (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0011_v55nk",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Concrete slump test.",
+    "options": [
+      "compressive strength directly (advanced)",
+      "tensile strength (theory)",
+      "measures workability",
+      "chloride content (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0011_v1tio",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Concrete slump test.",
+    "options": [
+      "tensile strength (typically)",
+      "compressive strength directly (theory)",
+      "chloride content (policy)",
+      "measures workability"
+    ],
+    "answerIndex": 3,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0011_v22s6",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Concrete slump test. Select the best option.",
+    "options": [
+      "tensile strength (advanced)",
+      "compressive strength directly (typically)",
+      "measures workability",
+      "chloride content (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0011_v818p",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Concrete slump test. Choose the most accurate answer.",
+    "options": [
+      "measures workability",
+      "tensile strength (theory)",
+      "chloride content (theory)",
+      "compressive strength directly \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0011_vinmf",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Concrete slump test.",
+    "options": [
+      "tensile strength (policy)",
+      "compressive strength directly (theory)",
+      "measures workability",
+      "chloride content (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0011_vgkij",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Concrete slump test.",
+    "options": [
+      "chloride content (advanced)",
+      "measures workability",
+      "tensile strength (policy)",
+      "compressive strength directly (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0011_voylp",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Concrete slump test.",
+    "options": [
+      "compressive strength directly (typically)",
+      "chloride content (advanced)",
+      "measures workability",
+      "tensile strength \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0012_vh5nz",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: Concrete slump test primarily aims to?",
+    "options": [
+      "tensile strength (typically)",
+      "compressive strength directly (advanced)",
+      "measures workability",
+      "chloride content (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0012_v3eso",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced construction: Concrete slump test primarily aims to?",
+    "options": [
+      "tensile strength \u2014 concept",
+      "chloride content (framework)",
+      "measures workability",
+      "compressive strength directly \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0012_vuz0p",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced construction: Concrete slump test primarily aims to?",
+    "options": [
+      "measures workability",
+      "tensile strength (theory)",
+      "compressive strength directly (typically)",
+      "chloride content \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0012_vac9i",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: Concrete slump test primarily aims to? Select the best option.",
+    "options": [
+      "compressive strength directly (typically)",
+      "measures workability",
+      "chloride content (typically)",
+      "tensile strength (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0012_v048p",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: Concrete slump test primarily aims to? Choose the most accurate answer.",
+    "options": [
+      "tensile strength (policy)",
+      "compressive strength directly (typically)",
+      "chloride content \u2014 in practice",
+      "measures workability"
+    ],
+    "answerIndex": 3,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0012_vv48f",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced construction: Concrete slump test primarily aims to?",
+    "options": [
+      "chloride content (policy)",
+      "measures workability",
+      "tensile strength (typically)",
+      "compressive strength directly (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0012_vya8l",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced construction: Concrete slump test primarily aims to?",
+    "options": [
+      "measures workability",
+      "tensile strength (policy)",
+      "compressive strength directly \u2014 concept",
+      "chloride content \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "measures workability"
+  },
+  {
+    "id": "adv_works-and-housing_0013_vwpnk",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: In works/housing, Bill of Quantities (BOQ) refers to?",
+    "options": [
+      "safety plan (policy)",
+      "contractor CVs \u2014 concept",
+      "as-built drawings (policy)",
+      "itemized quantities with rates for pricing"
+    ],
+    "answerIndex": 3,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0013_vybmz",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Within works/housing, Bill of Quantities (BOQ) refers to?",
+    "options": [
+      "as-built drawings (policy)",
+      "safety plan (typically)",
+      "contractor CVs \u2014 concept",
+      "itemized quantities with rates for pricing"
+    ],
+    "answerIndex": 3,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0013_v2pi4",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: In works/housing, Bill of Quantities (BOQ) refers to?",
+    "options": [
+      "itemized quantities with rates for pricing",
+      "safety plan (framework)",
+      "as-built drawings \u2014 in practice",
+      "contractor CVs (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0013_vn9n2",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Bill of Quantities (BOQ) refers to? Select the best option.",
+    "options": [
+      "as-built drawings \u2014 concept",
+      "contractor CVs (framework)",
+      "safety plan (framework)",
+      "itemized quantities with rates for pricing"
+    ],
+    "answerIndex": 3,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0013_v83n7",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Bill of Quantities (BOQ) refers to? Choose the most accurate answer.",
+    "options": [
+      "itemized quantities with rates for pricing",
+      "safety plan \u2014 concept",
+      "contractor CVs \u2014 concept",
+      "as-built drawings (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0013_vvpy0",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: In works/housing, Bill of Quantities (BOQ) refers to?",
+    "options": [
+      "itemized quantities with rates for pricing",
+      "as-built drawings (policy)",
+      "safety plan \u2014 in practice",
+      "contractor CVs \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0013_vndqx",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: In works/housing, Bill of Quantities (BOQ) refers to?",
+    "options": [
+      "itemized quantities with rates for pricing",
+      "contractor CVs (framework)",
+      "safety plan (theory)",
+      "as-built drawings \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0014_vh5pg",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Bill of Quantities (BOQ)?",
+    "options": [
+      "as-built drawings (advanced)",
+      "safety plan (advanced)",
+      "contractor CVs (typically)",
+      "itemized quantities with rates for pricing"
+    ],
+    "answerIndex": 3,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0014_vyg5t",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Bill of Quantities (BOQ)?",
+    "options": [
+      "safety plan \u2014 concept",
+      "as-built drawings (advanced)",
+      "itemized quantities with rates for pricing",
+      "contractor CVs \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0014_vesys",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Bill of Quantities (BOQ)?",
+    "options": [
+      "contractor CVs \u2014 in practice",
+      "as-built drawings \u2014 concept",
+      "itemized quantities with rates for pricing",
+      "safety plan (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0014_vlr7u",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Bill of Quantities (BOQ)?",
+    "options": [
+      "itemized quantities with rates for pricing",
+      "safety plan (theory)",
+      "as-built drawings (theory)",
+      "contractor CVs (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0014_v5ikb",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Bill of Quantities (BOQ)? Choose the most accurate answer.",
+    "options": [
+      "as-built drawings (policy)",
+      "itemized quantities with rates for pricing",
+      "contractor CVs (framework)",
+      "safety plan \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0014_v2jun",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Bill of Quantities (BOQ)?",
+    "options": [
+      "contractor CVs \u2014 concept",
+      "as-built drawings (theory)",
+      "itemized quantities with rates for pricing",
+      "safety plan (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0014_vsgid",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Bill of Quantities (BOQ)?",
+    "options": [
+      "itemized quantities with rates for pricing",
+      "as-built drawings (theory)",
+      "contractor CVs (policy)",
+      "safety plan (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0014_vp31n",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Bill of Quantities (BOQ)?",
+    "options": [
+      "as-built drawings (advanced)",
+      "safety plan (typically)",
+      "contractor CVs (framework)",
+      "itemized quantities with rates for pricing"
+    ],
+    "answerIndex": 3,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0015_vozmy",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Bill of Quantities (BOQ).",
+    "options": [
+      "contractor CVs \u2014 concept",
+      "as-built drawings (policy)",
+      "itemized quantities with rates for pricing",
+      "safety plan \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0015_vzye3",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Bill of Quantities (BOQ).",
+    "options": [
+      "as-built drawings \u2014 in practice",
+      "itemized quantities with rates for pricing",
+      "safety plan (framework)",
+      "contractor CVs (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0015_v3l1j",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Bill of Quantities (BOQ).",
+    "options": [
+      "as-built drawings (theory)",
+      "contractor CVs \u2014 concept",
+      "safety plan (theory)",
+      "itemized quantities with rates for pricing"
+    ],
+    "answerIndex": 3,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0015_voopl",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Bill of Quantities (BOQ).",
+    "options": [
+      "contractor CVs \u2014 concept",
+      "safety plan \u2014 in practice",
+      "as-built drawings (theory)",
+      "itemized quantities with rates for pricing"
+    ],
+    "answerIndex": 3,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0015_vtz8i",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Bill of Quantities (BOQ). Choose the most accurate answer.",
+    "options": [
+      "contractor CVs (typically)",
+      "safety plan (policy)",
+      "as-built drawings (policy)",
+      "itemized quantities with rates for pricing"
+    ],
+    "answerIndex": 3,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0015_v4f56",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Bill of Quantities (BOQ).",
+    "options": [
+      "safety plan \u2014 in practice",
+      "itemized quantities with rates for pricing",
+      "contractor CVs \u2014 concept",
+      "as-built drawings (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0016_v26xw",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: Bill of Quantities (BOQ) primarily aims to?",
+    "options": [
+      "contractor CVs (advanced)",
+      "itemized quantities with rates for pricing",
+      "as-built drawings (typically)",
+      "safety plan (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0016_vphdz",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced construction: Bill of Quantities (BOQ) primarily aims to?",
+    "options": [
+      "as-built drawings (typically)",
+      "itemized quantities with rates for pricing",
+      "contractor CVs (typically)",
+      "safety plan \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0016_vy3mz",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced construction: Bill of Quantities (BOQ) primarily aims to?",
+    "options": [
+      "itemized quantities with rates for pricing",
+      "safety plan (theory)",
+      "as-built drawings (theory)",
+      "contractor CVs (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0016_v00hq",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: Bill of Quantities (BOQ) primarily aims to? Select the best option.",
+    "options": [
+      "itemized quantities with rates for pricing",
+      "contractor CVs (theory)",
+      "safety plan (framework)",
+      "as-built drawings (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0016_vb9yr",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: Bill of Quantities (BOQ) primarily aims to? Choose the most accurate answer.",
+    "options": [
+      "itemized quantities with rates for pricing",
+      "as-built drawings \u2014 concept",
+      "safety plan (theory)",
+      "contractor CVs (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0016_vu02g",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced construction: Bill of Quantities (BOQ) primarily aims to?",
+    "options": [
+      "contractor CVs (framework)",
+      "as-built drawings (typically)",
+      "safety plan (policy)",
+      "itemized quantities with rates for pricing"
+    ],
+    "answerIndex": 3,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0016_vvmqu",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced construction: Bill of Quantities (BOQ) primarily aims to?",
+    "options": [
+      "contractor CVs (typically)",
+      "safety plan \u2014 in practice",
+      "itemized quantities with rates for pricing",
+      "as-built drawings \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "itemized quantities with rates for pricing"
+  },
+  {
+    "id": "adv_works-and-housing_0017_vyzwx",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: In works/housing, Critical Path Method refers to?",
+    "options": [
+      "shortest resource path \u2014 concept",
+      "identifies longest path determining project duration",
+      "fastest path only \u2014 concept",
+      "QA plan only \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0017_vtfct",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Within works/housing, Critical Path Method refers to?",
+    "options": [
+      "identifies longest path determining project duration",
+      "fastest path only (theory)",
+      "shortest resource path (typically)",
+      "QA plan only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0017_vz8uo",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: In works/housing, Critical Path Method refers to?",
+    "options": [
+      "identifies longest path determining project duration",
+      "shortest resource path (framework)",
+      "QA plan only (typically)",
+      "fastest path only \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0017_vo3ok",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Critical Path Method refers to? Select the best option.",
+    "options": [
+      "QA plan only \u2014 concept",
+      "shortest resource path \u2014 in practice",
+      "fastest path only (policy)",
+      "identifies longest path determining project duration"
+    ],
+    "answerIndex": 3,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0017_veor5",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Critical Path Method refers to? Choose the most accurate answer.",
+    "options": [
+      "QA plan only (theory)",
+      "fastest path only (framework)",
+      "identifies longest path determining project duration",
+      "shortest resource path (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0017_vvoal",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: In works/housing, Critical Path Method refers to?",
+    "options": [
+      "fastest path only \u2014 concept",
+      "shortest resource path (advanced)",
+      "QA plan only \u2014 concept",
+      "identifies longest path determining project duration"
+    ],
+    "answerIndex": 3,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0017_v25pq",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: In works/housing, Critical Path Method refers to?",
+    "options": [
+      "fastest path only (typically)",
+      "QA plan only (policy)",
+      "identifies longest path determining project duration",
+      "shortest resource path \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0018_vje35",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Critical Path Method?",
+    "options": [
+      "QA plan only \u2014 in practice",
+      "fastest path only (framework)",
+      "shortest resource path (advanced)",
+      "identifies longest path determining project duration"
+    ],
+    "answerIndex": 3,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0018_vvhki",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Critical Path Method?",
+    "options": [
+      "shortest resource path (advanced)",
+      "identifies longest path determining project duration",
+      "QA plan only \u2014 concept",
+      "fastest path only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0018_v4pfl",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Critical Path Method?",
+    "options": [
+      "QA plan only (typically)",
+      "identifies longest path determining project duration",
+      "fastest path only \u2014 in practice",
+      "shortest resource path \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0018_vp7xc",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Critical Path Method?",
+    "options": [
+      "fastest path only (policy)",
+      "QA plan only \u2014 concept",
+      "shortest resource path (framework)",
+      "identifies longest path determining project duration"
+    ],
+    "answerIndex": 3,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0018_v6l4e",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Critical Path Method? Select the best option.",
+    "options": [
+      "fastest path only (typically)",
+      "identifies longest path determining project duration",
+      "QA plan only (typically)",
+      "shortest resource path (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0018_vkm09",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Critical Path Method? Choose the most accurate answer.",
+    "options": [
+      "fastest path only (typically)",
+      "QA plan only (typically)",
+      "shortest resource path (framework)",
+      "identifies longest path determining project duration"
+    ],
+    "answerIndex": 3,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0018_v1es0",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Critical Path Method?",
+    "options": [
+      "shortest resource path (advanced)",
+      "QA plan only (theory)",
+      "fastest path only (policy)",
+      "identifies longest path determining project duration"
+    ],
+    "answerIndex": 3,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0018_vh96d",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Critical Path Method?",
+    "options": [
+      "QA plan only \u2014 in practice",
+      "identifies longest path determining project duration",
+      "shortest resource path \u2014 in practice",
+      "fastest path only \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0018_vn5zd",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Critical Path Method?",
+    "options": [
+      "QA plan only (typically)",
+      "shortest resource path (policy)",
+      "fastest path only (policy)",
+      "identifies longest path determining project duration"
+    ],
+    "answerIndex": 3,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0019_v0s67",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Critical Path Method.",
+    "options": [
+      "identifies longest path determining project duration",
+      "shortest resource path \u2014 concept",
+      "fastest path only \u2014 in practice",
+      "QA plan only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0019_v69xy",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Critical Path Method.",
+    "options": [
+      "shortest resource path (theory)",
+      "identifies longest path determining project duration",
+      "QA plan only \u2014 in practice",
+      "fastest path only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0019_v7xz3",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Critical Path Method.",
+    "options": [
+      "QA plan only (framework)",
+      "identifies longest path determining project duration",
+      "shortest resource path \u2014 concept",
+      "fastest path only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0019_vf8bn",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Critical Path Method.",
+    "options": [
+      "shortest resource path (advanced)",
+      "QA plan only (typically)",
+      "fastest path only (theory)",
+      "identifies longest path determining project duration"
+    ],
+    "answerIndex": 3,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0019_vf6q1",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Critical Path Method. Select the best option.",
+    "options": [
+      "shortest resource path (typically)",
+      "QA plan only (advanced)",
+      "fastest path only (typically)",
+      "identifies longest path determining project duration"
+    ],
+    "answerIndex": 3,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0019_vwhok",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Critical Path Method. Choose the most accurate answer.",
+    "options": [
+      "identifies longest path determining project duration",
+      "fastest path only (typically)",
+      "QA plan only (policy)",
+      "shortest resource path (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0019_vr27v",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Critical Path Method.",
+    "options": [
+      "fastest path only (advanced)",
+      "shortest resource path (theory)",
+      "identifies longest path determining project duration",
+      "QA plan only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0019_vbfz4",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Critical Path Method.",
+    "options": [
+      "shortest resource path (typically)",
+      "QA plan only (typically)",
+      "identifies longest path determining project duration",
+      "fastest path only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0019_vrefb",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Critical Path Method.",
+    "options": [
+      "identifies longest path determining project duration",
+      "QA plan only (theory)",
+      "shortest resource path \u2014 in practice",
+      "fastest path only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0020_vx2h6",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: Critical Path Method primarily aims to?",
+    "options": [
+      "fastest path only (theory)",
+      "identifies longest path determining project duration",
+      "QA plan only \u2014 concept",
+      "shortest resource path \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0020_vop5t",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced construction: Critical Path Method primarily aims to?",
+    "options": [
+      "QA plan only (advanced)",
+      "shortest resource path (typically)",
+      "identifies longest path determining project duration",
+      "fastest path only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0020_vr08o",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced construction: Critical Path Method primarily aims to?",
+    "options": [
+      "fastest path only (framework)",
+      "shortest resource path (typically)",
+      "QA plan only (policy)",
+      "identifies longest path determining project duration"
+    ],
+    "answerIndex": 3,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0020_vnvin",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: Critical Path Method primarily aims to? Select the best option.",
+    "options": [
+      "identifies longest path determining project duration",
+      "fastest path only (framework)",
+      "QA plan only (theory)",
+      "shortest resource path \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0020_vf7sz",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: Critical Path Method primarily aims to? Choose the most accurate answer.",
+    "options": [
+      "QA plan only \u2014 in practice",
+      "fastest path only \u2014 concept",
+      "shortest resource path (advanced)",
+      "identifies longest path determining project duration"
+    ],
+    "answerIndex": 3,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0020_vf4y5",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced construction: Critical Path Method primarily aims to?",
+    "options": [
+      "fastest path only (advanced)",
+      "QA plan only (theory)",
+      "shortest resource path (framework)",
+      "identifies longest path determining project duration"
+    ],
+    "answerIndex": 3,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0020_vbclb",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced construction: Critical Path Method primarily aims to?",
+    "options": [
+      "shortest resource path (advanced)",
+      "fastest path only \u2014 in practice",
+      "identifies longest path determining project duration",
+      "QA plan only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identifies longest path determining project duration"
+  },
+  {
+    "id": "adv_works-and-housing_0021_vs1ep",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: In works/housing, HSE risk assessment refers to?",
+    "options": [
+      "record incidents only (policy)",
+      "insurance purchase \u2014 concept",
+      "identify hazards, evaluate risks, implement controls",
+      "issue PPE only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0021_vszi3",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Within works/housing, HSE risk assessment refers to?",
+    "options": [
+      "issue PPE only \u2014 in practice",
+      "record incidents only (policy)",
+      "insurance purchase \u2014 in practice",
+      "identify hazards, evaluate risks, implement controls"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0021_v8nl3",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: In works/housing, HSE risk assessment refers to?",
+    "options": [
+      "issue PPE only \u2014 concept",
+      "insurance purchase (typically)",
+      "record incidents only (policy)",
+      "identify hazards, evaluate risks, implement controls"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0021_vqmod",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, HSE risk assessment refers to? Select the best option.",
+    "options": [
+      "identify hazards, evaluate risks, implement controls",
+      "insurance purchase (advanced)",
+      "record incidents only (typically)",
+      "issue PPE only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0021_vn2yz",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, HSE risk assessment refers to? Choose the most accurate answer.",
+    "options": [
+      "identify hazards, evaluate risks, implement controls",
+      "record incidents only (theory)",
+      "insurance purchase (policy)",
+      "issue PPE only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0021_vg23v",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: In works/housing, HSE risk assessment refers to?",
+    "options": [
+      "issue PPE only \u2014 in practice",
+      "identify hazards, evaluate risks, implement controls",
+      "insurance purchase (advanced)",
+      "record incidents only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0021_v1avi",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: In works/housing, HSE risk assessment refers to?",
+    "options": [
+      "insurance purchase (policy)",
+      "identify hazards, evaluate risks, implement controls",
+      "issue PPE only \u2014 concept",
+      "record incidents only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0022_vubxj",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes HSE risk assessment?",
+    "options": [
+      "issue PPE only (advanced)",
+      "identify hazards, evaluate risks, implement controls",
+      "record incidents only (theory)",
+      "insurance purchase (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0022_v6xwn",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes HSE risk assessment?",
+    "options": [
+      "record incidents only (framework)",
+      "identify hazards, evaluate risks, implement controls",
+      "issue PPE only (theory)",
+      "insurance purchase (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0022_vwr9a",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes HSE risk assessment?",
+    "options": [
+      "record incidents only \u2014 concept",
+      "insurance purchase \u2014 in practice",
+      "identify hazards, evaluate risks, implement controls",
+      "issue PPE only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0022_vxwpx",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes HSE risk assessment?",
+    "options": [
+      "issue PPE only (policy)",
+      "insurance purchase (policy)",
+      "record incidents only (framework)",
+      "identify hazards, evaluate risks, implement controls"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0022_vq1d2",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes HSE risk assessment? Select the best option.",
+    "options": [
+      "issue PPE only (typically)",
+      "record incidents only (policy)",
+      "identify hazards, evaluate risks, implement controls",
+      "insurance purchase (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0022_v0qv1",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes HSE risk assessment? Choose the most accurate answer.",
+    "options": [
+      "insurance purchase (policy)",
+      "issue PPE only (theory)",
+      "record incidents only (theory)",
+      "identify hazards, evaluate risks, implement controls"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0022_vh7ew",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes HSE risk assessment?",
+    "options": [
+      "identify hazards, evaluate risks, implement controls",
+      "record incidents only (policy)",
+      "insurance purchase \u2014 in practice",
+      "issue PPE only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0022_vqpiv",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes HSE risk assessment?",
+    "options": [
+      "record incidents only \u2014 concept",
+      "identify hazards, evaluate risks, implement controls",
+      "issue PPE only (framework)",
+      "insurance purchase (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0022_vxl64",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes HSE risk assessment?",
+    "options": [
+      "identify hazards, evaluate risks, implement controls",
+      "insurance purchase (advanced)",
+      "issue PPE only (theory)",
+      "record incidents only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0023_v64hz",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of HSE risk assessment.",
+    "options": [
+      "insurance purchase \u2014 concept",
+      "record incidents only (advanced)",
+      "identify hazards, evaluate risks, implement controls",
+      "issue PPE only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0023_vun3r",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of HSE risk assessment.",
+    "options": [
+      "insurance purchase (framework)",
+      "record incidents only \u2014 concept",
+      "identify hazards, evaluate risks, implement controls",
+      "issue PPE only \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0023_viciw",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of HSE risk assessment.",
+    "options": [
+      "identify hazards, evaluate risks, implement controls",
+      "issue PPE only \u2014 concept",
+      "record incidents only (policy)",
+      "insurance purchase (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0023_vdxw6",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of HSE risk assessment.",
+    "options": [
+      "identify hazards, evaluate risks, implement controls",
+      "insurance purchase \u2014 in practice",
+      "record incidents only \u2014 in practice",
+      "issue PPE only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0023_vlvhz",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of HSE risk assessment. Select the best option.",
+    "options": [
+      "record incidents only (theory)",
+      "insurance purchase (advanced)",
+      "issue PPE only \u2014 concept",
+      "identify hazards, evaluate risks, implement controls"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0023_vjudx",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of HSE risk assessment. Choose the most accurate answer.",
+    "options": [
+      "identify hazards, evaluate risks, implement controls",
+      "record incidents only (advanced)",
+      "issue PPE only \u2014 in practice",
+      "insurance purchase (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0023_vlwmo",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of HSE risk assessment.",
+    "options": [
+      "identify hazards, evaluate risks, implement controls",
+      "record incidents only (advanced)",
+      "issue PPE only \u2014 concept",
+      "insurance purchase \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0023_vwn33",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of HSE risk assessment.",
+    "options": [
+      "insurance purchase (policy)",
+      "identify hazards, evaluate risks, implement controls",
+      "record incidents only (advanced)",
+      "issue PPE only \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0024_v3rqc",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced construction: HSE risk assessment primarily aims to?",
+    "options": [
+      "insurance purchase (advanced)",
+      "issue PPE only (typically)",
+      "record incidents only (framework)",
+      "identify hazards, evaluate risks, implement controls"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0024_vk8mf",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: HSE risk assessment primarily aims to?",
+    "options": [
+      "insurance purchase (framework)",
+      "record incidents only (theory)",
+      "identify hazards, evaluate risks, implement controls",
+      "issue PPE only \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0024_v9d9e",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced construction: HSE risk assessment primarily aims to?",
+    "options": [
+      "issue PPE only (framework)",
+      "insurance purchase \u2014 concept",
+      "record incidents only (advanced)",
+      "identify hazards, evaluate risks, implement controls"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0024_vw5lh",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: HSE risk assessment primarily aims to? Select the best option.",
+    "options": [
+      "insurance purchase (theory)",
+      "record incidents only \u2014 in practice",
+      "identify hazards, evaluate risks, implement controls",
+      "issue PPE only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0024_vayp3",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: HSE risk assessment primarily aims to? Choose the most accurate answer.",
+    "options": [
+      "record incidents only (policy)",
+      "insurance purchase \u2014 in practice",
+      "identify hazards, evaluate risks, implement controls",
+      "issue PPE only \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0024_vk23s",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced construction: HSE risk assessment primarily aims to?",
+    "options": [
+      "issue PPE only (advanced)",
+      "insurance purchase \u2014 in practice",
+      "record incidents only (framework)",
+      "identify hazards, evaluate risks, implement controls"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0024_vm02a",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced construction: HSE risk assessment primarily aims to?",
+    "options": [
+      "identify hazards, evaluate risks, implement controls",
+      "issue PPE only \u2014 in practice",
+      "record incidents only \u2014 concept",
+      "insurance purchase \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify hazards, evaluate risks, implement controls"
+  },
+  {
+    "id": "adv_works-and-housing_0025_vsxzj",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: In works/housing, Cube strength test refers to?",
+    "options": [
+      "density test only (framework)",
+      "modulus directly (advanced)",
+      "slump at 7 days \u2014 concept",
+      "compressive strength at 28 days"
+    ],
+    "answerIndex": 3,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0025_vx78b",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Within works/housing, Cube strength test refers to?",
+    "options": [
+      "modulus directly (advanced)",
+      "compressive strength at 28 days",
+      "slump at 7 days (policy)",
+      "density test only \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0025_v2rcg",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: In works/housing, Cube strength test refers to?",
+    "options": [
+      "modulus directly (typically)",
+      "density test only (advanced)",
+      "compressive strength at 28 days",
+      "slump at 7 days \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0025_vay81",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Cube strength test refers to? Select the best option.",
+    "options": [
+      "density test only (typically)",
+      "slump at 7 days (theory)",
+      "compressive strength at 28 days",
+      "modulus directly (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0025_vemw0",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Cube strength test refers to? Choose the most accurate answer.",
+    "options": [
+      "modulus directly (theory)",
+      "slump at 7 days (advanced)",
+      "compressive strength at 28 days",
+      "density test only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0025_vzp14",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: In works/housing, Cube strength test refers to?",
+    "options": [
+      "density test only \u2014 concept",
+      "compressive strength at 28 days",
+      "slump at 7 days (policy)",
+      "modulus directly (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0025_vsyvf",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: In works/housing, Cube strength test refers to?",
+    "options": [
+      "modulus directly (typically)",
+      "slump at 7 days (typically)",
+      "compressive strength at 28 days",
+      "density test only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0026_vz9cb",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Cube strength test?",
+    "options": [
+      "slump at 7 days (framework)",
+      "density test only \u2014 concept",
+      "compressive strength at 28 days",
+      "modulus directly (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0026_vpduo",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Cube strength test?",
+    "options": [
+      "modulus directly \u2014 in practice",
+      "compressive strength at 28 days",
+      "density test only (theory)",
+      "slump at 7 days (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0026_vxt3v",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Cube strength test?",
+    "options": [
+      "density test only (framework)",
+      "modulus directly (theory)",
+      "slump at 7 days \u2014 concept",
+      "compressive strength at 28 days"
+    ],
+    "answerIndex": 3,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0026_vzey1",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Cube strength test? Select the best option.",
+    "options": [
+      "compressive strength at 28 days",
+      "modulus directly (advanced)",
+      "density test only (advanced)",
+      "slump at 7 days (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0026_vkn77",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Cube strength test? Choose the most accurate answer.",
+    "options": [
+      "modulus directly (typically)",
+      "slump at 7 days (policy)",
+      "compressive strength at 28 days",
+      "density test only \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0026_vpzg7",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Cube strength test?",
+    "options": [
+      "compressive strength at 28 days",
+      "density test only (typically)",
+      "slump at 7 days (advanced)",
+      "modulus directly \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0026_vy3jn",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Cube strength test?",
+    "options": [
+      "density test only (advanced)",
+      "compressive strength at 28 days",
+      "slump at 7 days (policy)",
+      "modulus directly (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0026_vo9d8",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Cube strength test?",
+    "options": [
+      "modulus directly \u2014 in practice",
+      "density test only (typically)",
+      "compressive strength at 28 days",
+      "slump at 7 days (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0027_vtcai",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Cube strength test.",
+    "options": [
+      "slump at 7 days (framework)",
+      "compressive strength at 28 days",
+      "density test only (framework)",
+      "modulus directly (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0027_vwkja",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Cube strength test.",
+    "options": [
+      "compressive strength at 28 days",
+      "slump at 7 days (advanced)",
+      "modulus directly \u2014 concept",
+      "density test only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0027_vjyof",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Cube strength test.",
+    "options": [
+      "compressive strength at 28 days",
+      "slump at 7 days \u2014 in practice",
+      "density test only \u2014 in practice",
+      "modulus directly (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0027_v76m0",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Cube strength test.",
+    "options": [
+      "compressive strength at 28 days",
+      "slump at 7 days \u2014 concept",
+      "density test only (advanced)",
+      "modulus directly (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0027_vmv68",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Cube strength test. Select the best option.",
+    "options": [
+      "density test only \u2014 concept",
+      "slump at 7 days \u2014 concept",
+      "modulus directly \u2014 concept",
+      "compressive strength at 28 days"
+    ],
+    "answerIndex": 3,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0027_v7mm8",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Cube strength test. Choose the most accurate answer.",
+    "options": [
+      "density test only (advanced)",
+      "compressive strength at 28 days",
+      "modulus directly (typically)",
+      "slump at 7 days (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0027_vizy4",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Cube strength test.",
+    "options": [
+      "slump at 7 days \u2014 concept",
+      "compressive strength at 28 days",
+      "density test only (typically)",
+      "modulus directly (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0027_v8g68",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Cube strength test.",
+    "options": [
+      "slump at 7 days (theory)",
+      "compressive strength at 28 days",
+      "modulus directly (framework)",
+      "density test only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0028_v2ibh",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced construction: Cube strength test primarily aims to?",
+    "options": [
+      "slump at 7 days (framework)",
+      "compressive strength at 28 days",
+      "modulus directly (advanced)",
+      "density test only \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0028_va46f",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: Cube strength test primarily aims to?",
+    "options": [
+      "compressive strength at 28 days",
+      "slump at 7 days (policy)",
+      "density test only (advanced)",
+      "modulus directly (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0028_v3cu1",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced construction: Cube strength test primarily aims to?",
+    "options": [
+      "slump at 7 days (policy)",
+      "density test only (theory)",
+      "modulus directly \u2014 concept",
+      "compressive strength at 28 days"
+    ],
+    "answerIndex": 3,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0028_vnp8a",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: Cube strength test primarily aims to? Select the best option.",
+    "options": [
+      "compressive strength at 28 days",
+      "density test only \u2014 in practice",
+      "modulus directly (theory)",
+      "slump at 7 days (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0028_vk25o",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: Cube strength test primarily aims to? Choose the most accurate answer.",
+    "options": [
+      "compressive strength at 28 days",
+      "modulus directly \u2014 concept",
+      "density test only (typically)",
+      "slump at 7 days \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0028_v0y85",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced construction: Cube strength test primarily aims to?",
+    "options": [
+      "compressive strength at 28 days",
+      "density test only (theory)",
+      "slump at 7 days (policy)",
+      "modulus directly (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0028_vn1zb",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced construction: Cube strength test primarily aims to?",
+    "options": [
+      "compressive strength at 28 days",
+      "density test only (framework)",
+      "slump at 7 days (theory)",
+      "modulus directly \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "compressive strength at 28 days"
+  },
+  {
+    "id": "adv_works-and-housing_0029_vs7gl",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: In works/housing, Asphalt Marshall stability refers to?",
+    "options": [
+      "bitumen flash point (framework)",
+      "assesses mix stability and flow",
+      "skid resistance only (typically)",
+      "aggregate soundness \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0029_v2wv8",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Within works/housing, Asphalt Marshall stability refers to?",
+    "options": [
+      "bitumen flash point (typically)",
+      "skid resistance only (theory)",
+      "assesses mix stability and flow",
+      "aggregate soundness (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0029_v5z40",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: In works/housing, Asphalt Marshall stability refers to?",
+    "options": [
+      "skid resistance only \u2014 concept",
+      "assesses mix stability and flow",
+      "aggregate soundness \u2014 concept",
+      "bitumen flash point \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0029_vf1mm",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Asphalt Marshall stability refers to? Select the best option.",
+    "options": [
+      "assesses mix stability and flow",
+      "skid resistance only (policy)",
+      "bitumen flash point \u2014 concept",
+      "aggregate soundness (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0029_vhq3a",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "In works/housing, Asphalt Marshall stability refers to? Choose the most accurate answer.",
+    "options": [
+      "bitumen flash point (typically)",
+      "assesses mix stability and flow",
+      "skid resistance only \u2014 in practice",
+      "aggregate soundness \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0029_vw3yy",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: In works/housing, Asphalt Marshall stability refers to?",
+    "options": [
+      "assesses mix stability and flow",
+      "aggregate soundness (typically)",
+      "skid resistance only (theory)",
+      "bitumen flash point \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0029_vt8cf",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: In works/housing, Asphalt Marshall stability refers to?",
+    "options": [
+      "aggregate soundness (typically)",
+      "skid resistance only \u2014 in practice",
+      "bitumen flash point \u2014 concept",
+      "assesses mix stability and flow"
+    ],
+    "answerIndex": 3,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0030_v0pdl",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Asphalt Marshall stability?",
+    "options": [
+      "assesses mix stability and flow",
+      "skid resistance only (typically)",
+      "bitumen flash point (framework)",
+      "aggregate soundness (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0030_vw4d8",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Asphalt Marshall stability?",
+    "options": [
+      "skid resistance only \u2014 concept",
+      "assesses mix stability and flow",
+      "bitumen flash point (typically)",
+      "aggregate soundness (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0030_v3rbz",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Asphalt Marshall stability?",
+    "options": [
+      "aggregate soundness (policy)",
+      "skid resistance only (framework)",
+      "assesses mix stability and flow",
+      "bitumen flash point (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0030_vcnvj",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Asphalt Marshall stability?",
+    "options": [
+      "assesses mix stability and flow",
+      "aggregate soundness (typically)",
+      "skid resistance only \u2014 in practice",
+      "bitumen flash point (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0030_vkp4x",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Asphalt Marshall stability? Select the best option.",
+    "options": [
+      "bitumen flash point (policy)",
+      "skid resistance only (policy)",
+      "assesses mix stability and flow",
+      "aggregate soundness (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0030_vxy5u",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Asphalt Marshall stability? Choose the most accurate answer.",
+    "options": [
+      "bitumen flash point (typically)",
+      "assesses mix stability and flow",
+      "aggregate soundness \u2014 concept",
+      "skid resistance only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0030_vpxnf",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Asphalt Marshall stability?",
+    "options": [
+      "aggregate soundness (policy)",
+      "bitumen flash point (theory)",
+      "assesses mix stability and flow",
+      "skid resistance only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0030_v11hz",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Asphalt Marshall stability?",
+    "options": [
+      "assesses mix stability and flow",
+      "bitumen flash point (theory)",
+      "aggregate soundness (typically)",
+      "skid resistance only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0030_vr973",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Asphalt Marshall stability?",
+    "options": [
+      "bitumen flash point (theory)",
+      "assesses mix stability and flow",
+      "skid resistance only (policy)",
+      "aggregate soundness (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0031_v7o6s",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Asphalt Marshall stability.",
+    "options": [
+      "skid resistance only (theory)",
+      "aggregate soundness \u2014 in practice",
+      "assesses mix stability and flow",
+      "bitumen flash point (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0031_vt05b",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Asphalt Marshall stability.",
+    "options": [
+      "aggregate soundness \u2014 concept",
+      "assesses mix stability and flow",
+      "bitumen flash point (theory)",
+      "skid resistance only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0031_v75hh",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Asphalt Marshall stability.",
+    "options": [
+      "bitumen flash point (advanced)",
+      "skid resistance only (policy)",
+      "aggregate soundness (advanced)",
+      "assesses mix stability and flow"
+    ],
+    "answerIndex": 3,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0031_vo1vd",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Asphalt Marshall stability.",
+    "options": [
+      "aggregate soundness \u2014 concept",
+      "bitumen flash point \u2014 concept",
+      "assesses mix stability and flow",
+      "skid resistance only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0031_vo3sd",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Asphalt Marshall stability. Select the best option.",
+    "options": [
+      "assesses mix stability and flow",
+      "aggregate soundness (policy)",
+      "skid resistance only (policy)",
+      "bitumen flash point (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0031_vu8wf",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Asphalt Marshall stability. Choose the most accurate answer.",
+    "options": [
+      "assesses mix stability and flow",
+      "skid resistance only (policy)",
+      "bitumen flash point (theory)",
+      "aggregate soundness (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0031_vl7cq",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Asphalt Marshall stability.",
+    "options": [
+      "skid resistance only (advanced)",
+      "bitumen flash point (theory)",
+      "aggregate soundness \u2014 in practice",
+      "assesses mix stability and flow"
+    ],
+    "answerIndex": 3,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0031_vqwxb",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Asphalt Marshall stability.",
+    "options": [
+      "skid resistance only \u2014 concept",
+      "aggregate soundness (policy)",
+      "bitumen flash point (theory)",
+      "assesses mix stability and flow"
+    ],
+    "answerIndex": 3,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0032_v9vo7",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced construction: Asphalt Marshall stability primarily aims to?",
+    "options": [
+      "aggregate soundness (policy)",
+      "bitumen flash point (framework)",
+      "skid resistance only (advanced)",
+      "assesses mix stability and flow"
+    ],
+    "answerIndex": 3,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0032_vgjxt",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced construction: Asphalt Marshall stability primarily aims to?",
+    "options": [
+      "aggregate soundness (framework)",
+      "assesses mix stability and flow",
+      "skid resistance only \u2014 in practice",
+      "bitumen flash point (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "assesses mix stability and flow"
+  },
+  {
+    "id": "adv_works-and-housing_0032_vz3en",
+    "category": "cadre",
+    "cadreSlug": "works-and-housing",
+    "topic": "Works & Housing",
+    "subtopic": "Standards & Practice",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced construction: Asphalt Marshall stability primarily aims to?",
+    "options": [
+      "skid resistance only \u2014 in practice",
+      "assesses mix stability and flow",
+      "aggregate soundness (theory)",
+      "bitumen flash point \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "assesses mix stability and flow"
+  }
+]

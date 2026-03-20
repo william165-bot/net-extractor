@@ -1,0 +1,2069 @@
+[
+  {
+    "id": "fr_001",
+    "category": "financial-regulation",
+    "question": "What is the primary purpose of the Financial Regulations (FR) 2009?",
+    "options": [
+      "To regulate public procurement",
+      "To guide financial management in the civil service",
+      "To oversee budgeting and planning",
+      "To audit government accounts"
+    ],
+    "answerIndex": 1,
+    "explanation": "To guide financial management in the civil service"
+  },
+  {
+    "id": "fr_003",
+    "category": "financial-regulation",
+    "question": "What is the role of the Accountant-General of the Federation?",
+    "options": [
+      "To prepare national budgets",
+      "To manage public funds",
+      "To oversee financial reporting",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr_005",
+    "category": "financial-regulation",
+    "question": "What is the purpose of the Appropriation Act?",
+    "options": [
+      "To authorize government spending",
+      "To regulate public procurement",
+      "To guide financial reporting",
+      "To oversee budgeting"
+    ],
+    "answerIndex": 0,
+    "explanation": "To authorize government spending"
+  },
+  {
+    "id": "fr_006",
+    "category": "financial-regulation",
+    "question": "Who certifies the availability of funds before committing government resources?",
+    "options": [
+      "Accounting Officer",
+      "Procurement Officer",
+      "Internal Auditor",
+      "Minister/Head of Agency"
+    ],
+    "answerIndex": 0,
+    "explanation": "Accounting Officer"
+  },
+  {
+    "id": "fr_007",
+    "category": "financial-regulation",
+    "question": "What is the consequence of unauthorized expenditure?",
+    "options": [
+      "Administrative sanctions",
+      "Financial penalties",
+      "Both A and B",
+      "No consequences"
+    ],
+    "answerIndex": 2,
+    "explanation": "Both A and B"
+  },
+  {
+    "id": "fr_008",
+    "category": "financial-regulation",
+    "question": "According to the FR 2009, what is the retention period for financial records?",
+    "options": [
+      "3 years",
+      "5 years",
+      "6 years",
+      "10 years"
+    ],
+    "answerIndex": 3,
+    "explanation": "10 years (or as specified)"
+  },
+  {
+    "id": "fr_009",
+    "category": "financial-regulation",
+    "question": "What is the role of the Internal Audit unit?",
+    "options": [
+      "To conduct external audits",
+      "To oversee budgeting",
+      "To review financial transactions",
+      "To manage public funds"
+    ],
+    "answerIndex": 2,
+    "explanation": "To review financial transactions"
+  },
+  {
+    "id": "fr_010",
+    "category": "financial-regulation",
+    "question": "Who is responsible for preparing financial reports?",
+    "options": [
+      "Accounting Officer",
+      "Director of Finance",
+      "Accountant-General",
+      "Minister/Head of Agency"
+    ],
+    "answerIndex": 0,
+    "explanation": "Accounting Officer"
+  },
+  {
+    "id": "fr_011",
+    "category": "financial-regulation",
+    "question": "What is the purpose of the Fiscal Responsibility Act 2007?",
+    "options": [
+      "To regulate public procurement",
+      "To guide financial management",
+      "To promote fiscal discipline",
+      "To oversee budgeting"
+    ],
+    "answerIndex": 2,
+    "explanation": "To promote fiscal discipline"
+  },
+  {
+    "id": "fr_012",
+    "category": "financial-regulation",
+    "question": "According to the FR 2009, what is the treatment for unspent appropriations?",
+    "options": [
+      "Carryover to the next financial year",
+      "Surrender to the Consolidated Revenue Fund",
+      "Transfer to a special account",
+      "Use for other purposes"
+    ],
+    "answerIndex": 1,
+    "explanation": "Surrender to the Consolidated Revenue"
+  },
+  {
+    "id": "fr_013",
+    "category": "financial-regulation",
+    "question": "Who approves the budget for a Ministry/Department?",
+    "options": [
+      "Minister/Head of Agency",
+      "Permanent Secretary",
+      "National Assembly",
+      "Accountant-General"
+    ],
+    "answerIndex": 2,
+    "explanation": "National Assembly"
+  },
+  {
+    "id": "fr_014",
+    "category": "financial-regulation",
+    "question": "What is the role of the Budget Office?",
+    "options": [
+      "To prepare financial reports",
+      "To oversee public procurement",
+      "To coordinate budgeting",
+      "To manage public funds"
+    ],
+    "answerIndex": 2,
+    "explanation": "To coordinate budgeting"
+  },
+  {
+    "id": "fr_015",
+    "category": "financial-regulation",
+    "question": "According to the FR 2009, what is the requirement for contract awards?",
+    "options": [
+      "Open competitive bidding",
+      "Selective tendering",
+      "Emergency procurement",
+      "Direct appointment"
+    ],
+    "answerIndex": 0,
+    "explanation": "Open competitive bidding"
+  },
+  {
+    "id": "fr_016",
+    "category": "financial-regulation",
+    "question": "Who is responsible for ensuring transparency in public procurement?",
+    "options": [
+      "Procurement Officer",
+      "Accounting Officer",
+      "Minister/Head of Agency",
+      "Bureau for Public Procurement"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bureau for Public Procurement"
+  },
+  {
+    "id": "fr_017",
+    "category": "financial-regulation",
+    "question": "What is the purpose of the Public Procurement Act 2007?",
+    "options": [
+      "To regulate financial management",
+      "To guide budgeting",
+      "To promote transparency in procurement",
+      "To oversee auditing"
+    ],
+    "answerIndex": 2,
+    "explanation": "To promote transparency in procurement"
+  },
+  {
+    "id": "fr_018",
+    "category": "financial-regulation",
+    "question": "According to the FR 2009, what is the treatment for losses or deficiencies?",
+    "options": [
+      "Write-off",
+      "Investigation and recovery",
+      "Waiver",
+      "Administrative sanctions"
+    ],
+    "answerIndex": 1,
+    "explanation": "Investigation and recovery"
+  },
+  {
+    "id": "fr_019",
+    "category": "financial-regulation",
+    "question": "Who investigates financial irregularities?",
+    "options": [
+      "Internal Audit",
+      "External Auditor",
+      "Economic and Financial Crimes Commission (EFCC)",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr_020",
+    "category": "financial-regulation",
+    "question": "A finance officer who records all daily receipts and payments in the cashbook is applying which accounting procedure?",
+    "options": [
+      "Vote control",
+      "Standard bookkeeping",
+      "Revenue reconciliation",
+      "Double-entry posting"
+    ],
+    "answerIndex": 1,
+    "explanation": "Standard bookkeeping"
+  },
+  {
+    "id": "fr_021",
+    "category": "financial-regulation",
+    "question": "What is the purpose of an imprest account?",
+    "options": [
+      "To manage large-scale payments",
+      "To facilitate petty cash transactions",
+      "To account for capital expenditures",
+      "To oversee budgeting"
+    ],
+    "answerIndex": 1,
+    "explanation": "To facilitate petty cash transactions"
+  },
+  {
+    "id": "fr_022",
+    "category": "financial-regulation",
+    "question": "Who is responsible for managing imprest accounts?",
+    "options": [
+      "Accounting Officer",
+      "Imprest Holder",
+      "Internal Auditor",
+      "Procurement Officer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Imprest Holder"
+  },
+  {
+    "id": "fr_023",
+    "category": "financial-regulation",
+    "question": "According to the FR 2009, what is the requirement for imprest reimbursement?",
+    "options": [
+      "Submission of receipts and vouchers",
+      "Approval by the Accounting Officer",
+      "Both A and B",
+      "None of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": "Both A and B"
+  },
+  {
+    "id": "fr_024",
+    "category": "financial-regulation",
+    "question": "What is the primary purpose of budgeting in the Nigerian civil service?",
+    "options": [
+      "To allocate resources",
+      "To manage public debt",
+      "To facilitate financial reporting",
+      "To oversee procurement"
+    ],
+    "answerIndex": 0,
+    "explanation": "To allocate resources"
+  },
+  {
+    "id": "fr_025",
+    "category": "financial-regulation",
+    "question": "Who prepares the budget for a Ministry/Department?",
+    "options": [
+      "Accounting Officer",
+      "Budget Officer",
+      "Minister/Head of Agency",
+      "National Assembly"
+    ],
+    "answerIndex": 0,
+    "explanation": "Accounting Officer (in collaboration with relevant officers)"
+  },
+  {
+    "id": "fr_026",
+    "category": "financial-regulation",
+    "question": "According to the FR 2009, what is the basis for budget preparation?",
+    "options": [
+      "Cash basis",
+      "Accrual basis",
+      "Modified cash basis",
+      "Hybrid basis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Cash basis"
+  },
+  {
+    "id": "fr_027",
+    "category": "financial-regulation",
+    "question": "What is the purpose of a voucher in financial transactions?",
+    "options": [
+      "To record financial transactions",
+      "To authorize payments",
+      "To facilitate budgeting",
+      "To manage imprest accounts"
+    ],
+    "answerIndex": 1,
+    "explanation": "To authorize payments"
+  },
+  {
+    "id": "fr_028",
+    "category": "financial-regulation",
+    "question": "According to the FR 2009, what is the requirement for voucher preparation?",
+    "options": [
+      "Accuracy and completeness",
+      "Approval by the Accounting Officer",
+      "Both A and B",
+      "None of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": "Both A and B"
+  },
+  {
+    "id": "fr_029",
+    "category": "financial-regulation",
+    "question": "Who is responsible for preparing vouchers?",
+    "options": [
+      "Accounting Officer",
+      "Finance Officer",
+      "Procurement Officer",
+      "Budget Officer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Finance Officer"
+  },
+  {
+    "id": "fr_030",
+    "category": "financial-regulation",
+    "question": "What is the purpose of bank reconciliation?",
+    "options": [
+      "To ensure accuracy of financial records",
+      "To facilitate budgeting",
+      "To manage public debt",
+      "To oversee procurement"
+    ],
+    "answerIndex": 0,
+    "explanation": "To ensure accuracy of financial records"
+  },
+  {
+    "id": "fr_031",
+    "category": "financial-regulation",
+    "question": "According to the FR 2009, how often should bank reconciliation be performed?",
+    "options": [
+      "Monthly",
+      "Quarterly",
+      "Annually",
+      "Bi-annually"
+    ],
+    "answerIndex": 0,
+    "explanation": "Monthly"
+  },
+  {
+    "id": "fr_032",
+    "category": "financial-regulation",
+    "question": "Who is responsible for preparing bank reconciliation statements?",
+    "options": [
+      "Accounting Officer",
+      "Finance Officer",
+      "Internal Auditor",
+      "Procurement Officer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Finance Officer"
+  },
+  {
+    "id": "fr_033",
+    "category": "financial-regulation",
+    "question": "What is the primary legislation governing financial regulations in Nigeria's civil service?",
+    "options": [
+      "Financial Regulations (FR) 2009",
+      "Public Procurement Act 2007",
+      "Constitution of the Federal Republic of Nigeria",
+      "Fiscal Responsibility Act 2007"
+    ],
+    "answerIndex": 0,
+    "explanation": "Financial Regulations (FR) 2009"
+  },
+  {
+    "id": "fr_034",
+    "category": "financial-regulation",
+    "question": "Which of the following is a key principle of financial management in the Nigerian civil service?",
+    "options": [
+      "Transparency and accountability",
+      "Secrecy and confidentiality",
+      "Discretionary spending",
+      "Personal gain"
+    ],
+    "answerIndex": 0,
+    "explanation": "Transparency and accountability"
+  },
+  {
+    "id": "fr_035",
+    "category": "financial-regulation",
+    "question": "What is the purpose of the Due Process mechanism in Nigeria's public procurement?",
+    "options": [
+      "To ensure timely payment to contractors",
+      "To guarantee contract awards to specific vendors",
+      "To promote transparency and competition in procurement processes",
+      "To reduce bureaucratic red tape"
+    ],
+    "answerIndex": 2,
+    "explanation": "To promote transparency and competition in procurement processes"
+  },
+  {
+    "id": "fr_036",
+    "category": "financial-regulation",
+    "question": "An accounting officer discovers a discrepancy in the financial records. What should the officer do?",
+    "options": [
+      "Ignore the discrepancy",
+      "Conceal the discrepancy",
+      "Report the discrepancy to the supervisor",
+      "Investigate and correct the discrepancy"
+    ],
+    "answerIndex": 3,
+    "explanation": "Investigate and correct the discrepancy is correct as it aligns with the Financial Regulations (2009) and standard public financial management practice."
+  },
+  {
+    "id": "fr_037",
+    "category": "financial-regulation",
+    "question": "What is the consequence of violating financial regulations in the Nigerian civil service?",
+    "options": [
+      "Administrative sanctions",
+      "Financial penalties",
+      "Both A and B",
+      "No consequences"
+    ],
+    "answerIndex": 2,
+    "explanation": "Both A and B"
+  },
+  {
+    "id": "fr_038",
+    "category": "financial-regulation",
+    "question": "What is the purpose of identifying and recording unpresented cheques in a bank reconciliation statement?",
+    "options": [
+      "To increase the bank balance",
+      "To decrease the bank balance",
+      "To reconcile the bank statement balance with the cash book balance",
+      "To facilitate budgeting"
+    ],
+    "answerIndex": 2,
+    "explanation": "To reconcile the bank statement balance with the cash book balance"
+  },
+  {
+    "id": "fr_039",
+    "category": "financial-regulation",
+    "question": "According to best practices, what should be done with discrepancies identified during bank reconciliation?",
+    "options": [
+      "Ignore them if they are minor",
+      "Investigate and correct them promptly",
+      "Adjust the cash book balance without investigation",
+      "Wait for the next reconciliation period"
+    ],
+    "answerIndex": 1,
+    "explanation": "Investigate and correct them promptly"
+  },
+  {
+    "id": "fr_040",
+    "category": "financial-regulation",
+    "question": "Which of the following items would likely cause a difference between the bank statement balance and the cash book balance that requires adjustment in the bank reconciliation statement?",
+    "options": [
+      "Bank charges",
+      "Deposits in transit",
+      "Both A and B",
+      "None of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": "Both A and B"
+  },
+  {
+    "id": "fr_041",
+    "category": "financial-regulation",
+    "question": "A Permanent Secretary directs the accounts department to use internally generated revenue (IGR) for a project that falls outside the annual approved budget and is not covered by any supplementary appropriation. This action most directly violates the authority and scope established by the Financial Regulations (2009 Revision) in relation to which fundamental principle?",
+    "options": [
+      "The supremacy of appropriation and adherence to enabling legislative provisions.",
+      "The mandate to link expenditure with the Public Procurement Act (2007).",
+      "The principle of transparency in financial disclosure.",
+      "The objective of efficiency in the use of public resources."
+    ],
+    "answerIndex": 0,
+    "explanation": "The supremacy of appropriation and adherence to enabling legislative provisions. is correct as it aligns with the Financial Regulations (2009) and standard public financial management practice."
+  },
+  {
+    "id": "fr_042",
+    "category": "financial-regulation",
+    "question": "The National Council on Public Procurement (NCPP) issues a new set of policy guidelines that conflict with a specific provision in the Public Procurement Act (2007). In a case of a legal dispute, which document holds precedence and why?",
+    "options": [
+      "The NCPP's policy guidelines, because the NCPP is the highest policy-making body for public procurement.",
+      "The Financial Regulations (2009 Revision), because they are broader and govern all financial activities, including procurement.",
+      "Neither, as both the NCPP guidelines and the PPA have equal weight in law, requiring a review by the Bureau of Public Procurement (BPP).",
+      "The specific provision in the Public Procurement Act (2007), because it is a statute enacted by the legislature, making it superior to any regulation or policy issued by an executive body."
+    ],
+    "answerIndex": 3,
+    "explanation": "The specific provision in the Public Procurement Act (2007), because it is a statute enacted by the legislature, making it superior to any regulation or policy issued by an executive body. is correct as it aligns with the Financial Regulations (2009) and standard public financial management practice."
+  },
+  {
+    "id": "fr_043",
+    "category": "financial-regulation",
+    "question": "A government agency is procuring software. To satisfy the fundamental objective of transparency under the Public Procurement Act (2007), which action is most essential and direct?",
+    "options": [
+      "Ensuring the contract is awarded to the bidder who offers the lowest price.",
+      "Setting clear performance metrics for the software to be delivered by the successful vendor.",
+      "Forming an ad-hoc committee of internal staff to review all procurement documents before they are released.",
+      "Publishing the invitation for bids, the bid evaluation criteria, and the results of the contract award on a publicly accessible platform."
+    ],
+    "answerIndex": 3,
+    "explanation": "Publishing the invitation for bids, the bid evaluation criteria, and the results of the contract award on a publicly accessible platform. is correct as it aligns with the Financial Regulations (2009) and standard public financial management practice."
+  },
+  {
+    "id": "fr_044",
+    "category": "financial-regulation",
+    "question": "Which of the following scenarios is a direct application of the core function of the Bureau of Public Procurement (BPP)?",
+    "options": [
+      "An aggrieved bidder files a legal challenge against an award decision in the Federal High Court.",
+      "A state governor signs into law a subsidiary legislation that exempts procurements below a certain threshold from open bidding.",
+      "The BPP reviews an agency's proposed procurement process to ensure it complies with the standard bidding documents and method stipulated in the PPA.",
+      "The National Assembly amends the PPA to increase the threshold for mandatory international competitive bidding."
+    ],
+    "answerIndex": 2,
+    "explanation": "The BPP reviews an agency's proposed procurement process to ensure it complies with the standard bidding documents and method stipulated in the PPA. is correct as it aligns with the Financial Regulations (2009) and standard public financial management practice."
+  },
+  {
+    "id": "fr_045",
+    "category": "financial-regulation",
+    "question": "The Finance (Control & Management) Act is superior to the Financial Regulations (2009 Revision). This relationship primarily establishes the authority of the Financial Regulations by ensuring what?",
+    "options": [
+      "That the Regulations must serve as a detailed set of instructions and procedures for financial management within the legal framework established by the Act.",
+      "That the Financial Regulations can only be applied to federal government agencies and not state or local governments.",
+      "That the Regulations can be temporarily suspended by the President during a national financial emergency.",
+      "That any amendment to the Regulations must be first approved by the National Council on Public Procurement (NCPP)."
+    ],
+    "answerIndex": 0,
+    "explanation": "That the Regulations must serve as a detailed set of instructions and procedures for financial management within the legal framework established by the Act. is correct as it aligns with the Financial Regulations (2009) and standard public financial management practice."
+  },
+  {
+    "id": "fr_046",
+    "category": "financial-regulation",
+    "question": "A Head of Department (HOD) signed a payment voucher for a contract where the work was only partially completed. The HOD acted against the advice of the accounts staff, leading to a financial loss. This situation is a failure of the fundamental objective of accountability because:",
+    "options": [
+      "The HOD failed to take responsibility for the proper expenditure of public funds and is answerable for the decision to release payment for incomplete work.",
+      "The public was not informed of the payment, violating the objective of transparency.",
+      "The HOD did not maximize value for money, violating the objective of efficiency.",
+      "The contract was not awarded through open competitive bidding, violating the PPA."
+    ],
+    "answerIndex": 0,
+    "explanation": "The HOD failed to take responsibility for the proper expenditure of public funds and is answerable for the decision to release payment for incomplete work. is correct as it aligns with the Financial Regulations (2009) and standard public financial management practice."
+  },
+  {
+    "id": "fr_047",
+    "category": "financial-regulation",
+    "question": "What is the specific nature of the role held by the Director-General of the Bureau of Public Procurement (BPP) within the National Council on Public Procurement (NCPP)?",
+    "options": [
+      "Non-voting, Ex-Officio Member",
+      "Secretary, Voting Member",
+      "Secretary, Ex-Officio Member",
+      "Sole Administrative Head"
+    ],
+    "answerIndex": 2,
+    "explanation": "Secretary, Ex-Officio Member"
+  },
+  {
+    "id": "fr_048",
+    "category": "financial-regulation",
+    "question": "The National Council on Public Procurement (NCPP) is best categorized as a body that exercises what kind of function over the procurement process?",
+    "options": [
+      "Primarily advisory",
+      "Ministerial/Executive approval",
+      "Legislative and judicial review",
+      "Quasi-legislative and regulatory oversight"
+    ],
+    "answerIndex": 3,
+    "explanation": "Quasi-legislative and regulatory oversight"
+  },
+  {
+    "id": "fr_049",
+    "category": "financial-regulation",
+    "question": "What specific provision of the Public Procurement Act (PPA) addresses the public's right to view records and proceedings, thereby reinforcing the principle of transparency?",
+    "options": [
+      "The right to challenge bidding documents.",
+      "The requirement for bid security.",
+      "The right to access procurement records.",
+      "The requirement for post-qualification."
+    ],
+    "answerIndex": 2,
+    "explanation": "The right to access procurement records."
+  },
+  {
+    "id": "fr_050",
+    "category": "financial-regulation",
+    "question": "The Code of Conduct for public procurement specifically prohibits which of the following practices by a public officer?",
+    "options": [
+      "Submitting bids for contracts below ₦1 million.",
+      "Engaging in any transaction where a conflict of interest might exist.",
+      "Declining to attend BPP training sessions.",
+      "Seeking clarification on bid documents."
+    ],
+    "answerIndex": 1,
+    "explanation": "Engaging in any transaction where a conflict of interest might exist."
+  },
+  {
+    "id": "fr_051",
+    "category": "financial-regulation",
+    "question": "What is the foundational prerequisite that must be established and certified by an MDA before the Procurement Planning Committee (PPC) can finalize the Annual Procurement Plan?",
+    "options": [
+      "Receipt of the Annual General Imprest Warrant.",
+      "Availability of the Certificate of No Objection (CNO).",
+      "Completion of the Needs Assessment and budgetary approval.",
+      "Approval of the Ministerial Tenders Board."
+    ],
+    "answerIndex": 2,
+    "explanation": "Completion of the Needs Assessment and budgetary approval."
+  },
+  {
+    "id": "fr_052",
+    "category": "financial-regulation",
+    "question": "Which financial regulation mandates that every fund received must be paid into the bank account no later than the next working day?",
+    "options": [
+      "Regulation pertaining to the imprest system.",
+      "Regulation on the custody of government funds.",
+      "Regulation on revenue collection and banking.",
+      "Regulation on expenditure authority."
+    ],
+    "answerIndex": 2,
+    "explanation": "Regulation on revenue collection and banking."
+  },
+  {
+    "id": "fr_053",
+    "category": "financial-regulation",
+    "question": "Into which main government fund is all Federal tax revenue initially paid to fund the vast majority of government Recurrent Expenditure?",
+    "options": [
+      "Contingencies Fund",
+      "Development Fund",
+      "Treasury Single Account",
+      "Consolidated Revenue Fund"
+    ],
+    "answerIndex": 3,
+    "explanation": "Consolidated Revenue Fund"
+  },
+  {
+    "id": "fr_054",
+    "category": "financial-regulation",
+    "question": "What is the legal basis for the fiduciary duty of a project fund manager to ensure efficient and effective management of funds?",
+    "options": [
+      "The terms of the loan agreement only.",
+      "The relevant sections of the Financial Regulations (FR) and the Finance (Control & Management) Act.",
+      "Direct instructions from the Minister of Finance.",
+      "The project's internal policy manual."
+    ],
+    "answerIndex": 1,
+    "explanation": "The relevant sections of the Financial Regulations (FR) and the Finance (Control & Management) Act."
+  },
+  {
+    "id": "fr_055",
+    "category": "financial-regulation",
+    "question": "Upon the physical delivery of goods or completion of services, at what point does the procuring entity's formal responsibility for the asset or service commence?",
+    "options": [
+      "When the contract is signed.",
+      "Upon official handover and entry into the asset register.",
+      "When the payment voucher is raised.",
+      "After the final audit."
+    ],
+    "answerIndex": 1,
+    "explanation": "Upon official handover and entry into the asset register."
+  },
+  {
+    "id": "fr_056",
+    "category": "financial-regulation",
+    "question": "What specific document is the Accounting Officer required to generate to formally record and detail any defects, shortages, or discrepancies discovered during the inspection of delivered goods?",
+    "options": [
+      "Delivery Note",
+      "Goods Received Note (GRN) with attached formal report of inspection",
+      "Request for Payment",
+      "Certificate of Completion"
+    ],
+    "answerIndex": 1,
+    "explanation": "Goods Received Note (GRN) with attached formal report of inspection"
+  },
+  {
+    "id": "fr_057",
+    "category": "financial-regulation",
+    "question": "If inspection confirms significant defects in delivered goods, what is the mandated next step the procuring entity must take regarding the supplier?",
+    "options": [
+      "Immediately initiate a new procurement process.",
+      "Serve a formal notice to the supplier demanding remedy or replacement within a specified period.",
+      "Pay the supplier the full amount less the value of the damaged goods.",
+      "Refer the matter directly to the Attorney-General for prosecution."
+    ],
+    "answerIndex": 1,
+    "explanation": "Serve a formal notice to the supplier demanding remedy or replacement within a specified period."
+  },
+  {
+    "id": "fr_058",
+    "category": "financial-regulation",
+    "question": "What is the highest level of financial oversight an MDA must prepare for concerning the receipt and use of government funds?",
+    "options": [
+      "Quarterly reconciliation of accounts.",
+      "Annual audit by the Auditor-General of the Federation (AGF).",
+      "Monthly imprest retirement.",
+      "Weekly cash count."
+    ],
+    "answerIndex": 1,
+    "explanation": "Annual audit by the Auditor-General of the Federation (AGF)."
+  },
+  {
+    "id": "fr_059",
+    "category": "financial-regulation",
+    "question": "In the context of corruption in public procurement, what specific function does the Auditor-General of the Federation (AGF) perform before the prosecution stage is initiated by other agencies?",
+    "options": [
+      "Arresting and detaining the suspects.",
+      "Providing an investigative report on financial impropriety to the National Assembly and the EFCC/ICPC.",
+      "Imposing criminal sanctions.",
+      "Canceling the procurement contract."
+    ],
+    "answerIndex": 1,
+    "explanation": "Providing an investigative report on financial impropriety to the National Assembly and the EFCC/ICPC."
+  },
+  {
+    "id": "fr_060",
+    "category": "financial-regulation",
+    "question": "Following the Auditor-General's report, which two principal agencies are primarily responsible for investigating, arresting, and initiating the prosecution of corruption cases related to public funds?",
+    "options": [
+      "The Federal Ministry of Justice and the Central Bank of Nigeria.",
+      "The Bureau of Public Procurement (BPP) and the Tenders Board.",
+      "The Economic and Financial Crimes Commission (EFCC) and the Independent Corrupt Practices and Other Related Offences Commission (ICPC).",
+      "The Head of Service of the Federation and the Minister of Finance."
+    ],
+    "answerIndex": 2,
+    "explanation": "The Economic and Financial Crimes Commission (EFCC) and the Independent Corrupt Practices and Other Related Offences Commission (ICPC). is correct as it aligns with the Financial Regulations (2009) and standard public financial management practice."
+  },
+  {
+    "id": "fr_061",
+    "category": "financial-regulation",
+    "question": "What is the primary purpose of the Code of Conduct in public procurement?",
+    "options": [
+      "To promote competition",
+      "To ensure transparency and accountability",
+      "To prevent corruption and unethical behavior",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr_062",
+    "category": "financial-regulation",
+    "question": "Which of the following is an offence under the Public Procurement Act?",
+    "options": [
+      "Corruption",
+      "Collusion",
+      "Bid-rigging",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr_063",
+    "category": "financial-regulation",
+    "question": "What is the penalty for engaging in corrupt practices under the PPA?",
+    "options": [
+      "Fine only",
+      "Imprisonment only",
+      "Both fine and imprisonment",
+      "Debarment from participating in public procurement"
+    ],
+    "answerIndex": 2,
+    "explanation": "Both fine and imprisonment"
+  },
+  {
+    "id": "fr_064",
+    "category": "financial-regulation",
+    "question": "Who is responsible for ensuring compliance with the Code of Conduct?",
+    "options": [
+      "Public officers",
+      "Procurement officers",
+      "Accounting officers",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr_065",
+    "category": "financial-regulation",
+    "question": "What is bid-rigging?",
+    "options": [
+      "A type of procurement method",
+      "A form of corruption",
+      "A type of contract",
+      "A procurement strategy"
+    ],
+    "answerIndex": 1,
+    "explanation": "A form of corruption"
+  },
+  {
+    "id": "fr_066",
+    "category": "financial-regulation",
+    "question": "Which agency investigates corruption cases in Nigeria?",
+    "options": [
+      "EFCC",
+      "ICPC",
+      "Auditor-General",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr_067",
+    "category": "financial-regulation",
+    "question": "What is the consequence of breaching the Code of Conduct?",
+    "options": [
+      "Warning letter",
+      "Suspension from office",
+      "Disciplinary action",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr_068",
+    "category": "financial-regulation",
+    "question": "What is misappropriation of public funds?",
+    "options": [
+      "Using public funds for official business",
+      "Using public funds for personal gain",
+      "Investing public funds",
+      "Donating public funds"
+    ],
+    "answerIndex": 1,
+    "explanation": "Using public funds for personal gain"
+  },
+  {
+    "id": "fr_069",
+    "category": "financial-regulation",
+    "question": "What is the consequence of failing to comply with procurement regulations?",
+    "options": [
+      "Sanctions",
+      "Penalties",
+      "Disciplinary action",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr_070",
+    "category": "financial-regulation",
+    "question": "What is the primary objective of the Code of Conduct for public procurement?",
+    "options": [
+      "To promote transparency and accountability",
+      "To prevent corruption and unethical behavior",
+      "To ensure compliance with procurement regulations",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr_071",
+    "category": "financial-regulation",
+    "question": "A local government revenue officer discovers that market levies are not being properly recorded. Which accounting principle should be applied to correct this issue?",
+    "options": [
+      "Consistency principle",
+      "Transparency and accountability",
+      "Materiality concept",
+      "Prudence concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "Transparency and accountability"
+  },
+  {
+    "id": "fr_072",
+    "category": "financial-regulation",
+    "question": "When a ministry uses electronic payment systems to collect revenue instead of cash, the main goal is to:",
+    "options": [
+      "Increase expenditure",
+      "Reduce leakages and ensure accountability",
+      "Avoid budget approval",
+      "Delay remittance"
+    ],
+    "answerIndex": 1,
+    "explanation": "Reduce leakages and ensure accountability"
+  },
+  {
+    "id": "fr_073",
+    "category": "financial-regulation",
+    "question": "If a cashier fails to record a receipt of ₦500,000 in the government cashbook, which control measure should detect this error?",
+    "options": [
+      "Vote book",
+      "Bank reconciliation statement",
+      "Internal audit inspection",
+      "Appropriation account"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bank reconciliation statement"
+  },
+  {
+    "id": "fr_074",
+    "category": "financial-regulation",
+    "question": "A government agency receives a grant meant for capital projects but spends part of it on salaries. What accounting issue arises?",
+    "options": [
+      "Overestimation of expenditure",
+      "Misapplication of funds",
+      "Double entry error",
+      "Excess revenue collection"
+    ],
+    "answerIndex": 1,
+    "explanation": "Misapplication of funds"
+  },
+  {
+    "id": "fr_075",
+    "category": "financial-regulation",
+    "question": "A ministry decides to replace manual revenue collection with POS terminals. This decision primarily addresses which financial management challenge?",
+    "options": [
+      "Excess cash in transit",
+      "Poor salary structure",
+      "Delayed procurement process",
+      "Excess recurrent expenditure"
+    ],
+    "answerIndex": 0,
+    "explanation": "Excess cash in transit"
+  },
+  {
+    "id": "fr_076",
+    "category": "financial-regulation",
+    "question": "During audit, it was discovered that imprest holders failed to retire funds on time. What corrective action should management take?",
+    "options": [
+      "Increase imprest amounts",
+      "Suspend future imprests until retirement",
+      "Close the department",
+      "Merge all imprests into one account"
+    ],
+    "answerIndex": 1,
+    "explanation": "Suspend future imprests until retirement"
+  },
+  {
+    "id": "fr_077",
+    "category": "financial-regulation",
+    "question": "To ensure effective control over recurrent and capital expenditure, the Ministry of Finance should:",
+    "options": [
+      "Allow each department to spend freely",
+      "Approve all expenditure within budget limits",
+      "Eliminate cash budgeting",
+      "Focus only on capital projects"
+    ],
+    "answerIndex": 1,
+    "explanation": "Approve all expenditure within budget limits"
+  },
+  {
+    "id": "fr_078",
+    "category": "financial-regulation",
+    "question": "Which of the following best ensures proper custody of public funds?",
+    "options": [
+      "Keeping money with individual officers",
+      "Maintaining official bank accounts for government transactions",
+      "Paying all funds in cash",
+      "Using private safes for storage"
+    ],
+    "answerIndex": 1,
+    "explanation": "Maintaining official bank accounts for government transactions"
+  },
+  {
+    "id": "fr_079",
+    "category": "financial-regulation",
+    "question": "A finance officer prepares a cheque without authorization. This violates which key financial control measure?",
+    "options": [
+      "Virement procedure",
+      "Segregation of duties",
+      "Budget classification",
+      "Treasury circular"
+    ],
+    "answerIndex": 1,
+    "explanation": "Segregation of duties"
+  },
+  {
+    "id": "fr_080",
+    "category": "financial-regulation",
+    "question": "When government adopts uniform formats for recording receipts and payments across all ministries, this promotes:",
+    "options": [
+      "Standardization and comparability",
+      "Flexibility and independence",
+      "Secrecy and autonomy",
+      "Budget expansion"
+    ],
+    "answerIndex": 0,
+    "explanation": "Standardization and comparability"
+  },
+  {
+    "id": "fr_081",
+    "category": "financial-regulation",
+    "question": "A capital project is delayed due to lack of funds, even though money was released for it. What accounting tool should reveal the reason?",
+    "options": [
+      "Trial balance",
+      "Cash flow statement",
+      "Bank reconciliation",
+      "Vote book"
+    ],
+    "answerIndex": 3,
+    "explanation": "Vote book"
+  },
+  {
+    "id": "fr_082",
+    "category": "financial-regulation",
+    "question": "Imprest holders are required to render account periodically to ensure:",
+    "options": [
+      "Increase in capital expenditure",
+      "Accountability and prompt fund recovery",
+      "Reduction in budget size",
+      "Creation of new departments"
+    ],
+    "answerIndex": 1,
+    "explanation": "Accountability and prompt fund recovery"
+  },
+  {
+    "id": "fr_083",
+    "category": "financial-regulation",
+    "question": "A government accountant ensures that only approved payments are made from the Treasury Single Account (TSA). This action helps to:",
+    "options": [
+      "Encourage corruption",
+      "Strengthen expenditure control",
+      "Delay project implementation",
+      "Increase deficit financing"
+    ],
+    "answerIndex": 1,
+    "explanation": "Strengthen expenditure control"
+  },
+  {
+    "id": "fr_084",
+    "category": "financial-regulation",
+    "question": "When a public officer compares the bank statement balance with the cashbook balance at the end of the month, he is performing:",
+    "options": [
+      "Financial reporting",
+      "Cashbook maintenance",
+      "Bank reconciliation",
+      "Appropriation control"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bank reconciliation"
+  },
+  {
+    "id": "fr_085",
+    "category": "financial-regulation",
+    "question": "Before releasing funds for capital expenditure, the Ministry of Finance must verify project progress. This ensures:",
+    "options": [
+      "Double funding",
+      "Performance-based expenditure control",
+      "Excessive spending",
+      "Political interference"
+    ],
+    "answerIndex": 1,
+    "explanation": "Performance-based expenditure control"
+  },
+  {
+    "id": "fr_086",
+    "category": "financial-regulation",
+    "question": "True or False: Financial Regulations apply to all public officers involved in financial management.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "The statement is true under Financial Regulations and related laws."
+  },
+  {
+    "id": "fr_087",
+    "category": "financial-regulation",
+    "question": "True or False: Government funds can be used for entertainment expenses without approval.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": "The statement is false under Financial Regulations and related laws."
+  },
+  {
+    "id": "fr_088",
+    "category": "financial-regulation",
+    "question": "True or False: The Financial Regulations require transparency in financial transactions.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "The statement is true under Financial Regulations and related laws."
+  },
+  {
+    "id": "fr_089",
+    "category": "financial-regulation",
+    "question": "True or False: The Accounting Officer is responsible for ensuring internal controls.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "The statement is true under Financial Regulations and related laws."
+  },
+  {
+    "id": "fr_090",
+    "category": "financial-regulation",
+    "question": "True or False: Financial Regulations prescribe the procedures for procurement.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": "The statement is false under Financial Regulations and related laws."
+  },
+  {
+    "id": "fr_091",
+    "category": "financial-regulation",
+    "question": "True or False: Government ministries, departments, and agencies can enter into contracts without approval.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": "The statement is false under Financial Regulations and related laws."
+  },
+  {
+    "id": "fr_092",
+    "category": "financial-regulation",
+    "question": "True or False: The Financial Regulations require government ministries, departments, and agencies to maintain a register of assets.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "The statement is true under Financial Regulations and related laws."
+  },
+  {
+    "id": "fr_093",
+    "category": "financial-regulation",
+    "question": "True or False: The Accounting Officer can authorize expenditures without budgetary provision.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": "The statement is false under Financial Regulations and related laws."
+  },
+  {
+    "id": "fr_094",
+    "category": "financial-regulation",
+    "question": "True or False: Financial Regulations provide for the protection of public funds.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "The statement is true under Financial Regulations and related laws."
+  },
+  {
+    "id": "fr_095",
+    "category": "financial-regulation",
+    "question": "True or False: The Financial Regulations are subject to periodic review.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "The statement is true under Financial Regulations and related laws."
+  },
+  {
+    "id": "fr_096",
+    "category": "financial-regulation",
+    "question": "True or False: Financial Regulations prescribe the format for financial reports.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "The statement is true under Financial Regulations and related laws."
+  },
+  {
+    "id": "fr_097",
+    "category": "financial-regulation",
+    "question": "True or False: Government ministries, departments, and agencies are exempt from paying taxes.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": "The statement is false under Financial Regulations and related laws."
+  },
+  {
+    "id": "fr_098",
+    "category": "financial-regulation",
+    "question": "True or False: The Financial Regulations provide for penalties for non-compliance.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "The statement is true under Financial Regulations and related laws."
+  },
+  {
+    "id": "fr_099",
+    "category": "financial-regulation",
+    "question": "True or False: The Minister of Finance can approve expenditures outside the budget.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": "The statement is false under Financial Regulations and related laws."
+  },
+  {
+    "id": "fr_100",
+    "category": "financial-regulation",
+    "question": "True or False: Financial Regulations are laws that govern financial management in Nigeria.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "The statement is true under Financial Regulations and related laws."
+  },
+  {
+    "id": "fr2_002",
+    "category": "financial-regulation",
+    "question": "Who serves as the Secretary of the Procurement Planning Committee?",
+    "options": [
+      "Accounting Officer",
+      "Representative of the procurement unit",
+      "Technical personnel",
+      "Legal unit representative"
+    ],
+    "answerIndex": 1,
+    "explanation": "Representative of the procurement unit"
+  },
+  {
+    "id": "fr2_004",
+    "category": "financial-regulation",
+    "question": "Who is the accounting officer in a ministry?",
+    "options": [
+      "Director-General",
+      "Permanent Secretary",
+      "Minister",
+      "Procurement Officer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Permanent Secretary"
+  },
+  {
+    "id": "fr2_007",
+    "category": "financial-regulation",
+    "question": "What is the primary procurement method for goods, works, and services?",
+    "options": [
+      "Direct procurement",
+      "Selective tendering",
+      "Open competitive bidding",
+      "Emergency procurement"
+    ],
+    "answerIndex": 2,
+    "explanation": "Open competitive bidding"
+  },
+  {
+    "id": "fr2_008",
+    "category": "financial-regulation",
+    "question": "Which procurement method is used in emergency situations?",
+    "options": [
+      "Open competitive bidding",
+      "Selective tendering",
+      "Direct procurement",
+      "Emergency procurement"
+    ],
+    "answerIndex": 3,
+    "explanation": "Emergency procurement"
+  },
+  {
+    "id": "fr2_009",
+    "category": "financial-regulation",
+    "question": "What is the purpose of selective tendering?",
+    "options": [
+      "To procure from a single source",
+      "To invite bids from a limited number of suppliers",
+      "To procure goods or services in emergency situations",
+      "To invite bids from the general public"
+    ],
+    "answerIndex": 1,
+    "explanation": "To invite bids from a limited number of suppliers"
+  },
+  {
+    "id": "fr2_011",
+    "category": "financial-regulation",
+    "question": "What is the main advantage of open competitive bidding?",
+    "options": [
+      "Faster procurement process",
+      "Increased transparency and competition",
+      "Reduced procurement costs",
+      "Simplified evaluation process"
+    ],
+    "answerIndex": 1,
+    "explanation": "Increased transparency and competition"
+  },
+  {
+    "id": "fr2_014",
+    "category": "financial-regulation",
+    "question": "What is the primary purpose of procurement thresholds?",
+    "options": [
+      "To determine the procurement method",
+      "To evaluate bidder qualifications",
+      "To negotiate contract prices",
+      "To approve procurement decisions Answer: A) To determine the procurement method A) Open competitive bidding B) Selective tendering C) Direct procurement D) Expression of Interest (EOI)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Selective tendering (though it can depend on the specific context and requirements)"
+  },
+  {
+    "id": "fr2_016",
+    "category": "financial-regulation",
+    "question": "What is the benefit of using selective tendering?",
+    "options": [
+      "Increased competition",
+      "Reduced procurement costs",
+      "Faster procurement process",
+      "Ability to select from a pool of pre-qualified bidders"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ability to select from a pool of pre-qualified bidders"
+  },
+  {
+    "id": "fr2_017",
+    "category": "financial-regulation",
+    "question": "What is the primary role of Internal Audit in financial control?",
+    "options": [
+      "To approve procurement decisions",
+      "To conduct procurement activities",
+      "To ensure compliance with financial regulations",
+      "To manage public assets"
+    ],
+    "answerIndex": 2,
+    "explanation": "To ensure compliance with financial regulations"
+  },
+  {
+    "id": "fr2_022",
+    "category": "financial-regulation",
+    "question": "What is the primary objective of oversight in public procurement?",
+    "options": [
+      "To ensure compliance with regulations",
+      "To promote transparency and accountability",
+      "To reduce procurement costs",
+      "To increase procurement efficiency"
+    ],
+    "answerIndex": 1,
+    "explanation": "To promote transparency and accountability"
+  },
+  {
+    "id": "fr2_025",
+    "category": "financial-regulation",
+    "question": "What is the purpose of audit in public procurement?",
+    "options": [
+      "To detect and prevent fraud",
+      "To ensure compliance with regulations",
+      "To evaluate procurement efficiency",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_028",
+    "category": "financial-regulation",
+    "question": "According to PPA Section 57, who is bound by the Code of Conduct?",
+    "options": [
+      "Only procurement officers",
+      "All public officers involved in procurement",
+      "Only accounting officers",
+      "Only tender board members"
+    ],
+    "answerIndex": 1,
+    "explanation": "All public officers involved in procurement"
+  },
+  {
+    "id": "fr2_029",
+    "category": "financial-regulation",
+    "question": "What is considered a corrupt practice in public procurement?",
+    "options": [
+      "Accepting gifts from suppliers",
+      "Disclosing confidential information",
+      "Colluding with bidders",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_030",
+    "category": "financial-regulation",
+    "question": "What is the penalty for bid-rigging under the PPA?",
+    "options": [
+      "Fine only",
+      "Imprisonment only",
+      "Both fine and imprisonment",
+      "Suspension from office"
+    ],
+    "answerIndex": 2,
+    "explanation": "Both fine and imprisonment"
+  },
+  {
+    "id": "fr2_031",
+    "category": "financial-regulation",
+    "question": "Which of the following is an example of misappropriation?",
+    "options": [
+      "Using public funds for official business",
+      "Using public funds for personal gain",
+      "Investing public funds in a project",
+      "Donating public funds to charity"
+    ],
+    "answerIndex": 1,
+    "explanation": "Using public funds for personal gain"
+  },
+  {
+    "id": "fr2_034",
+    "category": "financial-regulation",
+    "question": "Which of the following is a sanction for irregularities in procurement?",
+    "options": [
+      "Cancellation of contract",
+      "Debarment from participating in public procurement",
+      "Financial penalties",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_035",
+    "category": "financial-regulation",
+    "question": "What is the purpose of the Auditor-General's report?",
+    "options": [
+      "To approve procurement decisions",
+      "To conduct procurement audits",
+      "To investigate corruption cases",
+      "To provide procurement training"
+    ],
+    "answerIndex": 1,
+    "explanation": "To conduct procurement audits"
+  },
+  {
+    "id": "fr2_036",
+    "category": "financial-regulation",
+    "question": "Which agency is responsible for investigating corruption cases in Nigeria?",
+    "options": [
+      "EFCC and ICPC",
+      "Auditor-General and EFCC",
+      "ICPC and Auditor-General",
+      "Ministry of Finance and EFCC"
+    ],
+    "answerIndex": 0,
+    "explanation": "EFCC and ICPC"
+  },
+  {
+    "id": "fr2_037",
+    "category": "financial-regulation",
+    "question": ". A procurement officer receives a gift from a supplier. What should the officer do?",
+    "options": [
+      "Keep the gift",
+      "Return the gift",
+      "Report the gift to the supervisor",
+      "Donate the gift to charity"
+    ],
+    "answerIndex": 2,
+    "explanation": "Report the gift to the supervisor"
+  },
+  {
+    "id": "fr2_038",
+    "category": "financial-regulation",
+    "question": "A group of bidders collude to fix prices in a tender. What is this practice called?",
+    "options": [
+      "Bid-rigging",
+      "Corruption",
+      "Collusion",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_039",
+    "category": "financial-regulation",
+    "question": "An accounting officer misappropriates public funds. What is the likely consequence?",
+    "options": [
+      "Suspension from office",
+      "Imprisonment and refund of misappropriated funds",
+      "Fine only",
+      "Warning letter"
+    ],
+    "answerIndex": 1,
+    "explanation": "Imprisonment and refund of misappropriated funds"
+  },
+  {
+    "id": "fr2_040",
+    "category": "financial-regulation",
+    "question": "A procurement entity fails to follow procurement regulations. What is the likely sanction?",
+    "options": [
+      "Cancellation of contract",
+      "Debarment from participating in public procurement",
+      "Financial penalties",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_042",
+    "category": "financial-regulation",
+    "question": "A public officer discloses confidential information to a bidder. What is this practice called?",
+    "options": [
+      "Corruption",
+      "Collusion",
+      "Breach of confidentiality",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_044",
+    "category": "financial-regulation",
+    "question": "An auditor-general's report identifies irregularities in procurement processes. What is the likely action?",
+    "options": [
+      "Investigation by EFCC or ICPC",
+      "Disciplinary action against officers involved",
+      "Implementation of recommendations",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_045",
+    "category": "financial-regulation",
+    "question": "A procurement officer engages in bid-rigging. What is the likely penalty?",
+    "options": [
+      "Fine only",
+      "Imprisonment only",
+      "Both fine and imprisonment",
+      "Debarment from participating in public procurement"
+    ],
+    "answerIndex": 2,
+    "explanation": "Both fine and imprisonment"
+  },
+  {
+    "id": "fr2_046",
+    "category": "financial-regulation",
+    "question": "A public entity fails to account for public funds. What is the likely consequence?",
+    "options": [
+      "Financial penalties",
+      "Suspension of funds",
+      "Investigation by EFCC or ICPC",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_048",
+    "category": "financial-regulation",
+    "question": "What is the primary purpose of expenditure control in government?",
+    "options": [
+      "To ensure timely payment of bills",
+      "To prevent unauthorized expenditure",
+      "To manage cash flow",
+      "To account for all expenditures"
+    ],
+    "answerIndex": 1,
+    "explanation": "To prevent unauthorized expenditure"
+  },
+  {
+    "id": "fr2_052",
+    "category": "financial-regulation",
+    "question": "What is an imprest, and how is it used in government accounting?",
+    "options": [
+      "A type of loan",
+      "A fund for small expenses",
+      "A type of investment",
+      "A type of revenue"
+    ],
+    "answerIndex": 1,
+    "explanation": "A fund for small expenses"
+  },
+  {
+    "id": "fr2_053",
+    "category": "financial-regulation",
+    "question": "Which document is used to initiate payment of government funds?",
+    "options": [
+      "Invoice",
+      "Receipt",
+      "Payment voucher",
+      "Cheque"
+    ],
+    "answerIndex": 2,
+    "explanation": "Payment voucher"
+  },
+  {
+    "id": "fr2_056",
+    "category": "financial-regulation",
+    "question": "What is the primary benefit of using a cheque system for government payments?",
+    "options": [
+      "Increased security",
+      "Improved efficiency",
+      "Better record-keeping",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_057",
+    "category": "financial-regulation",
+    "question": "What is the primary purpose of the Financial Regulations (2009 Revision)?",
+    "options": [
+      "To manage public funds",
+      "To regulate public procurement",
+      "To ensure transparency and accountability",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_058",
+    "category": "financial-regulation",
+    "question": "Which law establishes the framework for financial management in Nigeria?",
+    "options": [
+      "Constitution",
+      "Finance (Control & Management) Act",
+      "Financial Regulations",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_059",
+    "category": "financial-regulation",
+    "question": "What is the link between the Constitution and Financial Regulations?",
+    "options": [
+      "The Constitution empowers the National Assembly to make laws on financial matters B) The Constitution provides for the establishment of the Ministry of Finance C) The Constitution outlines the procedures for budgeting and accounting D) The Constitution specifies the penalties for financial mismanagement Answer: A) The Constitution empowers the National Assembly to make laws on financial matters 60. What is the primary objective of the Public Procurement Act (2007)? A) To ensure transparency and accountability in public procurement",
+      "To promote competition and fairness in public procurement",
+      "The Constitution outlines the procedures for budgeting and accounting",
+      "The Constitution specifies the penalties for financial mismanagement Answer: A) The Constitution empowers the National Assembly to make laws on financial matters 60. What is the primary objective of the Public Procurement Act (2007)? A) To ensure transparency and accountability in public procurement B) To promote competition and fairness in public procurement C) To increase efficiency and value for money in public procurement D) All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_061",
+    "category": "financial-regulation",
+    "question": "Which body is responsible for overseeing public procurement in Nigeria?",
+    "options": [
+      "National Council on Public Procurement",
+      "Bureau of Public Procurement",
+      "Ministry of Finance",
+      "Both A and B"
+    ],
+    "answerIndex": 3,
+    "explanation": "Both A and B"
+  },
+  {
+    "id": "fr2_062",
+    "category": "financial-regulation",
+    "question": "What is the role of the Bureau of Public Procurement?",
+    "options": [
+      "To regulate public procurement",
+      "To conduct procurement audits",
+      "To provide training on procurement",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_063",
+    "category": "financial-regulation",
+    "question": "Which principle of public procurement ensures that procurement processes are conducted in a fair and transparent manner?",
+    "options": [
+      "Transparency",
+      "Accountability",
+      "Efficiency",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_064",
+    "category": "financial-regulation",
+    "question": "What is the purpose of the National Council on Public Procurement?",
+    "options": [
+      "To oversee public procurement",
+      "To regulate public procurement",
+      "To provide guidance on procurement",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_065",
+    "category": "financial-regulation",
+    "question": "Which law governs the procurement of goods and services by government agencies?",
+    "options": [
+      "Public Procurement Act (2007)",
+      "Financial Regulations (2009 Revision)",
+      "Constitution",
+      "Finance (Control & Management) Act"
+    ],
+    "answerIndex": 0,
+    "explanation": "Public Procurement Act (2007)"
+  },
+  {
+    "id": "fr2_066",
+    "category": "financial-regulation",
+    "question": "What is the primary benefit of transparency in public procurement?",
+    "options": [
+      "Increased competition",
+      "Improved accountability",
+      "Enhanced value for money",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_068",
+    "category": "financial-regulation",
+    "question": "What is the consequence of non-compliance with the Public Procurement Act (2007)?",
+    "options": [
+      "Cancellation of contract",
+      "Debarment from participating in public procurement",
+      "Financial penalties",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_069",
+    "category": "financial-regulation",
+    "question": "Which principle of public procurement ensures that procurement processes are conducted efficiently and effectively?",
+    "options": [
+      "Efficiency",
+      "Transparency",
+      "Accountability",
+      "Fairness"
+    ],
+    "answerIndex": 0,
+    "explanation": "Efficiency"
+  },
+  {
+    "id": "fr2_070",
+    "category": "financial-regulation",
+    "question": "What is the role of the Bureau of Public Procurement in ensuring transparency and accountability?",
+    "options": [
+      "To conduct procurement audits",
+      "To provide guidance on procurement",
+      "To oversee procurement processes",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_071",
+    "category": "financial-regulation",
+    "question": "Why is accountability important in public procurement?",
+    "options": [
+      "To prevent corruption",
+      "To ensure transparency",
+      "To promote efficiency",
+      "All of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": "All of the above"
+  },
+  {
+    "id": "fr2_072",
+    "category": "financial-regulation",
+    "question": "What determines the approving authority for public procurement?",
+    "options": [
+      "The Bureau's discretion",
+      "The monetary and prior review thresholds set by the Council",
+      "The type of procurement entity only",
+      "The value of the procurement only Answer: B) The monetary and prior review thresholds set by the Council 73. What is the approving authority for a ministry's procurement activities? A) Parastatals Tenders Board B) Ministerial Tender Board C) Bureau of Public Procurement D) National Council on Public Procurement"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ministerial Tender Board"
+  },
+  {
+    "id": "fr2_074",
+    "category": "financial-regulation",
+    "question": "Who directs the Bureau to make regulations for procurement planning?",
+    "options": [
+      "The President",
+      "The Council",
+      "The Procuring Entity",
+      "The Minister of Finance"
+    ],
+    "answerIndex": 1,
+    "explanation": "The Council"
+  },
+  {
+    "id": "fr2_075",
+    "category": "financial-regulation",
+    "question": "What is one of the steps a procuring entity shall take in planning its procurement?",
+    "options": [
+      "Conducting a risk assessment",
+      "Carrying out market and statistical surveys",
+      "Awarding contracts directly",
+      "Ignoring budgetary constraints"
+    ],
+    "answerIndex": 1,
+    "explanation": "Carrying out market and statistical surveys"
+  },
+  {
+    "id": "fr2_077",
+    "category": "financial-regulation",
+    "question": "Who has been assigned the responsibility for all financial business of the government of the federation by the President of Nigeria?",
+    "options": [
+      "Accountant-General of the Federation",
+      "Minister of Finance",
+      "President of the Senate",
+      "Head of the Revenue Mobilisation and Fiscal Allocation Commission"
+    ],
+    "answerIndex": 1,
+    "explanation": "Minister of Finance"
+  },
+  {
+    "id": "fr2_078",
+    "category": "financial-regulation",
+    "question": "What document authorizes the Accountant-General of the Federation to disburse funds from the Consolidated Revenue Fund and Development Fund?",
+    "options": [
+      "Appropriation Act",
+      "Warrant issued by the Minister of Finance",
+      "Finance Act",
+      "Budget Document"
+    ],
+    "answerIndex": 1,
+    "explanation": "Warrant issued by the Minister of Finance"
+  },
+  {
+    "id": "fr2_080",
+    "category": "financial-regulation",
+    "question": "Which laws regulate certain financial matters of government in Nigeria?",
+    "options": [
+      "Laws enacted by State Assemblies",
+      "Laws enacted by Local Governments",
+      "Laws of the Federation enacted by the National Assembly",
+      "International Financial Reporting Standards"
+    ],
+    "answerIndex": 2,
+    "explanation": "Laws of the Federation enacted by the National Assembly"
+  },
+  {
+    "id": "fr2_081",
+    "category": "financial-regulation",
+    "question": "To whom do the financial regulations issued by the Minister of Finance generally apply?",
+    "options": [
+      "State Governments",
+      "Federal Public Service",
+      "Private Sector Organizations",
+      "International Organizations Answer: B) Federal Public Service"
+    ],
+    "answerIndex": 1,
+    "explanation": "To regulate government finance and accounting procedures"
+  },
+  {
+    "id": "fr2_084",
+    "category": "financial-regulation",
+    "question": "Which funds are mentioned as major government funds?",
+    "options": [
+      "Consolidated Revenue Fund only",
+      "Development Fund only",
+      "Contingencies Fund only Answer: D) Consolidated Revenue Fund, Development Fund, and Contingencies Fund 85. What is the scope of government financial transactions in terms of assets? A) Procurement only B) Utilization only C) Procurement, custody, and utilization",
+      "Disposal only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Procurement, custody, and utilization"
+  },
+  {
+    "id": "fr2_087",
+    "category": "financial-regulation",
+    "question": "True or False: The Minister of Finance has the authority to make regulations for the implementation of the Financial Regulations.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "True is correct under FR 2009 / PPA 2007 requirements."
+  },
+  {
+    "id": "fr2_088",
+    "category": "financial-regulation",
+    "question": "True or False: The Accounting Officer is responsible for ensuring compliance with Financial Regulations.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "True is correct under FR 2009 / PPA 2007 requirements."
+  },
+  {
+    "id": "fr2_089",
+    "category": "financial-regulation",
+    "question": "True or False: Financial Regulations apply to all government ministries, departments, and agencies.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "True is correct under FR 2009 / PPA 2007 requirements."
+  },
+  {
+    "id": "fr2_090",
+    "category": "financial-regulation",
+    "question": "True or False: The Financial Regulations permit the use of public funds for personal gain.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": "False is correct under FR 2009 / PPA 2007 requirements."
+  },
+  {
+    "id": "fr2_091",
+    "category": "financial-regulation",
+    "question": "True or False: All government contracts must be in writing and signed by the Accounting Officer.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "True is correct under FR 2009 / PPA 2007 requirements."
+  },
+  {
+    "id": "fr2_092",
+    "category": "financial-regulation",
+    "question": "True or False: The Auditor-General's report is binding on government ministries, departments, and agencies.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": "(recommendations are usually implemented)"
+  },
+  {
+    "id": "fr2_093",
+    "category": "financial-regulation",
+    "question": "True or False: Financial Regulations require government ministries, departments, and agencies to maintain proper accounting records.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "True is correct under FR 2009 / PPA 2007 requirements."
+  },
+  {
+    "id": "fr2_094",
+    "category": "financial-regulation",
+    "question": "True or False: The Accounting Officer can delegate financial responsibilities to other officers.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "True is correct under FR 2009 / PPA 2007 requirements."
+  },
+  {
+    "id": "fr2_098",
+    "category": "financial-regulation",
+    "question": "True or False: The Accounting Officer is responsible for the preparation of annual financial statements.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "True is correct under FR 2009 / PPA 2007 requirements."
+  },
+  {
+    "id": "fr2_099",
+    "category": "financial-regulation",
+    "question": "True or False: Financial Regulations require government ministries, departments, and agencies to maintain budgetary control.",
+    "options": [
+      "True",
+      "False",
+      "Not Given",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": "Answer: False (except in specified circumstances)"
+  }
+]

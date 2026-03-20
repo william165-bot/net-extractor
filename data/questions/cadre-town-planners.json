@@ -1,0 +1,4252 @@
+[
+  {
+    "id": "adv_town-planners_0001",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Master plan vs structure plan refers to?",
+    "options": [
+      "structure plan strategic only",
+      "master plan strategic; structure plan detailed local framework",
+      "both identical scale",
+      "master plan parcel layout only"
+    ],
+    "answerIndex": 1,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0005",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Zoning refers to?",
+    "options": [
+      "tax district only",
+      "environmental permit only",
+      "land-use regulation by districts and permitted uses",
+      "building code only"
+    ],
+    "answerIndex": 2,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0009",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Floor Area Ratio (FAR) refers to?",
+    "options": [
+      "ratio of height to width",
+      "ratio of total floor area to plot area",
+      "plot coverage only",
+      "setback length"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0013",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Setbacks refers to?",
+    "options": [
+      "maximum building height",
+      "minimum parking bays",
+      "minimum distances from plot boundaries",
+      "EIA threshold"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0017",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Urban sprawl refers to?",
+    "options": [
+      "compact mixed-use growth",
+      "transit-oriented development",
+      "infill redevelopment",
+      "low-density, car-dependent outward growth"
+    ],
+    "answerIndex": 3,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0021",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Smart growth refers to?",
+    "options": [
+      "single-use sprawl",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "greenfield-only",
+      "car-only design"
+    ],
+    "answerIndex": 1,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0025",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, GIS overlay analysis refers to?",
+    "options": [
+      "GPS only",
+      "CAD drafting only",
+      "combine layers to evaluate suitability/constraints",
+      "BIM clash only"
+    ],
+    "answerIndex": 2,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0029",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, EIA vs SIA refers to?",
+    "options": [
+      "only financial appraisal",
+      "same assessment",
+      "environmental impacts vs social impacts assessments",
+      "traffic count only"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0033",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Transit-Oriented Development (TOD) refers to?",
+    "options": [
+      "higher density mixed-use near transit stations",
+      "low density at periphery",
+      "ring roads only",
+      "car parks only"
+    ],
+    "answerIndex": 0,
+    "explanation": "higher density mixed-use near transit stations"
+  },
+  {
+    "id": "adv_town-planners_0037",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Urban renewal refers to?",
+    "options": [
+      "industrial rezoning only",
+      "heritage demolition only",
+      "rehabilitation/redevelopment of blighted areas",
+      "greenfield estates only"
+    ],
+    "answerIndex": 2,
+    "explanation": "rehabilitation/redevelopment of blighted areas"
+  },
+  {
+    "id": "adv_town-planners_0041",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban Design",
+    "subtopic": "Standards",
+    "difficulty": "advanced",
+    "question": "What does \u201cplot coverage\u201d measure?",
+    "options": [
+      "number of storeys",
+      "ratio of floor to height",
+      "traffic generation",
+      "percentage of plot covered by building footprint"
+    ],
+    "answerIndex": 3,
+    "explanation": "Coverage vs FAR"
+  },
+  {
+    "id": "adv_town-planners_0001_v2l13",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In urban planning, Master plan vs structure plan refers to?",
+    "options": [
+      "master plan strategic; structure plan detailed local framework",
+      "both identical scale (advanced)",
+      "master plan parcel layout only (advanced)",
+      "structure plan strategic only \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0001_v77js",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Within urban planning, Master plan vs structure plan refers to?",
+    "options": [
+      "master plan parcel layout only (typically)",
+      "both identical scale (framework)",
+      "structure plan strategic only \u2014 in practice",
+      "master plan strategic; structure plan detailed local framework"
+    ],
+    "answerIndex": 3,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0001_vhd1d",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: In urban planning, Master plan vs structure plan refers to?",
+    "options": [
+      "both identical scale (policy)",
+      "master plan parcel layout only (theory)",
+      "master plan strategic; structure plan detailed local framework",
+      "structure plan strategic only \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0001_v19db",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Master plan vs structure plan refers to? Select the best option.",
+    "options": [
+      "structure plan strategic only (policy)",
+      "master plan parcel layout only \u2014 in practice",
+      "both identical scale (framework)",
+      "master plan strategic; structure plan detailed local framework"
+    ],
+    "answerIndex": 3,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0001_vtj02",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Master plan vs structure plan refers to? Choose the most accurate answer.",
+    "options": [
+      "both identical scale (policy)",
+      "master plan parcel layout only (typically)",
+      "master plan strategic; structure plan detailed local framework",
+      "structure plan strategic only \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0001_vdv0g",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: In urban planning, Master plan vs structure plan refers to?",
+    "options": [
+      "both identical scale (theory)",
+      "master plan parcel layout only (framework)",
+      "structure plan strategic only (theory)",
+      "master plan strategic; structure plan detailed local framework"
+    ],
+    "answerIndex": 3,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0001_v8i4o",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: In urban planning, Master plan vs structure plan refers to?",
+    "options": [
+      "master plan parcel layout only \u2014 in practice",
+      "both identical scale \u2014 concept",
+      "structure plan strategic only (policy)",
+      "master plan strategic; structure plan detailed local framework"
+    ],
+    "answerIndex": 3,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0002_vd6tt",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Master plan vs structure plan?",
+    "options": [
+      "both identical scale (policy)",
+      "structure plan strategic only (framework)",
+      "master plan strategic; structure plan detailed local framework",
+      "master plan parcel layout only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0002_vvfad",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Master plan vs structure plan?",
+    "options": [
+      "master plan strategic; structure plan detailed local framework",
+      "master plan parcel layout only (framework)",
+      "both identical scale (theory)",
+      "structure plan strategic only \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0002_vcmwb",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Master plan vs structure plan?",
+    "options": [
+      "structure plan strategic only (framework)",
+      "both identical scale (theory)",
+      "master plan strategic; structure plan detailed local framework",
+      "master plan parcel layout only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0002_vohnl",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Master plan vs structure plan?",
+    "options": [
+      "master plan strategic; structure plan detailed local framework",
+      "master plan parcel layout only \u2014 concept",
+      "structure plan strategic only (framework)",
+      "both identical scale (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0002_vwzuu",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Master plan vs structure plan? Select the best option.",
+    "options": [
+      "structure plan strategic only (framework)",
+      "both identical scale (framework)",
+      "master plan parcel layout only (theory)",
+      "master plan strategic; structure plan detailed local framework"
+    ],
+    "answerIndex": 3,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0002_vteyz",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Master plan vs structure plan? Choose the most accurate answer.",
+    "options": [
+      "structure plan strategic only \u2014 concept",
+      "master plan parcel layout only (framework)",
+      "both identical scale (policy)",
+      "master plan strategic; structure plan detailed local framework"
+    ],
+    "answerIndex": 3,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0002_v7znn",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Master plan vs structure plan?",
+    "options": [
+      "master plan parcel layout only \u2014 in practice",
+      "structure plan strategic only (typically)",
+      "master plan strategic; structure plan detailed local framework",
+      "both identical scale (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0002_vzm13",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Master plan vs structure plan?",
+    "options": [
+      "master plan parcel layout only \u2014 in practice",
+      "structure plan strategic only (framework)",
+      "master plan strategic; structure plan detailed local framework",
+      "both identical scale (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0002_v6lm4",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Master plan vs structure plan?",
+    "options": [
+      "both identical scale (typically)",
+      "master plan strategic; structure plan detailed local framework",
+      "master plan parcel layout only (typically)",
+      "structure plan strategic only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0003_vdv3i",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Master plan vs structure plan.",
+    "options": [
+      "structure plan strategic only (theory)",
+      "master plan parcel layout only \u2014 in practice",
+      "master plan strategic; structure plan detailed local framework",
+      "both identical scale (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0003_vz7cr",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Master plan vs structure plan.",
+    "options": [
+      "structure plan strategic only \u2014 concept",
+      "master plan parcel layout only \u2014 in practice",
+      "master plan strategic; structure plan detailed local framework",
+      "both identical scale (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0003_vl64x",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Master plan vs structure plan.",
+    "options": [
+      "master plan strategic; structure plan detailed local framework",
+      "master plan parcel layout only \u2014 concept",
+      "both identical scale (typically)",
+      "structure plan strategic only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0003_vjo9p",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Master plan vs structure plan.",
+    "options": [
+      "both identical scale (typically)",
+      "master plan strategic; structure plan detailed local framework",
+      "structure plan strategic only \u2014 in practice",
+      "master plan parcel layout only \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0003_v0gf3",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Master plan vs structure plan. Select the best option.",
+    "options": [
+      "master plan strategic; structure plan detailed local framework",
+      "structure plan strategic only (typically)",
+      "master plan parcel layout only (typically)",
+      "both identical scale \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0003_vqnuh",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Master plan vs structure plan. Choose the most accurate answer.",
+    "options": [
+      "both identical scale (theory)",
+      "master plan parcel layout only (typically)",
+      "master plan strategic; structure plan detailed local framework",
+      "structure plan strategic only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0003_v8sif",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Master plan vs structure plan.",
+    "options": [
+      "both identical scale (typically)",
+      "structure plan strategic only \u2014 in practice",
+      "master plan parcel layout only \u2014 in practice",
+      "master plan strategic; structure plan detailed local framework"
+    ],
+    "answerIndex": 3,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0003_v9qh2",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Master plan vs structure plan.",
+    "options": [
+      "master plan strategic; structure plan detailed local framework",
+      "master plan parcel layout only (policy)",
+      "both identical scale \u2014 concept",
+      "structure plan strategic only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0003_vp67i",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Master plan vs structure plan.",
+    "options": [
+      "master plan parcel layout only (typically)",
+      "both identical scale (advanced)",
+      "structure plan strategic only (policy)",
+      "master plan strategic; structure plan detailed local framework"
+    ],
+    "answerIndex": 3,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0004_vj8xx",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Master plan vs structure plan primarily involves?",
+    "options": [
+      "both identical scale (advanced)",
+      "master plan strategic; structure plan detailed local framework",
+      "master plan parcel layout only (framework)",
+      "structure plan strategic only \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0004_vtodv",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced planning: Master plan vs structure plan primarily involves?",
+    "options": [
+      "both identical scale \u2014 in practice",
+      "structure plan strategic only (typically)",
+      "master plan strategic; structure plan detailed local framework",
+      "master plan parcel layout only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0004_vy0v0",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Master plan vs structure plan primarily involves? Select the best option.",
+    "options": [
+      "structure plan strategic only (theory)",
+      "master plan parcel layout only (advanced)",
+      "both identical scale (typically)",
+      "master plan strategic; structure plan detailed local framework"
+    ],
+    "answerIndex": 3,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0004_vesso",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Master plan vs structure plan primarily involves? Choose the most accurate answer.",
+    "options": [
+      "both identical scale (theory)",
+      "master plan parcel layout only (theory)",
+      "master plan strategic; structure plan detailed local framework",
+      "structure plan strategic only \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0004_v2v2d",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced planning: Master plan vs structure plan primarily involves?",
+    "options": [
+      "both identical scale (policy)",
+      "master plan parcel layout only (framework)",
+      "structure plan strategic only (policy)",
+      "master plan strategic; structure plan detailed local framework"
+    ],
+    "answerIndex": 3,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0004_veb01",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced planning: Master plan vs structure plan primarily involves?",
+    "options": [
+      "master plan strategic; structure plan detailed local framework",
+      "master plan parcel layout only \u2014 concept",
+      "structure plan strategic only (advanced)",
+      "both identical scale (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "master plan strategic; structure plan detailed local framework"
+  },
+  {
+    "id": "adv_town-planners_0005_vuypu",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In urban planning, Zoning refers to?",
+    "options": [
+      "land-use regulation by districts and permitted uses",
+      "environmental permit only \u2014 concept",
+      "building code only (typically)",
+      "tax district only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0005_vj73c",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Within urban planning, Zoning refers to?",
+    "options": [
+      "building code only (theory)",
+      "tax district only (typically)",
+      "land-use regulation by districts and permitted uses",
+      "environmental permit only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0005_vz130",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: In urban planning, Zoning refers to?",
+    "options": [
+      "tax district only (policy)",
+      "environmental permit only (typically)",
+      "land-use regulation by districts and permitted uses",
+      "building code only \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0005_vfhbg",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Zoning refers to? Select the best option.",
+    "options": [
+      "land-use regulation by districts and permitted uses",
+      "environmental permit only (typically)",
+      "tax district only (typically)",
+      "building code only \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0005_vdw33",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Zoning refers to? Choose the most accurate answer.",
+    "options": [
+      "building code only (theory)",
+      "environmental permit only (policy)",
+      "land-use regulation by districts and permitted uses",
+      "tax district only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0005_vm9pn",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: In urban planning, Zoning refers to?",
+    "options": [
+      "environmental permit only (advanced)",
+      "building code only (typically)",
+      "land-use regulation by districts and permitted uses",
+      "tax district only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0005_vcj54",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: In urban planning, Zoning refers to?",
+    "options": [
+      "land-use regulation by districts and permitted uses",
+      "building code only \u2014 in practice",
+      "environmental permit only (policy)",
+      "tax district only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0006_v3qtj",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Zoning?",
+    "options": [
+      "land-use regulation by districts and permitted uses",
+      "environmental permit only (theory)",
+      "tax district only \u2014 in practice",
+      "building code only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0006_vv243",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Zoning?",
+    "options": [
+      "building code only (theory)",
+      "environmental permit only (framework)",
+      "tax district only (advanced)",
+      "land-use regulation by districts and permitted uses"
+    ],
+    "answerIndex": 3,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0006_vzp8q",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Zoning?",
+    "options": [
+      "building code only (typically)",
+      "environmental permit only (policy)",
+      "tax district only (framework)",
+      "land-use regulation by districts and permitted uses"
+    ],
+    "answerIndex": 3,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0006_venrr",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Zoning?",
+    "options": [
+      "land-use regulation by districts and permitted uses",
+      "environmental permit only (theory)",
+      "building code only \u2014 in practice",
+      "tax district only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0006_vecv3",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Zoning? Select the best option.",
+    "options": [
+      "land-use regulation by districts and permitted uses",
+      "building code only \u2014 concept",
+      "environmental permit only (typically)",
+      "tax district only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0006_vu35x",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Zoning?",
+    "options": [
+      "building code only \u2014 concept",
+      "environmental permit only (policy)",
+      "tax district only (framework)",
+      "land-use regulation by districts and permitted uses"
+    ],
+    "answerIndex": 3,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0006_v48sj",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Zoning?",
+    "options": [
+      "building code only (advanced)",
+      "land-use regulation by districts and permitted uses",
+      "environmental permit only \u2014 concept",
+      "tax district only \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0006_vc6fg",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Zoning?",
+    "options": [
+      "land-use regulation by districts and permitted uses",
+      "building code only (typically)",
+      "tax district only (typically)",
+      "environmental permit only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0007_v3f8w",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Zoning.",
+    "options": [
+      "land-use regulation by districts and permitted uses",
+      "environmental permit only \u2014 concept",
+      "tax district only (advanced)",
+      "building code only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0007_vrcsk",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Zoning.",
+    "options": [
+      "tax district only (theory)",
+      "land-use regulation by districts and permitted uses",
+      "environmental permit only (policy)",
+      "building code only \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0007_vr8py",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Zoning.",
+    "options": [
+      "land-use regulation by districts and permitted uses",
+      "tax district only (advanced)",
+      "environmental permit only (framework)",
+      "building code only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0007_vxnuv",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Zoning.",
+    "options": [
+      "building code only (framework)",
+      "tax district only \u2014 in practice",
+      "land-use regulation by districts and permitted uses",
+      "environmental permit only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0007_vi0ft",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Zoning. Select the best option.",
+    "options": [
+      "land-use regulation by districts and permitted uses",
+      "building code only \u2014 concept",
+      "tax district only (typically)",
+      "environmental permit only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0007_v19vs",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Zoning. Choose the most accurate answer.",
+    "options": [
+      "tax district only \u2014 in practice",
+      "environmental permit only \u2014 in practice",
+      "land-use regulation by districts and permitted uses",
+      "building code only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0007_v0tir",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Zoning.",
+    "options": [
+      "land-use regulation by districts and permitted uses",
+      "tax district only (advanced)",
+      "building code only \u2014 concept",
+      "environmental permit only \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0007_ve2ua",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Zoning.",
+    "options": [
+      "building code only (policy)",
+      "land-use regulation by districts and permitted uses",
+      "environmental permit only (typically)",
+      "tax district only \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0007_vk5n8",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Zoning.",
+    "options": [
+      "building code only (policy)",
+      "environmental permit only \u2014 concept",
+      "tax district only \u2014 in practice",
+      "land-use regulation by districts and permitted uses"
+    ],
+    "answerIndex": 3,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0008_v3skz",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Zoning primarily involves?",
+    "options": [
+      "tax district only (advanced)",
+      "building code only (framework)",
+      "environmental permit only \u2014 concept",
+      "land-use regulation by districts and permitted uses"
+    ],
+    "answerIndex": 3,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0008_vsl1u",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced planning: Zoning primarily involves?",
+    "options": [
+      "environmental permit only (policy)",
+      "building code only (framework)",
+      "tax district only \u2014 concept",
+      "land-use regulation by districts and permitted uses"
+    ],
+    "answerIndex": 3,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0008_v31yi",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced planning: Zoning primarily involves?",
+    "options": [
+      "environmental permit only \u2014 concept",
+      "tax district only (typically)",
+      "building code only \u2014 concept",
+      "land-use regulation by districts and permitted uses"
+    ],
+    "answerIndex": 3,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0008_vh5mb",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Zoning primarily involves? Select the best option.",
+    "options": [
+      "land-use regulation by districts and permitted uses",
+      "tax district only (theory)",
+      "building code only (framework)",
+      "environmental permit only \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0008_va995",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Zoning primarily involves? Choose the most accurate answer.",
+    "options": [
+      "land-use regulation by districts and permitted uses",
+      "environmental permit only (advanced)",
+      "tax district only (theory)",
+      "building code only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0008_v9qiv",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced planning: Zoning primarily involves?",
+    "options": [
+      "land-use regulation by districts and permitted uses",
+      "building code only (policy)",
+      "tax district only \u2014 in practice",
+      "environmental permit only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0008_vt2ke",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced planning: Zoning primarily involves?",
+    "options": [
+      "tax district only (framework)",
+      "environmental permit only (advanced)",
+      "building code only (advanced)",
+      "land-use regulation by districts and permitted uses"
+    ],
+    "answerIndex": 3,
+    "explanation": "land-use regulation by districts and permitted uses"
+  },
+  {
+    "id": "adv_town-planners_0009_vhyfo",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In urban planning, Floor Area Ratio (FAR) refers to?",
+    "options": [
+      "ratio of total floor area to plot area",
+      "plot coverage only (advanced)",
+      "setback length \u2014 concept",
+      "ratio of height to width (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0009_ven4u",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Within urban planning, Floor Area Ratio (FAR) refers to?",
+    "options": [
+      "ratio of height to width (framework)",
+      "plot coverage only \u2014 concept",
+      "ratio of total floor area to plot area",
+      "setback length (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0009_viwwu",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: In urban planning, Floor Area Ratio (FAR) refers to?",
+    "options": [
+      "plot coverage only (typically)",
+      "ratio of total floor area to plot area",
+      "setback length (policy)",
+      "ratio of height to width (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0009_v6vgt",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Floor Area Ratio (FAR) refers to? Select the best option.",
+    "options": [
+      "ratio of height to width (policy)",
+      "plot coverage only (advanced)",
+      "ratio of total floor area to plot area",
+      "setback length (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0009_vfn15",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Floor Area Ratio (FAR) refers to? Choose the most accurate answer.",
+    "options": [
+      "ratio of total floor area to plot area",
+      "ratio of height to width (typically)",
+      "plot coverage only \u2014 concept",
+      "setback length (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0009_v9hch",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: In urban planning, Floor Area Ratio (FAR) refers to?",
+    "options": [
+      "setback length \u2014 in practice",
+      "plot coverage only \u2014 concept",
+      "ratio of height to width \u2014 concept",
+      "ratio of total floor area to plot area"
+    ],
+    "answerIndex": 3,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0009_vlpc8",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: In urban planning, Floor Area Ratio (FAR) refers to?",
+    "options": [
+      "setback length (framework)",
+      "plot coverage only \u2014 in practice",
+      "ratio of height to width (theory)",
+      "ratio of total floor area to plot area"
+    ],
+    "answerIndex": 3,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0010_vtwaa",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Floor Area Ratio (FAR)?",
+    "options": [
+      "ratio of height to width (policy)",
+      "ratio of total floor area to plot area",
+      "setback length (advanced)",
+      "plot coverage only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0010_v8inx",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Floor Area Ratio (FAR)?",
+    "options": [
+      "setback length (typically)",
+      "ratio of height to width (theory)",
+      "ratio of total floor area to plot area",
+      "plot coverage only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0010_vvlzg",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Floor Area Ratio (FAR)?",
+    "options": [
+      "ratio of height to width (advanced)",
+      "ratio of total floor area to plot area",
+      "setback length (typically)",
+      "plot coverage only \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0010_vrh9t",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Floor Area Ratio (FAR)?",
+    "options": [
+      "plot coverage only (framework)",
+      "ratio of total floor area to plot area",
+      "setback length (framework)",
+      "ratio of height to width \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0010_vm3kr",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Floor Area Ratio (FAR)? Select the best option.",
+    "options": [
+      "ratio of total floor area to plot area",
+      "ratio of height to width (policy)",
+      "setback length (advanced)",
+      "plot coverage only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0010_vmtqe",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Floor Area Ratio (FAR)? Choose the most accurate answer.",
+    "options": [
+      "ratio of height to width \u2014 in practice",
+      "ratio of total floor area to plot area",
+      "setback length (typically)",
+      "plot coverage only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0010_vryhl",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Floor Area Ratio (FAR)?",
+    "options": [
+      "plot coverage only (typically)",
+      "setback length (typically)",
+      "ratio of total floor area to plot area",
+      "ratio of height to width (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0010_v081n",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Floor Area Ratio (FAR)?",
+    "options": [
+      "ratio of height to width (framework)",
+      "setback length \u2014 concept",
+      "plot coverage only \u2014 in practice",
+      "ratio of total floor area to plot area"
+    ],
+    "answerIndex": 3,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0011_v8vvh",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Floor Area Ratio (FAR).",
+    "options": [
+      "setback length \u2014 in practice",
+      "ratio of total floor area to plot area",
+      "plot coverage only \u2014 in practice",
+      "ratio of height to width (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0011_v6iir",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Floor Area Ratio (FAR).",
+    "options": [
+      "ratio of total floor area to plot area",
+      "plot coverage only (framework)",
+      "setback length \u2014 in practice",
+      "ratio of height to width (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0011_v0anl",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Floor Area Ratio (FAR).",
+    "options": [
+      "plot coverage only (typically)",
+      "setback length (framework)",
+      "ratio of height to width (policy)",
+      "ratio of total floor area to plot area"
+    ],
+    "answerIndex": 3,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0011_ve3ox",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Floor Area Ratio (FAR).",
+    "options": [
+      "ratio of total floor area to plot area",
+      "plot coverage only (framework)",
+      "setback length (typically)",
+      "ratio of height to width (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0011_vmsl0",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Floor Area Ratio (FAR). Select the best option.",
+    "options": [
+      "ratio of total floor area to plot area",
+      "setback length (advanced)",
+      "plot coverage only (theory)",
+      "ratio of height to width (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0011_vsq9t",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Floor Area Ratio (FAR). Choose the most accurate answer.",
+    "options": [
+      "plot coverage only (policy)",
+      "ratio of total floor area to plot area",
+      "setback length (advanced)",
+      "ratio of height to width (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0011_vrlcj",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Floor Area Ratio (FAR).",
+    "options": [
+      "ratio of height to width (theory)",
+      "plot coverage only (typically)",
+      "ratio of total floor area to plot area",
+      "setback length (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0011_v7liz",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Floor Area Ratio (FAR).",
+    "options": [
+      "plot coverage only \u2014 concept",
+      "setback length (framework)",
+      "ratio of height to width (policy)",
+      "ratio of total floor area to plot area"
+    ],
+    "answerIndex": 3,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0011_vq86i",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Floor Area Ratio (FAR).",
+    "options": [
+      "ratio of total floor area to plot area",
+      "ratio of height to width (typically)",
+      "setback length \u2014 in practice",
+      "plot coverage only \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0012_v233d",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Floor Area Ratio (FAR) primarily involves?",
+    "options": [
+      "ratio of height to width (policy)",
+      "setback length \u2014 in practice",
+      "plot coverage only \u2014 in practice",
+      "ratio of total floor area to plot area"
+    ],
+    "answerIndex": 3,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0012_voojm",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced planning: Floor Area Ratio (FAR) primarily involves?",
+    "options": [
+      "ratio of total floor area to plot area",
+      "setback length \u2014 concept",
+      "ratio of height to width \u2014 in practice",
+      "plot coverage only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0012_v7l5i",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Floor Area Ratio (FAR) primarily involves? Choose the most accurate answer.",
+    "options": [
+      "ratio of total floor area to plot area",
+      "setback length \u2014 in practice",
+      "ratio of height to width (advanced)",
+      "plot coverage only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0012_vafb9",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced planning: Floor Area Ratio (FAR) primarily involves?",
+    "options": [
+      "plot coverage only \u2014 in practice",
+      "ratio of height to width (policy)",
+      "ratio of total floor area to plot area",
+      "setback length (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0012_vbghr",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced planning: Floor Area Ratio (FAR) primarily involves?",
+    "options": [
+      "ratio of total floor area to plot area",
+      "plot coverage only (policy)",
+      "ratio of height to width (framework)",
+      "setback length (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ratio of total floor area to plot area"
+  },
+  {
+    "id": "adv_town-planners_0013_vh2u1",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In urban planning, Setbacks refers to?",
+    "options": [
+      "minimum distances from plot boundaries",
+      "EIA threshold (advanced)",
+      "minimum parking bays (theory)",
+      "maximum building height (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0013_vhb6a",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Within urban planning, Setbacks refers to?",
+    "options": [
+      "maximum building height (advanced)",
+      "minimum distances from plot boundaries",
+      "EIA threshold (advanced)",
+      "minimum parking bays (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0013_v55at",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: In urban planning, Setbacks refers to?",
+    "options": [
+      "maximum building height (policy)",
+      "minimum distances from plot boundaries",
+      "EIA threshold (framework)",
+      "minimum parking bays (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0013_v1lkk",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Setbacks refers to? Select the best option.",
+    "options": [
+      "minimum parking bays \u2014 concept",
+      "EIA threshold \u2014 in practice",
+      "minimum distances from plot boundaries",
+      "maximum building height (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0013_vteh6",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Setbacks refers to? Choose the most accurate answer.",
+    "options": [
+      "EIA threshold \u2014 in practice",
+      "minimum parking bays \u2014 concept",
+      "minimum distances from plot boundaries",
+      "maximum building height \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0013_v850d",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: In urban planning, Setbacks refers to?",
+    "options": [
+      "EIA threshold (policy)",
+      "minimum distances from plot boundaries",
+      "minimum parking bays \u2014 concept",
+      "maximum building height (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0013_veub3",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: In urban planning, Setbacks refers to?",
+    "options": [
+      "maximum building height (advanced)",
+      "EIA threshold \u2014 concept",
+      "minimum distances from plot boundaries",
+      "minimum parking bays \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0014_veh7p",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Setbacks?",
+    "options": [
+      "maximum building height (typically)",
+      "EIA threshold (policy)",
+      "minimum parking bays (advanced)",
+      "minimum distances from plot boundaries"
+    ],
+    "answerIndex": 3,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0014_vii9f",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Setbacks?",
+    "options": [
+      "maximum building height \u2014 concept",
+      "minimum distances from plot boundaries",
+      "EIA threshold (typically)",
+      "minimum parking bays (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0014_vlli6",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Setbacks?",
+    "options": [
+      "minimum distances from plot boundaries",
+      "minimum parking bays \u2014 in practice",
+      "maximum building height \u2014 in practice",
+      "EIA threshold (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0014_v173z",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Setbacks?",
+    "options": [
+      "minimum parking bays \u2014 concept",
+      "maximum building height (typically)",
+      "minimum distances from plot boundaries",
+      "EIA threshold (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0014_vqajb",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Setbacks? Select the best option.",
+    "options": [
+      "minimum parking bays (policy)",
+      "maximum building height \u2014 in practice",
+      "minimum distances from plot boundaries",
+      "EIA threshold (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0014_vx1hw",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Setbacks? Choose the most accurate answer.",
+    "options": [
+      "EIA threshold (theory)",
+      "minimum distances from plot boundaries",
+      "minimum parking bays \u2014 in practice",
+      "maximum building height (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0014_vubku",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Setbacks?",
+    "options": [
+      "minimum distances from plot boundaries",
+      "EIA threshold (theory)",
+      "maximum building height (typically)",
+      "minimum parking bays \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0014_vbjz3",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Setbacks?",
+    "options": [
+      "minimum parking bays (theory)",
+      "maximum building height (theory)",
+      "minimum distances from plot boundaries",
+      "EIA threshold (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0014_vsko3",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Setbacks?",
+    "options": [
+      "minimum distances from plot boundaries",
+      "EIA threshold (advanced)",
+      "maximum building height \u2014 in practice",
+      "minimum parking bays (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0015_vm1bt",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Setbacks.",
+    "options": [
+      "maximum building height (advanced)",
+      "minimum distances from plot boundaries",
+      "minimum parking bays (advanced)",
+      "EIA threshold (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0015_vepb5",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Setbacks.",
+    "options": [
+      "maximum building height \u2014 in practice",
+      "EIA threshold (framework)",
+      "minimum distances from plot boundaries",
+      "minimum parking bays (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0015_vxzas",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Setbacks.",
+    "options": [
+      "maximum building height (policy)",
+      "minimum parking bays \u2014 in practice",
+      "minimum distances from plot boundaries",
+      "EIA threshold (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0015_vx43z",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Setbacks.",
+    "options": [
+      "EIA threshold (framework)",
+      "minimum parking bays \u2014 concept",
+      "maximum building height (theory)",
+      "minimum distances from plot boundaries"
+    ],
+    "answerIndex": 3,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0015_vzxgo",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Setbacks. Select the best option.",
+    "options": [
+      "minimum distances from plot boundaries",
+      "EIA threshold (theory)",
+      "maximum building height \u2014 in practice",
+      "minimum parking bays \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0015_vmuq6",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Setbacks. Choose the most accurate answer.",
+    "options": [
+      "minimum distances from plot boundaries",
+      "EIA threshold (policy)",
+      "minimum parking bays (advanced)",
+      "maximum building height \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0015_vqesc",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Setbacks.",
+    "options": [
+      "minimum parking bays (policy)",
+      "EIA threshold \u2014 in practice",
+      "minimum distances from plot boundaries",
+      "maximum building height \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0015_vwrj3",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Setbacks.",
+    "options": [
+      "minimum distances from plot boundaries",
+      "minimum parking bays \u2014 in practice",
+      "EIA threshold \u2014 concept",
+      "maximum building height \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0015_vgphy",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Setbacks.",
+    "options": [
+      "minimum parking bays (policy)",
+      "EIA threshold (theory)",
+      "maximum building height (advanced)",
+      "minimum distances from plot boundaries"
+    ],
+    "answerIndex": 3,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0016_vpsou",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Setbacks primarily involves?",
+    "options": [
+      "maximum building height \u2014 concept",
+      "EIA threshold \u2014 concept",
+      "minimum distances from plot boundaries",
+      "minimum parking bays (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0016_vzwx5",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced planning: Setbacks primarily involves?",
+    "options": [
+      "minimum distances from plot boundaries",
+      "maximum building height (typically)",
+      "EIA threshold (theory)",
+      "minimum parking bays (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0016_v7psu",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced planning: Setbacks primarily involves?",
+    "options": [
+      "minimum parking bays (theory)",
+      "minimum distances from plot boundaries",
+      "EIA threshold \u2014 in practice",
+      "maximum building height (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0016_vhkzc",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Setbacks primarily involves? Select the best option.",
+    "options": [
+      "minimum parking bays (advanced)",
+      "maximum building height (policy)",
+      "minimum distances from plot boundaries",
+      "EIA threshold (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0016_vv8po",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Setbacks primarily involves? Choose the most accurate answer.",
+    "options": [
+      "minimum distances from plot boundaries",
+      "maximum building height (theory)",
+      "EIA threshold (policy)",
+      "minimum parking bays (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0016_vb5jv",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced planning: Setbacks primarily involves?",
+    "options": [
+      "EIA threshold (theory)",
+      "minimum parking bays \u2014 concept",
+      "minimum distances from plot boundaries",
+      "maximum building height (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0016_vmms1",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced planning: Setbacks primarily involves?",
+    "options": [
+      "minimum distances from plot boundaries",
+      "EIA threshold \u2014 in practice",
+      "maximum building height (typically)",
+      "minimum parking bays (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "minimum distances from plot boundaries"
+  },
+  {
+    "id": "adv_town-planners_0017_vaj2k",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In urban planning, Urban sprawl refers to?",
+    "options": [
+      "infill redevelopment (policy)",
+      "low-density, car-dependent outward growth",
+      "transit-oriented development (typically)",
+      "compact mixed-use growth (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0017_v2exj",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Within urban planning, Urban sprawl refers to?",
+    "options": [
+      "transit-oriented development (typically)",
+      "infill redevelopment (framework)",
+      "low-density, car-dependent outward growth",
+      "compact mixed-use growth (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0017_vy6fa",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: In urban planning, Urban sprawl refers to?",
+    "options": [
+      "infill redevelopment (typically)",
+      "compact mixed-use growth (theory)",
+      "low-density, car-dependent outward growth",
+      "transit-oriented development (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0017_vz20g",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Urban sprawl refers to? Select the best option.",
+    "options": [
+      "infill redevelopment \u2014 in practice",
+      "low-density, car-dependent outward growth",
+      "compact mixed-use growth (framework)",
+      "transit-oriented development \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0017_vvcjj",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Urban sprawl refers to? Choose the most accurate answer.",
+    "options": [
+      "compact mixed-use growth \u2014 in practice",
+      "low-density, car-dependent outward growth",
+      "transit-oriented development (framework)",
+      "infill redevelopment (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0017_vafgm",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: In urban planning, Urban sprawl refers to?",
+    "options": [
+      "infill redevelopment (theory)",
+      "compact mixed-use growth \u2014 in practice",
+      "transit-oriented development (advanced)",
+      "low-density, car-dependent outward growth"
+    ],
+    "answerIndex": 3,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0017_v82qd",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: In urban planning, Urban sprawl refers to?",
+    "options": [
+      "transit-oriented development (policy)",
+      "infill redevelopment (policy)",
+      "compact mixed-use growth (typically)",
+      "low-density, car-dependent outward growth"
+    ],
+    "answerIndex": 3,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0018_ve2na",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Urban sprawl?",
+    "options": [
+      "transit-oriented development \u2014 concept",
+      "low-density, car-dependent outward growth",
+      "compact mixed-use growth (policy)",
+      "infill redevelopment \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0018_vzm1n",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Urban sprawl?",
+    "options": [
+      "transit-oriented development \u2014 in practice",
+      "infill redevelopment \u2014 concept",
+      "low-density, car-dependent outward growth",
+      "compact mixed-use growth (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0018_ve2li",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Urban sprawl?",
+    "options": [
+      "infill redevelopment \u2014 in practice",
+      "transit-oriented development \u2014 concept",
+      "compact mixed-use growth \u2014 in practice",
+      "low-density, car-dependent outward growth"
+    ],
+    "answerIndex": 3,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0018_v04t2",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Urban sprawl?",
+    "options": [
+      "low-density, car-dependent outward growth",
+      "transit-oriented development (advanced)",
+      "compact mixed-use growth (advanced)",
+      "infill redevelopment (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0018_vmpoz",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Urban sprawl? Select the best option.",
+    "options": [
+      "compact mixed-use growth (theory)",
+      "low-density, car-dependent outward growth",
+      "infill redevelopment \u2014 in practice",
+      "transit-oriented development \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0018_v29jo",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Urban sprawl? Choose the most accurate answer.",
+    "options": [
+      "transit-oriented development \u2014 in practice",
+      "low-density, car-dependent outward growth",
+      "infill redevelopment \u2014 in practice",
+      "compact mixed-use growth (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0018_vkb0x",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes Urban sprawl?",
+    "options": [
+      "low-density, car-dependent outward growth",
+      "infill redevelopment \u2014 in practice",
+      "transit-oriented development (typically)",
+      "compact mixed-use growth (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0018_vusy3",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Urban sprawl?",
+    "options": [
+      "low-density, car-dependent outward growth",
+      "infill redevelopment \u2014 concept",
+      "transit-oriented development (advanced)",
+      "compact mixed-use growth (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0018_v8seb",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Urban sprawl?",
+    "options": [
+      "infill redevelopment (framework)",
+      "low-density, car-dependent outward growth",
+      "transit-oriented development (theory)",
+      "compact mixed-use growth (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0019_vh4pw",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Urban sprawl.",
+    "options": [
+      "low-density, car-dependent outward growth",
+      "compact mixed-use growth \u2014 in practice",
+      "transit-oriented development \u2014 concept",
+      "infill redevelopment \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0019_vylgr",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Urban sprawl.",
+    "options": [
+      "infill redevelopment (typically)",
+      "compact mixed-use growth (typically)",
+      "transit-oriented development \u2014 in practice",
+      "low-density, car-dependent outward growth"
+    ],
+    "answerIndex": 3,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0019_v8bpp",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Urban sprawl.",
+    "options": [
+      "infill redevelopment (advanced)",
+      "compact mixed-use growth (typically)",
+      "transit-oriented development (typically)",
+      "low-density, car-dependent outward growth"
+    ],
+    "answerIndex": 3,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0019_v8zag",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Urban sprawl.",
+    "options": [
+      "transit-oriented development (theory)",
+      "infill redevelopment \u2014 concept",
+      "low-density, car-dependent outward growth",
+      "compact mixed-use growth (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0019_vp1q7",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Urban sprawl. Select the best option.",
+    "options": [
+      "compact mixed-use growth (policy)",
+      "infill redevelopment (framework)",
+      "transit-oriented development \u2014 concept",
+      "low-density, car-dependent outward growth"
+    ],
+    "answerIndex": 3,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0019_vchow",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Urban sprawl. Choose the most accurate answer.",
+    "options": [
+      "compact mixed-use growth (advanced)",
+      "transit-oriented development (policy)",
+      "low-density, car-dependent outward growth",
+      "infill redevelopment (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0019_v58xu",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Urban sprawl.",
+    "options": [
+      "infill redevelopment \u2014 concept",
+      "low-density, car-dependent outward growth",
+      "transit-oriented development \u2014 concept",
+      "compact mixed-use growth (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0019_vhldp",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Urban sprawl.",
+    "options": [
+      "transit-oriented development (advanced)",
+      "infill redevelopment (theory)",
+      "low-density, car-dependent outward growth",
+      "compact mixed-use growth (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0019_vazq4",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Urban sprawl.",
+    "options": [
+      "low-density, car-dependent outward growth",
+      "transit-oriented development (typically)",
+      "compact mixed-use growth (policy)",
+      "infill redevelopment (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0020_vddux",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Urban sprawl primarily involves?",
+    "options": [
+      "low-density, car-dependent outward growth",
+      "compact mixed-use growth (theory)",
+      "infill redevelopment (advanced)",
+      "transit-oriented development (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0020_vqaz5",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced planning: Urban sprawl primarily involves?",
+    "options": [
+      "infill redevelopment (framework)",
+      "compact mixed-use growth (typically)",
+      "transit-oriented development (advanced)",
+      "low-density, car-dependent outward growth"
+    ],
+    "answerIndex": 3,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0020_vwewi",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced planning: Urban sprawl primarily involves?",
+    "options": [
+      "compact mixed-use growth \u2014 concept",
+      "infill redevelopment \u2014 concept",
+      "transit-oriented development (framework)",
+      "low-density, car-dependent outward growth"
+    ],
+    "answerIndex": 3,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0020_vmy2u",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Urban sprawl primarily involves? Select the best option.",
+    "options": [
+      "transit-oriented development (policy)",
+      "infill redevelopment (typically)",
+      "compact mixed-use growth \u2014 in practice",
+      "low-density, car-dependent outward growth"
+    ],
+    "answerIndex": 3,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0020_varqh",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Urban sprawl primarily involves? Choose the most accurate answer.",
+    "options": [
+      "infill redevelopment (framework)",
+      "compact mixed-use growth \u2014 in practice",
+      "low-density, car-dependent outward growth",
+      "transit-oriented development \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0020_vf84h",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced planning: Urban sprawl primarily involves?",
+    "options": [
+      "compact mixed-use growth \u2014 in practice",
+      "low-density, car-dependent outward growth",
+      "transit-oriented development (advanced)",
+      "infill redevelopment (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0020_vctbc",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced planning: Urban sprawl primarily involves?",
+    "options": [
+      "compact mixed-use growth \u2014 in practice",
+      "low-density, car-dependent outward growth",
+      "transit-oriented development (theory)",
+      "infill redevelopment (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "low-density, car-dependent outward growth"
+  },
+  {
+    "id": "adv_town-planners_0021_vksdk",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In urban planning, Smart growth refers to?",
+    "options": [
+      "single-use sprawl (advanced)",
+      "greenfield-only (theory)",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "car-only design (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0021_v0tn4",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Within urban planning, Smart growth refers to?",
+    "options": [
+      "single-use sprawl \u2014 in practice",
+      "greenfield-only (advanced)",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "car-only design (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0021_v4l65",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: In urban planning, Smart growth refers to?",
+    "options": [
+      "car-only design \u2014 in practice",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "greenfield-only (advanced)",
+      "single-use sprawl (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0021_v1cld",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Smart growth refers to? Select the best option.",
+    "options": [
+      "single-use sprawl (typically)",
+      "car-only design \u2014 concept",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "greenfield-only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0021_vjbrt",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, Smart growth refers to? Choose the most accurate answer.",
+    "options": [
+      "car-only design \u2014 concept",
+      "greenfield-only (typically)",
+      "single-use sprawl (theory)",
+      "compact, mixed-use, walkable, transit-served patterns"
+    ],
+    "answerIndex": 3,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0021_voagt",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: In urban planning, Smart growth refers to?",
+    "options": [
+      "single-use sprawl \u2014 in practice",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "greenfield-only \u2014 concept",
+      "car-only design (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0021_vvm5n",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: In urban planning, Smart growth refers to?",
+    "options": [
+      "single-use sprawl (typically)",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "car-only design (typically)",
+      "greenfield-only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0022_vb4fo",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes Smart growth?",
+    "options": [
+      "greenfield-only \u2014 in practice",
+      "car-only design (advanced)",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "single-use sprawl (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0022_v3rss",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes Smart growth?",
+    "options": [
+      "greenfield-only (typically)",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "single-use sprawl (theory)",
+      "car-only design (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0022_v5xi1",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Smart growth?",
+    "options": [
+      "compact, mixed-use, walkable, transit-served patterns",
+      "car-only design \u2014 concept",
+      "greenfield-only (framework)",
+      "single-use sprawl (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0022_vcq4j",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes Smart growth?",
+    "options": [
+      "single-use sprawl (typically)",
+      "greenfield-only (policy)",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "car-only design (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0022_v5jcn",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Smart growth? Select the best option.",
+    "options": [
+      "car-only design (typically)",
+      "greenfield-only (framework)",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "single-use sprawl \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0022_vy9eb",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Smart growth? Choose the most accurate answer.",
+    "options": [
+      "car-only design (framework)",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "greenfield-only (advanced)",
+      "single-use sprawl (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0022_vlhoi",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes Smart growth?",
+    "options": [
+      "compact, mixed-use, walkable, transit-served patterns",
+      "single-use sprawl \u2014 concept",
+      "greenfield-only (policy)",
+      "car-only design (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0022_vlpkj",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes Smart growth?",
+    "options": [
+      "compact, mixed-use, walkable, transit-served patterns",
+      "single-use sprawl \u2014 in practice",
+      "car-only design \u2014 in practice",
+      "greenfield-only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0023_vo052",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Smart growth.",
+    "options": [
+      "car-only design (policy)",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "single-use sprawl \u2014 in practice",
+      "greenfield-only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0023_vg25d",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Smart growth.",
+    "options": [
+      "car-only design (advanced)",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "greenfield-only \u2014 in practice",
+      "single-use sprawl (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0023_vd6j3",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Smart growth.",
+    "options": [
+      "compact, mixed-use, walkable, transit-served patterns",
+      "single-use sprawl (framework)",
+      "car-only design \u2014 in practice",
+      "greenfield-only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0023_vltkc",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Smart growth.",
+    "options": [
+      "compact, mixed-use, walkable, transit-served patterns",
+      "car-only design (framework)",
+      "single-use sprawl (theory)",
+      "greenfield-only \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0023_v1y2k",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Smart growth. Select the best option.",
+    "options": [
+      "compact, mixed-use, walkable, transit-served patterns",
+      "greenfield-only \u2014 concept",
+      "car-only design \u2014 in practice",
+      "single-use sprawl (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0023_v5qjp",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Smart growth. Choose the most accurate answer.",
+    "options": [
+      "car-only design (policy)",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "greenfield-only (advanced)",
+      "single-use sprawl (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0023_vdhby",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Smart growth.",
+    "options": [
+      "single-use sprawl (typically)",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "greenfield-only (typically)",
+      "car-only design \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0023_v35xs",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Smart growth.",
+    "options": [
+      "compact, mixed-use, walkable, transit-served patterns",
+      "greenfield-only (framework)",
+      "car-only design \u2014 concept",
+      "single-use sprawl (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0024_vnknu",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced planning: Smart growth primarily involves?",
+    "options": [
+      "greenfield-only \u2014 concept",
+      "car-only design (typically)",
+      "single-use sprawl \u2014 in practice",
+      "compact, mixed-use, walkable, transit-served patterns"
+    ],
+    "answerIndex": 3,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0024_v4az0",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Smart growth primarily involves?",
+    "options": [
+      "greenfield-only (framework)",
+      "car-only design (framework)",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "single-use sprawl (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0024_vsu17",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced planning: Smart growth primarily involves?",
+    "options": [
+      "single-use sprawl \u2014 in practice",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "greenfield-only \u2014 in practice",
+      "car-only design (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0024_v0fsl",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Smart growth primarily involves? Select the best option.",
+    "options": [
+      "single-use sprawl (policy)",
+      "car-only design (policy)",
+      "greenfield-only (theory)",
+      "compact, mixed-use, walkable, transit-served patterns"
+    ],
+    "answerIndex": 3,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0024_vqydj",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: Smart growth primarily involves? Choose the most accurate answer.",
+    "options": [
+      "single-use sprawl (typically)",
+      "compact, mixed-use, walkable, transit-served patterns",
+      "car-only design (theory)",
+      "greenfield-only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0024_vu022",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced planning: Smart growth primarily involves?",
+    "options": [
+      "greenfield-only \u2014 in practice",
+      "single-use sprawl (typically)",
+      "car-only design \u2014 concept",
+      "compact, mixed-use, walkable, transit-served patterns"
+    ],
+    "answerIndex": 3,
+    "explanation": "compact, mixed-use, walkable, transit-served patterns"
+  },
+  {
+    "id": "adv_town-planners_0025_vgwie",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In urban planning, GIS overlay analysis refers to?",
+    "options": [
+      "GPS only (policy)",
+      "combine layers to evaluate suitability/constraints",
+      "BIM clash only (framework)",
+      "CAD drafting only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0025_v069b",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Within urban planning, GIS overlay analysis refers to?",
+    "options": [
+      "BIM clash only (advanced)",
+      "CAD drafting only (advanced)",
+      "GPS only (theory)",
+      "combine layers to evaluate suitability/constraints"
+    ],
+    "answerIndex": 3,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0025_vohke",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: In urban planning, GIS overlay analysis refers to?",
+    "options": [
+      "CAD drafting only (policy)",
+      "combine layers to evaluate suitability/constraints",
+      "GPS only (advanced)",
+      "BIM clash only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0025_v3aur",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, GIS overlay analysis refers to? Select the best option.",
+    "options": [
+      "combine layers to evaluate suitability/constraints",
+      "BIM clash only \u2014 concept",
+      "GPS only (typically)",
+      "CAD drafting only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0025_vq694",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, GIS overlay analysis refers to? Choose the most accurate answer.",
+    "options": [
+      "BIM clash only \u2014 concept",
+      "GPS only \u2014 concept",
+      "combine layers to evaluate suitability/constraints",
+      "CAD drafting only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0025_vqxkw",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: In urban planning, GIS overlay analysis refers to?",
+    "options": [
+      "combine layers to evaluate suitability/constraints",
+      "CAD drafting only (advanced)",
+      "BIM clash only (theory)",
+      "GPS only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0025_vyth7",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: In urban planning, GIS overlay analysis refers to?",
+    "options": [
+      "CAD drafting only (policy)",
+      "BIM clash only (framework)",
+      "combine layers to evaluate suitability/constraints",
+      "GPS only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0026_vsct6",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes GIS overlay analysis?",
+    "options": [
+      "combine layers to evaluate suitability/constraints",
+      "GPS only (framework)",
+      "CAD drafting only (advanced)",
+      "BIM clash only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0026_vorer",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes GIS overlay analysis?",
+    "options": [
+      "combine layers to evaluate suitability/constraints",
+      "GPS only (typically)",
+      "BIM clash only (advanced)",
+      "CAD drafting only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0026_vffmd",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes GIS overlay analysis?",
+    "options": [
+      "BIM clash only (policy)",
+      "GPS only (typically)",
+      "combine layers to evaluate suitability/constraints",
+      "CAD drafting only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0026_va2e2",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes GIS overlay analysis?",
+    "options": [
+      "GPS only (typically)",
+      "combine layers to evaluate suitability/constraints",
+      "BIM clash only (advanced)",
+      "CAD drafting only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0026_vemgg",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes GIS overlay analysis? Select the best option.",
+    "options": [
+      "CAD drafting only (theory)",
+      "GPS only (advanced)",
+      "BIM clash only \u2014 concept",
+      "combine layers to evaluate suitability/constraints"
+    ],
+    "answerIndex": 3,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0026_v9stu",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes GIS overlay analysis? Choose the most accurate answer.",
+    "options": [
+      "GPS only (advanced)",
+      "combine layers to evaluate suitability/constraints",
+      "BIM clash only (advanced)",
+      "CAD drafting only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0026_vopbv",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes GIS overlay analysis?",
+    "options": [
+      "BIM clash only (policy)",
+      "combine layers to evaluate suitability/constraints",
+      "CAD drafting only (advanced)",
+      "GPS only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0026_vxhn7",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes GIS overlay analysis?",
+    "options": [
+      "combine layers to evaluate suitability/constraints",
+      "CAD drafting only (framework)",
+      "GPS only (theory)",
+      "BIM clash only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0026_vnjql",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes GIS overlay analysis?",
+    "options": [
+      "CAD drafting only (advanced)",
+      "BIM clash only (framework)",
+      "GPS only (theory)",
+      "combine layers to evaluate suitability/constraints"
+    ],
+    "answerIndex": 3,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0027_vorsl",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of GIS overlay analysis.",
+    "options": [
+      "BIM clash only \u2014 in practice",
+      "CAD drafting only (advanced)",
+      "GPS only (framework)",
+      "combine layers to evaluate suitability/constraints"
+    ],
+    "answerIndex": 3,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0027_vspua",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of GIS overlay analysis.",
+    "options": [
+      "GPS only \u2014 concept",
+      "BIM clash only (advanced)",
+      "combine layers to evaluate suitability/constraints",
+      "CAD drafting only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0027_vjjxv",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of GIS overlay analysis.",
+    "options": [
+      "GPS only \u2014 concept",
+      "combine layers to evaluate suitability/constraints",
+      "CAD drafting only \u2014 concept",
+      "BIM clash only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0027_vc4wj",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of GIS overlay analysis.",
+    "options": [
+      "combine layers to evaluate suitability/constraints",
+      "GPS only (typically)",
+      "CAD drafting only (advanced)",
+      "BIM clash only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0027_vb4db",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of GIS overlay analysis. Select the best option.",
+    "options": [
+      "BIM clash only \u2014 in practice",
+      "combine layers to evaluate suitability/constraints",
+      "CAD drafting only (advanced)",
+      "GPS only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0027_vg6pc",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of GIS overlay analysis. Choose the most accurate answer.",
+    "options": [
+      "GPS only (advanced)",
+      "combine layers to evaluate suitability/constraints",
+      "BIM clash only (theory)",
+      "CAD drafting only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0027_vxbbf",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of GIS overlay analysis.",
+    "options": [
+      "GPS only (framework)",
+      "combine layers to evaluate suitability/constraints",
+      "BIM clash only \u2014 in practice",
+      "CAD drafting only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0027_vcg4o",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of GIS overlay analysis.",
+    "options": [
+      "GPS only (policy)",
+      "combine layers to evaluate suitability/constraints",
+      "BIM clash only (advanced)",
+      "CAD drafting only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0027_vo3ez",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of GIS overlay analysis.",
+    "options": [
+      "BIM clash only \u2014 concept",
+      "CAD drafting only (advanced)",
+      "GPS only \u2014 in practice",
+      "combine layers to evaluate suitability/constraints"
+    ],
+    "answerIndex": 3,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0028_v836h",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: GIS overlay analysis primarily involves?",
+    "options": [
+      "CAD drafting only (advanced)",
+      "GPS only (theory)",
+      "BIM clash only (policy)",
+      "combine layers to evaluate suitability/constraints"
+    ],
+    "answerIndex": 3,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0028_vlh98",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced planning: GIS overlay analysis primarily involves?",
+    "options": [
+      "CAD drafting only (framework)",
+      "GPS only (typically)",
+      "combine layers to evaluate suitability/constraints",
+      "BIM clash only \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0028_vve3p",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: GIS overlay analysis primarily involves? Select the best option.",
+    "options": [
+      "CAD drafting only (advanced)",
+      "BIM clash only (theory)",
+      "GPS only (theory)",
+      "combine layers to evaluate suitability/constraints"
+    ],
+    "answerIndex": 3,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0028_vq0n0",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced planning: GIS overlay analysis primarily involves?",
+    "options": [
+      "GPS only \u2014 in practice",
+      "combine layers to evaluate suitability/constraints",
+      "CAD drafting only (policy)",
+      "BIM clash only \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0028_v5chn",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced planning: GIS overlay analysis primarily involves?",
+    "options": [
+      "combine layers to evaluate suitability/constraints",
+      "GPS only (typically)",
+      "BIM clash only (policy)",
+      "CAD drafting only \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "combine layers to evaluate suitability/constraints"
+  },
+  {
+    "id": "adv_town-planners_0029_vqul2",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In urban planning, EIA vs SIA refers to?",
+    "options": [
+      "same assessment (policy)",
+      "traffic count only (advanced)",
+      "environmental impacts vs social impacts assessments",
+      "only financial appraisal \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0029_vjwd3",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Within urban planning, EIA vs SIA refers to?",
+    "options": [
+      "only financial appraisal \u2014 in practice",
+      "traffic count only \u2014 concept",
+      "environmental impacts vs social impacts assessments",
+      "same assessment (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0029_vtxeo",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: In urban planning, EIA vs SIA refers to?",
+    "options": [
+      "environmental impacts vs social impacts assessments",
+      "same assessment (advanced)",
+      "only financial appraisal \u2014 concept",
+      "traffic count only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0029_vlobh",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, EIA vs SIA refers to? Select the best option.",
+    "options": [
+      "traffic count only (advanced)",
+      "only financial appraisal (policy)",
+      "same assessment (policy)",
+      "environmental impacts vs social impacts assessments"
+    ],
+    "answerIndex": 3,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0029_viay2",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "In urban planning, EIA vs SIA refers to? Choose the most accurate answer.",
+    "options": [
+      "same assessment (typically)",
+      "environmental impacts vs social impacts assessments",
+      "only financial appraisal (framework)",
+      "traffic count only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0029_vdj5t",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: In urban planning, EIA vs SIA refers to?",
+    "options": [
+      "same assessment \u2014 concept",
+      "environmental impacts vs social impacts assessments",
+      "traffic count only (framework)",
+      "only financial appraisal (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0029_vjb7d",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: In urban planning, EIA vs SIA refers to?",
+    "options": [
+      "traffic count only (policy)",
+      "only financial appraisal (framework)",
+      "same assessment (policy)",
+      "environmental impacts vs social impacts assessments"
+    ],
+    "answerIndex": 3,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0030_vjcvo",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes EIA vs SIA?",
+    "options": [
+      "only financial appraisal \u2014 in practice",
+      "same assessment (advanced)",
+      "traffic count only \u2014 concept",
+      "environmental impacts vs social impacts assessments"
+    ],
+    "answerIndex": 3,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0030_v2qui",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes EIA vs SIA?",
+    "options": [
+      "traffic count only (framework)",
+      "only financial appraisal (typically)",
+      "environmental impacts vs social impacts assessments",
+      "same assessment \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0030_vmz1c",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes EIA vs SIA?",
+    "options": [
+      "same assessment \u2014 in practice",
+      "environmental impacts vs social impacts assessments",
+      "traffic count only \u2014 concept",
+      "only financial appraisal (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0030_vcee9",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes EIA vs SIA? Select the best option.",
+    "options": [
+      "only financial appraisal \u2014 concept",
+      "environmental impacts vs social impacts assessments",
+      "same assessment (typically)",
+      "traffic count only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0030_vbr3b",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which statement best describes EIA vs SIA? Choose the most accurate answer.",
+    "options": [
+      "only financial appraisal (typically)",
+      "environmental impacts vs social impacts assessments",
+      "same assessment (framework)",
+      "traffic count only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0030_vrtzc",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes EIA vs SIA?",
+    "options": [
+      "traffic count only (advanced)",
+      "same assessment (advanced)",
+      "only financial appraisal \u2014 in practice",
+      "environmental impacts vs social impacts assessments"
+    ],
+    "answerIndex": 3,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0030_vamer",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes EIA vs SIA?",
+    "options": [
+      "only financial appraisal (policy)",
+      "traffic count only \u2014 concept",
+      "environmental impacts vs social impacts assessments",
+      "same assessment (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0030_vdnhr",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes EIA vs SIA?",
+    "options": [
+      "environmental impacts vs social impacts assessments",
+      "traffic count only (theory)",
+      "only financial appraisal (policy)",
+      "same assessment (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0031_vie0j",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of EIA vs SIA.",
+    "options": [
+      "same assessment (advanced)",
+      "only financial appraisal \u2014 in practice",
+      "traffic count only (theory)",
+      "environmental impacts vs social impacts assessments"
+    ],
+    "answerIndex": 3,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0031_v6lol",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of EIA vs SIA.",
+    "options": [
+      "environmental impacts vs social impacts assessments",
+      "only financial appraisal \u2014 concept",
+      "traffic count only (typically)",
+      "same assessment \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0031_v2xmx",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of EIA vs SIA.",
+    "options": [
+      "same assessment (policy)",
+      "traffic count only (framework)",
+      "only financial appraisal \u2014 concept",
+      "environmental impacts vs social impacts assessments"
+    ],
+    "answerIndex": 3,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0031_vei8p",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of EIA vs SIA.",
+    "options": [
+      "traffic count only \u2014 concept",
+      "environmental impacts vs social impacts assessments",
+      "same assessment (policy)",
+      "only financial appraisal \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0031_vahgc",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of EIA vs SIA. Select the best option.",
+    "options": [
+      "environmental impacts vs social impacts assessments",
+      "same assessment (framework)",
+      "only financial appraisal (theory)",
+      "traffic count only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0031_vtnmu",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of EIA vs SIA. Choose the most accurate answer.",
+    "options": [
+      "environmental impacts vs social impacts assessments",
+      "only financial appraisal (policy)",
+      "same assessment (advanced)",
+      "traffic count only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0031_vm15w",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of EIA vs SIA.",
+    "options": [
+      "traffic count only (typically)",
+      "only financial appraisal (policy)",
+      "environmental impacts vs social impacts assessments",
+      "same assessment (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0031_vs2ci",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of EIA vs SIA.",
+    "options": [
+      "traffic count only (advanced)",
+      "only financial appraisal (theory)",
+      "environmental impacts vs social impacts assessments",
+      "same assessment (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0031_veun1",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of EIA vs SIA.",
+    "options": [
+      "only financial appraisal \u2014 in practice",
+      "traffic count only (advanced)",
+      "same assessment (theory)",
+      "environmental impacts vs social impacts assessments"
+    ],
+    "answerIndex": 3,
+    "explanation": "environmental impacts vs social impacts assessments"
+  },
+  {
+    "id": "adv_town-planners_0032_vj7a0",
+    "category": "cadre",
+    "cadreSlug": "town-planners",
+    "topic": "Urban & Regional Planning",
+    "subtopic": "Policy & Design",
+    "difficulty": "advanced",
+    "question": "Advanced planning: EIA vs SIA primarily involves?",
+    "options": [
+      "same assessment (theory)",
+      "traffic count only (framework)",
+      "environmental impacts vs social impacts assessments",
+      "only financial appraisal (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "environmental impacts vs social impacts assessments"
+  }
+]

@@ -1,0 +1,4252 @@
+[
+  {
+    "id": "adv_transportation_0001",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, Level of Service (LOS) refers to?",
+    "options": [
+      "fuel tax rate",
+      "tire pressure",
+      "vehicle emissions only",
+      "qualitative measure of traffic operating conditions"
+    ],
+    "answerIndex": 3,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0005",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, Headway refers to?",
+    "options": [
+      "vehicle width",
+      "axle load",
+      "engine displacement",
+      "time between vehicles in a lane"
+    ],
+    "answerIndex": 3,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0009",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, Elasticity of demand for transport refers to?",
+    "options": [
+      "independent of cost",
+      "equals cross elasticity always",
+      "percentage change in demand per price change",
+      "fixed always"
+    ],
+    "answerIndex": 2,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0013",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, Intermodal transport refers to?",
+    "options": [
+      "single-mode only",
+      "pipeline only",
+      "pedestrian only",
+      "integrated use of multiple transport modes"
+    ],
+    "answerIndex": 3,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0017",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, ITS (Intelligent Transport Systems) refers to?",
+    "options": [
+      "new tires only",
+      "bigger engines",
+      "paint road only",
+      "telematics and communication to improve transport"
+    ],
+    "answerIndex": 3,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0021",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, MARPOL Convention refers to?",
+    "options": [
+      "airline safety",
+      "prevents pollution from ships",
+      "rail signals",
+      "road speed limits"
+    ],
+    "answerIndex": 1,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0025",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, SOLAS Convention refers to?",
+    "options": [
+      "airport slots",
+      "safety of life at sea",
+      "truck axle configurations",
+      "aircrew licensing"
+    ],
+    "answerIndex": 1,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0029",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, ICAO Annexes refers to?",
+    "options": [
+      "IMO codes",
+      "CEN road markings",
+      "UTP for rail",
+      "international standards for civil aviation"
+    ],
+    "answerIndex": 3,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0033",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, Transit-Oriented Development refers to?",
+    "options": [
+      "sprawl promotion",
+      "car-only design",
+      "ban pedestrians",
+      "dense mixed-use around transit nodes"
+    ],
+    "answerIndex": 3,
+    "explanation": "dense mixed-use around transit nodes"
+  },
+  {
+    "id": "adv_transportation_0037",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, Corridor management refers to?",
+    "options": [
+      "single junction only",
+      "toll rates only",
+      "coordinated planning of key routes",
+      "parking only"
+    ],
+    "answerIndex": 2,
+    "explanation": "coordinated planning of key routes"
+  },
+  {
+    "id": "adv_transportation_0001_vlmgl",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: In transport planning, Level of Service (LOS) refers to?",
+    "options": [
+      "qualitative measure of traffic operating conditions",
+      "fuel tax rate \u2014 concept",
+      "vehicle emissions only (policy)",
+      "tire pressure \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0001_v6g7g",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Within transport planning, Level of Service (LOS) refers to?",
+    "options": [
+      "vehicle emissions only (policy)",
+      "fuel tax rate (theory)",
+      "tire pressure (typically)",
+      "qualitative measure of traffic operating conditions"
+    ],
+    "answerIndex": 3,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0001_vdf2d",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: In transport planning, Level of Service (LOS) refers to?",
+    "options": [
+      "fuel tax rate (advanced)",
+      "tire pressure (policy)",
+      "vehicle emissions only \u2014 concept",
+      "qualitative measure of traffic operating conditions"
+    ],
+    "answerIndex": 3,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0001_v6jwl",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, Level of Service (LOS) refers to? Select the best option.",
+    "options": [
+      "vehicle emissions only (theory)",
+      "tire pressure (advanced)",
+      "fuel tax rate \u2014 in practice",
+      "qualitative measure of traffic operating conditions"
+    ],
+    "answerIndex": 3,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0001_vhjoo",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, Level of Service (LOS) refers to? Choose the most accurate answer.",
+    "options": [
+      "vehicle emissions only (theory)",
+      "qualitative measure of traffic operating conditions",
+      "fuel tax rate (advanced)",
+      "tire pressure (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0001_vt65m",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: In transport planning, Level of Service (LOS) refers to?",
+    "options": [
+      "vehicle emissions only (advanced)",
+      "qualitative measure of traffic operating conditions",
+      "fuel tax rate (framework)",
+      "tire pressure \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0001_v33in",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: In transport planning, Level of Service (LOS) refers to?",
+    "options": [
+      "vehicle emissions only (typically)",
+      "qualitative measure of traffic operating conditions",
+      "tire pressure (typically)",
+      "fuel tax rate (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0002_v90mh",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Level of Service (LOS)?",
+    "options": [
+      "vehicle emissions only \u2014 in practice",
+      "qualitative measure of traffic operating conditions",
+      "fuel tax rate \u2014 concept",
+      "tire pressure (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0002_vwvfu",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Level of Service (LOS)?",
+    "options": [
+      "qualitative measure of traffic operating conditions",
+      "vehicle emissions only \u2014 in practice",
+      "fuel tax rate \u2014 in practice",
+      "tire pressure (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0002_v8nip",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Level of Service (LOS)?",
+    "options": [
+      "vehicle emissions only (advanced)",
+      "qualitative measure of traffic operating conditions",
+      "tire pressure (typically)",
+      "fuel tax rate (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0002_vm9rx",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Level of Service (LOS)?",
+    "options": [
+      "fuel tax rate \u2014 in practice",
+      "vehicle emissions only \u2014 concept",
+      "tire pressure (policy)",
+      "qualitative measure of traffic operating conditions"
+    ],
+    "answerIndex": 3,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0002_vb306",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Level of Service (LOS)? Select the best option.",
+    "options": [
+      "fuel tax rate (policy)",
+      "vehicle emissions only (advanced)",
+      "qualitative measure of traffic operating conditions",
+      "tire pressure (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0002_vfvbc",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Level of Service (LOS)? Choose the most accurate answer.",
+    "options": [
+      "vehicle emissions only \u2014 concept",
+      "tire pressure (framework)",
+      "fuel tax rate \u2014 in practice",
+      "qualitative measure of traffic operating conditions"
+    ],
+    "answerIndex": 3,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0002_vy1to",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Level of Service (LOS)?",
+    "options": [
+      "vehicle emissions only (theory)",
+      "qualitative measure of traffic operating conditions",
+      "tire pressure (theory)",
+      "fuel tax rate (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0002_v8vbu",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Level of Service (LOS)?",
+    "options": [
+      "fuel tax rate (advanced)",
+      "qualitative measure of traffic operating conditions",
+      "tire pressure (typically)",
+      "vehicle emissions only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0002_vgnml",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Level of Service (LOS)?",
+    "options": [
+      "vehicle emissions only \u2014 in practice",
+      "tire pressure (framework)",
+      "fuel tax rate (advanced)",
+      "qualitative measure of traffic operating conditions"
+    ],
+    "answerIndex": 3,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0003_vkztq",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Level of Service (LOS).",
+    "options": [
+      "vehicle emissions only \u2014 in practice",
+      "fuel tax rate (advanced)",
+      "qualitative measure of traffic operating conditions",
+      "tire pressure (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0003_v13px",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Level of Service (LOS).",
+    "options": [
+      "tire pressure (advanced)",
+      "fuel tax rate (typically)",
+      "vehicle emissions only \u2014 concept",
+      "qualitative measure of traffic operating conditions"
+    ],
+    "answerIndex": 3,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0003_vqr7g",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Level of Service (LOS).",
+    "options": [
+      "vehicle emissions only (policy)",
+      "qualitative measure of traffic operating conditions",
+      "fuel tax rate (framework)",
+      "tire pressure \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0003_vfqdh",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Level of Service (LOS). Select the best option.",
+    "options": [
+      "qualitative measure of traffic operating conditions",
+      "tire pressure (theory)",
+      "vehicle emissions only (typically)",
+      "fuel tax rate (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0003_vu28j",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Level of Service (LOS). Choose the most accurate answer.",
+    "options": [
+      "tire pressure (advanced)",
+      "qualitative measure of traffic operating conditions",
+      "fuel tax rate (theory)",
+      "vehicle emissions only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0003_vodh8",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Level of Service (LOS).",
+    "options": [
+      "qualitative measure of traffic operating conditions",
+      "tire pressure \u2014 in practice",
+      "fuel tax rate \u2014 concept",
+      "vehicle emissions only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0003_v8vx6",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Level of Service (LOS).",
+    "options": [
+      "vehicle emissions only \u2014 in practice",
+      "tire pressure (advanced)",
+      "fuel tax rate \u2014 in practice",
+      "qualitative measure of traffic operating conditions"
+    ],
+    "answerIndex": 3,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0004_vu3u1",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: Level of Service (LOS) is mainly concerned with?",
+    "options": [
+      "tire pressure (typically)",
+      "vehicle emissions only \u2014 concept",
+      "qualitative measure of traffic operating conditions",
+      "fuel tax rate (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0004_vuvjz",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced transport: Level of Service (LOS) is mainly concerned with?",
+    "options": [
+      "qualitative measure of traffic operating conditions",
+      "tire pressure (advanced)",
+      "vehicle emissions only (framework)",
+      "fuel tax rate (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0004_vrlnv",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced transport: Level of Service (LOS) is mainly concerned with?",
+    "options": [
+      "tire pressure (theory)",
+      "fuel tax rate \u2014 in practice",
+      "qualitative measure of traffic operating conditions",
+      "vehicle emissions only \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0004_v3wss",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: Level of Service (LOS) is mainly concerned with? Select the best option.",
+    "options": [
+      "fuel tax rate \u2014 concept",
+      "vehicle emissions only \u2014 in practice",
+      "qualitative measure of traffic operating conditions",
+      "tire pressure \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0004_vlxnw",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: Level of Service (LOS) is mainly concerned with? Choose the most accurate answer.",
+    "options": [
+      "vehicle emissions only \u2014 in practice",
+      "tire pressure \u2014 concept",
+      "fuel tax rate (advanced)",
+      "qualitative measure of traffic operating conditions"
+    ],
+    "answerIndex": 3,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0004_vr7ef",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced transport: Level of Service (LOS) is mainly concerned with?",
+    "options": [
+      "tire pressure (policy)",
+      "qualitative measure of traffic operating conditions",
+      "vehicle emissions only (framework)",
+      "fuel tax rate \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0004_v7sn1",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced transport: Level of Service (LOS) is mainly concerned with?",
+    "options": [
+      "tire pressure (framework)",
+      "vehicle emissions only \u2014 concept",
+      "qualitative measure of traffic operating conditions",
+      "fuel tax rate (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0005_v01n3",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: In transport planning, Headway refers to?",
+    "options": [
+      "vehicle width (advanced)",
+      "time between vehicles in a lane",
+      "engine displacement (policy)",
+      "axle load \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0005_vjwbz",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Within transport planning, Headway refers to?",
+    "options": [
+      "vehicle width (typically)",
+      "axle load \u2014 in practice",
+      "engine displacement (advanced)",
+      "time between vehicles in a lane"
+    ],
+    "answerIndex": 3,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0005_vgzgv",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: In transport planning, Headway refers to?",
+    "options": [
+      "engine displacement (policy)",
+      "axle load \u2014 concept",
+      "time between vehicles in a lane",
+      "vehicle width \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0005_vm1sz",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, Headway refers to? Select the best option.",
+    "options": [
+      "time between vehicles in a lane",
+      "axle load \u2014 in practice",
+      "vehicle width \u2014 in practice",
+      "engine displacement (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0005_vhfsx",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, Headway refers to? Choose the most accurate answer.",
+    "options": [
+      "time between vehicles in a lane",
+      "vehicle width (theory)",
+      "engine displacement (framework)",
+      "axle load (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0005_vyaz9",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: In transport planning, Headway refers to?",
+    "options": [
+      "time between vehicles in a lane",
+      "axle load (framework)",
+      "engine displacement \u2014 concept",
+      "vehicle width \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0005_vcl4e",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: In transport planning, Headway refers to?",
+    "options": [
+      "time between vehicles in a lane",
+      "engine displacement (advanced)",
+      "axle load (advanced)",
+      "vehicle width (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0006_v2ibl",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Headway?",
+    "options": [
+      "vehicle width (theory)",
+      "time between vehicles in a lane",
+      "engine displacement (policy)",
+      "axle load (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0006_vbwj2",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Headway?",
+    "options": [
+      "time between vehicles in a lane",
+      "engine displacement \u2014 concept",
+      "vehicle width (framework)",
+      "axle load (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0006_vaacx",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Headway?",
+    "options": [
+      "engine displacement (typically)",
+      "time between vehicles in a lane",
+      "vehicle width \u2014 in practice",
+      "axle load (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0006_vs8tj",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Headway? Select the best option.",
+    "options": [
+      "axle load (typically)",
+      "time between vehicles in a lane",
+      "vehicle width \u2014 concept",
+      "engine displacement (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0006_vr0yb",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Headway? Choose the most accurate answer.",
+    "options": [
+      "engine displacement (policy)",
+      "vehicle width \u2014 concept",
+      "axle load \u2014 concept",
+      "time between vehicles in a lane"
+    ],
+    "answerIndex": 3,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0006_v2bg9",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Headway?",
+    "options": [
+      "engine displacement (policy)",
+      "axle load \u2014 in practice",
+      "time between vehicles in a lane",
+      "vehicle width (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0006_vxike",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Headway?",
+    "options": [
+      "axle load (theory)",
+      "vehicle width (advanced)",
+      "time between vehicles in a lane",
+      "engine displacement (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0006_vfor1",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Headway?",
+    "options": [
+      "engine displacement (framework)",
+      "axle load \u2014 concept",
+      "vehicle width \u2014 concept",
+      "time between vehicles in a lane"
+    ],
+    "answerIndex": 3,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0007_vcvxc",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Headway.",
+    "options": [
+      "engine displacement \u2014 concept",
+      "time between vehicles in a lane",
+      "axle load \u2014 in practice",
+      "vehicle width (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0007_v5ld5",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Headway.",
+    "options": [
+      "engine displacement (framework)",
+      "time between vehicles in a lane",
+      "vehicle width (typically)",
+      "axle load (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0007_vkq3u",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Headway.",
+    "options": [
+      "axle load \u2014 in practice",
+      "engine displacement (advanced)",
+      "time between vehicles in a lane",
+      "vehicle width (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0007_vivzp",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Headway.",
+    "options": [
+      "time between vehicles in a lane",
+      "vehicle width (policy)",
+      "engine displacement \u2014 in practice",
+      "axle load (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0007_vswm2",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Headway. Select the best option.",
+    "options": [
+      "time between vehicles in a lane",
+      "engine displacement (framework)",
+      "axle load (typically)",
+      "vehicle width (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0007_vjxsi",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Headway. Choose the most accurate answer.",
+    "options": [
+      "axle load (policy)",
+      "time between vehicles in a lane",
+      "engine displacement (framework)",
+      "vehicle width \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0007_v2p9p",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Headway.",
+    "options": [
+      "engine displacement (theory)",
+      "vehicle width (framework)",
+      "axle load (policy)",
+      "time between vehicles in a lane"
+    ],
+    "answerIndex": 3,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0007_vwqsg",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Headway.",
+    "options": [
+      "axle load (typically)",
+      "vehicle width (policy)",
+      "time between vehicles in a lane",
+      "engine displacement \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0007_vuo46",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Headway.",
+    "options": [
+      "axle load (advanced)",
+      "engine displacement (theory)",
+      "time between vehicles in a lane",
+      "vehicle width (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0008_vfcnj",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: Headway is mainly concerned with?",
+    "options": [
+      "vehicle width (framework)",
+      "time between vehicles in a lane",
+      "engine displacement \u2014 in practice",
+      "axle load (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0008_vg6qe",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced transport: Headway is mainly concerned with?",
+    "options": [
+      "vehicle width (theory)",
+      "axle load (advanced)",
+      "engine displacement (policy)",
+      "time between vehicles in a lane"
+    ],
+    "answerIndex": 3,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0008_v1yf4",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced transport: Headway is mainly concerned with?",
+    "options": [
+      "axle load (policy)",
+      "time between vehicles in a lane",
+      "vehicle width (theory)",
+      "engine displacement (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0008_vz79b",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: Headway is mainly concerned with? Select the best option.",
+    "options": [
+      "time between vehicles in a lane",
+      "axle load (framework)",
+      "engine displacement (framework)",
+      "vehicle width (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0008_vi9lb",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: Headway is mainly concerned with? Choose the most accurate answer.",
+    "options": [
+      "engine displacement \u2014 in practice",
+      "axle load (policy)",
+      "vehicle width (theory)",
+      "time between vehicles in a lane"
+    ],
+    "answerIndex": 3,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0008_v7ew7",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced transport: Headway is mainly concerned with?",
+    "options": [
+      "vehicle width \u2014 concept",
+      "time between vehicles in a lane",
+      "axle load (theory)",
+      "engine displacement \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0008_v1vos",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced transport: Headway is mainly concerned with?",
+    "options": [
+      "time between vehicles in a lane",
+      "vehicle width (typically)",
+      "axle load (policy)",
+      "engine displacement \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "time between vehicles in a lane"
+  },
+  {
+    "id": "adv_transportation_0009_v4vsx",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: In transport planning, Elasticity of demand for transport refers to?",
+    "options": [
+      "equals cross elasticity always (framework)",
+      "percentage change in demand per price change",
+      "fixed always \u2014 in practice",
+      "independent of cost (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0009_vfmyr",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Within transport planning, Elasticity of demand for transport refers to?",
+    "options": [
+      "equals cross elasticity always \u2014 concept",
+      "percentage change in demand per price change",
+      "fixed always (advanced)",
+      "independent of cost (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0009_vag7m",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: In transport planning, Elasticity of demand for transport refers to?",
+    "options": [
+      "fixed always (policy)",
+      "equals cross elasticity always \u2014 concept",
+      "percentage change in demand per price change",
+      "independent of cost \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0009_vw3ec",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, Elasticity of demand for transport refers to? Select the best option.",
+    "options": [
+      "fixed always (framework)",
+      "equals cross elasticity always \u2014 in practice",
+      "independent of cost (framework)",
+      "percentage change in demand per price change"
+    ],
+    "answerIndex": 3,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0009_v0ng9",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, Elasticity of demand for transport refers to? Choose the most accurate answer.",
+    "options": [
+      "independent of cost \u2014 concept",
+      "equals cross elasticity always \u2014 concept",
+      "percentage change in demand per price change",
+      "fixed always (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0009_vv3zb",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: In transport planning, Elasticity of demand for transport refers to?",
+    "options": [
+      "equals cross elasticity always (theory)",
+      "independent of cost (advanced)",
+      "percentage change in demand per price change",
+      "fixed always (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0009_v4a6v",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: In transport planning, Elasticity of demand for transport refers to?",
+    "options": [
+      "percentage change in demand per price change",
+      "independent of cost (typically)",
+      "fixed always (framework)",
+      "equals cross elasticity always \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0010_vsnwp",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Elasticity of demand for transport?",
+    "options": [
+      "equals cross elasticity always \u2014 in practice",
+      "independent of cost (policy)",
+      "fixed always \u2014 in practice",
+      "percentage change in demand per price change"
+    ],
+    "answerIndex": 3,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0010_vzpto",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Elasticity of demand for transport?",
+    "options": [
+      "equals cross elasticity always (theory)",
+      "fixed always (policy)",
+      "independent of cost (theory)",
+      "percentage change in demand per price change"
+    ],
+    "answerIndex": 3,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0010_vw2re",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Elasticity of demand for transport?",
+    "options": [
+      "equals cross elasticity always \u2014 concept",
+      "fixed always \u2014 in practice",
+      "percentage change in demand per price change",
+      "independent of cost (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0010_ver9n",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Elasticity of demand for transport?",
+    "options": [
+      "independent of cost \u2014 concept",
+      "fixed always (policy)",
+      "equals cross elasticity always (advanced)",
+      "percentage change in demand per price change"
+    ],
+    "answerIndex": 3,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0010_vt80e",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Elasticity of demand for transport? Select the best option.",
+    "options": [
+      "percentage change in demand per price change",
+      "fixed always \u2014 in practice",
+      "independent of cost (policy)",
+      "equals cross elasticity always \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0010_ve6qx",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Elasticity of demand for transport? Choose the most accurate answer.",
+    "options": [
+      "percentage change in demand per price change",
+      "fixed always (typically)",
+      "independent of cost (policy)",
+      "equals cross elasticity always (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0010_v0igw",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Elasticity of demand for transport?",
+    "options": [
+      "fixed always \u2014 concept",
+      "equals cross elasticity always (policy)",
+      "percentage change in demand per price change",
+      "independent of cost (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0010_vuk5u",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Elasticity of demand for transport?",
+    "options": [
+      "equals cross elasticity always (typically)",
+      "independent of cost \u2014 concept",
+      "percentage change in demand per price change",
+      "fixed always (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0010_vgupm",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Elasticity of demand for transport?",
+    "options": [
+      "percentage change in demand per price change",
+      "equals cross elasticity always (policy)",
+      "independent of cost \u2014 concept",
+      "fixed always (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0011_vw1n3",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Elasticity of demand for transport.",
+    "options": [
+      "equals cross elasticity always (theory)",
+      "fixed always \u2014 in practice",
+      "independent of cost (theory)",
+      "percentage change in demand per price change"
+    ],
+    "answerIndex": 3,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0011_vvl96",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Elasticity of demand for transport.",
+    "options": [
+      "independent of cost (advanced)",
+      "equals cross elasticity always (advanced)",
+      "fixed always (typically)",
+      "percentage change in demand per price change"
+    ],
+    "answerIndex": 3,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0011_vavrk",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Elasticity of demand for transport.",
+    "options": [
+      "independent of cost (typically)",
+      "equals cross elasticity always (policy)",
+      "percentage change in demand per price change",
+      "fixed always \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0011_vrfsg",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Elasticity of demand for transport.",
+    "options": [
+      "independent of cost (typically)",
+      "fixed always \u2014 concept",
+      "percentage change in demand per price change",
+      "equals cross elasticity always (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0011_vmvc0",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Elasticity of demand for transport. Select the best option.",
+    "options": [
+      "equals cross elasticity always (policy)",
+      "fixed always \u2014 concept",
+      "independent of cost (policy)",
+      "percentage change in demand per price change"
+    ],
+    "answerIndex": 3,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0011_vg23j",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Elasticity of demand for transport. Choose the most accurate answer.",
+    "options": [
+      "equals cross elasticity always \u2014 in practice",
+      "fixed always (framework)",
+      "percentage change in demand per price change",
+      "independent of cost \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0011_v3xqg",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Elasticity of demand for transport.",
+    "options": [
+      "equals cross elasticity always \u2014 concept",
+      "fixed always (theory)",
+      "independent of cost (advanced)",
+      "percentage change in demand per price change"
+    ],
+    "answerIndex": 3,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0011_v4rv7",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Elasticity of demand for transport.",
+    "options": [
+      "percentage change in demand per price change",
+      "equals cross elasticity always \u2014 concept",
+      "independent of cost (typically)",
+      "fixed always \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0011_vbvjh",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Elasticity of demand for transport.",
+    "options": [
+      "percentage change in demand per price change",
+      "equals cross elasticity always \u2014 concept",
+      "independent of cost \u2014 concept",
+      "fixed always (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0012_vhy29",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: Elasticity of demand for transport is mainly concerned with?",
+    "options": [
+      "fixed always (theory)",
+      "percentage change in demand per price change",
+      "independent of cost (policy)",
+      "equals cross elasticity always (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0012_v8qfa",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced transport: Elasticity of demand for transport is mainly concerned with?",
+    "options": [
+      "fixed always (framework)",
+      "independent of cost (framework)",
+      "equals cross elasticity always (framework)",
+      "percentage change in demand per price change"
+    ],
+    "answerIndex": 3,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0012_vgkfc",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: Elasticity of demand for transport is mainly concerned with? Select the best option.",
+    "options": [
+      "fixed always \u2014 concept",
+      "independent of cost (policy)",
+      "percentage change in demand per price change",
+      "equals cross elasticity always (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0012_ve9j6",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: Elasticity of demand for transport is mainly concerned with? Choose the most accurate answer.",
+    "options": [
+      "percentage change in demand per price change",
+      "fixed always (typically)",
+      "equals cross elasticity always \u2014 concept",
+      "independent of cost (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0012_vhj25",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced transport: Elasticity of demand for transport is mainly concerned with?",
+    "options": [
+      "equals cross elasticity always (theory)",
+      "fixed always \u2014 in practice",
+      "independent of cost (policy)",
+      "percentage change in demand per price change"
+    ],
+    "answerIndex": 3,
+    "explanation": "percentage change in demand per price change"
+  },
+  {
+    "id": "adv_transportation_0013_vltmz",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: In transport planning, Intermodal transport refers to?",
+    "options": [
+      "pedestrian only \u2014 concept",
+      "pipeline only \u2014 in practice",
+      "single-mode only (theory)",
+      "integrated use of multiple transport modes"
+    ],
+    "answerIndex": 3,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0013_vwcsh",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Within transport planning, Intermodal transport refers to?",
+    "options": [
+      "single-mode only (typically)",
+      "integrated use of multiple transport modes",
+      "pedestrian only (framework)",
+      "pipeline only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0013_v69zl",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: In transport planning, Intermodal transport refers to?",
+    "options": [
+      "integrated use of multiple transport modes",
+      "single-mode only (advanced)",
+      "pipeline only \u2014 in practice",
+      "pedestrian only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0013_vcf31",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, Intermodal transport refers to? Select the best option.",
+    "options": [
+      "pipeline only (typically)",
+      "single-mode only (framework)",
+      "integrated use of multiple transport modes",
+      "pedestrian only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0013_v3xmi",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, Intermodal transport refers to? Choose the most accurate answer.",
+    "options": [
+      "integrated use of multiple transport modes",
+      "single-mode only (typically)",
+      "pipeline only (typically)",
+      "pedestrian only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0013_vp8cq",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: In transport planning, Intermodal transport refers to?",
+    "options": [
+      "integrated use of multiple transport modes",
+      "pedestrian only \u2014 concept",
+      "pipeline only \u2014 concept",
+      "single-mode only \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0013_vymut",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: In transport planning, Intermodal transport refers to?",
+    "options": [
+      "pipeline only (framework)",
+      "integrated use of multiple transport modes",
+      "pedestrian only (typically)",
+      "single-mode only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0014_vx1oe",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Intermodal transport?",
+    "options": [
+      "pedestrian only (advanced)",
+      "pipeline only \u2014 concept",
+      "single-mode only \u2014 in practice",
+      "integrated use of multiple transport modes"
+    ],
+    "answerIndex": 3,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0014_v9k78",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Intermodal transport?",
+    "options": [
+      "pipeline only (theory)",
+      "single-mode only (theory)",
+      "pedestrian only (typically)",
+      "integrated use of multiple transport modes"
+    ],
+    "answerIndex": 3,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0014_vo8sy",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Intermodal transport?",
+    "options": [
+      "integrated use of multiple transport modes",
+      "single-mode only (policy)",
+      "pedestrian only (policy)",
+      "pipeline only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0014_vkhge",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Intermodal transport?",
+    "options": [
+      "pedestrian only (policy)",
+      "integrated use of multiple transport modes",
+      "pipeline only (theory)",
+      "single-mode only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0014_vhxrc",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Intermodal transport? Select the best option.",
+    "options": [
+      "integrated use of multiple transport modes",
+      "single-mode only (typically)",
+      "pedestrian only \u2014 concept",
+      "pipeline only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0014_vnebq",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Intermodal transport? Choose the most accurate answer.",
+    "options": [
+      "integrated use of multiple transport modes",
+      "pipeline only (policy)",
+      "pedestrian only \u2014 concept",
+      "single-mode only \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0014_vdgn2",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Intermodal transport?",
+    "options": [
+      "pipeline only (typically)",
+      "integrated use of multiple transport modes",
+      "pedestrian only \u2014 concept",
+      "single-mode only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0014_vhzgl",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Intermodal transport?",
+    "options": [
+      "integrated use of multiple transport modes",
+      "pipeline only (advanced)",
+      "pedestrian only (theory)",
+      "single-mode only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0015_vpt62",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Intermodal transport.",
+    "options": [
+      "pedestrian only (typically)",
+      "single-mode only (typically)",
+      "pipeline only \u2014 concept",
+      "integrated use of multiple transport modes"
+    ],
+    "answerIndex": 3,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0015_vpmmi",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Intermodal transport.",
+    "options": [
+      "pipeline only (framework)",
+      "single-mode only (framework)",
+      "pedestrian only (policy)",
+      "integrated use of multiple transport modes"
+    ],
+    "answerIndex": 3,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0015_vu97c",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Intermodal transport.",
+    "options": [
+      "single-mode only (advanced)",
+      "pedestrian only (typically)",
+      "pipeline only \u2014 concept",
+      "integrated use of multiple transport modes"
+    ],
+    "answerIndex": 3,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0015_vpug9",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Intermodal transport.",
+    "options": [
+      "integrated use of multiple transport modes",
+      "pedestrian only (framework)",
+      "single-mode only (policy)",
+      "pipeline only \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0015_vcuog",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Intermodal transport. Select the best option.",
+    "options": [
+      "pipeline only \u2014 concept",
+      "pedestrian only \u2014 concept",
+      "integrated use of multiple transport modes",
+      "single-mode only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0015_vnx8j",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Intermodal transport. Choose the most accurate answer.",
+    "options": [
+      "integrated use of multiple transport modes",
+      "pedestrian only (typically)",
+      "pipeline only \u2014 in practice",
+      "single-mode only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0015_vbrho",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Intermodal transport.",
+    "options": [
+      "single-mode only (policy)",
+      "pedestrian only (typically)",
+      "integrated use of multiple transport modes",
+      "pipeline only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0015_vjvpp",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Intermodal transport.",
+    "options": [
+      "pedestrian only (typically)",
+      "single-mode only (policy)",
+      "integrated use of multiple transport modes",
+      "pipeline only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0016_vlf6w",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: Intermodal transport is mainly concerned with?",
+    "options": [
+      "integrated use of multiple transport modes",
+      "single-mode only (framework)",
+      "pipeline only (framework)",
+      "pedestrian only \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0016_vgbf3",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced transport: Intermodal transport is mainly concerned with?",
+    "options": [
+      "single-mode only \u2014 in practice",
+      "pedestrian only (theory)",
+      "pipeline only \u2014 concept",
+      "integrated use of multiple transport modes"
+    ],
+    "answerIndex": 3,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0016_vbkw8",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced transport: Intermodal transport is mainly concerned with?",
+    "options": [
+      "pipeline only (policy)",
+      "integrated use of multiple transport modes",
+      "single-mode only (framework)",
+      "pedestrian only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0016_vl9yk",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: Intermodal transport is mainly concerned with? Select the best option.",
+    "options": [
+      "pipeline only (advanced)",
+      "single-mode only \u2014 concept",
+      "pedestrian only \u2014 in practice",
+      "integrated use of multiple transport modes"
+    ],
+    "answerIndex": 3,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0016_vmbcg",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: Intermodal transport is mainly concerned with? Choose the most accurate answer.",
+    "options": [
+      "pedestrian only (policy)",
+      "pipeline only (theory)",
+      "integrated use of multiple transport modes",
+      "single-mode only \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0016_vfhzv",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced transport: Intermodal transport is mainly concerned with?",
+    "options": [
+      "pipeline only (theory)",
+      "pedestrian only (typically)",
+      "single-mode only \u2014 concept",
+      "integrated use of multiple transport modes"
+    ],
+    "answerIndex": 3,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0016_veu5m",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced transport: Intermodal transport is mainly concerned with?",
+    "options": [
+      "single-mode only (policy)",
+      "pipeline only (typically)",
+      "integrated use of multiple transport modes",
+      "pedestrian only \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "integrated use of multiple transport modes"
+  },
+  {
+    "id": "adv_transportation_0017_v76wl",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: In transport planning, ITS (Intelligent Transport Systems) refers to?",
+    "options": [
+      "bigger engines \u2014 in practice",
+      "paint road only (policy)",
+      "telematics and communication to improve transport",
+      "new tires only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0017_vp0hm",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Within transport planning, ITS (Intelligent Transport Systems) refers to?",
+    "options": [
+      "telematics and communication to improve transport",
+      "bigger engines \u2014 concept",
+      "new tires only \u2014 in practice",
+      "paint road only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0017_vgif2",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: In transport planning, ITS (Intelligent Transport Systems) refers to?",
+    "options": [
+      "new tires only (framework)",
+      "telematics and communication to improve transport",
+      "bigger engines (framework)",
+      "paint road only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0017_v9ofa",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, ITS (Intelligent Transport Systems) refers to? Select the best option.",
+    "options": [
+      "paint road only (theory)",
+      "new tires only (typically)",
+      "bigger engines \u2014 concept",
+      "telematics and communication to improve transport"
+    ],
+    "answerIndex": 3,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0017_vqr1n",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, ITS (Intelligent Transport Systems) refers to? Choose the most accurate answer.",
+    "options": [
+      "bigger engines (theory)",
+      "new tires only (typically)",
+      "telematics and communication to improve transport",
+      "paint road only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0017_vpe13",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: In transport planning, ITS (Intelligent Transport Systems) refers to?",
+    "options": [
+      "bigger engines (advanced)",
+      "new tires only (advanced)",
+      "telematics and communication to improve transport",
+      "paint road only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0017_vzohs",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: In transport planning, ITS (Intelligent Transport Systems) refers to?",
+    "options": [
+      "bigger engines (framework)",
+      "paint road only \u2014 concept",
+      "telematics and communication to improve transport",
+      "new tires only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0018_v9xa0",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines ITS (Intelligent Transport Systems)?",
+    "options": [
+      "telematics and communication to improve transport",
+      "bigger engines \u2014 in practice",
+      "paint road only \u2014 in practice",
+      "new tires only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0018_vgefc",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines ITS (Intelligent Transport Systems)?",
+    "options": [
+      "new tires only (policy)",
+      "telematics and communication to improve transport",
+      "bigger engines (theory)",
+      "paint road only \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0018_vmorz",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines ITS (Intelligent Transport Systems)?",
+    "options": [
+      "telematics and communication to improve transport",
+      "paint road only (theory)",
+      "new tires only (policy)",
+      "bigger engines (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0018_vt94h",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines ITS (Intelligent Transport Systems)?",
+    "options": [
+      "new tires only (theory)",
+      "telematics and communication to improve transport",
+      "bigger engines (framework)",
+      "paint road only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0018_ve29u",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines ITS (Intelligent Transport Systems)? Select the best option.",
+    "options": [
+      "bigger engines (policy)",
+      "paint road only (typically)",
+      "telematics and communication to improve transport",
+      "new tires only \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0018_v90sz",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines ITS (Intelligent Transport Systems)? Choose the most accurate answer.",
+    "options": [
+      "bigger engines \u2014 concept",
+      "telematics and communication to improve transport",
+      "new tires only \u2014 concept",
+      "paint road only \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0018_v85yi",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines ITS (Intelligent Transport Systems)?",
+    "options": [
+      "bigger engines (theory)",
+      "new tires only \u2014 in practice",
+      "telematics and communication to improve transport",
+      "paint road only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0018_v9470",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines ITS (Intelligent Transport Systems)?",
+    "options": [
+      "bigger engines (framework)",
+      "paint road only (advanced)",
+      "new tires only \u2014 in practice",
+      "telematics and communication to improve transport"
+    ],
+    "answerIndex": 3,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0018_v07z9",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines ITS (Intelligent Transport Systems)?",
+    "options": [
+      "new tires only \u2014 in practice",
+      "bigger engines (policy)",
+      "paint road only (theory)",
+      "telematics and communication to improve transport"
+    ],
+    "answerIndex": 3,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0019_vnhqn",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of ITS (Intelligent Transport Systems).",
+    "options": [
+      "bigger engines (theory)",
+      "telematics and communication to improve transport",
+      "paint road only \u2014 concept",
+      "new tires only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0019_vnhis",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of ITS (Intelligent Transport Systems).",
+    "options": [
+      "new tires only \u2014 in practice",
+      "paint road only (framework)",
+      "bigger engines \u2014 in practice",
+      "telematics and communication to improve transport"
+    ],
+    "answerIndex": 3,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0019_vgb28",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of ITS (Intelligent Transport Systems).",
+    "options": [
+      "new tires only \u2014 in practice",
+      "paint road only (theory)",
+      "telematics and communication to improve transport",
+      "bigger engines (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0019_vsbi8",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of ITS (Intelligent Transport Systems).",
+    "options": [
+      "paint road only (advanced)",
+      "telematics and communication to improve transport",
+      "new tires only (typically)",
+      "bigger engines (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0019_veadv",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of ITS (Intelligent Transport Systems). Choose the most accurate answer.",
+    "options": [
+      "bigger engines (advanced)",
+      "paint road only \u2014 in practice",
+      "telematics and communication to improve transport",
+      "new tires only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0019_v8yj4",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of ITS (Intelligent Transport Systems).",
+    "options": [
+      "paint road only (typically)",
+      "new tires only (framework)",
+      "telematics and communication to improve transport",
+      "bigger engines (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0019_viz9v",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of ITS (Intelligent Transport Systems).",
+    "options": [
+      "paint road only (theory)",
+      "new tires only (advanced)",
+      "bigger engines (typically)",
+      "telematics and communication to improve transport"
+    ],
+    "answerIndex": 3,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0019_vf5tc",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of ITS (Intelligent Transport Systems).",
+    "options": [
+      "paint road only \u2014 concept",
+      "telematics and communication to improve transport",
+      "new tires only (theory)",
+      "bigger engines \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0020_vtxul",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced transport: ITS (Intelligent Transport Systems) is mainly concerned with?",
+    "options": [
+      "new tires only \u2014 concept",
+      "bigger engines (theory)",
+      "paint road only \u2014 in practice",
+      "telematics and communication to improve transport"
+    ],
+    "answerIndex": 3,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0020_vcryo",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: ITS (Intelligent Transport Systems) is mainly concerned with? Select the best option.",
+    "options": [
+      "telematics and communication to improve transport",
+      "new tires only (theory)",
+      "paint road only (typically)",
+      "bigger engines (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0020_vjcug",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: ITS (Intelligent Transport Systems) is mainly concerned with? Choose the most accurate answer.",
+    "options": [
+      "paint road only \u2014 in practice",
+      "telematics and communication to improve transport",
+      "new tires only (advanced)",
+      "bigger engines (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0020_v938n",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced transport: ITS (Intelligent Transport Systems) is mainly concerned with?",
+    "options": [
+      "telematics and communication to improve transport",
+      "new tires only \u2014 concept",
+      "bigger engines (advanced)",
+      "paint road only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "telematics and communication to improve transport"
+  },
+  {
+    "id": "adv_transportation_0021_vg60k",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: In transport planning, MARPOL Convention refers to?",
+    "options": [
+      "rail signals (advanced)",
+      "airline safety (framework)",
+      "road speed limits (advanced)",
+      "prevents pollution from ships"
+    ],
+    "answerIndex": 3,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0021_v6fnn",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Within transport planning, MARPOL Convention refers to?",
+    "options": [
+      "rail signals (policy)",
+      "prevents pollution from ships",
+      "airline safety (theory)",
+      "road speed limits (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0021_vlj1p",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: In transport planning, MARPOL Convention refers to?",
+    "options": [
+      "prevents pollution from ships",
+      "airline safety (typically)",
+      "road speed limits \u2014 in practice",
+      "rail signals (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0021_vb3d4",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, MARPOL Convention refers to? Select the best option.",
+    "options": [
+      "prevents pollution from ships",
+      "road speed limits (framework)",
+      "rail signals \u2014 in practice",
+      "airline safety (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0021_vrpkl",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, MARPOL Convention refers to? Choose the most accurate answer.",
+    "options": [
+      "road speed limits (advanced)",
+      "prevents pollution from ships",
+      "rail signals \u2014 in practice",
+      "airline safety \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0021_v0rzf",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: In transport planning, MARPOL Convention refers to?",
+    "options": [
+      "rail signals (typically)",
+      "road speed limits (policy)",
+      "airline safety \u2014 concept",
+      "prevents pollution from ships"
+    ],
+    "answerIndex": 3,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0021_vndtb",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: In transport planning, MARPOL Convention refers to?",
+    "options": [
+      "rail signals (framework)",
+      "road speed limits (advanced)",
+      "prevents pollution from ships",
+      "airline safety \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0022_vu9f4",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines MARPOL Convention?",
+    "options": [
+      "airline safety (framework)",
+      "rail signals (policy)",
+      "prevents pollution from ships",
+      "road speed limits (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0022_v316x",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines MARPOL Convention?",
+    "options": [
+      "rail signals \u2014 in practice",
+      "road speed limits (policy)",
+      "prevents pollution from ships",
+      "airline safety (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0022_v8b5d",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines MARPOL Convention?",
+    "options": [
+      "airline safety (typically)",
+      "prevents pollution from ships",
+      "rail signals (framework)",
+      "road speed limits (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0022_vszjq",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines MARPOL Convention?",
+    "options": [
+      "rail signals (typically)",
+      "road speed limits (policy)",
+      "prevents pollution from ships",
+      "airline safety (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0022_vmlpg",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines MARPOL Convention? Select the best option.",
+    "options": [
+      "prevents pollution from ships",
+      "airline safety (typically)",
+      "road speed limits (advanced)",
+      "rail signals (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0022_v0qa8",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines MARPOL Convention? Choose the most accurate answer.",
+    "options": [
+      "airline safety (framework)",
+      "road speed limits \u2014 in practice",
+      "rail signals (theory)",
+      "prevents pollution from ships"
+    ],
+    "answerIndex": 3,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0022_vhvqm",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines MARPOL Convention?",
+    "options": [
+      "airline safety \u2014 in practice",
+      "prevents pollution from ships",
+      "rail signals (policy)",
+      "road speed limits (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0022_vyx0f",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines MARPOL Convention?",
+    "options": [
+      "road speed limits \u2014 in practice",
+      "airline safety \u2014 in practice",
+      "rail signals (theory)",
+      "prevents pollution from ships"
+    ],
+    "answerIndex": 3,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0022_v7ojn",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines MARPOL Convention?",
+    "options": [
+      "airline safety \u2014 in practice",
+      "road speed limits (advanced)",
+      "prevents pollution from ships",
+      "rail signals (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0023_vcplr",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of MARPOL Convention.",
+    "options": [
+      "airline safety (policy)",
+      "road speed limits \u2014 concept",
+      "rail signals \u2014 in practice",
+      "prevents pollution from ships"
+    ],
+    "answerIndex": 3,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0023_vlmho",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of MARPOL Convention.",
+    "options": [
+      "prevents pollution from ships",
+      "rail signals \u2014 in practice",
+      "airline safety (framework)",
+      "road speed limits (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0023_v9am2",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of MARPOL Convention.",
+    "options": [
+      "road speed limits \u2014 in practice",
+      "airline safety \u2014 in practice",
+      "prevents pollution from ships",
+      "rail signals \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0023_vuwi6",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of MARPOL Convention.",
+    "options": [
+      "rail signals \u2014 concept",
+      "airline safety (typically)",
+      "prevents pollution from ships",
+      "road speed limits (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0023_v2gtf",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of MARPOL Convention. Select the best option.",
+    "options": [
+      "airline safety (theory)",
+      "rail signals \u2014 concept",
+      "road speed limits (framework)",
+      "prevents pollution from ships"
+    ],
+    "answerIndex": 3,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0023_v4f79",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of MARPOL Convention. Choose the most accurate answer.",
+    "options": [
+      "road speed limits (advanced)",
+      "airline safety (theory)",
+      "rail signals \u2014 in practice",
+      "prevents pollution from ships"
+    ],
+    "answerIndex": 3,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0023_vnedx",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of MARPOL Convention.",
+    "options": [
+      "airline safety \u2014 concept",
+      "rail signals (framework)",
+      "road speed limits \u2014 concept",
+      "prevents pollution from ships"
+    ],
+    "answerIndex": 3,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0023_v50on",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of MARPOL Convention.",
+    "options": [
+      "road speed limits (theory)",
+      "prevents pollution from ships",
+      "rail signals \u2014 concept",
+      "airline safety \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0023_vdld1",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of MARPOL Convention.",
+    "options": [
+      "road speed limits (framework)",
+      "prevents pollution from ships",
+      "airline safety (framework)",
+      "rail signals (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0024_vgdry",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: MARPOL Convention is mainly concerned with?",
+    "options": [
+      "airline safety (policy)",
+      "prevents pollution from ships",
+      "road speed limits \u2014 in practice",
+      "rail signals (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0024_v6t0e",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced transport: MARPOL Convention is mainly concerned with?",
+    "options": [
+      "rail signals (typically)",
+      "road speed limits \u2014 concept",
+      "prevents pollution from ships",
+      "airline safety (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0024_vwp90",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced transport: MARPOL Convention is mainly concerned with?",
+    "options": [
+      "rail signals (typically)",
+      "prevents pollution from ships",
+      "airline safety (advanced)",
+      "road speed limits \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0024_v8exa",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: MARPOL Convention is mainly concerned with? Choose the most accurate answer.",
+    "options": [
+      "road speed limits (theory)",
+      "airline safety (typically)",
+      "prevents pollution from ships",
+      "rail signals (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0024_vm7n9",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced transport: MARPOL Convention is mainly concerned with?",
+    "options": [
+      "road speed limits (policy)",
+      "rail signals \u2014 in practice",
+      "airline safety (policy)",
+      "prevents pollution from ships"
+    ],
+    "answerIndex": 3,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0024_vh570",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced transport: MARPOL Convention is mainly concerned with?",
+    "options": [
+      "rail signals (advanced)",
+      "road speed limits (theory)",
+      "prevents pollution from ships",
+      "airline safety \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "prevents pollution from ships"
+  },
+  {
+    "id": "adv_transportation_0025_vwqpt",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: In transport planning, SOLAS Convention refers to?",
+    "options": [
+      "safety of life at sea",
+      "aircrew licensing (typically)",
+      "airport slots (advanced)",
+      "truck axle configurations (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0025_vqujr",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Within transport planning, SOLAS Convention refers to?",
+    "options": [
+      "aircrew licensing (theory)",
+      "safety of life at sea",
+      "airport slots \u2014 concept",
+      "truck axle configurations (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0025_vi5sv",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: In transport planning, SOLAS Convention refers to?",
+    "options": [
+      "aircrew licensing (theory)",
+      "airport slots (framework)",
+      "safety of life at sea",
+      "truck axle configurations \u2014 in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0025_vr1uo",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, SOLAS Convention refers to? Select the best option.",
+    "options": [
+      "airport slots (framework)",
+      "aircrew licensing (advanced)",
+      "safety of life at sea",
+      "truck axle configurations (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0025_vagw8",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, SOLAS Convention refers to? Choose the most accurate answer.",
+    "options": [
+      "safety of life at sea",
+      "truck axle configurations (policy)",
+      "airport slots \u2014 concept",
+      "aircrew licensing \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0025_vtzok",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: In transport planning, SOLAS Convention refers to?",
+    "options": [
+      "airport slots (policy)",
+      "truck axle configurations (theory)",
+      "aircrew licensing (policy)",
+      "safety of life at sea"
+    ],
+    "answerIndex": 3,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0025_v66dz",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: In transport planning, SOLAS Convention refers to?",
+    "options": [
+      "airport slots (framework)",
+      "truck axle configurations (typically)",
+      "aircrew licensing (advanced)",
+      "safety of life at sea"
+    ],
+    "answerIndex": 3,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0026_vxrkw",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines SOLAS Convention?",
+    "options": [
+      "safety of life at sea",
+      "airport slots \u2014 concept",
+      "truck axle configurations (theory)",
+      "aircrew licensing \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0026_vfw9w",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines SOLAS Convention?",
+    "options": [
+      "truck axle configurations (policy)",
+      "airport slots (framework)",
+      "safety of life at sea",
+      "aircrew licensing \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0026_vcdt9",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines SOLAS Convention?",
+    "options": [
+      "airport slots (theory)",
+      "truck axle configurations (policy)",
+      "safety of life at sea",
+      "aircrew licensing (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0026_vw29l",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines SOLAS Convention?",
+    "options": [
+      "truck axle configurations (theory)",
+      "safety of life at sea",
+      "airport slots (policy)",
+      "aircrew licensing (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0026_vwduc",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines SOLAS Convention? Select the best option.",
+    "options": [
+      "aircrew licensing (policy)",
+      "airport slots \u2014 concept",
+      "truck axle configurations \u2014 in practice",
+      "safety of life at sea"
+    ],
+    "answerIndex": 3,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0026_vrmgn",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines SOLAS Convention? Choose the most accurate answer.",
+    "options": [
+      "truck axle configurations \u2014 concept",
+      "airport slots (policy)",
+      "aircrew licensing \u2014 in practice",
+      "safety of life at sea"
+    ],
+    "answerIndex": 3,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0026_vdgl9",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines SOLAS Convention?",
+    "options": [
+      "safety of life at sea",
+      "aircrew licensing (typically)",
+      "truck axle configurations \u2014 in practice",
+      "airport slots (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0026_v43a0",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines SOLAS Convention?",
+    "options": [
+      "aircrew licensing (framework)",
+      "safety of life at sea",
+      "airport slots (theory)",
+      "truck axle configurations (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0026_vvuid",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines SOLAS Convention?",
+    "options": [
+      "airport slots (policy)",
+      "aircrew licensing (theory)",
+      "safety of life at sea",
+      "truck axle configurations (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0027_v9okc",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of SOLAS Convention.",
+    "options": [
+      "aircrew licensing (typically)",
+      "airport slots (advanced)",
+      "truck axle configurations (typically)",
+      "safety of life at sea"
+    ],
+    "answerIndex": 3,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0027_vwoj1",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of SOLAS Convention.",
+    "options": [
+      "safety of life at sea",
+      "truck axle configurations (advanced)",
+      "airport slots (typically)",
+      "aircrew licensing (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0027_vake1",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of SOLAS Convention.",
+    "options": [
+      "truck axle configurations \u2014 in practice",
+      "safety of life at sea",
+      "aircrew licensing (policy)",
+      "airport slots \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0027_viged",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of SOLAS Convention.",
+    "options": [
+      "truck axle configurations (policy)",
+      "safety of life at sea",
+      "airport slots \u2014 in practice",
+      "aircrew licensing (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0027_vi88u",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of SOLAS Convention. Select the best option.",
+    "options": [
+      "aircrew licensing (advanced)",
+      "airport slots (framework)",
+      "truck axle configurations (framework)",
+      "safety of life at sea"
+    ],
+    "answerIndex": 3,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0027_vjmpt",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of SOLAS Convention. Choose the most accurate answer.",
+    "options": [
+      "truck axle configurations (policy)",
+      "aircrew licensing \u2014 in practice",
+      "safety of life at sea",
+      "airport slots (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0027_v8qo6",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of SOLAS Convention.",
+    "options": [
+      "aircrew licensing \u2014 concept",
+      "airport slots (advanced)",
+      "truck axle configurations \u2014 concept",
+      "safety of life at sea"
+    ],
+    "answerIndex": 3,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0027_vcm5u",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of SOLAS Convention.",
+    "options": [
+      "truck axle configurations \u2014 concept",
+      "airport slots (policy)",
+      "aircrew licensing \u2014 concept",
+      "safety of life at sea"
+    ],
+    "answerIndex": 3,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0027_v55rh",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of SOLAS Convention.",
+    "options": [
+      "truck axle configurations \u2014 in practice",
+      "safety of life at sea",
+      "airport slots \u2014 in practice",
+      "aircrew licensing \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0028_vphyn",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: SOLAS Convention is mainly concerned with?",
+    "options": [
+      "aircrew licensing \u2014 in practice",
+      "safety of life at sea",
+      "airport slots \u2014 concept",
+      "truck axle configurations (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0028_v6tsv",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced transport: SOLAS Convention is mainly concerned with?",
+    "options": [
+      "safety of life at sea",
+      "truck axle configurations (advanced)",
+      "airport slots \u2014 in practice",
+      "aircrew licensing (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0028_v3k3r",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced transport: SOLAS Convention is mainly concerned with?",
+    "options": [
+      "safety of life at sea",
+      "aircrew licensing (advanced)",
+      "airport slots (typically)",
+      "truck axle configurations \u2014 concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0028_v825v",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: SOLAS Convention is mainly concerned with? Select the best option.",
+    "options": [
+      "truck axle configurations (typically)",
+      "airport slots (framework)",
+      "safety of life at sea",
+      "aircrew licensing (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0028_vep0e",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: SOLAS Convention is mainly concerned with? Choose the most accurate answer.",
+    "options": [
+      "safety of life at sea",
+      "airport slots (policy)",
+      "truck axle configurations (policy)",
+      "aircrew licensing (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0028_vx9nd",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced transport: SOLAS Convention is mainly concerned with?",
+    "options": [
+      "truck axle configurations (policy)",
+      "safety of life at sea",
+      "airport slots (typically)",
+      "aircrew licensing (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0028_vouva",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced transport: SOLAS Convention is mainly concerned with?",
+    "options": [
+      "truck axle configurations (advanced)",
+      "aircrew licensing \u2014 concept",
+      "airport slots (policy)",
+      "safety of life at sea"
+    ],
+    "answerIndex": 3,
+    "explanation": "safety of life at sea"
+  },
+  {
+    "id": "adv_transportation_0029_ve935",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: In transport planning, ICAO Annexes refers to?",
+    "options": [
+      "UTP for rail (theory)",
+      "IMO codes (policy)",
+      "international standards for civil aviation",
+      "CEN road markings \u2014 concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0029_vx2tb",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Within transport planning, ICAO Annexes refers to?",
+    "options": [
+      "international standards for civil aviation",
+      "CEN road markings (advanced)",
+      "UTP for rail \u2014 concept",
+      "IMO codes (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0029_vjtii",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: In transport planning, ICAO Annexes refers to?",
+    "options": [
+      "international standards for civil aviation",
+      "UTP for rail (framework)",
+      "CEN road markings (typically)",
+      "IMO codes (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0029_vb3e8",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, ICAO Annexes refers to? Select the best option.",
+    "options": [
+      "CEN road markings (policy)",
+      "UTP for rail \u2014 in practice",
+      "international standards for civil aviation",
+      "IMO codes (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0029_v06at",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "In transport planning, ICAO Annexes refers to? Choose the most accurate answer.",
+    "options": [
+      "CEN road markings (typically)",
+      "IMO codes \u2014 concept",
+      "international standards for civil aviation",
+      "UTP for rail (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0029_vgcs8",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: In transport planning, ICAO Annexes refers to?",
+    "options": [
+      "international standards for civil aviation",
+      "UTP for rail (policy)",
+      "IMO codes (policy)",
+      "CEN road markings (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0029_vcrbs",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: In transport planning, ICAO Annexes refers to?",
+    "options": [
+      "UTP for rail \u2014 concept",
+      "international standards for civil aviation",
+      "CEN road markings (policy)",
+      "IMO codes \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0030_vsgtl",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines ICAO Annexes?",
+    "options": [
+      "UTP for rail (framework)",
+      "international standards for civil aviation",
+      "CEN road markings (policy)",
+      "IMO codes (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0030_vodmm",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines ICAO Annexes?",
+    "options": [
+      "IMO codes (typically)",
+      "international standards for civil aviation",
+      "CEN road markings \u2014 in practice",
+      "UTP for rail (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0030_vfsy9",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines ICAO Annexes?",
+    "options": [
+      "IMO codes \u2014 concept",
+      "UTP for rail (typically)",
+      "CEN road markings (theory)",
+      "international standards for civil aviation"
+    ],
+    "answerIndex": 3,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0030_vofjw",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines ICAO Annexes?",
+    "options": [
+      "IMO codes \u2014 concept",
+      "CEN road markings (framework)",
+      "international standards for civil aviation",
+      "UTP for rail (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0030_v5qal",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines ICAO Annexes? Select the best option.",
+    "options": [
+      "IMO codes (theory)",
+      "CEN road markings (typically)",
+      "UTP for rail (theory)",
+      "international standards for civil aviation"
+    ],
+    "answerIndex": 3,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0030_vafvw",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which statement best defines ICAO Annexes? Choose the most accurate answer.",
+    "options": [
+      "CEN road markings (framework)",
+      "international standards for civil aviation",
+      "UTP for rail \u2014 concept",
+      "IMO codes \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0030_vkiiv",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines ICAO Annexes?",
+    "options": [
+      "UTP for rail (theory)",
+      "international standards for civil aviation",
+      "IMO codes (advanced)",
+      "CEN road markings (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0030_v58v2",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines ICAO Annexes?",
+    "options": [
+      "international standards for civil aviation",
+      "UTP for rail \u2014 concept",
+      "CEN road markings (policy)",
+      "IMO codes (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0030_v8ir0",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines ICAO Annexes?",
+    "options": [
+      "UTP for rail (policy)",
+      "international standards for civil aviation",
+      "IMO codes (framework)",
+      "CEN road markings \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0031_vtgbd",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of ICAO Annexes.",
+    "options": [
+      "CEN road markings (typically)",
+      "international standards for civil aviation",
+      "UTP for rail (policy)",
+      "IMO codes \u2014 in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0031_v0u5u",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of ICAO Annexes.",
+    "options": [
+      "IMO codes (framework)",
+      "CEN road markings \u2014 in practice",
+      "UTP for rail \u2014 concept",
+      "international standards for civil aviation"
+    ],
+    "answerIndex": 3,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0031_vys9u",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of ICAO Annexes.",
+    "options": [
+      "UTP for rail \u2014 concept",
+      "international standards for civil aviation",
+      "CEN road markings (advanced)",
+      "IMO codes \u2014 concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0031_v3u9q",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of ICAO Annexes.",
+    "options": [
+      "IMO codes \u2014 in practice",
+      "international standards for civil aviation",
+      "CEN road markings (framework)",
+      "UTP for rail (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0031_v0iaa",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of ICAO Annexes. Select the best option.",
+    "options": [
+      "CEN road markings \u2014 concept",
+      "UTP for rail \u2014 in practice",
+      "IMO codes \u2014 in practice",
+      "international standards for civil aviation"
+    ],
+    "answerIndex": 3,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0031_v9c62",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of ICAO Annexes.",
+    "options": [
+      "UTP for rail \u2014 in practice",
+      "international standards for civil aviation",
+      "IMO codes \u2014 concept",
+      "CEN road markings (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0031_vdasc",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of ICAO Annexes.",
+    "options": [
+      "international standards for civil aviation",
+      "IMO codes (framework)",
+      "UTP for rail (policy)",
+      "CEN road markings (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0031_vz30m",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of ICAO Annexes.",
+    "options": [
+      "international standards for civil aviation",
+      "CEN road markings \u2014 in practice",
+      "IMO codes (framework)",
+      "UTP for rail (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0003_ry8q6",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Level of Service (LOS).",
+    "options": [
+      "fuel tax rate (policy)",
+      "vehicle emissions only (typically)",
+      "tire pressure (advanced)",
+      "qualitative measure of traffic operating conditions"
+    ],
+    "answerIndex": 3,
+    "explanation": "qualitative measure of traffic operating conditions"
+  },
+  {
+    "id": "adv_transportation_0032_ry1d5",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Advanced transport: ICAO Annexes is mainly concerned with?",
+    "options": [
+      "IMO codes (typically)",
+      "international standards for civil aviation",
+      "CEN road markings \u2014 in practice",
+      "UTP for rail (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "international standards for civil aviation"
+  },
+  {
+    "id": "adv_transportation_0033_rmyiy",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Within transport planning, Transit-Oriented Development refers to?",
+    "options": [
+      "car-only design (advanced)",
+      "ban pedestrians \u2014 concept",
+      "dense mixed-use around transit nodes",
+      "sprawl promotion (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "dense mixed-use around transit nodes"
+  },
+  {
+    "id": "adv_transportation_0034_r3ku0",
+    "category": "cadre",
+    "cadreSlug": "transportation",
+    "topic": "Transportation",
+    "subtopic": "Policy & Operations",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Transit-Oriented Development?",
+    "options": [
+      "dense mixed-use around transit nodes",
+      "sprawl promotion (theory)",
+      "ban pedestrians (advanced)",
+      "car-only design \u2014 in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "dense mixed-use around transit nodes"
+  }
+]

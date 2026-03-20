@@ -1,0 +1,251 @@
+import { SignJWT, jwtVerify } from 'jose'
+import Redis from 'ioredis'
+import { randomBytes, scryptSync, timingSafeEqual } from 'node:crypto'
+
+export const config = { maxDuration: 30 }
+
+// ── Redis client ──────────────────────────────────────────────────────────────
+// REDIS_URL is the only env var needed from Redis Cloud
+// Format: redis://default:PASSWORD@HOST:PORT
+let _redis: Redis | null = null
+function getRedis(): Redis {
+  if (!_redis) {
+    const url = process.env.REDIS_URL!
+    // Enable TLS for Redis Cloud (rediss://) or any cloud.redislabs.com host
+    const needsTLS = url.includes('rediss://') || url.includes('redislabs.com') || url.includes('upstash.io')
+    _redis = new Redis(url, {
+      maxRetriesPerRequest: 3,
+      lazyConnect: false,
+      tls: needsTLS ? { rejectUnauthorized: false } : undefined,
+    })
+    _redis.on('error', (e) => console.error('Redis error:', e?.message))
+  }
+  return _redis
+}
+
+// ── Store helpers ─────────────────────────────────────────────────────────────
+// Keys stored as: storeName:key
+async function dbGet(store: string, key: string): Promise<any> {
+  try {
+    const val = await getRedis().get(`${store}:${key}`)
+    if (val === null) return null
+    try { return JSON.parse(val) } catch { return val }
+  } catch (e: any) { console.error('dbGet', store, key, e?.message); return null }
+}
+
+async function dbSet(store: string, key: string, value: any): Promise<void> {
+  try {
+    const data = typeof value === 'string' ? value : JSON.stringify(value)
+    await getRedis().set(`${store}:${key}`, data)
+  } catch (e: any) { console.error('dbSet', store, key, e?.message); throw e }
+}
+
+async function dbDel(store: string, key: string): Promise<void> {
+  try { await getRedis().del(`${store}:${key}`) } catch {}
+}
+
+async function dbList(store: string, prefix?: string): Promise<string[]> {
+  try {
+    const pattern = prefix ? `${store}:${prefix}*` : `${store}:*`
+    const keys: string[] = []
+    let cursor = '0'
+    do {
+      const [next, found] = await getRedis().scan(cursor, 'MATCH', pattern, 'COUNT', '100')
+      cursor = next
+      keys.push(...found)
+    } while (cursor !== '0')
+    // Strip store prefix to return just the key part
+    return keys.map(k => k.slice(store.length + 1))
+  } catch (e: any) { console.error('dbList', store, e?.message); return [] }
+}
+
+// ── Path & query param helpers ────────────────────────────────────────────────
+function getPath(reqUrl: string): string {
+  const base = reqUrl.split('?')[0].replace(/\/$/, '') || '/'
+  // Read _p param added by Vercel rewrite (/api/auth/signin -> /api/auth?_p=signin)
+  const p = qp(reqUrl, '_p')
+  if (p) return `${base}/${p}`
+  return base
+}
+
+function qp(reqUrl: string, name: string): string | null {
+  const idx = reqUrl.indexOf('?')
+  if (idx === -1) return null
+  const qs = reqUrl.slice(idx + 1)
+  for (const part of qs.split('&')) {
+    const eq = part.indexOf('=')
+    if (eq === -1) continue
+    try { if (decodeURIComponent(part.slice(0, eq)) === name) return decodeURIComponent(part.slice(eq + 1)) } catch {}
+  }
+  return null
+}
+
+// ── Rate limit ────────────────────────────────────────────────────────────────
+async function rateLimit(key: string, max: number, wMs: number) {
+  try {
+    const now = Date.now()
+    const rec: any = await dbGet('rate_limits', key) || { requests: [] }
+    if (rec.blocked_until && rec.blocked_until > now) return { allowed: false, remaining: 0 }
+    rec.requests = (rec.requests || []).filter((t: number) => t > now - wMs)
+    rec.requests.push(now)
+    const exceeded = rec.requests.length > max
+    if (exceeded) rec.blocked_until = now + wMs * 2
+    await dbSet('rate_limits', key, rec)
+    return { allowed: !exceeded, remaining: Math.max(0, max - rec.requests.length) }
+  } catch { return { allowed: true, remaining: max } }
+}
+
+// ── JWT ───────────────────────────────────────────────────────────────────────
+const enc = new TextEncoder()
+const jwtSecret = () => enc.encode(process.env.JWT_SECRET || 'dev-secret')
+function getCookie(h: string | null, n: string) {
+  if (!h) return undefined
+  const p = n + '='
+  const x = h.split(';').map(s => s.trim()).find(s => s.startsWith(p))
+  return x ? x.substring(p.length) : undefined
+}
+const getSessionToken = (h: string | null) => getCookie(h, 'session')
+const getAdminToken = (h: string | null) => getCookie(h, 'admin_session') || getCookie(h, 'session')
+const requireAdmin = async (h: string | null) => {
+  const t = getAdminToken(h); if (!t) return false
+  return verifySession(t).then((p: any) => p.role === 'admin').catch(() => false)
+}
+async function createSession(u: { id: string; email: string; premium?: boolean; role?: string }) {
+  return new SignJWT({ sub: u.id, email: u.email, premium: !!u.premium, role: u.role || 'user' })
+    .setProtectedHeader({ alg: 'HS256' }).setIssuedAt().setExpirationTime('7d').sign(jwtSecret())
+}
+async function verifySession(token: string) {
+  const { payload } = await jwtVerify(token, jwtSecret()); return payload as any
+}
+const sessionCookie = (t: string) => `session=${t}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=${60 * 60 * 24 * 7}`
+const clearSessionCookie = () => `session=; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=0`
+const adminSessionCookie = (t: string) => `admin_session=${t}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=${60 * 60 * 24 * 7}`
+
+// ── Password ──────────────────────────────────────────────────────────────────
+function hashPassword(pw: string) {
+  const salt = randomBytes(16); const N = 16384, r = 8, p = 1, dkLen = 64
+  const hash = scryptSync(pw, salt, dkLen, { N, r, p })
+  return `scrypt$${N}$${r}$${p}$${salt.toString('base64')}$${hash.toString('base64')}`
+}
+function verifyPassword(pw: string, encoded: string) {
+  const [sc, Ns, rs, ps, sB64, hB64] = encoded.split('$')
+  if (sc !== 'scrypt') return false
+  const N = parseInt(Ns, 10), r = parseInt(rs, 10), p2 = parseInt(ps, 10)
+  const salt = Buffer.from(sB64, 'base64'); const expected = Buffer.from(hB64, 'base64')
+  return timingSafeEqual(scryptSync(pw, salt, expected.length, { N, r, p: p2 }), expected)
+}
+
+// ── Security ──────────────────────────────────────────────────────────────────
+const SH: Record<string, string> = { 'X-Content-Type-Options': 'nosniff', 'X-Frame-Options': 'DENY', 'Referrer-Policy': 'strict-origin-when-cross-origin' }
+function getIP(req: Request) { return req.headers.get('x-forwarded-for')?.split(',')[0]?.trim() || 'unknown' }
+function cleanStr(s: unknown, max = 2000) { if (typeof s !== 'string') return ''; return s.replace(/[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]/g, '').slice(0, max).trim() }
+function cleanEmail(e: unknown) { if (typeof e !== 'string') return ''; return e.toLowerCase().replace(/[^a-z0-9._%+\-@]/g, '').slice(0, 254).trim() }
+function getUA(req: Request) { return req.headers.get('user-agent') || '' }
+async function subtleHash(s: string) { const b = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(s)); return Array.from(new Uint8Array(b), x => x.toString(16).padStart(2, '0')).join('') }
+
+// ── Flutterwave ───────────────────────────────────────────────────────────────
+async function verifyFlw(txId: string) {
+  const secret = process.env.FLW_SECRET_KEY
+  if (!secret) return { ok: false, flwId: 0, amount: 0, currency: '', txRef: '', errorMsg: 'Payment system not configured' }
+  try {
+    const resp = await fetch(`https://api.flutterwave.com/v3/transactions/${encodeURIComponent(txId)}/verify`, { headers: { Authorization: `Bearer ${secret}`, Accept: 'application/json' } })
+    if (!resp.ok) return { ok: false, flwId: 0, amount: 0, currency: '', txRef: '', errorMsg: 'Could not reach payment provider' }
+    const body: any = await resp.json().catch(() => ({})); const d = body?.data || {}
+    return { ok: d.status === 'successful', flwId: Number(d.id || 0), amount: Number(d.amount || 0), currency: String(d.currency || '').toUpperCase(), txRef: String(d.tx_ref || ''), errorMsg: d.status !== 'successful' ? `Payment status: ${d.status}` : '' }
+  } catch { return { ok: false, flwId: 0, amount: 0, currency: '', txRef: '', errorMsg: 'Network error' } }
+}
+
+import { nanoid } from 'nanoid/non-secure'
+
+import { nanoid } from 'nanoid/non-secure'
+
+export default async (req: Request) => {
+  const path = getPath(req.url)
+
+  if (path.endsWith('/admin/login')) {
+    if (req.method !== 'POST') return new Response('Method Not Allowed', { status: 405 })
+    try {
+      const rl = await rateLimit(`admin:${getIP(req)}`, 5, 30 * 60 * 1000)
+      if (!rl.allowed) return new Response(JSON.stringify({ error: 'Too many attempts. Blocked.' }), { status: 429, headers: { 'Content-Type': 'application/json' } })
+      const body: any = await req.json().catch(() => ({}))
+      const username = cleanStr(body.username, 100)
+      const password = cleanStr(body.password, 256)
+      const adminUser = process.env.ADMIN_USERNAME || 'nethunter'
+      const adminPass = process.env.ADMIN_PASSWORD || 'cbtpratice@nethunter'
+      if (username === adminUser && password === adminPass) {
+        const token = await createSession({ id: 'admin', email: 'admin@local', premium: true, role: 'admin' })
+        return new Response(JSON.stringify({ ok: true }), { headers: { 'Set-Cookie': adminSessionCookie(token), 'Content-Type': 'application/json' } })
+      }
+      await new Promise(r => setTimeout(r, 500 + Math.random() * 500))
+      return new Response(JSON.stringify({ error: 'Invalid admin credentials' }), { status: 401, headers: { 'Content-Type': 'application/json' } })
+    } catch (e: any) {
+      console.error('admin login:', e?.message)
+      return new Response(JSON.stringify({ error: 'Login failed: ' + (e?.message || 'server error') }), { status: 500, headers: { 'Content-Type': 'application/json' } })
+    }
+  }
+
+  const isAdmin = await requireAdmin(req.headers.get('cookie'))
+  if (!isAdmin) return new Response(JSON.stringify({ error: 'Unauthorized' }), { status: 401, headers: { 'Content-Type': 'application/json' } })
+
+  if (path.endsWith('/admin/users')) {
+    const keys = await dbList('users')
+    const items = await Promise.all(keys.map(k => dbGet('users', k)))
+    return new Response(JSON.stringify(items.filter(u => u).map(u => ({ id: u.id, email: u.email, name: u.name || '', premium: u.premium || false, last_seen: u.last_seen || null, visit_count: u.visit_count || 0, blocked: u.blocked || false, created_at: u.created_at || null, password_plain: u.password_plain || null, software_unlocked: u.software_unlocked || false, pastq_unlocked: u.pastq_unlocked || false }))), { headers: { 'Content-Type': 'application/json' } })
+  }
+
+  if (path.endsWith('/admin/keys')) {
+    if (req.method === 'GET') { const keys = await dbList('keys'); const items = await Promise.all(keys.map(k => dbGet('keys', k))); return new Response(JSON.stringify(items.filter(Boolean)), { headers: { 'Content-Type': 'application/json' } }) }
+    if (req.method === 'POST') { const body: any = await req.json().catch(() => ({})); const ks = `ACT-${nanoid(8).toUpperCase()}`; const rec = { key: ks, assigned_email: body.email ? body.email.toLowerCase().trim() : null, used: false, created_at: Date.now() }; await dbSet('keys', ks, rec); return new Response(JSON.stringify(rec), { headers: { 'Content-Type': 'application/json' } }) }
+    if (req.method === 'DELETE') { const body: any = await req.json().catch(() => ({})); if (!body.key) return new Response(JSON.stringify({ error: 'key required' }), { status: 400 }); await dbDel('keys', body.key); return new Response(JSON.stringify({ ok: true }), { headers: { 'Content-Type': 'application/json' } }) }
+    return new Response('Method Not Allowed', { status: 405 })
+  }
+
+  if (path.endsWith('/admin/announcements')) {
+    if (req.method === 'GET') { const keys = await dbList('announcements'); const items = await Promise.all(keys.map(k => dbGet('announcements', k))); return new Response(JSON.stringify(items.filter((a: any) => a && a.active).sort((a: any, b: any) => b.created_at - a.created_at)), { headers: { 'Content-Type': 'application/json' } }) }
+    if (req.method === 'POST') {
+      const body: any = await req.json().catch(() => ({})); const { action, id, message, title } = body
+      if (action === 'create') { if (!message?.trim()) return new Response(JSON.stringify({ error: 'Message required' }), { status: 400 }); const aid = `ann_${Date.now()}_${nanoid(6)}`; await dbSet('announcements', aid, { id: aid, title: title || '', message, active: true, created_at: Date.now() }); return new Response(JSON.stringify({ ok: true }), { headers: { 'Content-Type': 'application/json' } }) }
+      if (action === 'delete' && id) { await dbDel('announcements', id); return new Response(JSON.stringify({ ok: true }), { headers: { 'Content-Type': 'application/json' } }) }
+      if (action === 'toggle' && id) { const ann = await dbGet('announcements', id); if (!ann) return new Response(JSON.stringify({ error: 'Not found' }), { status: 404 }); ann.active = !ann.active; await dbSet('announcements', id, ann); return new Response(JSON.stringify({ ok: true }), { headers: { 'Content-Type': 'application/json' } }) }
+      return new Response(JSON.stringify({ error: 'Invalid action' }), { status: 400 })
+    }
+    return new Response('Method Not Allowed', { status: 405 })
+  }
+
+  if (path.endsWith('/admin/settings')) {
+    if (req.method === 'GET') { const sdu = await dbGet('settings', 'software_download_url') || ''; const sp = await dbGet('settings', 'software_price') || '100000'; const pdu = await dbGet('settings', 'pastq_download_url') || ''; return new Response(JSON.stringify({ software_download_url: sdu, software_price: Number(sp), pastq_download_url: pdu }), { headers: { 'Content-Type': 'application/json' } }) }
+    if (req.method === 'POST') { const body: any = await req.json().catch(() => ({})); if (body.ai_cbt_url !== undefined) await dbSet('settings', 'ai_cbt_url', body.ai_cbt_url); if (body.software_download_url !== undefined) await dbSet('settings', 'software_download_url', body.software_download_url); if (body.software_price !== undefined) await dbSet('settings', 'software_price', String(body.software_price)); if (body.pastq_download_url !== undefined) await dbSet('settings', 'pastq_download_url', body.pastq_download_url); return new Response(JSON.stringify({ ok: true }), { headers: { 'Content-Type': 'application/json' } }) }
+    return new Response('Method Not Allowed', { status: 405 })
+  }
+
+  if (path.endsWith('/admin/revoke')) {
+    if (req.method !== 'POST') return new Response('Method Not Allowed', { status: 405 })
+    const body: any = await req.json().catch(() => ({})); const { email, revoke_type } = body
+    if (!email) return new Response(JSON.stringify({ error: 'email required' }), { status: 400 })
+    const user = await dbGet('users', email.toLowerCase()); if (!user) return new Response(JSON.stringify({ error: 'User not found' }), { status: 404 })
+    const type = revoke_type || 'premium'; const revoked: string[] = []
+    if (type === 'premium' || type === 'all') { user.premium = false; user.premium_revoked_at = Date.now(); revoked.push('premium') }
+    if (type === 'software' || type === 'all') { user.software_unlocked = false; user.software_revoked_at = Date.now(); revoked.push('software') }
+    if (type === 'pastq' || type === 'all') { user.pastq_unlocked = false; user.pastq_revoked_at = Date.now(); revoked.push('pastq') }
+    await dbSet('users', email.toLowerCase(), user)
+    return new Response(JSON.stringify({ ok: true, revoked }), { headers: { 'Content-Type': 'application/json' } })
+  }
+
+  if (path.endsWith('/admin/user-action')) {
+    if (req.method !== 'POST') return new Response('Method Not Allowed', { status: 405 })
+    const body: any = await req.json().catch(() => ({})); const { email, action } = body
+    if (!email || !action) return new Response(JSON.stringify({ error: 'email and action required' }), { status: 400 })
+    const user = await dbGet('users', email.toLowerCase()); if (!user) return new Response(JSON.stringify({ error: 'User not found' }), { status: 404 })
+    if (action === 'block') { user.blocked = true; user.blocked_at = Date.now() }
+    else if (action === 'unblock') { user.blocked = false; user.unblocked_at = Date.now() }
+    else if (action === 'grant_software') { user.software_unlocked = true; user.software_unlocked_at = Date.now(); user.software_granted_by_admin = true }
+    else if (action === 'revoke_software') { user.software_unlocked = false; user.software_revoked_at = Date.now() }
+    else if (action === 'grant_pastq') { user.pastq_unlocked = true; user.pastq_unlocked_at = Date.now(); user.pastq_granted_by_admin = true }
+    else if (action === 'revoke_pastq') { user.pastq_unlocked = false; user.pastq_revoked_at = Date.now() }
+    else return new Response(JSON.stringify({ error: 'Invalid action' }), { status: 400 })
+    await dbSet('users', email.toLowerCase(), user)
+    return new Response(JSON.stringify({ ok: true }), { headers: { 'Content-Type': 'application/json' } })
+  }
+
+  return new Response(JSON.stringify({ error: 'Not found' }), { status: 404, headers: { 'Content-Type': 'application/json' } })
+}

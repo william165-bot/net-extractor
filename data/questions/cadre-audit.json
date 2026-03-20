@@ -1,0 +1,4252 @@
+[
+  {
+    "id": "adv_audit_0001",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 315 risk assessment?",
+    "options": [
+      "prepare IFRS primary statements",
+      "identify and assess risks of material misstatement",
+      "determine tax rates",
+      "select audit team pay"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0005",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 330 responses?",
+    "options": [
+      "set FX policy",
+      "approve dividends",
+      "calculate budget variances",
+      "design and implement responses to assessed risks"
+    ],
+    "answerIndex": 3,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0009",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 240 fraud?",
+    "options": [
+      "rely solely on management",
+      "maintain professional skepticism and perform fraud procedures",
+      "ignore red flags",
+      "omit revenue tests"
+    ],
+    "answerIndex": 1,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0013",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 540 estimates?",
+    "options": [
+      "evaluate reasonableness of accounting estimates",
+      "recompute VAT only",
+      "audit payroll only",
+      "confirm cash only"
+    ],
+    "answerIndex": 0,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0017",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 500 evidence?",
+    "options": [
+      "use management assertions solely",
+      "avoid third-party confirms",
+      "obtain minimal evidence",
+      "obtain sufficient appropriate audit evidence"
+    ],
+    "answerIndex": 3,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0021",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 530 sampling?",
+    "options": [
+      "pick consecutive items only",
+      "avoid projection",
+      "select items to test and evaluate results statistically",
+      "test 100% always"
+    ],
+    "answerIndex": 2,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0025",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 520 analytics?",
+    "options": [
+      "post entries",
+      "close books",
+      "approve bonuses",
+      "develop expectations and investigate variances"
+    ],
+    "answerIndex": 3,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0029",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 320 materiality?",
+    "options": [
+      "ignore qualitative factors",
+      "use last-year profit only",
+      "set zero for all audits",
+      "set overall and performance materiality"
+    ],
+    "answerIndex": 3,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0033",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 570 going concern?",
+    "options": [
+      "ignore cash flows",
+      "assume survival always",
+      "avoid mgmt assessment",
+      "evaluate viability and related disclosures"
+    ],
+    "answerIndex": 3,
+    "explanation": "evaluate viability and related disclosures"
+  },
+  {
+    "id": "adv_audit_0037",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 701 KAM?",
+    "options": [
+      "communicate key audit matters",
+      "suppress all issues",
+      "communicate all matters",
+      "report only immaterial issues"
+    ],
+    "answerIndex": 0,
+    "explanation": "communicate key audit matters"
+  },
+  {
+    "id": "adv_audit_0041",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes COSO internal control?",
+    "options": [
+      "three components",
+      "control environment, risk assessment, control activities, info & comm, monitoring",
+      "just monitoring",
+      "ten components"
+    ],
+    "answerIndex": 1,
+    "explanation": "control environment, risk assessment, control activities, info & comm, monitoring"
+  },
+  {
+    "id": "adv_audit_0045",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Audit risk model?",
+    "options": [
+      "AR = IR + CR + DR",
+      "AR = IR × CR × DR",
+      "DR = IR + CR",
+      "IR = AR × CR × DR"
+    ],
+    "answerIndex": 1,
+    "explanation": "AR = IR × CR × DR"
+  },
+  {
+    "id": "adv_audit_0049",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Subsequent events IAS 10?",
+    "options": [
+      "disclose nothing",
+      "no events considered",
+      "only adjusting events",
+      "adjusting vs non-adjusting events"
+    ],
+    "answerIndex": 3,
+    "explanation": "adjusting vs non-adjusting events"
+  },
+  {
+    "id": "adv_audit_0053",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 230 documentation?",
+    "options": [
+      "retain 1 month only",
+      "prepare timely sufficient audit documentation",
+      "delete after sign-off",
+      "no documentation needed"
+    ],
+    "answerIndex": 1,
+    "explanation": "prepare timely sufficient audit documentation"
+  },
+  {
+    "id": "adv_audit_0057",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes SOC 1 vs SOC 2?",
+    "options": [
+      "identical scope",
+      "SOC 1 financial controls; SOC 2 security/availability/confidentiality/privacy",
+      "SOC 2 payroll only",
+      "SOC 1 privacy only"
+    ],
+    "answerIndex": 1,
+    "explanation": "SOC 1 financial controls; SOC 2 security/availability/confidentiality/privacy"
+  },
+  {
+    "id": "adv_audit_0061",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes IT general controls?",
+    "options": [
+      "CSR rules",
+      "change, access, operations controls",
+      "tax rules",
+      "marketing controls"
+    ],
+    "answerIndex": 1,
+    "explanation": "change, access, operations controls"
+  },
+  {
+    "id": "adv_audit_0065",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Kiting risk?",
+    "options": [
+      "misstatement via interbank transfers",
+      "impairment only",
+      "deferred tax error",
+      "inventory theft only"
+    ],
+    "answerIndex": 0,
+    "explanation": "misstatement via interbank transfers"
+  },
+  {
+    "id": "adv_audit_0069",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes Revenue recognition risk?",
+    "options": [
+      "cash-only business",
+      "lease classification only",
+      "equity method only",
+      "cut-off and fictitious sales"
+    ],
+    "answerIndex": 3,
+    "explanation": "cut-off and fictitious sales"
+  },
+  {
+    "id": "adv_audit_0073",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit Reporting",
+    "subtopic": "Opinions",
+    "difficulty": "advanced",
+    "question": "Which opinion is issued when misstatement is material but not pervasive?",
+    "options": [
+      "Qualified opinion",
+      "Disclaimer of opinion",
+      "Unmodified opinion",
+      "Adverse opinion"
+    ],
+    "answerIndex": 0,
+    "explanation": "Qualified vs adverse scope"
+  },
+  {
+    "id": "adv_audit_0074",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit Methodology",
+    "subtopic": "Ethics",
+    "difficulty": "advanced",
+    "question": "What does professional skepticism require?",
+    "options": [
+      "Questioning mind and critical assessment of evidence",
+      "Rely on prior year only",
+      "Accept explanations without corroboration",
+      "Trust management fully"
+    ],
+    "answerIndex": 0,
+    "explanation": "As defined in ISA 200"
+  },
+  {
+    "id": "adv_audit_0001_vhqzj",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes ISA 315 risk assessment?",
+    "options": [
+      "identify and assess risks of material misstatement",
+      "select audit team pay (policy)",
+      "determine tax rates (theory)",
+      "prepare IFRS primary statements (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0001_vafpn",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes ISA 315 risk assessment?",
+    "options": [
+      "select audit team pay (advanced)",
+      "prepare IFRS primary statements (policy)",
+      "determine tax rates (framework)",
+      "identify and assess risks of material misstatement"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0001_vb7jw",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes ISA 315 risk assessment?",
+    "options": [
+      "select audit team pay — in practice",
+      "prepare IFRS primary statements (framework)",
+      "identify and assess risks of material misstatement",
+      "determine tax rates (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0001_vo3oz",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 315 risk assessment? Select the best option.",
+    "options": [
+      "select audit team pay (policy)",
+      "determine tax rates (typically)",
+      "prepare IFRS primary statements — in practice",
+      "identify and assess risks of material misstatement"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0001_vf47y",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 315 risk assessment? Choose the most accurate answer.",
+    "options": [
+      "identify and assess risks of material misstatement",
+      "prepare IFRS primary statements (framework)",
+      "determine tax rates (theory)",
+      "select audit team pay (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0001_vnf20",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes ISA 315 risk assessment?",
+    "options": [
+      "identify and assess risks of material misstatement",
+      "determine tax rates (theory)",
+      "prepare IFRS primary statements (policy)",
+      "select audit team pay (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0001_vp5zp",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes ISA 315 risk assessment?",
+    "options": [
+      "select audit team pay — concept",
+      "identify and assess risks of material misstatement",
+      "prepare IFRS primary statements (advanced)",
+      "determine tax rates — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0001_vj4dx",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes ISA 315 risk assessment?",
+    "options": [
+      "prepare IFRS primary statements (theory)",
+      "determine tax rates — concept",
+      "identify and assess risks of material misstatement",
+      "select audit team pay (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0002_vim83",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 315 risk assessment?",
+    "options": [
+      "prepare IFRS primary statements — concept",
+      "identify and assess risks of material misstatement",
+      "determine tax rates (policy)",
+      "select audit team pay (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0002_vbi96",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Under auditing standards, what is required for ISA 315 risk assessment?",
+    "options": [
+      "select audit team pay (policy)",
+      "prepare IFRS primary statements — in practice",
+      "identify and assess risks of material misstatement",
+      "determine tax rates — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0002_v01xd",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Under auditing standards, what is required for ISA 315 risk assessment?",
+    "options": [
+      "prepare IFRS primary statements — concept",
+      "identify and assess risks of material misstatement",
+      "determine tax rates (policy)",
+      "select audit team pay (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0002_v9q6h",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 315 risk assessment? Select the best option.",
+    "options": [
+      "determine tax rates — concept",
+      "identify and assess risks of material misstatement",
+      "prepare IFRS primary statements (typically)",
+      "select audit team pay (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0002_vf9tm",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 315 risk assessment? Choose the most accurate answer.",
+    "options": [
+      "select audit team pay (framework)",
+      "prepare IFRS primary statements (typically)",
+      "identify and assess risks of material misstatement",
+      "determine tax rates — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0002_vqzkr",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Under auditing standards, what is required for ISA 315 risk assessment?",
+    "options": [
+      "determine tax rates (policy)",
+      "prepare IFRS primary statements (advanced)",
+      "select audit team pay (theory)",
+      "identify and assess risks of material misstatement"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0002_v6ovi",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Under auditing standards, what is required for ISA 315 risk assessment?",
+    "options": [
+      "determine tax rates (framework)",
+      "select audit team pay — concept",
+      "prepare IFRS primary statements (typically)",
+      "identify and assess risks of material misstatement"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0003_vdpu9",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 315 risk assessment.",
+    "options": [
+      "prepare IFRS primary statements — concept",
+      "identify and assess risks of material misstatement",
+      "select audit team pay (typically)",
+      "determine tax rates (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0003_vt6dn",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced audit: select the accurate assertion about ISA 315 risk assessment.",
+    "options": [
+      "prepare IFRS primary statements (theory)",
+      "determine tax rates (typically)",
+      "select audit team pay (advanced)",
+      "identify and assess risks of material misstatement"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0003_vo9hf",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 315 risk assessment. Select the best option.",
+    "options": [
+      "identify and assess risks of material misstatement",
+      "determine tax rates (policy)",
+      "select audit team pay (framework)",
+      "prepare IFRS primary statements (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0003_vev2m",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 315 risk assessment. Choose the most accurate answer.",
+    "options": [
+      "prepare IFRS primary statements (policy)",
+      "identify and assess risks of material misstatement",
+      "determine tax rates (theory)",
+      "select audit team pay (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0004_vrncw",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 315 risk assessment primarily involves what?",
+    "options": [
+      "identify and assess risks of material misstatement",
+      "select audit team pay (advanced)",
+      "determine tax rates (policy)",
+      "prepare IFRS primary statements (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0004_vbdk0",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: In ISA guidance, ISA 315 risk assessment primarily involves what?",
+    "options": [
+      "prepare IFRS primary statements (theory)",
+      "identify and assess risks of material misstatement",
+      "select audit team pay (advanced)",
+      "determine tax rates (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0004_vrk9m",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Within ISA guidance, ISA 315 risk assessment primarily involves what?",
+    "options": [
+      "identify and assess risks of material misstatement",
+      "prepare IFRS primary statements (theory)",
+      "select audit team pay — concept",
+      "determine tax rates (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0004_vjsn4",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: In ISA guidance, ISA 315 risk assessment primarily involves what?",
+    "options": [
+      "identify and assess risks of material misstatement",
+      "select audit team pay (policy)",
+      "prepare IFRS primary statements — concept",
+      "determine tax rates (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0004_vs57u",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 315 risk assessment primarily involves what? Select the best option.",
+    "options": [
+      "determine tax rates (typically)",
+      "identify and assess risks of material misstatement",
+      "prepare IFRS primary statements (typically)",
+      "select audit team pay (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0004_vuov6",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 315 risk assessment primarily involves what? Choose the most accurate answer.",
+    "options": [
+      "identify and assess risks of material misstatement",
+      "determine tax rates — in practice",
+      "prepare IFRS primary statements (theory)",
+      "select audit team pay (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0004_veyjl",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: In ISA guidance, ISA 315 risk assessment primarily involves what?",
+    "options": [
+      "determine tax rates — concept",
+      "prepare IFRS primary statements (framework)",
+      "identify and assess risks of material misstatement",
+      "select audit team pay — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0004_ve09f",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: In ISA guidance, ISA 315 risk assessment primarily involves what?",
+    "options": [
+      "determine tax rates (framework)",
+      "select audit team pay (policy)",
+      "prepare IFRS primary statements — concept",
+      "identify and assess risks of material misstatement"
+    ],
+    "answerIndex": 3,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0005_vyfd4",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes ISA 330 responses?",
+    "options": [
+      "design and implement responses to assessed risks",
+      "approve dividends (theory)",
+      "calculate budget variances (framework)",
+      "set FX policy (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0005_vli91",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes ISA 330 responses?",
+    "options": [
+      "calculate budget variances (framework)",
+      "approve dividends (typically)",
+      "design and implement responses to assessed risks",
+      "set FX policy (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0005_vgo42",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes ISA 330 responses?",
+    "options": [
+      "set FX policy (typically)",
+      "calculate budget variances — in practice",
+      "design and implement responses to assessed risks",
+      "approve dividends — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0005_vaut7",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 330 responses? Select the best option.",
+    "options": [
+      "approve dividends (advanced)",
+      "design and implement responses to assessed risks",
+      "set FX policy (framework)",
+      "calculate budget variances (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0005_v66lq",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 330 responses? Choose the most accurate answer.",
+    "options": [
+      "set FX policy — concept",
+      "design and implement responses to assessed risks",
+      "calculate budget variances (typically)",
+      "approve dividends (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0005_v3w79",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes ISA 330 responses?",
+    "options": [
+      "approve dividends — concept",
+      "set FX policy — in practice",
+      "calculate budget variances — concept",
+      "design and implement responses to assessed risks"
+    ],
+    "answerIndex": 3,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0005_v8689",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes ISA 330 responses?",
+    "options": [
+      "calculate budget variances (advanced)",
+      "design and implement responses to assessed risks",
+      "approve dividends — concept",
+      "set FX policy — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0005_v5vry",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes ISA 330 responses?",
+    "options": [
+      "design and implement responses to assessed risks",
+      "set FX policy (theory)",
+      "approve dividends (policy)",
+      "calculate budget variances (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0006_vgw1z",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 330 responses?",
+    "options": [
+      "approve dividends — in practice",
+      "design and implement responses to assessed risks",
+      "calculate budget variances (policy)",
+      "set FX policy (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0006_v148s",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Under auditing standards, what is required for ISA 330 responses?",
+    "options": [
+      "design and implement responses to assessed risks",
+      "set FX policy (framework)",
+      "approve dividends — concept",
+      "calculate budget variances — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0006_vtami",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Under auditing standards, what is required for ISA 330 responses?",
+    "options": [
+      "design and implement responses to assessed risks",
+      "set FX policy (policy)",
+      "calculate budget variances (framework)",
+      "approve dividends (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0006_vvb9k",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 330 responses? Select the best option.",
+    "options": [
+      "approve dividends (typically)",
+      "set FX policy (policy)",
+      "design and implement responses to assessed risks",
+      "calculate budget variances (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0006_vn6tx",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 330 responses? Choose the most accurate answer.",
+    "options": [
+      "design and implement responses to assessed risks",
+      "calculate budget variances — concept",
+      "set FX policy (advanced)",
+      "approve dividends (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0006_vh5rk",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Under auditing standards, what is required for ISA 330 responses?",
+    "options": [
+      "approve dividends (typically)",
+      "design and implement responses to assessed risks",
+      "set FX policy (policy)",
+      "calculate budget variances (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0006_v88pq",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Under auditing standards, what is required for ISA 330 responses?",
+    "options": [
+      "approve dividends (typically)",
+      "design and implement responses to assessed risks",
+      "set FX policy — in practice",
+      "calculate budget variances (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0007_vkpz0",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 330 responses.",
+    "options": [
+      "calculate budget variances (theory)",
+      "approve dividends — concept",
+      "set FX policy — in practice",
+      "design and implement responses to assessed risks"
+    ],
+    "answerIndex": 3,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0007_v3pje",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced audit: select the accurate assertion about ISA 330 responses.",
+    "options": [
+      "design and implement responses to assessed risks",
+      "set FX policy (theory)",
+      "approve dividends (theory)",
+      "calculate budget variances (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0007_vbkzs",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: Identify the accurate assertion about ISA 330 responses.",
+    "options": [
+      "approve dividends (theory)",
+      "calculate budget variances (policy)",
+      "design and implement responses to assessed risks",
+      "set FX policy (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0007_vasva",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 330 responses. Select the best option.",
+    "options": [
+      "set FX policy (typically)",
+      "design and implement responses to assessed risks",
+      "approve dividends (policy)",
+      "calculate budget variances (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0007_vaqi1",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 330 responses. Choose the most accurate answer.",
+    "options": [
+      "calculate budget variances (framework)",
+      "design and implement responses to assessed risks",
+      "set FX policy — concept",
+      "approve dividends (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0007_vyole",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced audit: select the accurate assertion about ISA 330 responses.",
+    "options": [
+      "approve dividends (advanced)",
+      "calculate budget variances (advanced)",
+      "set FX policy (advanced)",
+      "design and implement responses to assessed risks"
+    ],
+    "answerIndex": 3,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0007_vpimo",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced audit: select the accurate assertion about ISA 330 responses.",
+    "options": [
+      "set FX policy (policy)",
+      "design and implement responses to assessed risks",
+      "calculate budget variances — in practice",
+      "approve dividends — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0008_vzs3t",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 330 responses primarily involves what?",
+    "options": [
+      "design and implement responses to assessed risks",
+      "approve dividends (framework)",
+      "calculate budget variances (typically)",
+      "set FX policy (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0008_vyr4i",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: In ISA guidance, ISA 330 responses primarily involves what?",
+    "options": [
+      "approve dividends (typically)",
+      "design and implement responses to assessed risks",
+      "set FX policy (theory)",
+      "calculate budget variances (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0008_v66e0",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: In ISA guidance, ISA 330 responses primarily involves what?",
+    "options": [
+      "design and implement responses to assessed risks",
+      "calculate budget variances (advanced)",
+      "approve dividends — concept",
+      "set FX policy (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0008_v0bk8",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 330 responses primarily involves what? Select the best option.",
+    "options": [
+      "approve dividends (typically)",
+      "calculate budget variances (theory)",
+      "design and implement responses to assessed risks",
+      "set FX policy — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0008_vkpmn",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 330 responses primarily involves what? Choose the most accurate answer.",
+    "options": [
+      "calculate budget variances (advanced)",
+      "approve dividends (typically)",
+      "design and implement responses to assessed risks",
+      "set FX policy (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0008_vk0pf",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: In ISA guidance, ISA 330 responses primarily involves what?",
+    "options": [
+      "set FX policy — in practice",
+      "design and implement responses to assessed risks",
+      "calculate budget variances (policy)",
+      "approve dividends (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0008_vbp6c",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: In ISA guidance, ISA 330 responses primarily involves what?",
+    "options": [
+      "design and implement responses to assessed risks",
+      "approve dividends — concept",
+      "set FX policy (policy)",
+      "calculate budget variances — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "design and implement responses to assessed risks"
+  },
+  {
+    "id": "adv_audit_0009_v4tpa",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes ISA 240 fraud?",
+    "options": [
+      "maintain professional skepticism and perform fraud procedures",
+      "ignore red flags — concept",
+      "rely solely on management (theory)",
+      "omit revenue tests (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0009_vbhwz",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes ISA 240 fraud?",
+    "options": [
+      "omit revenue tests — concept",
+      "maintain professional skepticism and perform fraud procedures",
+      "ignore red flags — concept",
+      "rely solely on management — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0009_vc13g",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes ISA 240 fraud?",
+    "options": [
+      "rely solely on management (theory)",
+      "maintain professional skepticism and perform fraud procedures",
+      "ignore red flags (typically)",
+      "omit revenue tests (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0009_v8zre",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 240 fraud? Select the best option.",
+    "options": [
+      "maintain professional skepticism and perform fraud procedures",
+      "ignore red flags — in practice",
+      "omit revenue tests (framework)",
+      "rely solely on management (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0009_vbgyk",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 240 fraud? Choose the most accurate answer.",
+    "options": [
+      "omit revenue tests — concept",
+      "maintain professional skepticism and perform fraud procedures",
+      "rely solely on management (advanced)",
+      "ignore red flags (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0009_vl9do",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes ISA 240 fraud?",
+    "options": [
+      "rely solely on management (theory)",
+      "ignore red flags (typically)",
+      "omit revenue tests — in practice",
+      "maintain professional skepticism and perform fraud procedures"
+    ],
+    "answerIndex": 3,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0009_vg0k3",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes ISA 240 fraud?",
+    "options": [
+      "maintain professional skepticism and perform fraud procedures",
+      "rely solely on management — in practice",
+      "ignore red flags (theory)",
+      "omit revenue tests (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0009_v8d1i",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes ISA 240 fraud?",
+    "options": [
+      "ignore red flags — concept",
+      "maintain professional skepticism and perform fraud procedures",
+      "omit revenue tests — in practice",
+      "rely solely on management — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0010_vy4th",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 240 fraud?",
+    "options": [
+      "maintain professional skepticism and perform fraud procedures",
+      "ignore red flags (theory)",
+      "omit revenue tests (policy)",
+      "rely solely on management — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0010_v5lm9",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Under auditing standards, what is required for ISA 240 fraud?",
+    "options": [
+      "maintain professional skepticism and perform fraud procedures",
+      "rely solely on management (theory)",
+      "ignore red flags (policy)",
+      "omit revenue tests (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0010_vzy5q",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 240 fraud? Select the best option.",
+    "options": [
+      "maintain professional skepticism and perform fraud procedures",
+      "ignore red flags (theory)",
+      "rely solely on management (framework)",
+      "omit revenue tests (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0010_vwfhy",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 240 fraud? Choose the most accurate answer.",
+    "options": [
+      "ignore red flags (framework)",
+      "omit revenue tests (advanced)",
+      "maintain professional skepticism and perform fraud procedures",
+      "rely solely on management (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0010_v6nwe",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Under auditing standards, what is required for ISA 240 fraud?",
+    "options": [
+      "ignore red flags (theory)",
+      "maintain professional skepticism and perform fraud procedures",
+      "rely solely on management (framework)",
+      "omit revenue tests — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0010_vaz1w",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Under auditing standards, what is required for ISA 240 fraud?",
+    "options": [
+      "rely solely on management — in practice",
+      "ignore red flags (framework)",
+      "maintain professional skepticism and perform fraud procedures",
+      "omit revenue tests (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0011_v8qt0",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 240 fraud.",
+    "options": [
+      "rely solely on management — concept",
+      "maintain professional skepticism and perform fraud procedures",
+      "omit revenue tests — concept",
+      "ignore red flags — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0011_vac8u",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced audit: select the accurate assertion about ISA 240 fraud.",
+    "options": [
+      "omit revenue tests (framework)",
+      "maintain professional skepticism and perform fraud procedures",
+      "rely solely on management (theory)",
+      "ignore red flags (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0011_v6i82",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: Identify the accurate assertion about ISA 240 fraud.",
+    "options": [
+      "ignore red flags (advanced)",
+      "omit revenue tests (policy)",
+      "maintain professional skepticism and perform fraud procedures",
+      "rely solely on management — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0011_v4a9h",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced audit: select the accurate assertion about ISA 240 fraud.",
+    "options": [
+      "rely solely on management (typically)",
+      "maintain professional skepticism and perform fraud procedures",
+      "ignore red flags (typically)",
+      "omit revenue tests (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0011_vk5tk",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 240 fraud. Choose the most accurate answer.",
+    "options": [
+      "maintain professional skepticism and perform fraud procedures",
+      "rely solely on management (policy)",
+      "ignore red flags (typically)",
+      "omit revenue tests — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0011_vg6kg",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced audit: select the accurate assertion about ISA 240 fraud.",
+    "options": [
+      "maintain professional skepticism and perform fraud procedures",
+      "rely solely on management (framework)",
+      "ignore red flags (policy)",
+      "omit revenue tests — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0011_vxq91",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced audit: select the accurate assertion about ISA 240 fraud.",
+    "options": [
+      "maintain professional skepticism and perform fraud procedures",
+      "omit revenue tests (theory)",
+      "rely solely on management — concept",
+      "ignore red flags (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0012_vpv4i",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 240 fraud primarily involves what?",
+    "options": [
+      "maintain professional skepticism and perform fraud procedures",
+      "ignore red flags (policy)",
+      "rely solely on management (typically)",
+      "omit revenue tests (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0012_v2br5",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: In ISA guidance, ISA 240 fraud primarily involves what?",
+    "options": [
+      "ignore red flags (typically)",
+      "maintain professional skepticism and perform fraud procedures",
+      "rely solely on management (theory)",
+      "omit revenue tests (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0012_vjvzb",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Within ISA guidance, ISA 240 fraud primarily involves what?",
+    "options": [
+      "omit revenue tests (policy)",
+      "ignore red flags (policy)",
+      "rely solely on management (theory)",
+      "maintain professional skepticism and perform fraud procedures"
+    ],
+    "answerIndex": 3,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0012_vdnsa",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: In ISA guidance, ISA 240 fraud primarily involves what?",
+    "options": [
+      "rely solely on management (framework)",
+      "omit revenue tests (policy)",
+      "ignore red flags (framework)",
+      "maintain professional skepticism and perform fraud procedures"
+    ],
+    "answerIndex": 3,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0012_v6g6t",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 240 fraud primarily involves what? Select the best option.",
+    "options": [
+      "rely solely on management (theory)",
+      "omit revenue tests (policy)",
+      "maintain professional skepticism and perform fraud procedures",
+      "ignore red flags — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0012_v01ey",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 240 fraud primarily involves what? Choose the most accurate answer.",
+    "options": [
+      "rely solely on management (typically)",
+      "maintain professional skepticism and perform fraud procedures",
+      "ignore red flags (advanced)",
+      "omit revenue tests (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0012_vmcs8",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: In ISA guidance, ISA 240 fraud primarily involves what?",
+    "options": [
+      "maintain professional skepticism and perform fraud procedures",
+      "rely solely on management — in practice",
+      "ignore red flags (framework)",
+      "omit revenue tests (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0012_v8ftq",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: In ISA guidance, ISA 240 fraud primarily involves what?",
+    "options": [
+      "ignore red flags (theory)",
+      "maintain professional skepticism and perform fraud procedures",
+      "rely solely on management — in practice",
+      "omit revenue tests — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "maintain professional skepticism and perform fraud procedures"
+  },
+  {
+    "id": "adv_audit_0013_vjicl",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes ISA 540 estimates?",
+    "options": [
+      "evaluate reasonableness of accounting estimates",
+      "audit payroll only — concept",
+      "recompute VAT only (typically)",
+      "confirm cash only (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0013_vpucu",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes ISA 540 estimates?",
+    "options": [
+      "confirm cash only (theory)",
+      "recompute VAT only — in practice",
+      "evaluate reasonableness of accounting estimates",
+      "audit payroll only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0013_vmmg2",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes ISA 540 estimates?",
+    "options": [
+      "audit payroll only (theory)",
+      "recompute VAT only — in practice",
+      "evaluate reasonableness of accounting estimates",
+      "confirm cash only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0013_vmoik",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 540 estimates? Select the best option.",
+    "options": [
+      "confirm cash only (framework)",
+      "recompute VAT only (framework)",
+      "evaluate reasonableness of accounting estimates",
+      "audit payroll only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0013_v861j",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 540 estimates? Choose the most accurate answer.",
+    "options": [
+      "evaluate reasonableness of accounting estimates",
+      "confirm cash only (framework)",
+      "audit payroll only (policy)",
+      "recompute VAT only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0013_vq1e7",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes ISA 540 estimates?",
+    "options": [
+      "evaluate reasonableness of accounting estimates",
+      "recompute VAT only (theory)",
+      "audit payroll only (typically)",
+      "confirm cash only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0013_vn6o8",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes ISA 540 estimates?",
+    "options": [
+      "audit payroll only (typically)",
+      "recompute VAT only (typically)",
+      "evaluate reasonableness of accounting estimates",
+      "confirm cash only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0013_vjykw",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes ISA 540 estimates?",
+    "options": [
+      "recompute VAT only (policy)",
+      "audit payroll only (framework)",
+      "confirm cash only (theory)",
+      "evaluate reasonableness of accounting estimates"
+    ],
+    "answerIndex": 3,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0014_v5tn1",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 540 estimates?",
+    "options": [
+      "audit payroll only — concept",
+      "recompute VAT only (advanced)",
+      "confirm cash only (policy)",
+      "evaluate reasonableness of accounting estimates"
+    ],
+    "answerIndex": 3,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0014_v9zuo",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Under auditing standards, what is required for ISA 540 estimates?",
+    "options": [
+      "recompute VAT only — concept",
+      "confirm cash only (advanced)",
+      "evaluate reasonableness of accounting estimates",
+      "audit payroll only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0014_v8gcw",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Under auditing standards, what is required for ISA 540 estimates?",
+    "options": [
+      "confirm cash only (typically)",
+      "evaluate reasonableness of accounting estimates",
+      "audit payroll only (typically)",
+      "recompute VAT only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0014_vd2uh",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 540 estimates? Select the best option.",
+    "options": [
+      "audit payroll only — concept",
+      "evaluate reasonableness of accounting estimates",
+      "confirm cash only — in practice",
+      "recompute VAT only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0014_vccgd",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 540 estimates? Choose the most accurate answer.",
+    "options": [
+      "evaluate reasonableness of accounting estimates",
+      "audit payroll only (framework)",
+      "confirm cash only (policy)",
+      "recompute VAT only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0014_vkgey",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Under auditing standards, what is required for ISA 540 estimates?",
+    "options": [
+      "confirm cash only — in practice",
+      "evaluate reasonableness of accounting estimates",
+      "recompute VAT only (policy)",
+      "audit payroll only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0014_vihb6",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Under auditing standards, what is required for ISA 540 estimates?",
+    "options": [
+      "confirm cash only — in practice",
+      "evaluate reasonableness of accounting estimates",
+      "recompute VAT only — in practice",
+      "audit payroll only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0015_vqqdi",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 540 estimates.",
+    "options": [
+      "confirm cash only (typically)",
+      "evaluate reasonableness of accounting estimates",
+      "recompute VAT only (policy)",
+      "audit payroll only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0015_v08fr",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced audit: select the accurate assertion about ISA 540 estimates.",
+    "options": [
+      "audit payroll only (advanced)",
+      "recompute VAT only (policy)",
+      "confirm cash only — concept",
+      "evaluate reasonableness of accounting estimates"
+    ],
+    "answerIndex": 3,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0015_v94ps",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: Identify the accurate assertion about ISA 540 estimates.",
+    "options": [
+      "audit payroll only — concept",
+      "confirm cash only — in practice",
+      "recompute VAT only (theory)",
+      "evaluate reasonableness of accounting estimates"
+    ],
+    "answerIndex": 3,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0015_vgyuc",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced audit: select the accurate assertion about ISA 540 estimates.",
+    "options": [
+      "confirm cash only (policy)",
+      "evaluate reasonableness of accounting estimates",
+      "recompute VAT only (framework)",
+      "audit payroll only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0015_vkvxt",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 540 estimates. Select the best option.",
+    "options": [
+      "evaluate reasonableness of accounting estimates",
+      "confirm cash only (typically)",
+      "recompute VAT only — in practice",
+      "audit payroll only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0015_vf0o4",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 540 estimates. Choose the most accurate answer.",
+    "options": [
+      "audit payroll only (theory)",
+      "recompute VAT only (advanced)",
+      "evaluate reasonableness of accounting estimates",
+      "confirm cash only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0015_vdvsn",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced audit: select the accurate assertion about ISA 540 estimates.",
+    "options": [
+      "evaluate reasonableness of accounting estimates",
+      "audit payroll only — in practice",
+      "confirm cash only (framework)",
+      "recompute VAT only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0015_vx0a4",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced audit: select the accurate assertion about ISA 540 estimates.",
+    "options": [
+      "confirm cash only — concept",
+      "recompute VAT only — in practice",
+      "evaluate reasonableness of accounting estimates",
+      "audit payroll only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0016_v2d8g",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 540 estimates primarily involves what?",
+    "options": [
+      "recompute VAT only (framework)",
+      "audit payroll only (framework)",
+      "evaluate reasonableness of accounting estimates",
+      "confirm cash only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0016_vuecl",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Within ISA guidance, ISA 540 estimates primarily involves what?",
+    "options": [
+      "confirm cash only (theory)",
+      "recompute VAT only (advanced)",
+      "audit payroll only (framework)",
+      "evaluate reasonableness of accounting estimates"
+    ],
+    "answerIndex": 3,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0016_vnc5f",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: In ISA guidance, ISA 540 estimates primarily involves what?",
+    "options": [
+      "confirm cash only — concept",
+      "evaluate reasonableness of accounting estimates",
+      "recompute VAT only (theory)",
+      "audit payroll only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0016_ve5ti",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 540 estimates primarily involves what? Select the best option.",
+    "options": [
+      "audit payroll only (theory)",
+      "recompute VAT only (policy)",
+      "confirm cash only — concept",
+      "evaluate reasonableness of accounting estimates"
+    ],
+    "answerIndex": 3,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0016_vsgyw",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 540 estimates primarily involves what? Choose the most accurate answer.",
+    "options": [
+      "audit payroll only (typically)",
+      "recompute VAT only (advanced)",
+      "confirm cash only (typically)",
+      "evaluate reasonableness of accounting estimates"
+    ],
+    "answerIndex": 3,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0016_vznhh",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: In ISA guidance, ISA 540 estimates primarily involves what?",
+    "options": [
+      "confirm cash only (policy)",
+      "audit payroll only (theory)",
+      "recompute VAT only — concept",
+      "evaluate reasonableness of accounting estimates"
+    ],
+    "answerIndex": 3,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0016_vnctb",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: In ISA guidance, ISA 540 estimates primarily involves what?",
+    "options": [
+      "confirm cash only (framework)",
+      "recompute VAT only (advanced)",
+      "evaluate reasonableness of accounting estimates",
+      "audit payroll only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "evaluate reasonableness of accounting estimates"
+  },
+  {
+    "id": "adv_audit_0017_v5gkf",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes ISA 500 evidence?",
+    "options": [
+      "avoid third-party confirms (advanced)",
+      "use management assertions solely (policy)",
+      "obtain minimal evidence — concept",
+      "obtain sufficient appropriate audit evidence"
+    ],
+    "answerIndex": 3,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0017_vmw84",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes ISA 500 evidence?",
+    "options": [
+      "obtain minimal evidence (framework)",
+      "use management assertions solely — concept",
+      "avoid third-party confirms (advanced)",
+      "obtain sufficient appropriate audit evidence"
+    ],
+    "answerIndex": 3,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0017_vtd2o",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes ISA 500 evidence?",
+    "options": [
+      "use management assertions solely — concept",
+      "obtain sufficient appropriate audit evidence",
+      "obtain minimal evidence — concept",
+      "avoid third-party confirms (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0017_vtquh",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 500 evidence? Select the best option.",
+    "options": [
+      "obtain minimal evidence (advanced)",
+      "use management assertions solely (policy)",
+      "avoid third-party confirms — concept",
+      "obtain sufficient appropriate audit evidence"
+    ],
+    "answerIndex": 3,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0017_vgfu7",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 500 evidence? Choose the most accurate answer.",
+    "options": [
+      "obtain minimal evidence — concept",
+      "use management assertions solely (policy)",
+      "avoid third-party confirms — in practice",
+      "obtain sufficient appropriate audit evidence"
+    ],
+    "answerIndex": 3,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0017_ve6k3",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes ISA 500 evidence?",
+    "options": [
+      "avoid third-party confirms (advanced)",
+      "obtain sufficient appropriate audit evidence",
+      "use management assertions solely (theory)",
+      "obtain minimal evidence — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0017_vwomi",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes ISA 500 evidence?",
+    "options": [
+      "obtain sufficient appropriate audit evidence",
+      "avoid third-party confirms (theory)",
+      "obtain minimal evidence — in practice",
+      "use management assertions solely (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0017_v91um",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes ISA 500 evidence?",
+    "options": [
+      "use management assertions solely (typically)",
+      "obtain minimal evidence (advanced)",
+      "avoid third-party confirms — in practice",
+      "obtain sufficient appropriate audit evidence"
+    ],
+    "answerIndex": 3,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0018_v9g93",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 500 evidence?",
+    "options": [
+      "obtain minimal evidence — concept",
+      "avoid third-party confirms — in practice",
+      "obtain sufficient appropriate audit evidence",
+      "use management assertions solely (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0018_vrpfw",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Under auditing standards, what is required for ISA 500 evidence?",
+    "options": [
+      "use management assertions solely — in practice",
+      "obtain sufficient appropriate audit evidence",
+      "avoid third-party confirms (policy)",
+      "obtain minimal evidence — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0018_vr6pj",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Under auditing standards, what is required for ISA 500 evidence?",
+    "options": [
+      "obtain sufficient appropriate audit evidence",
+      "avoid third-party confirms — in practice",
+      "obtain minimal evidence — concept",
+      "use management assertions solely — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0018_vn2sn",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 500 evidence? Select the best option.",
+    "options": [
+      "use management assertions solely (theory)",
+      "avoid third-party confirms — in practice",
+      "obtain sufficient appropriate audit evidence",
+      "obtain minimal evidence — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0018_v7o1h",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 500 evidence? Choose the most accurate answer.",
+    "options": [
+      "obtain minimal evidence — in practice",
+      "obtain sufficient appropriate audit evidence",
+      "avoid third-party confirms (advanced)",
+      "use management assertions solely (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0018_vpdl3",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Under auditing standards, what is required for ISA 500 evidence?",
+    "options": [
+      "obtain sufficient appropriate audit evidence",
+      "avoid third-party confirms (advanced)",
+      "obtain minimal evidence (framework)",
+      "use management assertions solely — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0018_vnsi0",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Under auditing standards, what is required for ISA 500 evidence?",
+    "options": [
+      "use management assertions solely (policy)",
+      "avoid third-party confirms (advanced)",
+      "obtain minimal evidence (policy)",
+      "obtain sufficient appropriate audit evidence"
+    ],
+    "answerIndex": 3,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0019_vck23",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 500 evidence.",
+    "options": [
+      "use management assertions solely (advanced)",
+      "obtain minimal evidence (typically)",
+      "avoid third-party confirms (theory)",
+      "obtain sufficient appropriate audit evidence"
+    ],
+    "answerIndex": 3,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0019_vd7o7",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced audit: select the accurate assertion about ISA 500 evidence.",
+    "options": [
+      "obtain sufficient appropriate audit evidence",
+      "avoid third-party confirms (framework)",
+      "use management assertions solely (framework)",
+      "obtain minimal evidence (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0019_vg9rh",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: Identify the accurate assertion about ISA 500 evidence.",
+    "options": [
+      "avoid third-party confirms (typically)",
+      "use management assertions solely (framework)",
+      "obtain minimal evidence (advanced)",
+      "obtain sufficient appropriate audit evidence"
+    ],
+    "answerIndex": 3,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0019_v4x6v",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced audit: select the accurate assertion about ISA 500 evidence.",
+    "options": [
+      "use management assertions solely (typically)",
+      "obtain sufficient appropriate audit evidence",
+      "obtain minimal evidence (advanced)",
+      "avoid third-party confirms (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0019_v8mxt",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 500 evidence. Select the best option.",
+    "options": [
+      "obtain sufficient appropriate audit evidence",
+      "use management assertions solely (policy)",
+      "avoid third-party confirms (policy)",
+      "obtain minimal evidence — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0019_vffot",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced audit: select the accurate assertion about ISA 500 evidence.",
+    "options": [
+      "obtain sufficient appropriate audit evidence",
+      "obtain minimal evidence (advanced)",
+      "avoid third-party confirms (typically)",
+      "use management assertions solely (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0019_v5cim",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced audit: select the accurate assertion about ISA 500 evidence.",
+    "options": [
+      "use management assertions solely — concept",
+      "obtain sufficient appropriate audit evidence",
+      "avoid third-party confirms — concept",
+      "obtain minimal evidence — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0020_vpcy2",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 500 evidence primarily involves what?",
+    "options": [
+      "use management assertions solely — concept",
+      "obtain minimal evidence (typically)",
+      "obtain sufficient appropriate audit evidence",
+      "avoid third-party confirms (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0020_v4zky",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: In ISA guidance, ISA 500 evidence primarily involves what?",
+    "options": [
+      "avoid third-party confirms — in practice",
+      "use management assertions solely (framework)",
+      "obtain minimal evidence (framework)",
+      "obtain sufficient appropriate audit evidence"
+    ],
+    "answerIndex": 3,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0020_vqpsx",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Within ISA guidance, ISA 500 evidence primarily involves what?",
+    "options": [
+      "avoid third-party confirms — concept",
+      "use management assertions solely — in practice",
+      "obtain minimal evidence (policy)",
+      "obtain sufficient appropriate audit evidence"
+    ],
+    "answerIndex": 3,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0020_vlzgf",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 500 evidence primarily involves what? Select the best option.",
+    "options": [
+      "obtain sufficient appropriate audit evidence",
+      "obtain minimal evidence (typically)",
+      "avoid third-party confirms (theory)",
+      "use management assertions solely (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0020_veex1",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 500 evidence primarily involves what? Choose the most accurate answer.",
+    "options": [
+      "obtain minimal evidence (typically)",
+      "obtain sufficient appropriate audit evidence",
+      "avoid third-party confirms — in practice",
+      "use management assertions solely (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0020_vzy9v",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: In ISA guidance, ISA 500 evidence primarily involves what?",
+    "options": [
+      "obtain sufficient appropriate audit evidence",
+      "avoid third-party confirms (advanced)",
+      "obtain minimal evidence (framework)",
+      "use management assertions solely (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0020_vh2s1",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: In ISA guidance, ISA 500 evidence primarily involves what?",
+    "options": [
+      "avoid third-party confirms (framework)",
+      "use management assertions solely — in practice",
+      "obtain sufficient appropriate audit evidence",
+      "obtain minimal evidence — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "obtain sufficient appropriate audit evidence"
+  },
+  {
+    "id": "adv_audit_0021_vw9kl",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes ISA 530 sampling?",
+    "options": [
+      "test 100% always (policy)",
+      "select items to test and evaluate results statistically",
+      "pick consecutive items only (theory)",
+      "avoid projection — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0021_vjxby",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes ISA 530 sampling?",
+    "options": [
+      "pick consecutive items only (advanced)",
+      "select items to test and evaluate results statistically",
+      "avoid projection (typically)",
+      "test 100% always (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0021_v4524",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes ISA 530 sampling?",
+    "options": [
+      "avoid projection — concept",
+      "pick consecutive items only — concept",
+      "select items to test and evaluate results statistically",
+      "test 100% always (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0021_v7noi",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 530 sampling? Select the best option.",
+    "options": [
+      "avoid projection (advanced)",
+      "select items to test and evaluate results statistically",
+      "test 100% always — in practice",
+      "pick consecutive items only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0021_v9d5q",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 530 sampling? Choose the most accurate answer.",
+    "options": [
+      "test 100% always — in practice",
+      "select items to test and evaluate results statistically",
+      "avoid projection (policy)",
+      "pick consecutive items only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0021_vth10",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes ISA 530 sampling?",
+    "options": [
+      "test 100% always (advanced)",
+      "pick consecutive items only — in practice",
+      "avoid projection (advanced)",
+      "select items to test and evaluate results statistically"
+    ],
+    "answerIndex": 3,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0021_vqva7",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes ISA 530 sampling?",
+    "options": [
+      "select items to test and evaluate results statistically",
+      "test 100% always (framework)",
+      "pick consecutive items only (policy)",
+      "avoid projection (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0021_vlu99",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes ISA 530 sampling?",
+    "options": [
+      "select items to test and evaluate results statistically",
+      "avoid projection — in practice",
+      "pick consecutive items only — in practice",
+      "test 100% always (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0022_v9ftm",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Under auditing standards, what is required for ISA 530 sampling?",
+    "options": [
+      "select items to test and evaluate results statistically",
+      "pick consecutive items only (policy)",
+      "test 100% always — in practice",
+      "avoid projection — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0022_vl89n",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 530 sampling?",
+    "options": [
+      "pick consecutive items only — concept",
+      "avoid projection (typically)",
+      "select items to test and evaluate results statistically",
+      "test 100% always (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0022_v2acf",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Under auditing standards, what is required for ISA 530 sampling?",
+    "options": [
+      "avoid projection (typically)",
+      "select items to test and evaluate results statistically",
+      "pick consecutive items only (typically)",
+      "test 100% always (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0022_vgdk2",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 530 sampling? Select the best option.",
+    "options": [
+      "select items to test and evaluate results statistically",
+      "pick consecutive items only (framework)",
+      "avoid projection (advanced)",
+      "test 100% always — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0022_vbd1q",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 530 sampling? Choose the most accurate answer.",
+    "options": [
+      "test 100% always (framework)",
+      "select items to test and evaluate results statistically",
+      "pick consecutive items only (theory)",
+      "avoid projection — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0022_vmgok",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Under auditing standards, what is required for ISA 530 sampling?",
+    "options": [
+      "select items to test and evaluate results statistically",
+      "avoid projection — concept",
+      "pick consecutive items only — concept",
+      "test 100% always (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0023_vm03r",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 530 sampling.",
+    "options": [
+      "select items to test and evaluate results statistically",
+      "avoid projection (framework)",
+      "test 100% always (typically)",
+      "pick consecutive items only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0023_v7z9i",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced audit: select the accurate assertion about ISA 530 sampling.",
+    "options": [
+      "test 100% always (advanced)",
+      "pick consecutive items only (framework)",
+      "avoid projection (theory)",
+      "select items to test and evaluate results statistically"
+    ],
+    "answerIndex": 3,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0023_vy036",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: Identify the accurate assertion about ISA 530 sampling.",
+    "options": [
+      "pick consecutive items only (policy)",
+      "avoid projection (advanced)",
+      "test 100% always (theory)",
+      "select items to test and evaluate results statistically"
+    ],
+    "answerIndex": 3,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0023_vmw40",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced audit: select the accurate assertion about ISA 530 sampling.",
+    "options": [
+      "test 100% always — concept",
+      "avoid projection — in practice",
+      "select items to test and evaluate results statistically",
+      "pick consecutive items only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0023_v7vwl",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 530 sampling. Choose the most accurate answer.",
+    "options": [
+      "pick consecutive items only (policy)",
+      "test 100% always (framework)",
+      "avoid projection — in practice",
+      "select items to test and evaluate results statistically"
+    ],
+    "answerIndex": 3,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0023_vlqzn",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced audit: select the accurate assertion about ISA 530 sampling.",
+    "options": [
+      "test 100% always (policy)",
+      "avoid projection (advanced)",
+      "select items to test and evaluate results statistically",
+      "pick consecutive items only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0023_vng9d",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced audit: select the accurate assertion about ISA 530 sampling.",
+    "options": [
+      "select items to test and evaluate results statistically",
+      "pick consecutive items only (advanced)",
+      "avoid projection (framework)",
+      "test 100% always (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0024_vrmrp",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 530 sampling primarily involves what?",
+    "options": [
+      "pick consecutive items only (framework)",
+      "test 100% always (typically)",
+      "select items to test and evaluate results statistically",
+      "avoid projection (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0024_vob34",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: In ISA guidance, ISA 530 sampling primarily involves what?",
+    "options": [
+      "select items to test and evaluate results statistically",
+      "test 100% always — concept",
+      "pick consecutive items only — in practice",
+      "avoid projection — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0024_vukk1",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Within ISA guidance, ISA 530 sampling primarily involves what?",
+    "options": [
+      "test 100% always (advanced)",
+      "select items to test and evaluate results statistically",
+      "pick consecutive items only (theory)",
+      "avoid projection (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0024_v1awl",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: In ISA guidance, ISA 530 sampling primarily involves what?",
+    "options": [
+      "pick consecutive items only — concept",
+      "select items to test and evaluate results statistically",
+      "test 100% always (framework)",
+      "avoid projection (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0024_vrp5h",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 530 sampling primarily involves what? Select the best option.",
+    "options": [
+      "pick consecutive items only (framework)",
+      "test 100% always (framework)",
+      "avoid projection (advanced)",
+      "select items to test and evaluate results statistically"
+    ],
+    "answerIndex": 3,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0024_v4lfn",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 530 sampling primarily involves what? Choose the most accurate answer.",
+    "options": [
+      "test 100% always (policy)",
+      "select items to test and evaluate results statistically",
+      "pick consecutive items only — in practice",
+      "avoid projection — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0024_vn8lm",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: In ISA guidance, ISA 530 sampling primarily involves what?",
+    "options": [
+      "pick consecutive items only (policy)",
+      "select items to test and evaluate results statistically",
+      "avoid projection (typically)",
+      "test 100% always (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0024_vynba",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: In ISA guidance, ISA 530 sampling primarily involves what?",
+    "options": [
+      "test 100% always (advanced)",
+      "pick consecutive items only (advanced)",
+      "select items to test and evaluate results statistically",
+      "avoid projection — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "select items to test and evaluate results statistically"
+  },
+  {
+    "id": "adv_audit_0025_vpx0l",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes ISA 520 analytics?",
+    "options": [
+      "develop expectations and investigate variances",
+      "approve bonuses — in practice",
+      "post entries (typically)",
+      "close books (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0025_vszwx",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes ISA 520 analytics?",
+    "options": [
+      "close books — in practice",
+      "approve bonuses (advanced)",
+      "post entries (theory)",
+      "develop expectations and investigate variances"
+    ],
+    "answerIndex": 3,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0025_v4gv8",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes ISA 520 analytics?",
+    "options": [
+      "post entries (typically)",
+      "close books (advanced)",
+      "develop expectations and investigate variances",
+      "approve bonuses (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0025_vq9c0",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 520 analytics? Select the best option.",
+    "options": [
+      "post entries — in practice",
+      "approve bonuses — concept",
+      "develop expectations and investigate variances",
+      "close books (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0025_v9dt3",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 520 analytics? Choose the most accurate answer.",
+    "options": [
+      "develop expectations and investigate variances",
+      "post entries (typically)",
+      "approve bonuses (typically)",
+      "close books (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0025_vpllp",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes ISA 520 analytics?",
+    "options": [
+      "develop expectations and investigate variances",
+      "post entries — concept",
+      "close books (policy)",
+      "approve bonuses (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0025_v5gzt",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes ISA 520 analytics?",
+    "options": [
+      "post entries (framework)",
+      "approve bonuses (framework)",
+      "close books — in practice",
+      "develop expectations and investigate variances"
+    ],
+    "answerIndex": 3,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0025_vosei",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes ISA 520 analytics?",
+    "options": [
+      "close books (framework)",
+      "develop expectations and investigate variances",
+      "post entries (theory)",
+      "approve bonuses (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0026_v4ke3",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 520 analytics?",
+    "options": [
+      "develop expectations and investigate variances",
+      "approve bonuses (advanced)",
+      "close books (advanced)",
+      "post entries (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0026_v3zgr",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Under auditing standards, what is required for ISA 520 analytics?",
+    "options": [
+      "approve bonuses — concept",
+      "close books (typically)",
+      "develop expectations and investigate variances",
+      "post entries (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0026_v4ts8",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Under auditing standards, what is required for ISA 520 analytics?",
+    "options": [
+      "post entries — concept",
+      "approve bonuses (typically)",
+      "develop expectations and investigate variances",
+      "close books (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0026_vdix9",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 520 analytics? Select the best option.",
+    "options": [
+      "close books (advanced)",
+      "develop expectations and investigate variances",
+      "approve bonuses (advanced)",
+      "post entries (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0026_vtmwl",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 520 analytics? Choose the most accurate answer.",
+    "options": [
+      "post entries (theory)",
+      "close books — concept",
+      "approve bonuses — concept",
+      "develop expectations and investigate variances"
+    ],
+    "answerIndex": 3,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0026_viwyw",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Under auditing standards, what is required for ISA 520 analytics?",
+    "options": [
+      "approve bonuses (typically)",
+      "close books — concept",
+      "post entries (framework)",
+      "develop expectations and investigate variances"
+    ],
+    "answerIndex": 3,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0026_vonmm",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Under auditing standards, what is required for ISA 520 analytics?",
+    "options": [
+      "close books — concept",
+      "approve bonuses (theory)",
+      "post entries (framework)",
+      "develop expectations and investigate variances"
+    ],
+    "answerIndex": 3,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0027_vdwte",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 520 analytics.",
+    "options": [
+      "approve bonuses (framework)",
+      "close books (framework)",
+      "develop expectations and investigate variances",
+      "post entries (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0027_v6cvw",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced audit: select the accurate assertion about ISA 520 analytics.",
+    "options": [
+      "approve bonuses (typically)",
+      "post entries (framework)",
+      "close books (policy)",
+      "develop expectations and investigate variances"
+    ],
+    "answerIndex": 3,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0027_v18f6",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced audit: select the accurate assertion about ISA 520 analytics.",
+    "options": [
+      "develop expectations and investigate variances",
+      "close books (advanced)",
+      "post entries — concept",
+      "approve bonuses (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0027_vg50x",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 520 analytics. Select the best option.",
+    "options": [
+      "post entries (policy)",
+      "close books (policy)",
+      "approve bonuses — in practice",
+      "develop expectations and investigate variances"
+    ],
+    "answerIndex": 3,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0027_v7j4a",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 520 analytics. Choose the most accurate answer.",
+    "options": [
+      "develop expectations and investigate variances",
+      "post entries — concept",
+      "approve bonuses (framework)",
+      "close books (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0027_vl72d",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced audit: select the accurate assertion about ISA 520 analytics.",
+    "options": [
+      "develop expectations and investigate variances",
+      "close books (policy)",
+      "post entries (theory)",
+      "approve bonuses (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0027_vnhzr",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced audit: select the accurate assertion about ISA 520 analytics.",
+    "options": [
+      "close books (typically)",
+      "develop expectations and investigate variances",
+      "post entries (framework)",
+      "approve bonuses — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0028_v87ov",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 520 analytics primarily involves what?",
+    "options": [
+      "develop expectations and investigate variances",
+      "close books — concept",
+      "post entries (policy)",
+      "approve bonuses (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0028_viq35",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: In ISA guidance, ISA 520 analytics primarily involves what?",
+    "options": [
+      "approve bonuses (theory)",
+      "post entries — in practice",
+      "develop expectations and investigate variances",
+      "close books (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0028_vpeu3",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Within ISA guidance, ISA 520 analytics primarily involves what?",
+    "options": [
+      "post entries (theory)",
+      "approve bonuses — in practice",
+      "develop expectations and investigate variances",
+      "close books (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0028_vrs52",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: In ISA guidance, ISA 520 analytics primarily involves what?",
+    "options": [
+      "post entries (framework)",
+      "close books (theory)",
+      "develop expectations and investigate variances",
+      "approve bonuses (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0028_v94ua",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 520 analytics primarily involves what? Select the best option.",
+    "options": [
+      "approve bonuses (framework)",
+      "post entries (typically)",
+      "close books (typically)",
+      "develop expectations and investigate variances"
+    ],
+    "answerIndex": 3,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0028_vrog0",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 520 analytics primarily involves what? Choose the most accurate answer.",
+    "options": [
+      "approve bonuses (advanced)",
+      "develop expectations and investigate variances",
+      "close books (theory)",
+      "post entries (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0028_vdqhk",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: In ISA guidance, ISA 520 analytics primarily involves what?",
+    "options": [
+      "approve bonuses — in practice",
+      "develop expectations and investigate variances",
+      "close books — concept",
+      "post entries (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0028_vrn36",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: In ISA guidance, ISA 520 analytics primarily involves what?",
+    "options": [
+      "develop expectations and investigate variances",
+      "close books (typically)",
+      "post entries (theory)",
+      "approve bonuses (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "develop expectations and investigate variances"
+  },
+  {
+    "id": "adv_audit_0029_vy5vm",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best describes ISA 320 materiality?",
+    "options": [
+      "ignore qualitative factors (theory)",
+      "set overall and performance materiality",
+      "set zero for all audits (policy)",
+      "use last-year profit only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0029_v8ye8",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best describes ISA 320 materiality?",
+    "options": [
+      "set zero for all audits (framework)",
+      "set overall and performance materiality",
+      "ignore qualitative factors (framework)",
+      "use last-year profit only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0029_v1iie",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best describes ISA 320 materiality?",
+    "options": [
+      "use last-year profit only (policy)",
+      "ignore qualitative factors (theory)",
+      "set overall and performance materiality",
+      "set zero for all audits (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0029_vbkor",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 320 materiality? Select the best option.",
+    "options": [
+      "ignore qualitative factors (typically)",
+      "set zero for all audits (policy)",
+      "use last-year profit only — in practice",
+      "set overall and performance materiality"
+    ],
+    "answerIndex": 3,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0029_vrp72",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which statement best describes ISA 320 materiality? Choose the most accurate answer.",
+    "options": [
+      "use last-year profit only (framework)",
+      "set zero for all audits (typically)",
+      "set overall and performance materiality",
+      "ignore qualitative factors (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0029_vrs7w",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best describes ISA 320 materiality?",
+    "options": [
+      "set zero for all audits (theory)",
+      "ignore qualitative factors (theory)",
+      "set overall and performance materiality",
+      "use last-year profit only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0029_vhyr8",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best describes ISA 320 materiality?",
+    "options": [
+      "set overall and performance materiality",
+      "ignore qualitative factors — concept",
+      "set zero for all audits — in practice",
+      "use last-year profit only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0029_virdd",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best describes ISA 320 materiality?",
+    "options": [
+      "ignore qualitative factors (theory)",
+      "set overall and performance materiality",
+      "set zero for all audits — concept",
+      "use last-year profit only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0030_viinc",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 320 materiality?",
+    "options": [
+      "set zero for all audits — concept",
+      "use last-year profit only (policy)",
+      "ignore qualitative factors — concept",
+      "set overall and performance materiality"
+    ],
+    "answerIndex": 3,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0030_vdmld",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Under auditing standards, what is required for ISA 320 materiality?",
+    "options": [
+      "set overall and performance materiality",
+      "set zero for all audits (typically)",
+      "ignore qualitative factors (typically)",
+      "use last-year profit only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0030_vym0f",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Under auditing standards, what is required for ISA 320 materiality?",
+    "options": [
+      "ignore qualitative factors — in practice",
+      "set zero for all audits — concept",
+      "use last-year profit only — concept",
+      "set overall and performance materiality"
+    ],
+    "answerIndex": 3,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0030_vvb3c",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 320 materiality? Select the best option.",
+    "options": [
+      "set zero for all audits — concept",
+      "use last-year profit only (advanced)",
+      "set overall and performance materiality",
+      "ignore qualitative factors — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0030_vwanl",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Under auditing standards, what is required for ISA 320 materiality? Choose the most accurate answer.",
+    "options": [
+      "set overall and performance materiality",
+      "ignore qualitative factors — concept",
+      "use last-year profit only — concept",
+      "set zero for all audits (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0030_vr3dt",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Under auditing standards, what is required for ISA 320 materiality?",
+    "options": [
+      "set zero for all audits (policy)",
+      "set overall and performance materiality",
+      "use last-year profit only (policy)",
+      "ignore qualitative factors (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0030_v9sy3",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Under auditing standards, what is required for ISA 320 materiality?",
+    "options": [
+      "use last-year profit only (advanced)",
+      "set overall and performance materiality",
+      "set zero for all audits (advanced)",
+      "ignore qualitative factors (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0031_va8ac",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 320 materiality.",
+    "options": [
+      "use last-year profit only (theory)",
+      "ignore qualitative factors (theory)",
+      "set zero for all audits — in practice",
+      "set overall and performance materiality"
+    ],
+    "answerIndex": 3,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0031_vcq7b",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced audit: select the accurate assertion about ISA 320 materiality.",
+    "options": [
+      "set overall and performance materiality",
+      "use last-year profit only (advanced)",
+      "set zero for all audits (theory)",
+      "ignore qualitative factors (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0031_v8bg2",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: Identify the accurate assertion about ISA 320 materiality.",
+    "options": [
+      "ignore qualitative factors (policy)",
+      "set overall and performance materiality",
+      "set zero for all audits — in practice",
+      "use last-year profit only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0031_vb9vl",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced audit: select the accurate assertion about ISA 320 materiality.",
+    "options": [
+      "set zero for all audits (theory)",
+      "ignore qualitative factors (typically)",
+      "set overall and performance materiality",
+      "use last-year profit only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0031_vp8ij",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 320 materiality. Select the best option.",
+    "options": [
+      "set zero for all audits (advanced)",
+      "set overall and performance materiality",
+      "use last-year profit only (framework)",
+      "ignore qualitative factors (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0031_veeqh",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: select the accurate assertion about ISA 320 materiality. Choose the most accurate answer.",
+    "options": [
+      "use last-year profit only (framework)",
+      "set overall and performance materiality",
+      "ignore qualitative factors (advanced)",
+      "set zero for all audits (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0031_vxoyf",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced audit: select the accurate assertion about ISA 320 materiality.",
+    "options": [
+      "ignore qualitative factors (policy)",
+      "set zero for all audits (policy)",
+      "set overall and performance materiality",
+      "use last-year profit only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0031_v6ka4",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced audit: select the accurate assertion about ISA 320 materiality.",
+    "options": [
+      "set zero for all audits (theory)",
+      "use last-year profit only (theory)",
+      "set overall and performance materiality",
+      "ignore qualitative factors (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0032_v63t4",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "In ISA guidance, ISA 320 materiality primarily involves what?",
+    "options": [
+      "ignore qualitative factors (theory)",
+      "set overall and performance materiality",
+      "set zero for all audits (framework)",
+      "use last-year profit only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0032_v8tco",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced: In ISA guidance, ISA 320 materiality primarily involves what?",
+    "options": [
+      "set overall and performance materiality",
+      "set zero for all audits (typically)",
+      "use last-year profit only — in practice",
+      "ignore qualitative factors — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "set overall and performance materiality"
+  },
+  {
+    "id": "adv_audit_0003_rex28",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Advanced audit: Identify the accurate assertion about ISA 315 risk assessment.",
+    "options": [
+      "determine tax rates (framework)",
+      "identify and assess risks of material misstatement",
+      "prepare IFRS primary statements — in practice",
+      "select audit team pay — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "identify and assess risks of material misstatement"
+  },
+  {
+    "id": "adv_audit_0008_rld68",
+    "category": "cadre",
+    "cadreSlug": "audit",
+    "topic": "Audit",
+    "subtopic": "Standards & Risk",
+    "difficulty": "advanced",
+    "question": "Within ISA guidance, ISA 330 responses primarily involves what?",
+    "options": [
+      "design and implement responses to assessed risks",
+      "approve dividends (typically)",
+      "set FX policy (policy)",
+      "calculate budget variances — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "design and implement responses to assessed risks"
+  }
+]

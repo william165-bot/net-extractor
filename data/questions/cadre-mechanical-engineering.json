@@ -1,0 +1,4252 @@
+[
+  {
+    "id": "adv_mechanical-engineering_0001",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Carnot efficiency refers to?",
+    "options": [
+      "1 − Th/Tc",
+      "1 − Tc/Th as theoretical maximum",
+      "Th/Tc − 1",
+      "Tc/Th only"
+    ],
+    "answerIndex": 1,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0005",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Reynolds number refers to?",
+    "options": [
+      "Nusselt number",
+      "ratio of inertial to viscous forces",
+      "Prandtl number",
+      "Mach number"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0009",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Fourier’s law of conduction refers to?",
+    "options": [
+      "q = h A ΔT",
+      "q = −k A dT/dx",
+      "q = σ ε T^4",
+      "pV = nRT"
+    ],
+    "answerIndex": 1,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0013",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Euler–Bernoulli beam refers to?",
+    "options": [
+      "pure torsion only",
+      "fluid drag only",
+      "thin plate only",
+      "relates load, deflection, bending moment"
+    ],
+    "answerIndex": 3,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0017",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Mohr’s circle refers to?",
+    "options": [
+      "gear profile",
+      "weld symbol",
+      "graphical stress transformation",
+      "steam table"
+    ],
+    "answerIndex": 2,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0021",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Gear train ratio refers to?",
+    "options": [
+      "difference of teeth",
+      "product of driver/ driven tooth counts",
+      "sum of teeth",
+      "mean of modules"
+    ],
+    "answerIndex": 1,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0025",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Critical damping refers to?",
+    "options": [
+      "overdamped slow return",
+      "no return",
+      "underdamped overshoot",
+      "returns to equilibrium without oscillation fastest"
+    ],
+    "answerIndex": 3,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0029",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Finite element method refers to?",
+    "options": [
+      "lumped mass only",
+      "Machining only",
+      "discretize domain into elements; assemble and solve",
+      "control charts only"
+    ],
+    "answerIndex": 2,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0033",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Psychrometrics refers to?",
+    "options": [
+      "solid desiccants only",
+      "dry air only",
+      "combustion only",
+      "moist air properties using charts"
+    ],
+    "answerIndex": 3,
+    "explanation": "moist air properties using charts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0037",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, PID control refers to?",
+    "options": [
+      "bang-bang only",
+      "feedforward only",
+      "proportional–integral–derivative action",
+      "state observer only"
+    ],
+    "answerIndex": 2,
+    "explanation": "proportional–integral–derivative action"
+  },
+  {
+    "id": "adv_mechanical-engineering_0001_vt95c",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In mechanical engineering, Carnot efficiency refers to?",
+    "options": [
+      "Tc/Th only — in practice",
+      "Th/Tc − 1 (theory)",
+      "1 − Th/Tc — in practice",
+      "1 − Tc/Th as theoretical maximum"
+    ],
+    "answerIndex": 3,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0001_vo8yv",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Within mechanical engineering, Carnot efficiency refers to?",
+    "options": [
+      "Th/Tc − 1 — in practice",
+      "1 − Tc/Th as theoretical maximum",
+      "1 − Th/Tc (advanced)",
+      "Tc/Th only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0001_vq93v",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: In mechanical engineering, Carnot efficiency refers to?",
+    "options": [
+      "Th/Tc − 1 (advanced)",
+      "1 − Tc/Th as theoretical maximum",
+      "Tc/Th only — concept",
+      "1 − Th/Tc (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0001_vp9pb",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Carnot efficiency refers to? Select the best option.",
+    "options": [
+      "1 − Th/Tc — in practice",
+      "Th/Tc − 1 — concept",
+      "1 − Tc/Th as theoretical maximum",
+      "Tc/Th only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0001_vdvdg",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Carnot efficiency refers to? Choose the most accurate answer.",
+    "options": [
+      "1 − Tc/Th as theoretical maximum",
+      "1 − Th/Tc (policy)",
+      "Th/Tc − 1 (advanced)",
+      "Tc/Th only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0001_vwnx6",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: In mechanical engineering, Carnot efficiency refers to?",
+    "options": [
+      "1 − Th/Tc (typically)",
+      "1 − Tc/Th as theoretical maximum",
+      "Tc/Th only — in practice",
+      "Th/Tc − 1 (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0002_v0ufa",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Carnot efficiency?",
+    "options": [
+      "Tc/Th only (policy)",
+      "1 − Tc/Th as theoretical maximum",
+      "Th/Tc − 1 — concept",
+      "1 − Th/Tc (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0002_vkpn3",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Carnot efficiency?",
+    "options": [
+      "Th/Tc − 1 (theory)",
+      "Tc/Th only — concept",
+      "1 − Th/Tc (framework)",
+      "1 − Tc/Th as theoretical maximum"
+    ],
+    "answerIndex": 3,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0002_vlgts",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Carnot efficiency?",
+    "options": [
+      "1 − Tc/Th as theoretical maximum",
+      "Tc/Th only (policy)",
+      "1 − Th/Tc (typically)",
+      "Th/Tc − 1 (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0002_vfhkx",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Carnot efficiency?",
+    "options": [
+      "Tc/Th only (typically)",
+      "Th/Tc − 1 — concept",
+      "1 − Tc/Th as theoretical maximum",
+      "1 − Th/Tc (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0002_v899c",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Carnot efficiency? Select the best option.",
+    "options": [
+      "1 − Th/Tc (advanced)",
+      "Tc/Th only — concept",
+      "Th/Tc − 1 (typically)",
+      "1 − Tc/Th as theoretical maximum"
+    ],
+    "answerIndex": 3,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0002_vj6vs",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Carnot efficiency? Choose the most accurate answer.",
+    "options": [
+      "Th/Tc − 1 (policy)",
+      "1 − Th/Tc (policy)",
+      "1 − Tc/Th as theoretical maximum",
+      "Tc/Th only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0002_vgfr8",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Carnot efficiency?",
+    "options": [
+      "1 − Tc/Th as theoretical maximum",
+      "Tc/Th only (typically)",
+      "Th/Tc − 1 — concept",
+      "1 − Th/Tc (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0002_v4qey",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Carnot efficiency?",
+    "options": [
+      "1 − Tc/Th as theoretical maximum",
+      "Tc/Th only (framework)",
+      "Th/Tc − 1 (policy)",
+      "1 − Th/Tc (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0003_vox9w",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Carnot efficiency.",
+    "options": [
+      "1 − Th/Tc (framework)",
+      "Tc/Th only (policy)",
+      "1 − Tc/Th as theoretical maximum",
+      "Th/Tc − 1 — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0003_vn5uw",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Carnot efficiency.",
+    "options": [
+      "1 − Th/Tc — concept",
+      "1 − Tc/Th as theoretical maximum",
+      "Th/Tc − 1 — concept",
+      "Tc/Th only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0003_v1bsq",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Carnot efficiency.",
+    "options": [
+      "Th/Tc − 1 (policy)",
+      "Tc/Th only — in practice",
+      "1 − Th/Tc (advanced)",
+      "1 − Tc/Th as theoretical maximum"
+    ],
+    "answerIndex": 3,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0003_vzqv1",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Carnot efficiency.",
+    "options": [
+      "1 − Tc/Th as theoretical maximum",
+      "Tc/Th only (policy)",
+      "1 − Th/Tc — concept",
+      "Th/Tc − 1 (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0003_vuexu",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Carnot efficiency. Select the best option.",
+    "options": [
+      "Th/Tc − 1 (theory)",
+      "1 − Th/Tc — in practice",
+      "Tc/Th only (advanced)",
+      "1 − Tc/Th as theoretical maximum"
+    ],
+    "answerIndex": 3,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0003_v1vqg",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Carnot efficiency. Choose the most accurate answer.",
+    "options": [
+      "1 − Tc/Th as theoretical maximum",
+      "Tc/Th only (policy)",
+      "Th/Tc − 1 (advanced)",
+      "1 − Th/Tc (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0003_v8djd",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Carnot efficiency.",
+    "options": [
+      "Tc/Th only (typically)",
+      "1 − Th/Tc — in practice",
+      "Th/Tc − 1 (typically)",
+      "1 − Tc/Th as theoretical maximum"
+    ],
+    "answerIndex": 3,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0003_vxzcp",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Carnot efficiency.",
+    "options": [
+      "Th/Tc − 1 (framework)",
+      "Tc/Th only (typically)",
+      "1 − Th/Tc (typically)",
+      "1 − Tc/Th as theoretical maximum"
+    ],
+    "answerIndex": 3,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0004_v8188",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Carnot efficiency primarily involves?",
+    "options": [
+      "Th/Tc − 1 (typically)",
+      "1 − Th/Tc — concept",
+      "1 − Tc/Th as theoretical maximum",
+      "Tc/Th only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0004_vgawk",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced thermo/fluids/ME design: Carnot efficiency primarily involves?",
+    "options": [
+      "Th/Tc − 1 (advanced)",
+      "1 − Tc/Th as theoretical maximum",
+      "Tc/Th only (policy)",
+      "1 − Th/Tc (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0004_v1b86",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced thermo/fluids/ME design: Carnot efficiency primarily involves?",
+    "options": [
+      "Th/Tc − 1 — in practice",
+      "1 − Th/Tc (theory)",
+      "Tc/Th only (typically)",
+      "1 − Tc/Th as theoretical maximum"
+    ],
+    "answerIndex": 3,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0004_vjkef",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Carnot efficiency primarily involves? Choose the most accurate answer.",
+    "options": [
+      "1 − Tc/Th as theoretical maximum",
+      "Tc/Th only (advanced)",
+      "Th/Tc − 1 (advanced)",
+      "1 − Th/Tc (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0004_vne9w",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced thermo/fluids/ME design: Carnot efficiency primarily involves?",
+    "options": [
+      "Th/Tc − 1 (advanced)",
+      "1 − Tc/Th as theoretical maximum",
+      "Tc/Th only (advanced)",
+      "1 − Th/Tc (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0004_vayvs",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced thermo/fluids/ME design: Carnot efficiency primarily involves?",
+    "options": [
+      "1 − Th/Tc (framework)",
+      "1 − Tc/Th as theoretical maximum",
+      "Tc/Th only (policy)",
+      "Th/Tc − 1 (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "1 − Tc/Th as theoretical maximum"
+  },
+  {
+    "id": "adv_mechanical-engineering_0005_v2gfw",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In mechanical engineering, Reynolds number refers to?",
+    "options": [
+      "ratio of inertial to viscous forces",
+      "Prandtl number — concept",
+      "Mach number (theory)",
+      "Nusselt number (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0005_vckf4",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: In mechanical engineering, Reynolds number refers to?",
+    "options": [
+      "Nusselt number (policy)",
+      "Prandtl number — concept",
+      "ratio of inertial to viscous forces",
+      "Mach number (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0005_v92zw",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Reynolds number refers to? Select the best option.",
+    "options": [
+      "Prandtl number — concept",
+      "ratio of inertial to viscous forces",
+      "Nusselt number — in practice",
+      "Mach number (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0005_vrto7",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Reynolds number refers to? Choose the most accurate answer.",
+    "options": [
+      "ratio of inertial to viscous forces",
+      "Mach number — concept",
+      "Prandtl number — concept",
+      "Nusselt number — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0005_vzsax",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: In mechanical engineering, Reynolds number refers to?",
+    "options": [
+      "Nusselt number (advanced)",
+      "ratio of inertial to viscous forces",
+      "Mach number (policy)",
+      "Prandtl number (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0005_vgsv6",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: In mechanical engineering, Reynolds number refers to?",
+    "options": [
+      "Nusselt number — in practice",
+      "ratio of inertial to viscous forces",
+      "Mach number (theory)",
+      "Prandtl number (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0006_vl8o9",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Reynolds number?",
+    "options": [
+      "Mach number (policy)",
+      "Prandtl number (theory)",
+      "Nusselt number — in practice",
+      "ratio of inertial to viscous forces"
+    ],
+    "answerIndex": 3,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0006_vmx79",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Reynolds number?",
+    "options": [
+      "Prandtl number (typically)",
+      "Nusselt number (typically)",
+      "ratio of inertial to viscous forces",
+      "Mach number (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0006_vs8mv",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Reynolds number?",
+    "options": [
+      "Prandtl number (theory)",
+      "ratio of inertial to viscous forces",
+      "Mach number (framework)",
+      "Nusselt number (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0006_v3xw7",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Reynolds number?",
+    "options": [
+      "Mach number (advanced)",
+      "Nusselt number — in practice",
+      "ratio of inertial to viscous forces",
+      "Prandtl number (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0006_v6n3e",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Reynolds number? Select the best option.",
+    "options": [
+      "Nusselt number (policy)",
+      "Mach number — in practice",
+      "ratio of inertial to viscous forces",
+      "Prandtl number (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0006_vky70",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Reynolds number? Choose the most accurate answer.",
+    "options": [
+      "Mach number — in practice",
+      "ratio of inertial to viscous forces",
+      "Prandtl number (typically)",
+      "Nusselt number (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0006_vvjyy",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Reynolds number?",
+    "options": [
+      "Nusselt number (policy)",
+      "ratio of inertial to viscous forces",
+      "Mach number (typically)",
+      "Prandtl number (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0006_v8sz0",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Reynolds number?",
+    "options": [
+      "Nusselt number — concept",
+      "Prandtl number (policy)",
+      "ratio of inertial to viscous forces",
+      "Mach number (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0006_vnvgl",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Reynolds number?",
+    "options": [
+      "Prandtl number — concept",
+      "Mach number (typically)",
+      "Nusselt number (theory)",
+      "ratio of inertial to viscous forces"
+    ],
+    "answerIndex": 3,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0007_vjm0w",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Reynolds number.",
+    "options": [
+      "Mach number (typically)",
+      "Nusselt number (policy)",
+      "Prandtl number — in practice",
+      "ratio of inertial to viscous forces"
+    ],
+    "answerIndex": 3,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0007_vlbrc",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Reynolds number.",
+    "options": [
+      "Mach number — concept",
+      "Nusselt number (advanced)",
+      "ratio of inertial to viscous forces",
+      "Prandtl number (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0007_v7zpy",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Reynolds number.",
+    "options": [
+      "Mach number — concept",
+      "Nusselt number (advanced)",
+      "Prandtl number (framework)",
+      "ratio of inertial to viscous forces"
+    ],
+    "answerIndex": 3,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0007_v4hev",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Reynolds number.",
+    "options": [
+      "ratio of inertial to viscous forces",
+      "Prandtl number (framework)",
+      "Mach number (framework)",
+      "Nusselt number (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0007_vyf0g",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Reynolds number. Choose the most accurate answer.",
+    "options": [
+      "Prandtl number (theory)",
+      "Mach number (advanced)",
+      "ratio of inertial to viscous forces",
+      "Nusselt number — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0007_v9o2v",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Reynolds number.",
+    "options": [
+      "ratio of inertial to viscous forces",
+      "Mach number — concept",
+      "Nusselt number (framework)",
+      "Prandtl number (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0007_vpoki",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Reynolds number.",
+    "options": [
+      "Nusselt number (theory)",
+      "ratio of inertial to viscous forces",
+      "Mach number (advanced)",
+      "Prandtl number (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0007_virva",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Reynolds number.",
+    "options": [
+      "Prandtl number — in practice",
+      "ratio of inertial to viscous forces",
+      "Mach number — concept",
+      "Nusselt number (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0008_vxvzm",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Reynolds number primarily involves?",
+    "options": [
+      "Prandtl number (theory)",
+      "ratio of inertial to viscous forces",
+      "Nusselt number (typically)",
+      "Mach number (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0008_vgdbx",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced thermo/fluids/ME design: Reynolds number primarily involves?",
+    "options": [
+      "Nusselt number (theory)",
+      "Prandtl number (framework)",
+      "ratio of inertial to viscous forces",
+      "Mach number (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0008_vlpg7",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced thermo/fluids/ME design: Reynolds number primarily involves?",
+    "options": [
+      "Prandtl number (advanced)",
+      "ratio of inertial to viscous forces",
+      "Nusselt number — concept",
+      "Mach number — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0008_v9xd3",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Reynolds number primarily involves? Select the best option.",
+    "options": [
+      "Mach number (theory)",
+      "Prandtl number (policy)",
+      "Nusselt number (policy)",
+      "ratio of inertial to viscous forces"
+    ],
+    "answerIndex": 3,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0008_vkf88",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced thermo/fluids/ME design: Reynolds number primarily involves?",
+    "options": [
+      "ratio of inertial to viscous forces",
+      "Nusselt number — concept",
+      "Mach number (advanced)",
+      "Prandtl number (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0008_vis91",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced thermo/fluids/ME design: Reynolds number primarily involves?",
+    "options": [
+      "Mach number — in practice",
+      "ratio of inertial to viscous forces",
+      "Nusselt number (framework)",
+      "Prandtl number (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0009_vr39k",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In mechanical engineering, Fourier’s law of conduction refers to?",
+    "options": [
+      "q = h A ΔT (advanced)",
+      "q = −k A dT/dx",
+      "q = σ ε T^4 — in practice",
+      "pV = nRT — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0009_v2zk6",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Within mechanical engineering, Fourier’s law of conduction refers to?",
+    "options": [
+      "q = −k A dT/dx",
+      "pV = nRT — concept",
+      "q = h A ΔT — in practice",
+      "q = σ ε T^4 (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0009_vjyxs",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: In mechanical engineering, Fourier’s law of conduction refers to?",
+    "options": [
+      "q = −k A dT/dx",
+      "pV = nRT (typically)",
+      "q = σ ε T^4 (theory)",
+      "q = h A ΔT (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0009_v0muj",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Fourier’s law of conduction refers to? Select the best option.",
+    "options": [
+      "q = h A ΔT (theory)",
+      "q = −k A dT/dx",
+      "q = σ ε T^4 (theory)",
+      "pV = nRT (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0009_vc4ni",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Fourier’s law of conduction refers to? Choose the most accurate answer.",
+    "options": [
+      "q = σ ε T^4 — in practice",
+      "q = −k A dT/dx",
+      "pV = nRT (framework)",
+      "q = h A ΔT (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0009_vui3l",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: In mechanical engineering, Fourier’s law of conduction refers to?",
+    "options": [
+      "pV = nRT — in practice",
+      "q = −k A dT/dx",
+      "q = σ ε T^4 — in practice",
+      "q = h A ΔT (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0009_vbefd",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: In mechanical engineering, Fourier’s law of conduction refers to?",
+    "options": [
+      "q = σ ε T^4 (theory)",
+      "q = −k A dT/dx",
+      "q = h A ΔT (theory)",
+      "pV = nRT (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0010_v9ir9",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Fourier’s law of conduction?",
+    "options": [
+      "pV = nRT (framework)",
+      "q = σ ε T^4 — concept",
+      "q = −k A dT/dx",
+      "q = h A ΔT — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0010_vw85s",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Fourier’s law of conduction?",
+    "options": [
+      "q = h A ΔT (typically)",
+      "q = σ ε T^4 (policy)",
+      "pV = nRT (advanced)",
+      "q = −k A dT/dx"
+    ],
+    "answerIndex": 3,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0010_vuxon",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Fourier’s law of conduction?",
+    "options": [
+      "q = −k A dT/dx",
+      "q = σ ε T^4 (policy)",
+      "q = h A ΔT (framework)",
+      "pV = nRT (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0010_vt2td",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Fourier’s law of conduction? Select the best option.",
+    "options": [
+      "pV = nRT (policy)",
+      "q = h A ΔT (advanced)",
+      "q = σ ε T^4 (typically)",
+      "q = −k A dT/dx"
+    ],
+    "answerIndex": 3,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0010_vladc",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Fourier’s law of conduction? Choose the most accurate answer.",
+    "options": [
+      "pV = nRT (theory)",
+      "q = h A ΔT (framework)",
+      "q = −k A dT/dx",
+      "q = σ ε T^4 (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0010_v74b3",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Fourier’s law of conduction?",
+    "options": [
+      "q = −k A dT/dx",
+      "q = σ ε T^4 (advanced)",
+      "q = h A ΔT — concept",
+      "pV = nRT (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0010_v7euo",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Fourier’s law of conduction?",
+    "options": [
+      "q = σ ε T^4 (policy)",
+      "q = h A ΔT (theory)",
+      "q = −k A dT/dx",
+      "pV = nRT (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0010_vkpqn",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Fourier’s law of conduction?",
+    "options": [
+      "q = −k A dT/dx",
+      "pV = nRT (policy)",
+      "q = σ ε T^4 (advanced)",
+      "q = h A ΔT (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0011_v5md3",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Fourier’s law of conduction.",
+    "options": [
+      "q = h A ΔT (policy)",
+      "q = −k A dT/dx",
+      "q = σ ε T^4 — concept",
+      "pV = nRT (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0011_v797c",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Fourier’s law of conduction.",
+    "options": [
+      "q = h A ΔT (theory)",
+      "pV = nRT (framework)",
+      "q = σ ε T^4 — concept",
+      "q = −k A dT/dx"
+    ],
+    "answerIndex": 3,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0011_v8e7r",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Fourier’s law of conduction.",
+    "options": [
+      "q = h A ΔT (typically)",
+      "pV = nRT (theory)",
+      "q = σ ε T^4 (policy)",
+      "q = −k A dT/dx"
+    ],
+    "answerIndex": 3,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0011_vr96e",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Fourier’s law of conduction.",
+    "options": [
+      "pV = nRT (theory)",
+      "q = −k A dT/dx",
+      "q = σ ε T^4 (framework)",
+      "q = h A ΔT (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0011_vcwco",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Fourier’s law of conduction. Select the best option.",
+    "options": [
+      "pV = nRT (theory)",
+      "q = σ ε T^4 (theory)",
+      "q = h A ΔT (theory)",
+      "q = −k A dT/dx"
+    ],
+    "answerIndex": 3,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0011_vdgyy",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Fourier’s law of conduction. Choose the most accurate answer.",
+    "options": [
+      "q = σ ε T^4 (advanced)",
+      "pV = nRT (policy)",
+      "q = −k A dT/dx",
+      "q = h A ΔT (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0011_v0msl",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Fourier’s law of conduction.",
+    "options": [
+      "q = σ ε T^4 (framework)",
+      "q = h A ΔT — concept",
+      "q = −k A dT/dx",
+      "pV = nRT (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0011_vrlou",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Fourier’s law of conduction.",
+    "options": [
+      "pV = nRT (theory)",
+      "q = −k A dT/dx",
+      "q = σ ε T^4 (theory)",
+      "q = h A ΔT (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0011_v74ol",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Fourier’s law of conduction.",
+    "options": [
+      "q = σ ε T^4 — concept",
+      "q = −k A dT/dx",
+      "q = h A ΔT (advanced)",
+      "pV = nRT (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0012_v4wa1",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Fourier’s law of conduction primarily involves?",
+    "options": [
+      "q = σ ε T^4 — concept",
+      "q = h A ΔT (framework)",
+      "q = −k A dT/dx",
+      "pV = nRT (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0012_v0j7u",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced thermo/fluids/ME design: Fourier’s law of conduction primarily involves?",
+    "options": [
+      "q = −k A dT/dx",
+      "q = h A ΔT — in practice",
+      "pV = nRT (advanced)",
+      "q = σ ε T^4 — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0012_vld5v",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Fourier’s law of conduction primarily involves? Select the best option.",
+    "options": [
+      "q = h A ΔT (policy)",
+      "pV = nRT (typically)",
+      "q = σ ε T^4 — in practice",
+      "q = −k A dT/dx"
+    ],
+    "answerIndex": 3,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0012_vc1pu",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Fourier’s law of conduction primarily involves? Choose the most accurate answer.",
+    "options": [
+      "q = −k A dT/dx",
+      "pV = nRT (typically)",
+      "q = σ ε T^4 (theory)",
+      "q = h A ΔT (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0012_vgayf",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced thermo/fluids/ME design: Fourier’s law of conduction primarily involves?",
+    "options": [
+      "q = −k A dT/dx",
+      "q = h A ΔT — concept",
+      "q = σ ε T^4 — concept",
+      "pV = nRT (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "q = −k A dT/dx"
+  },
+  {
+    "id": "adv_mechanical-engineering_0013_vz695",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In mechanical engineering, Euler–Bernoulli beam refers to?",
+    "options": [
+      "thin plate only — concept",
+      "pure torsion only (policy)",
+      "relates load, deflection, bending moment",
+      "fluid drag only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0013_vjy6k",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Within mechanical engineering, Euler–Bernoulli beam refers to?",
+    "options": [
+      "thin plate only (advanced)",
+      "pure torsion only — concept",
+      "fluid drag only (framework)",
+      "relates load, deflection, bending moment"
+    ],
+    "answerIndex": 3,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0013_vb2sf",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: In mechanical engineering, Euler–Bernoulli beam refers to?",
+    "options": [
+      "fluid drag only — in practice",
+      "relates load, deflection, bending moment",
+      "thin plate only (typically)",
+      "pure torsion only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0013_v18fh",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Euler–Bernoulli beam refers to? Select the best option.",
+    "options": [
+      "thin plate only (framework)",
+      "pure torsion only — concept",
+      "fluid drag only — concept",
+      "relates load, deflection, bending moment"
+    ],
+    "answerIndex": 3,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0013_vfg3x",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Euler–Bernoulli beam refers to? Choose the most accurate answer.",
+    "options": [
+      "relates load, deflection, bending moment",
+      "fluid drag only (theory)",
+      "thin plate only (policy)",
+      "pure torsion only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0013_v7ab8",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: In mechanical engineering, Euler–Bernoulli beam refers to?",
+    "options": [
+      "thin plate only (policy)",
+      "pure torsion only (theory)",
+      "relates load, deflection, bending moment",
+      "fluid drag only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0013_vuihr",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: In mechanical engineering, Euler–Bernoulli beam refers to?",
+    "options": [
+      "relates load, deflection, bending moment",
+      "fluid drag only (theory)",
+      "thin plate only (policy)",
+      "pure torsion only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0014_v4doc",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Euler–Bernoulli beam?",
+    "options": [
+      "fluid drag only (policy)",
+      "pure torsion only — concept",
+      "relates load, deflection, bending moment",
+      "thin plate only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0014_vg8q2",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Euler–Bernoulli beam?",
+    "options": [
+      "pure torsion only (theory)",
+      "fluid drag only (framework)",
+      "thin plate only — concept",
+      "relates load, deflection, bending moment"
+    ],
+    "answerIndex": 3,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0014_vmbsg",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Euler–Bernoulli beam?",
+    "options": [
+      "fluid drag only (policy)",
+      "pure torsion only (framework)",
+      "relates load, deflection, bending moment",
+      "thin plate only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0014_v1715",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Euler–Bernoulli beam?",
+    "options": [
+      "thin plate only (policy)",
+      "relates load, deflection, bending moment",
+      "pure torsion only (policy)",
+      "fluid drag only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0014_vdy7d",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Euler–Bernoulli beam? Select the best option.",
+    "options": [
+      "thin plate only (theory)",
+      "pure torsion only (policy)",
+      "relates load, deflection, bending moment",
+      "fluid drag only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0014_veu7y",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Euler–Bernoulli beam? Choose the most accurate answer.",
+    "options": [
+      "thin plate only (policy)",
+      "pure torsion only — concept",
+      "fluid drag only — in practice",
+      "relates load, deflection, bending moment"
+    ],
+    "answerIndex": 3,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0014_v5eok",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Euler–Bernoulli beam?",
+    "options": [
+      "relates load, deflection, bending moment",
+      "fluid drag only (policy)",
+      "thin plate only (framework)",
+      "pure torsion only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0014_v4rzj",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Euler–Bernoulli beam?",
+    "options": [
+      "relates load, deflection, bending moment",
+      "thin plate only — concept",
+      "pure torsion only (advanced)",
+      "fluid drag only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0014_vk658",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Euler–Bernoulli beam?",
+    "options": [
+      "pure torsion only — in practice",
+      "fluid drag only — in practice",
+      "relates load, deflection, bending moment",
+      "thin plate only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0015_v5way",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Euler–Bernoulli beam.",
+    "options": [
+      "pure torsion only (policy)",
+      "thin plate only — in practice",
+      "relates load, deflection, bending moment",
+      "fluid drag only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0015_vt3pk",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Euler–Bernoulli beam.",
+    "options": [
+      "thin plate only (advanced)",
+      "pure torsion only (framework)",
+      "fluid drag only (policy)",
+      "relates load, deflection, bending moment"
+    ],
+    "answerIndex": 3,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0015_vpx82",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Euler–Bernoulli beam.",
+    "options": [
+      "fluid drag only (theory)",
+      "relates load, deflection, bending moment",
+      "pure torsion only (framework)",
+      "thin plate only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0015_vgmqd",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Euler–Bernoulli beam. Select the best option.",
+    "options": [
+      "relates load, deflection, bending moment",
+      "fluid drag only (theory)",
+      "thin plate only — in practice",
+      "pure torsion only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0015_vi6lb",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Euler–Bernoulli beam. Choose the most accurate answer.",
+    "options": [
+      "relates load, deflection, bending moment",
+      "fluid drag only — concept",
+      "pure torsion only (policy)",
+      "thin plate only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0015_vyyqg",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Euler–Bernoulli beam.",
+    "options": [
+      "pure torsion only (advanced)",
+      "thin plate only (policy)",
+      "fluid drag only — in practice",
+      "relates load, deflection, bending moment"
+    ],
+    "answerIndex": 3,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0015_vsdkv",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Euler–Bernoulli beam.",
+    "options": [
+      "thin plate only (theory)",
+      "relates load, deflection, bending moment",
+      "pure torsion only — concept",
+      "fluid drag only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0015_vsbp6",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Euler–Bernoulli beam.",
+    "options": [
+      "relates load, deflection, bending moment",
+      "fluid drag only (policy)",
+      "thin plate only — concept",
+      "pure torsion only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0016_vna8u",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Euler–Bernoulli beam primarily involves?",
+    "options": [
+      "relates load, deflection, bending moment",
+      "pure torsion only (typically)",
+      "fluid drag only — concept",
+      "thin plate only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0016_vxia2",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced thermo/fluids/ME design: Euler–Bernoulli beam primarily involves?",
+    "options": [
+      "pure torsion only — in practice",
+      "fluid drag only — in practice",
+      "relates load, deflection, bending moment",
+      "thin plate only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0016_vbo4c",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced thermo/fluids/ME design: Euler–Bernoulli beam primarily involves?",
+    "options": [
+      "fluid drag only — in practice",
+      "thin plate only (framework)",
+      "relates load, deflection, bending moment",
+      "pure torsion only (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0016_vr444",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Euler–Bernoulli beam primarily involves? Select the best option.",
+    "options": [
+      "relates load, deflection, bending moment",
+      "fluid drag only — in practice",
+      "thin plate only (advanced)",
+      "pure torsion only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0016_vh891",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Euler–Bernoulli beam primarily involves? Choose the most accurate answer.",
+    "options": [
+      "thin plate only — concept",
+      "fluid drag only — concept",
+      "relates load, deflection, bending moment",
+      "pure torsion only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0016_vqmxa",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced thermo/fluids/ME design: Euler–Bernoulli beam primarily involves?",
+    "options": [
+      "fluid drag only (theory)",
+      "thin plate only (policy)",
+      "relates load, deflection, bending moment",
+      "pure torsion only (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0016_vhb4t",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced thermo/fluids/ME design: Euler–Bernoulli beam primarily involves?",
+    "options": [
+      "thin plate only — concept",
+      "pure torsion only (typically)",
+      "relates load, deflection, bending moment",
+      "fluid drag only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "relates load, deflection, bending moment"
+  },
+  {
+    "id": "adv_mechanical-engineering_0017_vw2br",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In mechanical engineering, Mohr’s circle refers to?",
+    "options": [
+      "weld symbol — concept",
+      "graphical stress transformation",
+      "steam table (advanced)",
+      "gear profile (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0017_v7w8o",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Within mechanical engineering, Mohr’s circle refers to?",
+    "options": [
+      "steam table (theory)",
+      "weld symbol — in practice",
+      "graphical stress transformation",
+      "gear profile (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0017_vm7up",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: In mechanical engineering, Mohr’s circle refers to?",
+    "options": [
+      "steam table — concept",
+      "weld symbol — concept",
+      "graphical stress transformation",
+      "gear profile (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0017_v5jaw",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Mohr’s circle refers to? Select the best option.",
+    "options": [
+      "steam table — in practice",
+      "graphical stress transformation",
+      "weld symbol — concept",
+      "gear profile (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0017_vtyc3",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Mohr’s circle refers to? Choose the most accurate answer.",
+    "options": [
+      "weld symbol — in practice",
+      "steam table (theory)",
+      "gear profile (advanced)",
+      "graphical stress transformation"
+    ],
+    "answerIndex": 3,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0017_vrva9",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: In mechanical engineering, Mohr’s circle refers to?",
+    "options": [
+      "gear profile (theory)",
+      "steam table (policy)",
+      "weld symbol (typically)",
+      "graphical stress transformation"
+    ],
+    "answerIndex": 3,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0017_vjg7s",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: In mechanical engineering, Mohr’s circle refers to?",
+    "options": [
+      "weld symbol (advanced)",
+      "steam table (policy)",
+      "gear profile (typically)",
+      "graphical stress transformation"
+    ],
+    "answerIndex": 3,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0018_vlb24",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Mohr’s circle?",
+    "options": [
+      "graphical stress transformation",
+      "gear profile (advanced)",
+      "steam table (theory)",
+      "weld symbol (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0018_vh46l",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Mohr’s circle?",
+    "options": [
+      "steam table — in practice",
+      "weld symbol (policy)",
+      "graphical stress transformation",
+      "gear profile — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0018_vookv",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Mohr’s circle?",
+    "options": [
+      "weld symbol (advanced)",
+      "gear profile (framework)",
+      "graphical stress transformation",
+      "steam table — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0018_v2r37",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Mohr’s circle?",
+    "options": [
+      "graphical stress transformation",
+      "gear profile (theory)",
+      "steam table — concept",
+      "weld symbol (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0018_v4dv5",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Mohr’s circle? Select the best option.",
+    "options": [
+      "gear profile (advanced)",
+      "weld symbol (advanced)",
+      "graphical stress transformation",
+      "steam table (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0018_vo9nq",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Mohr’s circle? Choose the most accurate answer.",
+    "options": [
+      "graphical stress transformation",
+      "steam table — in practice",
+      "gear profile — concept",
+      "weld symbol — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0018_vrtjs",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Mohr’s circle?",
+    "options": [
+      "gear profile (advanced)",
+      "graphical stress transformation",
+      "weld symbol (theory)",
+      "steam table — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0018_vdqy8",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Mohr’s circle?",
+    "options": [
+      "steam table (theory)",
+      "graphical stress transformation",
+      "weld symbol — concept",
+      "gear profile — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0019_vnre0",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Mohr’s circle.",
+    "options": [
+      "steam table — in practice",
+      "gear profile — concept",
+      "weld symbol (advanced)",
+      "graphical stress transformation"
+    ],
+    "answerIndex": 3,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0019_viywe",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Mohr’s circle.",
+    "options": [
+      "gear profile (theory)",
+      "graphical stress transformation",
+      "steam table (theory)",
+      "weld symbol (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0019_v05k4",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Mohr’s circle.",
+    "options": [
+      "graphical stress transformation",
+      "gear profile (policy)",
+      "steam table (policy)",
+      "weld symbol — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0019_vfphw",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Mohr’s circle.",
+    "options": [
+      "steam table (theory)",
+      "gear profile (typically)",
+      "graphical stress transformation",
+      "weld symbol (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0019_vh9zb",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Mohr’s circle. Select the best option.",
+    "options": [
+      "steam table (theory)",
+      "graphical stress transformation",
+      "gear profile — in practice",
+      "weld symbol — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0019_vinv6",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Mohr’s circle. Choose the most accurate answer.",
+    "options": [
+      "graphical stress transformation",
+      "weld symbol — concept",
+      "steam table (theory)",
+      "gear profile (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0019_v7u5a",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Mohr’s circle.",
+    "options": [
+      "steam table (framework)",
+      "graphical stress transformation",
+      "gear profile (framework)",
+      "weld symbol (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0019_v4qoa",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Mohr’s circle.",
+    "options": [
+      "graphical stress transformation",
+      "gear profile — concept",
+      "steam table — in practice",
+      "weld symbol (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0019_vp30f",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Mohr’s circle.",
+    "options": [
+      "gear profile — concept",
+      "graphical stress transformation",
+      "weld symbol (typically)",
+      "steam table — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0020_vaflp",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Mohr’s circle primarily involves?",
+    "options": [
+      "gear profile (policy)",
+      "steam table — concept",
+      "graphical stress transformation",
+      "weld symbol — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0020_vq5go",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced thermo/fluids/ME design: Mohr’s circle primarily involves?",
+    "options": [
+      "graphical stress transformation",
+      "gear profile (framework)",
+      "steam table — concept",
+      "weld symbol (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0020_vd9ba",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced thermo/fluids/ME design: Mohr’s circle primarily involves?",
+    "options": [
+      "graphical stress transformation",
+      "steam table (advanced)",
+      "weld symbol (policy)",
+      "gear profile (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0020_v32ai",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Mohr’s circle primarily involves? Select the best option.",
+    "options": [
+      "steam table — concept",
+      "gear profile — concept",
+      "graphical stress transformation",
+      "weld symbol (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0020_v8ldq",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Mohr’s circle primarily involves? Choose the most accurate answer.",
+    "options": [
+      "steam table (typically)",
+      "weld symbol — concept",
+      "gear profile (policy)",
+      "graphical stress transformation"
+    ],
+    "answerIndex": 3,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0020_vcex4",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Advanced thermo/fluids/ME design: Mohr’s circle primarily involves?",
+    "options": [
+      "steam table (framework)",
+      "gear profile (policy)",
+      "weld symbol (theory)",
+      "graphical stress transformation"
+    ],
+    "answerIndex": 3,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0020_v8p0w",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced thermo/fluids/ME design: Mohr’s circle primarily involves?",
+    "options": [
+      "gear profile — in practice",
+      "steam table (advanced)",
+      "weld symbol (framework)",
+      "graphical stress transformation"
+    ],
+    "answerIndex": 3,
+    "explanation": "graphical stress transformation"
+  },
+  {
+    "id": "adv_mechanical-engineering_0021_vdnt8",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In mechanical engineering, Gear train ratio refers to?",
+    "options": [
+      "sum of teeth (typically)",
+      "product of driver/ driven tooth counts",
+      "mean of modules (typically)",
+      "difference of teeth (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0021_vm137",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Within mechanical engineering, Gear train ratio refers to?",
+    "options": [
+      "product of driver/ driven tooth counts",
+      "sum of teeth (advanced)",
+      "mean of modules (typically)",
+      "difference of teeth (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0021_v6ljr",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: In mechanical engineering, Gear train ratio refers to?",
+    "options": [
+      "product of driver/ driven tooth counts",
+      "difference of teeth (policy)",
+      "sum of teeth (theory)",
+      "mean of modules (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0021_vos7g",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Gear train ratio refers to? Select the best option.",
+    "options": [
+      "sum of teeth (theory)",
+      "product of driver/ driven tooth counts",
+      "mean of modules — concept",
+      "difference of teeth (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0021_vxzlc",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Gear train ratio refers to? Choose the most accurate answer.",
+    "options": [
+      "mean of modules (typically)",
+      "sum of teeth — in practice",
+      "difference of teeth — concept",
+      "product of driver/ driven tooth counts"
+    ],
+    "answerIndex": 3,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0021_vk6wi",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: In mechanical engineering, Gear train ratio refers to?",
+    "options": [
+      "product of driver/ driven tooth counts",
+      "difference of teeth (framework)",
+      "mean of modules — concept",
+      "sum of teeth (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0021_vhj0n",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: In mechanical engineering, Gear train ratio refers to?",
+    "options": [
+      "product of driver/ driven tooth counts",
+      "mean of modules (policy)",
+      "sum of teeth — concept",
+      "difference of teeth (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0022_v5rli",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Gear train ratio?",
+    "options": [
+      "sum of teeth — concept",
+      "product of driver/ driven tooth counts",
+      "difference of teeth (advanced)",
+      "mean of modules — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0022_v2lba",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Gear train ratio?",
+    "options": [
+      "product of driver/ driven tooth counts",
+      "mean of modules (framework)",
+      "sum of teeth — concept",
+      "difference of teeth (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0022_vwpb9",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Gear train ratio?",
+    "options": [
+      "mean of modules (theory)",
+      "product of driver/ driven tooth counts",
+      "sum of teeth — in practice",
+      "difference of teeth (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0022_v27rq",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Gear train ratio?",
+    "options": [
+      "mean of modules (theory)",
+      "product of driver/ driven tooth counts",
+      "difference of teeth (policy)",
+      "sum of teeth (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0022_vdxfi",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Gear train ratio? Select the best option.",
+    "options": [
+      "product of driver/ driven tooth counts",
+      "difference of teeth — in practice",
+      "mean of modules (framework)",
+      "sum of teeth — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0022_vs5qn",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Gear train ratio?",
+    "options": [
+      "sum of teeth — in practice",
+      "mean of modules (typically)",
+      "difference of teeth — in practice",
+      "product of driver/ driven tooth counts"
+    ],
+    "answerIndex": 3,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0022_vy166",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Gear train ratio?",
+    "options": [
+      "sum of teeth (theory)",
+      "difference of teeth (typically)",
+      "product of driver/ driven tooth counts",
+      "mean of modules — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0023_v95fa",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Gear train ratio.",
+    "options": [
+      "mean of modules — in practice",
+      "sum of teeth (theory)",
+      "difference of teeth (advanced)",
+      "product of driver/ driven tooth counts"
+    ],
+    "answerIndex": 3,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0023_vzte5",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Gear train ratio.",
+    "options": [
+      "sum of teeth (framework)",
+      "difference of teeth (advanced)",
+      "product of driver/ driven tooth counts",
+      "mean of modules (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0023_vl5n5",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Gear train ratio.",
+    "options": [
+      "mean of modules (advanced)",
+      "sum of teeth (typically)",
+      "product of driver/ driven tooth counts",
+      "difference of teeth (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0023_vlfj8",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Gear train ratio.",
+    "options": [
+      "difference of teeth — concept",
+      "product of driver/ driven tooth counts",
+      "sum of teeth — in practice",
+      "mean of modules (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0023_vrh80",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Gear train ratio. Select the best option.",
+    "options": [
+      "mean of modules (policy)",
+      "sum of teeth (theory)",
+      "difference of teeth — in practice",
+      "product of driver/ driven tooth counts"
+    ],
+    "answerIndex": 3,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0023_vk4rj",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Gear train ratio. Choose the most accurate answer.",
+    "options": [
+      "difference of teeth (typically)",
+      "product of driver/ driven tooth counts",
+      "sum of teeth (typically)",
+      "mean of modules (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0023_vr7f5",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Gear train ratio.",
+    "options": [
+      "mean of modules (typically)",
+      "sum of teeth (policy)",
+      "product of driver/ driven tooth counts",
+      "difference of teeth (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0023_vhl8c",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Gear train ratio.",
+    "options": [
+      "sum of teeth (typically)",
+      "difference of teeth (framework)",
+      "mean of modules — in practice",
+      "product of driver/ driven tooth counts"
+    ],
+    "answerIndex": 3,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0023_vig0s",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Gear train ratio.",
+    "options": [
+      "difference of teeth (theory)",
+      "sum of teeth — in practice",
+      "mean of modules (framework)",
+      "product of driver/ driven tooth counts"
+    ],
+    "answerIndex": 3,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0024_v09fb",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Gear train ratio primarily involves?",
+    "options": [
+      "product of driver/ driven tooth counts",
+      "sum of teeth — concept",
+      "mean of modules (theory)",
+      "difference of teeth — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0024_v8whk",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced thermo/fluids/ME design: Gear train ratio primarily involves?",
+    "options": [
+      "mean of modules — in practice",
+      "product of driver/ driven tooth counts",
+      "difference of teeth (framework)",
+      "sum of teeth (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0024_vvcbf",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced thermo/fluids/ME design: Gear train ratio primarily involves?",
+    "options": [
+      "mean of modules (framework)",
+      "difference of teeth (theory)",
+      "product of driver/ driven tooth counts",
+      "sum of teeth (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0024_v2as5",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Gear train ratio primarily involves? Select the best option.",
+    "options": [
+      "sum of teeth — in practice",
+      "product of driver/ driven tooth counts",
+      "difference of teeth (typically)",
+      "mean of modules — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0024_vdya3",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Gear train ratio primarily involves? Choose the most accurate answer.",
+    "options": [
+      "sum of teeth (theory)",
+      "mean of modules (advanced)",
+      "difference of teeth (advanced)",
+      "product of driver/ driven tooth counts"
+    ],
+    "answerIndex": 3,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0024_vs92e",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced thermo/fluids/ME design: Gear train ratio primarily involves?",
+    "options": [
+      "difference of teeth (policy)",
+      "mean of modules (framework)",
+      "sum of teeth — in practice",
+      "product of driver/ driven tooth counts"
+    ],
+    "answerIndex": 3,
+    "explanation": "product of driver/ driven tooth counts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0025_vrlrm",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In mechanical engineering, Critical damping refers to?",
+    "options": [
+      "returns to equilibrium without oscillation fastest",
+      "underdamped overshoot (framework)",
+      "overdamped slow return — concept",
+      "no return (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0025_v4xrb",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Within mechanical engineering, Critical damping refers to?",
+    "options": [
+      "overdamped slow return (theory)",
+      "no return (typically)",
+      "returns to equilibrium without oscillation fastest",
+      "underdamped overshoot (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0025_vzsns",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Critical damping refers to? Select the best option.",
+    "options": [
+      "returns to equilibrium without oscillation fastest",
+      "no return — concept",
+      "overdamped slow return (framework)",
+      "underdamped overshoot (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0025_vger2",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Critical damping refers to? Choose the most accurate answer.",
+    "options": [
+      "underdamped overshoot (typically)",
+      "no return (theory)",
+      "returns to equilibrium without oscillation fastest",
+      "overdamped slow return (theory)"
+    ],
+    "answerIndex": 2,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0025_vkkdy",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: In mechanical engineering, Critical damping refers to?",
+    "options": [
+      "returns to equilibrium without oscillation fastest",
+      "underdamped overshoot (typically)",
+      "no return (advanced)",
+      "overdamped slow return (framework)"
+    ],
+    "answerIndex": 0,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0025_v593f",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: In mechanical engineering, Critical damping refers to?",
+    "options": [
+      "no return (policy)",
+      "overdamped slow return (advanced)",
+      "returns to equilibrium without oscillation fastest",
+      "underdamped overshoot (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0026_vac33",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Critical damping?",
+    "options": [
+      "no return (theory)",
+      "underdamped overshoot (theory)",
+      "overdamped slow return (theory)",
+      "returns to equilibrium without oscillation fastest"
+    ],
+    "answerIndex": 3,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0026_vcwxk",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Critical damping?",
+    "options": [
+      "returns to equilibrium without oscillation fastest",
+      "overdamped slow return (advanced)",
+      "underdamped overshoot — concept",
+      "no return (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0026_vitq0",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Critical damping?",
+    "options": [
+      "underdamped overshoot — in practice",
+      "returns to equilibrium without oscillation fastest",
+      "overdamped slow return — in practice",
+      "no return — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0026_v7k14",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Critical damping?",
+    "options": [
+      "underdamped overshoot (typically)",
+      "overdamped slow return (advanced)",
+      "returns to equilibrium without oscillation fastest",
+      "no return (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0026_vl255",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Critical damping? Select the best option.",
+    "options": [
+      "no return — in practice",
+      "overdamped slow return (advanced)",
+      "underdamped overshoot (typically)",
+      "returns to equilibrium without oscillation fastest"
+    ],
+    "answerIndex": 3,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0026_ve1zl",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Critical damping? Choose the most accurate answer.",
+    "options": [
+      "underdamped overshoot (framework)",
+      "no return (typically)",
+      "returns to equilibrium without oscillation fastest",
+      "overdamped slow return — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0026_vgrde",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Critical damping?",
+    "options": [
+      "underdamped overshoot (framework)",
+      "overdamped slow return (theory)",
+      "returns to equilibrium without oscillation fastest",
+      "no return (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0026_vy5xo",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Critical damping?",
+    "options": [
+      "underdamped overshoot (policy)",
+      "overdamped slow return (advanced)",
+      "no return (theory)",
+      "returns to equilibrium without oscillation fastest"
+    ],
+    "answerIndex": 3,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0026_v5htx",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Critical damping?",
+    "options": [
+      "underdamped overshoot (theory)",
+      "returns to equilibrium without oscillation fastest",
+      "no return — in practice",
+      "overdamped slow return — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0027_vwfgi",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Critical damping.",
+    "options": [
+      "returns to equilibrium without oscillation fastest",
+      "no return — in practice",
+      "overdamped slow return — in practice",
+      "underdamped overshoot (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0027_vuiy4",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Critical damping.",
+    "options": [
+      "no return (framework)",
+      "overdamped slow return (typically)",
+      "underdamped overshoot (typically)",
+      "returns to equilibrium without oscillation fastest"
+    ],
+    "answerIndex": 3,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0027_v8n6p",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Critical damping.",
+    "options": [
+      "underdamped overshoot (policy)",
+      "overdamped slow return — in practice",
+      "no return (policy)",
+      "returns to equilibrium without oscillation fastest"
+    ],
+    "answerIndex": 3,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0027_vt9zn",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Critical damping.",
+    "options": [
+      "overdamped slow return (theory)",
+      "no return — in practice",
+      "returns to equilibrium without oscillation fastest",
+      "underdamped overshoot (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0027_vgmel",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Critical damping. Select the best option.",
+    "options": [
+      "no return — concept",
+      "underdamped overshoot (policy)",
+      "overdamped slow return (typically)",
+      "returns to equilibrium without oscillation fastest"
+    ],
+    "answerIndex": 3,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0027_v09ak",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Critical damping. Choose the most accurate answer.",
+    "options": [
+      "overdamped slow return (policy)",
+      "no return (advanced)",
+      "underdamped overshoot (policy)",
+      "returns to equilibrium without oscillation fastest"
+    ],
+    "answerIndex": 3,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0027_vzr6a",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Critical damping.",
+    "options": [
+      "no return — concept",
+      "returns to equilibrium without oscillation fastest",
+      "underdamped overshoot (advanced)",
+      "overdamped slow return (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0027_veud3",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Critical damping.",
+    "options": [
+      "underdamped overshoot — concept",
+      "overdamped slow return — concept",
+      "returns to equilibrium without oscillation fastest",
+      "no return (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0027_v3uds",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Critical damping.",
+    "options": [
+      "underdamped overshoot (policy)",
+      "returns to equilibrium without oscillation fastest",
+      "no return (advanced)",
+      "overdamped slow return (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0028_vuh25",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Advanced thermo/fluids/ME design: Critical damping primarily involves?",
+    "options": [
+      "overdamped slow return (framework)",
+      "underdamped overshoot — concept",
+      "returns to equilibrium without oscillation fastest",
+      "no return (policy)"
+    ],
+    "answerIndex": 2,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0028_vx4hh",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Critical damping primarily involves?",
+    "options": [
+      "returns to equilibrium without oscillation fastest",
+      "overdamped slow return (framework)",
+      "underdamped overshoot (framework)",
+      "no return — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0028_vx6e0",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced thermo/fluids/ME design: Critical damping primarily involves?",
+    "options": [
+      "underdamped overshoot — in practice",
+      "no return — in practice",
+      "returns to equilibrium without oscillation fastest",
+      "overdamped slow return (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0028_vha8f",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Critical damping primarily involves? Choose the most accurate answer.",
+    "options": [
+      "returns to equilibrium without oscillation fastest",
+      "overdamped slow return — in practice",
+      "no return (framework)",
+      "underdamped overshoot (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "returns to equilibrium without oscillation fastest"
+  },
+  {
+    "id": "adv_mechanical-engineering_0029_vxkgn",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In mechanical engineering, Finite element method refers to?",
+    "options": [
+      "control charts only (advanced)",
+      "Machining only — concept",
+      "lumped mass only (theory)",
+      "discretize domain into elements; assemble and solve"
+    ],
+    "answerIndex": 3,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0029_v4yvf",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Within mechanical engineering, Finite element method refers to?",
+    "options": [
+      "discretize domain into elements; assemble and solve",
+      "Machining only (typically)",
+      "lumped mass only (policy)",
+      "control charts only (policy)"
+    ],
+    "answerIndex": 0,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0029_vrfeu",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: In mechanical engineering, Finite element method refers to?",
+    "options": [
+      "Machining only — concept",
+      "control charts only (typically)",
+      "lumped mass only (policy)",
+      "discretize domain into elements; assemble and solve"
+    ],
+    "answerIndex": 3,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0029_v0y7p",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Finite element method refers to? Select the best option.",
+    "options": [
+      "discretize domain into elements; assemble and solve",
+      "Machining only — in practice",
+      "control charts only (typically)",
+      "lumped mass only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0029_v75vl",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "In mechanical engineering, Finite element method refers to? Choose the most accurate answer.",
+    "options": [
+      "lumped mass only (theory)",
+      "Machining only (advanced)",
+      "discretize domain into elements; assemble and solve",
+      "control charts only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0029_vj40h",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: In mechanical engineering, Finite element method refers to?",
+    "options": [
+      "lumped mass only (policy)",
+      "discretize domain into elements; assemble and solve",
+      "Machining only (framework)",
+      "control charts only (policy)"
+    ],
+    "answerIndex": 1,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0029_vfswp",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: In mechanical engineering, Finite element method refers to?",
+    "options": [
+      "discretize domain into elements; assemble and solve",
+      "control charts only (advanced)",
+      "lumped mass only (typically)",
+      "Machining only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0030_v4xg8",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Finite element method?",
+    "options": [
+      "control charts only — concept",
+      "lumped mass only (theory)",
+      "Machining only (policy)",
+      "discretize domain into elements; assemble and solve"
+    ],
+    "answerIndex": 3,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0030_v7mt6",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Finite element method?",
+    "options": [
+      "lumped mass only (policy)",
+      "control charts only (advanced)",
+      "Machining only (framework)",
+      "discretize domain into elements; assemble and solve"
+    ],
+    "answerIndex": 3,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0030_vnpmg",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Finite element method?",
+    "options": [
+      "control charts only (typically)",
+      "lumped mass only (policy)",
+      "discretize domain into elements; assemble and solve",
+      "Machining only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0030_vw2x2",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Which statement best defines Finite element method?",
+    "options": [
+      "discretize domain into elements; assemble and solve",
+      "Machining only (framework)",
+      "control charts only — concept",
+      "lumped mass only — concept"
+    ],
+    "answerIndex": 0,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0030_v9t07",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Finite element method? Select the best option.",
+    "options": [
+      "lumped mass only — in practice",
+      "discretize domain into elements; assemble and solve",
+      "control charts only (policy)",
+      "Machining only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0030_vsmx7",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which statement best defines Finite element method? Choose the most accurate answer.",
+    "options": [
+      "discretize domain into elements; assemble and solve",
+      "lumped mass only — in practice",
+      "control charts only (framework)",
+      "Machining only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0030_v1uiw",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Which one of the following statement best defines Finite element method?",
+    "options": [
+      "lumped mass only — in practice",
+      "control charts only — concept",
+      "Machining only (policy)",
+      "discretize domain into elements; assemble and solve"
+    ],
+    "answerIndex": 3,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0030_vb11l",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Which statement best defines Finite element method?",
+    "options": [
+      "discretize domain into elements; assemble and solve",
+      "lumped mass only (framework)",
+      "control charts only — concept",
+      "Machining only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0030_vldsb",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Which statement best defines Finite element method?",
+    "options": [
+      "lumped mass only — concept",
+      "discretize domain into elements; assemble and solve",
+      "Machining only (policy)",
+      "control charts only (theory)"
+    ],
+    "answerIndex": 1,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0031_vzsy0",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Finite element method.",
+    "options": [
+      "discretize domain into elements; assemble and solve",
+      "lumped mass only (advanced)",
+      "Machining only (framework)",
+      "control charts only — in practice"
+    ],
+    "answerIndex": 0,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0031_v2tkx",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Select the accurate description of Finite element method.",
+    "options": [
+      "lumped mass only (framework)",
+      "discretize domain into elements; assemble and solve",
+      "control charts only (advanced)",
+      "Machining only (typically)"
+    ],
+    "answerIndex": 1,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0031_vpg0j",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Identify the accurate description of Finite element method.",
+    "options": [
+      "control charts only — in practice",
+      "Machining only — concept",
+      "discretize domain into elements; assemble and solve",
+      "lumped mass only (framework)"
+    ],
+    "answerIndex": 2,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0031_v3vin",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Select the accurate description of Finite element method.",
+    "options": [
+      "lumped mass only (framework)",
+      "Machining only (framework)",
+      "discretize domain into elements; assemble and solve",
+      "control charts only (advanced)"
+    ],
+    "answerIndex": 2,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0031_vlo5x",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Finite element method. Select the best option.",
+    "options": [
+      "control charts only — concept",
+      "Machining only (framework)",
+      "lumped mass only (typically)",
+      "discretize domain into elements; assemble and solve"
+    ],
+    "answerIndex": 3,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0031_vyma9",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Select the accurate description of Finite element method. Choose the most accurate answer.",
+    "options": [
+      "lumped mass only — concept",
+      "control charts only — concept",
+      "discretize domain into elements; assemble and solve",
+      "Machining only — concept"
+    ],
+    "answerIndex": 2,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0031_vbw23",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Choose the accurate description of Finite element method.",
+    "options": [
+      "discretize domain into elements; assemble and solve",
+      "control charts only (framework)",
+      "Machining only (theory)",
+      "lumped mass only (advanced)"
+    ],
+    "answerIndex": 0,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0031_vq51b",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Scenario: Select the accurate description of Finite element method.",
+    "options": [
+      "lumped mass only (theory)",
+      "discretize domain into elements; assemble and solve",
+      "control charts only (policy)",
+      "Machining only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0031_vdlju",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Select the accurate description of Finite element method.",
+    "options": [
+      "lumped mass only — in practice",
+      "discretize domain into elements; assemble and solve",
+      "control charts only (framework)",
+      "Machining only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0032_vimsc",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Finite element method primarily involves?",
+    "options": [
+      "lumped mass only (typically)",
+      "discretize domain into elements; assemble and solve",
+      "Machining only (typically)",
+      "control charts only — in practice"
+    ],
+    "answerIndex": 1,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0032_v5p7x",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Expert-level: Advanced thermo/fluids/ME design: Finite element method primarily involves?",
+    "options": [
+      "control charts only (framework)",
+      "discretize domain into elements; assemble and solve",
+      "Machining only — concept",
+      "lumped mass only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0032_vmxxo",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Finite element method primarily involves? Select the best option.",
+    "options": [
+      "lumped mass only (advanced)",
+      "control charts only (theory)",
+      "discretize domain into elements; assemble and solve",
+      "Machining only (typically)"
+    ],
+    "answerIndex": 2,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0032_v5jor",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced thermo/fluids/ME design: Finite element method primarily involves? Choose the most accurate answer.",
+    "options": [
+      "Machining only (theory)",
+      "control charts only (typically)",
+      "discretize domain into elements; assemble and solve",
+      "lumped mass only — in practice"
+    ],
+    "answerIndex": 2,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0032_vl5in",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Deep dive: Advanced thermo/fluids/ME design: Finite element method primarily involves?",
+    "options": [
+      "Machining only (policy)",
+      "discretize domain into elements; assemble and solve",
+      "lumped mass only (advanced)",
+      "control charts only (advanced)"
+    ],
+    "answerIndex": 1,
+    "explanation": "discretize domain into elements; assemble and solve"
+  },
+  {
+    "id": "adv_mechanical-engineering_0033_v2b83",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: In mechanical engineering, Psychrometrics refers to?",
+    "options": [
+      "dry air only (advanced)",
+      "moist air properties using charts",
+      "solid desiccants only (theory)",
+      "combustion only — concept"
+    ],
+    "answerIndex": 1,
+    "explanation": "moist air properties using charts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0005_rxcc9",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Within mechanical engineering, Reynolds number refers to?",
+    "options": [
+      "ratio of inertial to viscous forces",
+      "Prandtl number (typically)",
+      "Nusselt number (framework)",
+      "Mach number (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ratio of inertial to viscous forces"
+  },
+  {
+    "id": "adv_mechanical-engineering_0033_rp8ff",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Within mechanical engineering, Psychrometrics refers to?",
+    "options": [
+      "moist air properties using charts",
+      "solid desiccants only (typically)",
+      "dry air only (framework)",
+      "combustion only (typically)"
+    ],
+    "answerIndex": 0,
+    "explanation": "moist air properties using charts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0034_rlikd",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Precisely which statement best defines Psychrometrics?",
+    "options": [
+      "dry air only (framework)",
+      "moist air properties using charts",
+      "solid desiccants only — concept",
+      "combustion only (framework)"
+    ],
+    "answerIndex": 1,
+    "explanation": "moist air properties using charts"
+  },
+  {
+    "id": "adv_mechanical-engineering_0034_r5bpg",
+    "category": "cadre",
+    "cadreSlug": "mechanical-engineering",
+    "topic": "Mechanical Engineering",
+    "subtopic": "Thermo/Fluids/Design",
+    "difficulty": "advanced",
+    "question": "Advanced: Which statement best defines Psychrometrics?",
+    "options": [
+      "moist air properties using charts",
+      "dry air only — in practice",
+      "combustion only (framework)",
+      "solid desiccants only (theory)"
+    ],
+    "answerIndex": 0,
+    "explanation": "moist air properties using charts"
+  }
+]
